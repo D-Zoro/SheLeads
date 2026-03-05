@@ -12,13 +12,16 @@ Quantum intuition:
   to the globally optimal subset under a hard budget constraint.
 """
 
+from pathlib import Path
 import numpy as np
 import pandas as pd
 import joblib
 from scipy.optimize import minimize as sp_minimize
 
-# Qiskit used only for Statevector validation — all QAOA math is pure numpy
-from qiskit.quantum_info import Statevector
+# Resolve paths relative to sibling directories
+_QUANTUM_DIR = Path(__file__).resolve().parent
+_DATASET_DIR = _QUANTUM_DIR.parent / "dataset"
+_MODELS_DIR = _QUANTUM_DIR.parent / "models"
 
 
 # ── Constants ────────────────────────────────────────────────────────────
@@ -177,8 +180,8 @@ def run_qaoa_optimization(total_budget_cr: float) -> dict:
     """
 
     # ── Load data & model ────────────────────────────────────────────
-    df = pd.read_csv("ready_to_optimize.csv").dropna(subset=FEATURE_COLS).copy()
-    model = joblib.load("rf_model.pkl")
+    df = pd.read_csv(_DATASET_DIR / "ready_to_optimize.csv").dropna(subset=FEATURE_COLS).copy()
+    model = joblib.load(_MODELS_DIR / "rf_model.pkl")
 
     total_chunks = int(total_budget_cr / CHUNK_SIZE_CR)
     print(f"Budget: Rs {total_budget_cr} Cr = {total_chunks} chunks of Rs {CHUNK_SIZE_CR} Cr")
