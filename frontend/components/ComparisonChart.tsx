@@ -68,7 +68,10 @@ export default function ComparisonChart() {
         const qaoa = optimizationResult?.qaoa_allocation[d.district] || 0;
         const greedy = optimizationResult?.greedy_allocation[d.district] || 0;
         const isBoosted = qaoaBoostedSet.has(d.district);
-        return { ...d, qaoa, greedy, isBoosted };
+        const impactBase = optimizationResult?.predicted_impact_baseline?.[d.district] || 0;
+        const impactQ = optimizationResult?.predicted_impact_quantum?.[d.district] || 0;
+        const impactG = optimizationResult?.predicted_impact_greedy?.[d.district] || 0;
+        return { ...d, qaoa, greedy, isBoosted, impactBase, impactQ, impactG };
       })
       .sort((a, b) => {
         // QAOA-boosted districts always come first
@@ -90,6 +93,9 @@ export default function ComparisonChart() {
       agency: d.agency_score,
       gap: d.literacy_gap,
       isBoosted: d.isBoosted,
+      impactBase: d.impactBase,
+      impactQ: d.impactQ,
+      impactG: d.impactG,
     }));
   }, [districts, optimizationResult, qaoaBoostedSet]);
 
@@ -177,57 +183,86 @@ export default function ComparisonChart() {
         </ResponsiveContainer>
       </div>
 
-      {/* ── Agency score horizontal bar ────────────────────────── */}
+      {/* ── Predicted Impact comparison ─────────────────────────── */}
       <div>
         <h3 className="text-xs uppercase tracking-wider text-neo-text-dim mb-3">
-          Women&apos;s Financial Agency Score
+          Predicted Impact — Baseline vs Quantum vs Greedy
         </h3>
-        <ResponsiveContainer width="100%" height={220}>
+        <p className="text-[10px] text-neo-text-dim mb-2">
+          RF model predicts impact score under each budget scenario
+        </p>
+        <ResponsiveContainer width="100%" height={250}>
           <BarChart
             data={chartData}
-            layout="vertical"
-            margin={{ top: 5, right: 10, left: 60, bottom: 5 }}
+            margin={{ top: 5, right: 10, left: 0, bottom: 5 }}
           >
             <XAxis
-              type="number"
-              domain={[0, "dataMax"]}
-              tick={{ fill: "#94a3b8", fontSize: 10 }}
+              dataKey="name"
+              tick={{ fill: "#94a3b8", fontSize: 9 }}
               axisLine={{ stroke: "#1e293b" }}
               tickLine={false}
+              angle={-20}
+              textAnchor="end"
+              height={50}
             />
             <YAxis
-              type="category"
-              dataKey="name"
               tick={{ fill: "#94a3b8", fontSize: 10 }}
               axisLine={{ stroke: "#1e293b" }}
               tickLine={false}
-              width={55}
+              label={{
+                value: "Impact Score",
+                angle: -90,
+                position: "insideLeft",
+                fill: "#64748b",
+                fontSize: 10,
+              }}
             />
             <Tooltip
-              content={({ active, payload }) => {
+              content={({ active, payload, label: lbl }) => {
                 if (!active || !payload?.length) return null;
-                const val = payload[0].value as number;
                 return (
-                  <div className="glow-card px-3 py-2 text-xs font-[var(--font-data)]">
-                    <p className="text-neo-text">
-                      Agency Score: {val.toFixed(4)}
-                    </p>
+                  <div className="glow-card px-4 py-3 text-xs font-[var(--font-data)]">
+                    <p className="font-bold text-neo-text mb-1">{lbl}</p>
+                    {payload.map((p) => (
+                      <p key={p.name} style={{ color: p.color as string }}>
+                        {p.name}: {(p.value as number).toFixed(3)}
+                      </p>
+                    ))}
                   </div>
                 );
               }}
               cursor={{ fill: "rgba(59,130,246,0.05)" }}
             />
+            <Legend
+              wrapperStyle={{ fontSize: 10, color: "#94a3b8" }}
+              align="right"
+              verticalAlign="top"
+            />
             <Bar
-              dataKey="agency"
-              name="Agency Score"
-              radius={[0, 4, 4, 0]}
+              dataKey="impactBase"
+              name="Current"
+              fill="#64748b"
+              radius={[3, 3, 0, 0]}
               isAnimationActive
               animationDuration={600}
-            >
-              {chartData.map((entry, i) => (
-                <Cell key={i} fill={agencyColor(entry.agency)} />
-              ))}
-            </Bar>
+            />
+            <Bar
+              dataKey="impactG"
+              name="Greedy"
+              fill="#f59e0b"
+              radius={[3, 3, 0, 0]}
+              isAnimationActive
+              animationDuration={600}
+            />
+            <Bar
+              dataKey="impactQ"
+              name="Quantum"
+              fill="#3b82f6"
+              radius={[3, 3, 0, 0]}
+              isAnimationActive
+              animationDuration={600}
+              style={{ filter: "drop-shadow(0 0 4px rgba(59,130,246,0.5))" }}
+            />
           </BarChart>
         </ResponsiveContainer>
       </div>

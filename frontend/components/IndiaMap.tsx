@@ -22,6 +22,9 @@ interface StateAgg {
   totalGreedyAlloc: number;
   districtCount: number;
   qaoaBoostedCount: number;
+  avgImpactBaseline: number;
+  avgImpactQuantum: number;
+  avgImpactChangePct: number;
 }
 
 /* ── Color scale based on avg literacy_gap ─────────────────── */
@@ -40,6 +43,22 @@ function normalize(s: string): string {
     .toLowerCase()
     .replace(/&/g, "and")
     .replace(/[^a-z0-9]/g, "");
+}
+
+/**
+ * Alias map: normalized(GeoJSON name) → normalized(Dataset name)
+ * Handles spelling & naming differences between the two sources.
+ */
+const GEO_TO_DATA_ALIAS: Record<string, string> = {
+  [normalize("Maharashtra")]: normalize("Maharastra"),     // GeoJSON "Maharashtra" → Dataset "Maharastra"
+  [normalize("Delhi")]: normalize("NCT of Delhi"),          // GeoJSON "Delhi" → Dataset "NCT of Delhi"
+  [normalize("Andaman & Nicobar")]: normalize("Andaman & Nicobar Islands"), // GeoJSON trims "Islands"
+};
+
+/** Resolve a GeoJSON state name to the dataset normalized key */
+function resolveGeoName(geoName: string): string {
+  const norm = normalize(geoName);
+  return GEO_TO_DATA_ALIAS[norm] ?? norm;
 }
 
 const LEGEND = [
@@ -99,6 +118,17 @@ export default function IndiaMap() {
       );
       const boosted = dists.filter((d) => qaoa_selected_set.has(d.district)).length;
 
+      // Predicted impact aggregation
+      const avgImpactBaseline = dists.reduce(
+        (s, d) => s + (optimizationResult?.predicted_impact_baseline?.[d.district] || 0), 0
+      ) / dists.length;
+      const avgImpactQuantum = dists.reduce(
+        (s, d) => s + (optimizationResult?.predicted_impact_quantum?.[d.district] || 0), 0
+      ) / dists.length;
+      const avgImpactChangePct = avgImpactBaseline > 0.0001
+        ? ((avgImpactQuantum - avgImpactBaseline) / avgImpactBaseline) * 100
+        : 0;
+
       const agg: StateAgg = {
         state,
         avgLiteracyGap: avgGap,
@@ -107,6 +137,9 @@ export default function IndiaMap() {
         totalGreedyAlloc: totalG,
         districtCount: dists.length,
         qaoaBoostedCount: boosted,
+        avgImpactBaseline,
+        avgImpactQuantum,
+        avgImpactChangePct,
       };
 
       map.set(normalize(state), agg);
@@ -118,7 +151,7 @@ export default function IndiaMap() {
   /* ── Click → select the highest-gap district in that state ── */
   const handleStateClick = useCallback(
     (stateName: string) => {
-      const norm = normalize(stateName);
+      const norm = resolveGeoName(stateName);
       const agg = stateMap.get(norm);
       if (!agg) return;
 
@@ -162,7 +195,7 @@ export default function IndiaMap() {
             {({ geographies }) =>
               geographies.map((geo) => {
                 const geoName: string = geo.properties.ST_NM || geo.properties.NAME_1 || "";
-                const norm = normalize(geoName);
+                const norm = resolveGeoName(geoName);
                 const agg = stateMap.get(norm);
                 const fill = agg ? gapColor(agg.avgLiteracyGap) : "#1e293b";
 
@@ -250,6 +283,15 @@ export default function IndiaMap() {
                 Avg Agency:{" "}
                 <span className="text-neo-cyan">
                   {tooltip.agg.avgAgencyScore.toFixed(4)}
+                </span>
+              </p>
+              <p>
+                Predicted Impact:{" "}
+                <span className={
+                  tooltip.agg.avgImpactChangePct > 0 ? "text-neo-green" : "text-neo-red"
+                }>
+                  {tooltip.agg.avgImpactQuantum.toFixed(2)}
+                  {" "}({tooltip.agg.avgImpactChangePct > 0 ? "+" : ""}{tooltip.agg.avgImpactChangePct.toFixed(1)}%)
                 </span>
               </p>
               {tooltip.agg.qaoaBoostedCount > 0 && (

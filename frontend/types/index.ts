@@ -22,6 +22,9 @@ export interface OptimizationResult {
   improvement_pct: number;
   num_districts: number;
   budget_cr: number;
+  predicted_impact_baseline: Record<string, number>;
+  predicted_impact_quantum: Record<string, number>;
+  predicted_impact_greedy: Record<string, number>;
 }
 
 /** POST /policy-brief response */
@@ -43,6 +46,6 @@ export type SortDir = "asc" | "desc";
 
 /** Sort config */
 export interface SortConfig {
-  key: keyof District | "quantum_alloc" | "delta";
+  key: keyof District | "quantum_alloc" | "greedy_alloc" | "delta" | "predicted_impact" | "impact_change_pct";
   dir: SortDir;
 }

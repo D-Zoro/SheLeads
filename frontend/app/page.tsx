@@ -72,6 +72,18 @@ export default function Dashboard() {
     : 0;
   const qaoaSelected = optimizationResult?.qaoa_selected?.length ?? 0;
 
+  // Average predicted impact change across all districts
+  const avgImpactChangePct = (() => {
+    if (!optimizationResult?.predicted_impact_baseline || !optimizationResult?.predicted_impact_quantum) return 0;
+    const base = optimizationResult.predicted_impact_baseline;
+    const quant = optimizationResult.predicted_impact_quantum;
+    const keys = Object.keys(base);
+    if (!keys.length) return 0;
+    let totalBase = 0, totalQ = 0;
+    for (const k of keys) { totalBase += base[k]; totalQ += quant[k]; }
+    return totalBase > 0.0001 ? ((totalQ - totalBase) / totalBase) * 100 : 0;
+  })();
+
   return (
     <>
       {/* ============================================================
@@ -209,7 +221,7 @@ export default function Dashboard() {
           {/* Districts Analyzed */}
           <div className="glow-card gradient-top-border px-5 py-4">
             <div className="flex items-center gap-3">
-              <span className="text-2xl">📍</span>
+              <span className="w-10 h-10 rounded-lg bg-neo-blue/10 border border-neo-blue/20 flex items-center justify-center text-neo-blue font-bold text-sm">D</span>
               <div>
                 <p className="text-[10px] uppercase tracking-wider text-neo-text-dim">
                   Districts Analyzed
@@ -226,7 +238,7 @@ export default function Dashboard() {
           {/* Quantum Advantage */}
           <div className="glow-card gradient-top-border px-5 py-4">
             <div className="flex items-center gap-3">
-              <span className="text-2xl">📈</span>
+              <span className="w-10 h-10 rounded-lg bg-neo-green/10 border border-neo-green/20 flex items-center justify-center text-neo-green font-bold text-sm">Q</span>
               <div>
                 <p className="text-[10px] uppercase tracking-wider text-neo-text-dim">
                   Quantum Advantage
@@ -253,18 +265,23 @@ export default function Dashboard() {
           {/* QAOA Boosted */}
           <div className="glow-card gradient-top-border px-5 py-4">
             <div className="flex items-center gap-3">
-              <span className="text-2xl">⚛️</span>
+              <span className="w-10 h-10 rounded-lg bg-neo-cyan/10 border border-neo-cyan/20 flex items-center justify-center text-neo-cyan font-bold text-sm">⚛</span>
               <div>
                 <p className="text-[10px] uppercase tracking-wider text-neo-text-dim">
-                  QAOA Boosted
+                  Predicted Impact
                 </p>
-                <CountUp
-                  value={qaoaSelected}
-                  decimals={0}
-                  suffix=" districts"
-                  className="text-2xl font-[var(--font-data)] font-bold text-neo-blue"
-                />
-                <p className="text-[9px] text-neo-text-dim mt-0.5">3× priority funding</p>
+                <div className="flex items-baseline gap-1">
+                  <CountUp
+                    value={avgImpactChangePct}
+                    decimals={2}
+                    prefix={avgImpactChangePct >= 0 ? "+" : ""}
+                    suffix="%"
+                    className={`text-2xl font-[var(--font-data)] font-bold ${
+                      avgImpactChangePct >= 0 ? "text-neo-cyan" : "text-neo-red"
+                    }`}
+                  />
+                </div>
+                <p className="text-[9px] text-neo-text-dim mt-0.5">vs current spending</p>
               </div>
             </div>
           </div>
@@ -272,7 +289,7 @@ export default function Dashboard() {
           {/* Optimized Deployment */}
           <div className="glow-card gradient-top-border px-5 py-4">
             <div className="flex items-center gap-3">
-              <span className="text-2xl">💰</span>
+              <span className="w-10 h-10 rounded-lg bg-neo-amber/10 border border-neo-amber/20 flex items-center justify-center text-neo-amber font-bold text-sm">₹</span>
               <div>
                 <p className="text-[10px] uppercase tracking-wider text-neo-text-dim">
                   Quantum Budget

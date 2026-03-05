@@ -56,7 +56,20 @@ export default function DistrictTable() {
       const gAlloc = optimizationResult?.greedy_allocation[d.district] || 0;
       const delta = qAlloc - gAlloc;
       const isBoosted = qaoaBoostedSet.has(d.district);
-      return { ...d, quantum_alloc: qAlloc, greedy_alloc: gAlloc, delta, isBoosted };
+      const impactBaseline = optimizationResult?.predicted_impact_baseline?.[d.district] ?? 0;
+      const impactQuantum = optimizationResult?.predicted_impact_quantum?.[d.district] ?? 0;
+      const impactChangePct = impactBaseline > 0.0001
+        ? ((impactQuantum - impactBaseline) / impactBaseline) * 100
+        : 0;
+      return {
+        ...d,
+        quantum_alloc: qAlloc,
+        greedy_alloc: gAlloc,
+        delta,
+        isBoosted,
+        predicted_impact: impactQuantum,
+        impact_change_pct: impactChangePct,
+      };
     });
   }, [districts, optimizationResult, qaoaBoostedSet]);
 
@@ -105,11 +118,11 @@ export default function DistrictTable() {
     { key: "district", label: "District" },
     { key: "state" as SortConfig["key"], label: "State" },
     { key: "literacy_gap", label: "Lit. Gap" },
-    { key: "employment_gap", label: "Emp. Gap" },
     { key: "agency_score", label: "Agency" },
     { key: "quantum_alloc", label: "Quantum ₹Cr" },
     { key: "greedy_alloc" as SortConfig["key"], label: "Greedy ₹Cr" },
-    { key: "delta", label: "Q−G Delta" },
+    { key: "predicted_impact", label: "Pred. Impact" },
+    { key: "impact_change_pct", label: "Impact Δ%" },
   ];
 
   return (
@@ -211,18 +224,21 @@ export default function DistrictTable() {
                   <td className="px-3 py-2.5 text-neo-amber">
                     ₹{d.greedy_alloc.toFixed(1)}
                   </td>
+                  <td className="px-3 py-2.5 text-neo-cyan font-medium">
+                    {d.predicted_impact.toFixed(2)}
+                  </td>
                   <td className="px-3 py-2.5">
                     <span
                       className={
-                        d.delta > 0
+                        d.impact_change_pct > 0
                           ? "text-neo-green"
-                          : d.delta < 0
+                          : d.impact_change_pct < 0
                             ? "text-neo-red"
                             : "text-neo-text-dim"
                       }
                     >
-                      {d.delta > 0 ? "↑" : d.delta < 0 ? "↓" : "–"}
-                      {d.delta !== 0 && ` ₹${Math.abs(d.delta).toFixed(1)}`}
+                      {d.impact_change_pct > 0 ? "+" : ""}
+                      {d.impact_change_pct.toFixed(1)}%
                     </span>
                   </td>
                 </tr>
