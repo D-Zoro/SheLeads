@@ -1,12 +1,21 @@
 """
-data_pipeline.py — Feature Engineering Pipeline for NeoPolicy
+pipeline.py — Feature Engineering Pipeline for NeoPolicy
 Transforms raw district-level data into optimization-ready features.
 """
 
+from pathlib import Path
 import pandas as pd
 
+# Resolve paths relative to this file's directory (src/dataset/)
+_DIR = Path(__file__).resolve().parent
 
-def run_pipeline(input_path: str = "raw_districts.csv", output_path: str = "ready_to_optimize.csv") -> pd.DataFrame:
+
+def run_pipeline(
+    input_path: str | Path | None = None,
+    output_path: str | Path | None = None,
+) -> pd.DataFrame:
+    input_path = Path(input_path) if input_path else _DIR / "raw_districts.csv"
+    output_path = Path(output_path) if output_path else _DIR / "ready_to_optimize.csv"
     # ── 1. Load raw merged district data ──────────────────────────────────
     df = pd.read_csv(input_path)
     print(f"Loaded {len(df)} districts from {input_path}")

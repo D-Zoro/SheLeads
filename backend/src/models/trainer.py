@@ -1,15 +1,20 @@
 """
-train_model.py — Classical AI Predictor for NeoPolicy
+trainer.py — Classical AI Predictor for NeoPolicy
 Trains a Random Forest to predict district-level "impact score"
 from engineered features, then serializes the model for the API.
 """
 
+from pathlib import Path
 import pandas as pd
 import numpy as np
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score
 import joblib
+
+# Resolve paths relative to this file's parent dirs
+_MODELS_DIR = Path(__file__).resolve().parent
+_DATASET_DIR = _MODELS_DIR.parent / "dataset"
 
 
 # ── Feature & target definitions ─────────────────────────────────────────
@@ -42,8 +47,13 @@ def build_target(df: pd.DataFrame) -> pd.Series:
     )
 
 
-def train(input_path: str = "ready_to_optimize.csv", model_path: str = "rf_model.pkl"):
+def train(
+    input_path: str | Path | None = None,
+    model_path: str | Path | None = None,
+):
     """Load data, engineer target, train Random Forest, evaluate, and save."""
+    input_path = Path(input_path) if input_path else _DATASET_DIR / "ready_to_optimize.csv"
+    model_path = Path(model_path) if model_path else _MODELS_DIR / "rf_model.pkl"
 
     # ── 1. Load engineered features ──────────────────────────────────────
     df = pd.read_csv(input_path)
@@ -128,7 +138,7 @@ if __name__ == "__main__":
     model = train()
 
     # ── Quick sanity check with predict_impact_gradient ───────────────────
-    df = pd.read_csv("ready_to_optimize.csv").dropna(subset=FEATURE_COLS)
+    df = pd.read_csv(_DATASET_DIR / "ready_to_optimize.csv").dropna(subset=FEATURE_COLS)
     sample = df.iloc[0]
     sample_dict = sample[FEATURE_COLS].to_dict()
 
