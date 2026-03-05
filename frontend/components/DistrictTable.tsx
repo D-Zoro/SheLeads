@@ -2,9 +2,11 @@
 
 import { useMemo, useState } from "react";
 import { useOptimizationCtx } from "@/context/OptimizationContext";
-import type { District, SortConfig } from "@/types";
+import type { SortConfig } from "@/types";
 
 const PAGE_SIZE = 15;
+
+type ViewFilter = "all" | "selected" | "boosted";
 
 /* ── Color helpers ────────────────────────────────────────────── */
 function gapColorClass(gap: number): string {
@@ -35,6 +37,9 @@ export default function DistrictTable() {
     districts,
     districtsLoading,
     optimizationResult,
+    availableStates,
+    selectedStates: ctxSelectedStates,
+    selectedDistricts: ctxSelectedDistricts,
   } = useOptimizationCtx();
 
   const [search, setSearch] = useState("");
@@ -43,6 +48,8 @@ export default function DistrictTable() {
     dir: "desc",
   });
   const [page, setPage] = useState(0);
+  const [viewFilter, setViewFilter] = useState<ViewFilter>("all");
+  const [tableStateFilter, setTableStateFilter] = useState<string>("");
 
   /* ── Enrich districts with quantum allocation + delta ─────── */
   const qaoaBoostedSet = useMemo(() => {
@@ -65,16 +72,40 @@ export default function DistrictTable() {
     });
   }, [districts, optimizationResult, qaoaBoostedSet]);
 
-  /* ── Filter ──────────────────────────────────────────────────── */
+  /* ── Filter: view mode + state + text search ─────────────────── */
   const filtered = useMemo(() => {
-    if (!search.trim()) return enriched;
-    const q = search.toLowerCase();
-    return enriched.filter(
-      (d) =>
-        d.district.toLowerCase().includes(q) ||
-        d.state.toLowerCase().includes(q)
-    );
-  }, [enriched, search]);
+    let result = enriched;
+
+    // Apply view filter
+    if (viewFilter === "selected") {
+      const selStates = new Set(ctxSelectedStates);
+      const selDistricts = new Set(ctxSelectedDistricts);
+      if (selStates.size > 0 || selDistricts.size > 0) {
+        result = result.filter(
+          (d) => selStates.has(d.state) || selDistricts.has(d.district)
+        );
+      }
+    } else if (viewFilter === "boosted") {
+      result = result.filter((d) => d.isBoosted);
+    }
+
+    // Apply table state dropdown filter
+    if (tableStateFilter) {
+      result = result.filter((d) => d.state === tableStateFilter);
+    }
+
+    // Apply text search
+    if (search.trim()) {
+      const q = search.toLowerCase();
+      result = result.filter(
+        (d) =>
+          d.district.toLowerCase().includes(q) ||
+          d.state.toLowerCase().includes(q)
+      );
+    }
+
+    return result;
+  }, [enriched, viewFilter, ctxSelectedStates, ctxSelectedDistricts, tableStateFilter, search]);
 
   /* ── Sort ────────────────────────────────────────────────────── */
   const sorted = useMemo(() => {
@@ -118,18 +149,73 @@ export default function DistrictTable() {
 
   return (
     <div className="glow-card overflow-hidden">
-      {/* ── Search bar ──────────────────────────────────────────── */}
-      <div className="p-4 border-b border-neo-border">
-        <input
-          type="text"
-          placeholder="Search district or state..."
-          value={search}
-          onChange={(e) => {
-            setSearch(e.target.value);
-            setPage(0);
-          }}
-          className="w-full bg-neo-bg border border-neo-border rounded-lg px-4 py-2 text-sm text-neo-text placeholder-neo-text-dim focus:outline-none focus:border-neo-blue transition-colors"
-        />
+      {/* ── Filter tabs + state dropdown + search ──────────────── */}
+      <div className="p-4 border-b border-neo-border space-y-3">
+        {/* Row 1: View filter tabs */}
+        <div className="flex flex-wrap items-center gap-2">
+          <span className="text-[10px] uppercase tracking-wider text-neo-text-dim mr-1">
+            View:
+          </span>
+          {(
+            [
+              { key: "all" as ViewFilter, label: "All Districts", count: enriched.length },
+              {
+                key: "selected" as ViewFilter,
+                label: "Selected",
+                count: (() => {
+                  const ss = new Set(ctxSelectedStates);
+                  const sd = new Set(ctxSelectedDistricts);
+                  if (ss.size === 0 && sd.size === 0) return 0;
+                  return enriched.filter((d) => ss.has(d.state) || sd.has(d.district)).length;
+                })(),
+              },
+              {
+                key: "boosted" as ViewFilter,
+                label: "QAOA Boosted",
+                count: enriched.filter((d) => d.isBoosted).length,
+              },
+            ] as const
+          ).map((tab) => (
+            <button
+              key={tab.key}
+              onClick={() => { setViewFilter(tab.key); setPage(0); }}
+              className={`px-3 py-1.5 text-[11px] rounded-lg border transition-all ${
+                viewFilter === tab.key
+                  ? "bg-neo-blue/20 border-neo-blue/40 text-neo-blue font-medium"
+                  : "bg-neo-bg border-neo-border text-neo-text-dim hover:border-neo-blue/30 hover:text-neo-text"
+              }`}
+            >
+              {tab.label}
+              <span className={`ml-1.5 text-[9px] ${viewFilter === tab.key ? "text-neo-blue/70" : "text-neo-text-dim/60"}`}>
+                {tab.count}
+              </span>
+            </button>
+          ))}
+        </div>
+
+        {/* Row 2: State filter dropdown + text search */}
+        <div className="flex gap-3">
+          <select
+            value={tableStateFilter}
+            onChange={(e) => { setTableStateFilter(e.target.value); setPage(0); }}
+            className="bg-neo-bg border border-neo-border rounded-lg px-3 py-2 text-sm text-neo-text focus:outline-none focus:border-neo-blue transition-colors min-w-[180px]"
+          >
+            <option value="">All States</option>
+            {availableStates.map((s) => (
+              <option key={s} value={s}>{s}</option>
+            ))}
+          </select>
+          <input
+            type="text"
+            placeholder="Search district or state..."
+            value={search}
+            onChange={(e) => {
+              setSearch(e.target.value);
+              setPage(0);
+            }}
+            className="flex-1 bg-neo-bg border border-neo-border rounded-lg px-4 py-2 text-sm text-neo-text placeholder-neo-text-dim focus:outline-none focus:border-neo-blue transition-colors"
+          />
+        </div>
       </div>
 
       {/* ── Table ───────────────────────────────────────────────── */}

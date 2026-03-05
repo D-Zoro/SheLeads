@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Space_Grotesk, IBM_Plex_Mono } from "next/font/google";
 import { OptimizationProvider } from "@/context/OptimizationContext";
 import ToastContainer from "@/components/ToastContainer";
+import SuppressLabWarnings from "@/components/SuppressLabWarnings";
 import "./globals.css";
 
 const spaceGrotesk = Space_Grotesk({
@@ -33,6 +34,7 @@ export default function RootLayout({
         className={`${spaceGrotesk.variable} ${ibmPlexMono.variable} antialiased`}
       >
         <OptimizationProvider>
+          <SuppressLabWarnings />
           <div className="grid-bg" />
           <div className="relative z-10 min-h-screen">{children}</div>
           <ToastContainer />

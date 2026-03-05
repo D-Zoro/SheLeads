@@ -1,19 +1,21 @@
 @import "tailwindcss";
 
-/* ── NeoPolicy Theme ─────────────────────────────────────────── */
+/* ── Leadher Theme ────────────────────────────────────────────── */
+/* Using rgb() so Tailwind v4 uses rgba() for opacity modifiers
+   instead of lab() which html2canvas cannot parse. */
 @theme inline {
-  --color-neo-bg: #0a0f1e;
-  --color-neo-card: #131929;
-  --color-neo-border: #1e293b;
-  --color-neo-blue: #3b82f6;
-  --color-neo-cyan: #22d3ee;
-  --color-neo-red: #ef4444;
-  --color-neo-green: #22c55e;
-  --color-neo-amber: #f59e0b;
-  --color-neo-slate: #94a3b8;
-  --color-neo-text: #e2e8f0;
-  --color-neo-text-dim: #64748b;
-  --color-neo-hover: #1e2d4a;
+  --color-neo-bg: rgb(10, 15, 30);
+  --color-neo-card: rgb(19, 25, 41);
+  --color-neo-border: rgb(30, 41, 59);
+  --color-neo-blue: rgb(59, 130, 246);
+  --color-neo-cyan: rgb(34, 211, 238);
+  --color-neo-red: rgb(239, 68, 68);
+  --color-neo-green: rgb(34, 197, 94);
+  --color-neo-amber: rgb(245, 158, 11);
+  --color-neo-slate: rgb(148, 163, 184);
+  --color-neo-text: rgb(226, 232, 240);
+  --color-neo-text-dim: rgb(100, 116, 139);
+  --color-neo-hover: rgb(30, 45, 74);
 
   --font-heading: var(--font-space-grotesk);
   --font-data: var(--font-ibm-plex-mono);
@@ -42,6 +44,12 @@ body {
 @keyframes grid-drift {
   0% { background-position: 0 0; }
   100% { background-position: 60px 60px; }
+}
+
+/* ── Fade-in for hero elements ────────────────────────────────── */
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(16px); }
+  100% { opacity: 1; transform: translateY(0); }
 }
 
 /* ── Glow card ────────────────────────────────────────────────── */

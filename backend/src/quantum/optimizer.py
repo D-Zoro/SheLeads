@@ -168,7 +168,11 @@ def _greedy_allocate(df: pd.DataFrame, total_chunks: int) -> dict:
 
 # ── Main Optimizer ───────────────────────────────────────────────────────
 
-def run_qaoa_optimization(total_budget_cr: float) -> dict:
+def run_qaoa_optimization(
+    total_budget_cr: float,
+    states: list[str] | None = None,
+    district_names_filter: list[str] | None = None,
+) -> dict:
     """
     Full optimization pipeline:
       1. Compute RF-based impact gradients for all districts
@@ -176,12 +180,42 @@ def run_qaoa_optimization(total_budget_cr: float) -> dict:
       3. Build cost Hamiltonian as a diagonal vector
       4. Run QAOA (manual circuit + scipy optimizer)
       5. Compare against greedy baseline
-      6. Return both allocations + metrics
+      6. Build full-budget allocations for ALL districts
+      7. Return allocations + metrics
+
+    Filtering:
+      - states: if provided, only include districts in these states
+      - district_names_filter: if provided, only include these districts
     """
 
     # ── Load data & model ────────────────────────────────────────────
     df = pd.read_csv(_DATASET_DIR / "ready_to_optimize.csv").dropna(subset=FEATURE_COLS).copy()
     model = joblib.load(_MODELS_DIR / "rf_model.pkl")
+
+    # ── Apply geographic filter ──────────────────────────────────────
+    if district_names_filter:
+        lower_filter = [n.lower() for n in district_names_filter]
+        df = df[df["district"].str.lower().isin(lower_filter)].copy()
+    elif states:
+        lower_states = [s.lower() for s in states]
+        df = df[df["state"].str.lower().isin(lower_states)].copy()
+
+    if len(df) == 0:
+        return {
+            "qaoa_allocation": {},
+            "greedy_allocation": {},
+            "qaoa_selected": [],
+            "qaoa_total_impact": 0.0,
+            "greedy_total_impact": 0.0,
+            "improvement_pct": 0.0,
+            "num_districts": 0,
+            "budget_cr": total_budget_cr,
+            "predicted_impact_baseline": {},
+            "predicted_impact_quantum": {},
+            "predicted_impact_greedy": {},
+        }
+
+    df = df.reset_index(drop=True)
 
     total_chunks = int(total_budget_cr / CHUNK_SIZE_CR)
     print(f"Budget: Rs {total_budget_cr} Cr = {total_chunks} chunks of Rs {CHUNK_SIZE_CR} Cr")
@@ -219,16 +253,16 @@ def run_qaoa_optimization(total_budget_cr: float) -> dict:
     best_state = int(np.argmax(probs))
     best_bits = [(best_state >> q) & 1 for q in range(N)]
 
-    # Build QAOA allocation
-    qaoa_allocation = {}
+    # Build sparse QAOA selection (the quantum-identified priority districts)
+    qaoa_selected = set()
     qaoa_total_impact = 0.0
     for i, funded in enumerate(best_bits):
         if funded:
             district = top_df.loc[i, "district"]
-            qaoa_allocation[district] = CHUNK_SIZE_CR
+            qaoa_selected.add(district)
             qaoa_total_impact += gradients[i]
 
-    print(f"QAOA selected {len(qaoa_allocation)} districts")
+    print(f"QAOA selected {len(qaoa_selected)} priority districts")
 
     # ── Step 5: Greedy baseline ──────────────────────────────────────
     greedy_allocation = _greedy_allocate(df, total_chunks)
@@ -246,12 +280,76 @@ def run_qaoa_optimization(total_budget_cr: float) -> dict:
             (qaoa_total_impact - greedy_total_impact) / abs(greedy_total_impact)
         ) * 100
 
+    # ── Step 7: Build FULL-budget allocations for all districts ──────
+    # Positive gradients only (negative means "funding hurts")
+    grad_all = np.maximum(df["gradient"].values, 0)
+
+    # Greedy full: proportional to gradient, capped to total budget
+    grad_sum = grad_all.sum()
+    if grad_sum > 0:
+        greedy_full = (grad_all / grad_sum) * total_budget_cr
+    else:
+        greedy_full = np.full(len(df), total_budget_cr / len(df))
+
+    # Quantum full: same proportional base, but QAOA-selected get 3× weight
+    weights = grad_all.copy()
+    district_names = df["district"].values
+    for i, name in enumerate(district_names):
+        if name in qaoa_selected:
+            weights[i] *= 3.0
+
+    w_sum = weights.sum()
+    if w_sum > 0:
+        quantum_full = (weights / w_sum) * total_budget_cr
+    else:
+        quantum_full = np.full(len(df), total_budget_cr / len(df))
+
+    # Build dicts
+    qaoa_allocation = {}
+    greedy_alloc_full = {}
+    predicted_impact_quantum = {}
+    predicted_impact_greedy = {}
+    predicted_impact_baseline = {}
+
+    for i, name in enumerate(district_names):
+        qaoa_allocation[name] = round(float(quantum_full[i]), 2)
+        greedy_alloc_full[name] = round(float(greedy_full[i]), 2)
+
+    # ── Step 8: Predict impact under each allocation scenario ────
+    # Use the RF model to predict impact_score for every district under:
+    #   (a) current real spending (baseline)
+    #   (b) quantum allocation
+    #   (c) greedy allocation
+    X_base = df[FEATURE_COLS].copy()
+
+    X_quantum = X_base.copy()
+    X_greedy = X_base.copy()
+
+    for i, name in enumerate(district_names):
+        X_quantum.iloc[i, X_quantum.columns.get_loc("total_spent_cr")] = quantum_full[i]
+        X_greedy.iloc[i, X_greedy.columns.get_loc("total_spent_cr")] = greedy_full[i]
+
+    impact_baseline = model.predict(X_base)
+    impact_quantum = model.predict(X_quantum)
+    impact_greedy = model.predict(X_greedy)
+
+    for i, name in enumerate(district_names):
+        predicted_impact_baseline[name] = round(float(impact_baseline[i]), 6)
+        predicted_impact_quantum[name] = round(float(impact_quantum[i]), 6)
+        predicted_impact_greedy[name] = round(float(impact_greedy[i]), 6)
+
     return {
         "qaoa_allocation": qaoa_allocation,
-        "greedy_allocation": greedy_allocation,
+        "greedy_allocation": greedy_alloc_full,
+        "qaoa_selected": list(qaoa_selected),
         "qaoa_total_impact": float(qaoa_total_impact),
         "greedy_total_impact": float(greedy_total_impact),
         "improvement_pct": float(improvement_pct),
+        "num_districts": len(df),
+        "budget_cr": total_budget_cr,
+        "predicted_impact_baseline": predicted_impact_baseline,
+        "predicted_impact_quantum": predicted_impact_quantum,
+        "predicted_impact_greedy": predicted_impact_greedy,
     }
 
 
@@ -259,22 +357,21 @@ def run_qaoa_optimization(total_budget_cr: float) -> dict:
 if __name__ == "__main__":
     result = run_qaoa_optimization(total_budget_cr=500)
 
-    print("\n=== QAOA Quantum Allocation ===")
-    for d, amt in sorted(result["qaoa_allocation"].items()):
-        print(f"  {d:35s}  Rs {amt} Cr")
-    print(f"  Districts funded : {len(result['qaoa_allocation'])}")
-    print(f"  Predicted impact : {result['qaoa_total_impact']:.6f}")
+    print(f"\n=== QAOA Priority Districts ({len(result['qaoa_selected'])}) ===")
+    for d in sorted(result["qaoa_selected"]):
+        alloc = result["qaoa_allocation"].get(d, 0)
+        print(f"  {d:35s}  Rs {alloc:.1f} Cr  ★ QUANTUM BOOSTED")
 
-    print(f"\n=== Greedy Baseline (top {len(result['greedy_allocation'])}) ===")
-    shown = list(sorted(result["greedy_allocation"].items()))[:10]
-    for d, amt in shown:
-        print(f"  {d:35s}  Rs {amt} Cr")
-    remaining = len(result["greedy_allocation"]) - len(shown)
-    if remaining > 0:
-        print(f"  ... and {remaining} more districts")
-    print(f"  Predicted impact : {result['greedy_total_impact']:.6f}")
+    print(f"\n=== Top 10 by Quantum Allocation ===")
+    sorted_q = sorted(result["qaoa_allocation"].items(), key=lambda x: x[1], reverse=True)[:10]
+    for d, amt in sorted_q:
+        g = result["greedy_allocation"].get(d, 0)
+        tag = " ★" if d in result["qaoa_selected"] else ""
+        print(f"  {d:35s}  Q: Rs {amt:.1f} Cr  G: Rs {g:.1f} Cr{tag}")
 
-    print(f"\n=== Quantum vs Greedy ===")
-    print(f"  QAOA impact   : {result['qaoa_total_impact']:.6f}")
-    print(f"  Greedy impact : {result['greedy_total_impact']:.6f}")
-    print(f"  Improvement   : {result['improvement_pct']:+.2f}%")
+    print(f"\n=== Metrics ===")
+    print(f"  Districts       : {result['num_districts']}")
+    print(f"  Budget          : Rs {result['budget_cr']} Cr")
+    print(f"  QAOA impact     : {result['qaoa_total_impact']:.6f}")
+    print(f"  Greedy impact   : {result['greedy_total_impact']:.6f}")
+    print(f"  Improvement     : {result['improvement_pct']:+.2f}%")
