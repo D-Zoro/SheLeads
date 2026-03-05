@@ -1,26 +1,229 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
+/* ── Leadher Theme ────────────────────────────────────────────── */
+/* Using rgb() so Tailwind v4 uses rgba() for opacity modifiers
+   instead of lab() which html2canvas cannot parse. */
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-neo-bg: rgb(10, 15, 30);
+  --color-neo-card: rgb(19, 25, 41);
+  --color-neo-border: rgb(30, 41, 59);
+  --color-neo-blue: rgb(59, 130, 246);
+  --color-neo-cyan: rgb(34, 211, 238);
+  --color-neo-red: rgb(239, 68, 68);
+  --color-neo-green: rgb(34, 197, 94);
+  --color-neo-amber: rgb(245, 158, 11);
+  --color-neo-slate: rgb(148, 163, 184);
+  --color-neo-text: rgb(226, 232, 240);
+  --color-neo-text-dim: rgb(100, 116, 139);
+  --color-neo-hover: rgb(30, 45, 74);
+
+  --font-heading: var(--font-space-grotesk);
+  --font-data: var(--font-ibm-plex-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+/* ── Base ─────────────────────────────────────────────────────── */
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: #0a0f1e;
+  color: #e2e8f0;
+  font-family: var(--font-heading), system-ui, sans-serif;
+}
+
+/* ── Animated grid background ─────────────────────────────────── */
+.grid-bg {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image:
+    linear-gradient(rgba(59, 130, 246, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(59, 130, 246, 0.04) 1px, transparent 1px);
+  background-size: 60px 60px;
+  animation: grid-drift 20s linear infinite;
+}
+
+@keyframes grid-drift {
+  0% { background-position: 0 0; }
+  100% { background-position: 60px 60px; }
+}
+
+/* ── Fade-in for hero elements ────────────────────────────────── */
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(16px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Glow card ────────────────────────────────────────────────── */
+.glow-card {
+  background: #131929;
+  border: 1px solid rgba(59, 130, 246, 0.2);
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(59, 130, 246, 0.15);
+  transition: all 300ms ease;
+}
+
+.glow-card:hover {
+  border-color: rgba(59, 130, 246, 0.4);
+  box-shadow: 0 0 30px rgba(59, 130, 246, 0.25);
+}
+
+/* ── Gradient top border ──────────────────────────────────────── */
+.gradient-top-border {
+  position: relative;
+}
+
+.gradient-top-border::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, #3b82f6, transparent);
+  border-radius: 12px 12px 0 0;
+}
+
+/* ── Custom range slider ──────────────────────────────────────── */
+input[type="range"].neo-slider {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 6px;
+  background: linear-gradient(90deg, #1e293b, #3b82f6);
+  border-radius: 3px;
+  outline: none;
+}
+
+input[type="range"].neo-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: #3b82f6;
+  cursor: pointer;
+  box-shadow: 0 0 12px rgba(59, 130, 246, 0.6);
+  transition: box-shadow 300ms ease;
+}
+
+input[type="range"].neo-slider::-webkit-slider-thumb:hover {
+  box-shadow: 0 0 20px rgba(59, 130, 246, 0.9);
+}
+
+input[type="range"].neo-slider::-moz-range-thumb {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: #3b82f6;
+  cursor: pointer;
+  border: none;
+  box-shadow: 0 0 12px rgba(59, 130, 246, 0.6);
+}
+
+/* ── Map pulse animation for optimized districts ──────────── */
+@keyframes district-pulse {
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.15); opacity: 0.6; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+.district-pulse {
+  animation: district-pulse 0.8s ease-in-out 3;
+}
+
+/* ── Typewriter cursor ────────────────────────────────────────── */
+@keyframes blink-cursor {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+.typewriter-cursor::after {
+  content: '▋';
+  animation: blink-cursor 0.8s step-end infinite;
+  color: #3b82f6;
+}
+
+/* ── Bouncing dots loader ─────────────────────────────────────── */
+.bounce-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #3b82f6;
+  animation: bounce-dot 1.4s ease-in-out infinite both;
+}
+
+.bounce-dot:nth-child(1) { animation-delay: -0.32s; }
+.bounce-dot:nth-child(2) { animation-delay: -0.16s; }
+.bounce-dot:nth-child(3) { animation-delay: 0s; }
+
+@keyframes bounce-dot {
+  0%, 80%, 100% { transform: scale(0); }
+  40% { transform: scale(1); }
+}
+
+/* ── Pulsing green dot ────────────────────────────────────────── */
+@keyframes pulse-green {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.7); }
+  50% { box-shadow: 0 0 0 6px rgba(34, 197, 94, 0); }
+}
+
+.pulse-green {
+  animation: pulse-green 2s ease-in-out infinite;
+}
+
+/* ── Toast slide-in ───────────────────────────────────────────── */
+@keyframes toast-in {
+  0% { transform: translateX(120%); opacity: 0; }
+  100% { transform: translateX(0); opacity: 1; }
+}
+
+@keyframes toast-out {
+  0% { transform: translateX(0); opacity: 1; }
+  100% { transform: translateX(120%); opacity: 0; }
+}
+
+.toast-enter { animation: toast-in 300ms ease forwards; }
+.toast-exit { animation: toast-out 300ms ease forwards; }
+
+/* ── Panel overlay ────────────────────────────────────────────── */
+@keyframes panel-slide-in {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(0); }
+}
+
+@keyframes panel-slide-out {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(100%); }
+}
+
+/* ── Skeleton shimmer ─────────────────────────────────────────── */
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.skeleton {
+  background: linear-gradient(90deg, #131929 25%, #1e293b 50%, #131929 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s ease-in-out infinite;
+  border-radius: 6px;
+}
+
+/* ── Scrollbar ────────────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a0f1e;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3b82f6;
 }

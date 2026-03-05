@@ -1,13 +1,15 @@
 """
-main.py — NeoPolicy FastAPI Backend
+main.py — Leadher FastAPI Backend
 
-Serves the quantum-optimized budget allocation API.
+Serves the quantum-optimized budget allocation API for women's empowerment.
 
 Endpoints:
     GET  /health               → {"status": "ok"}
     GET  /districts             → full dataset as JSON
+    GET  /states                → list of unique state names
     GET  /district/{name}       → single district features
     POST /optimize              → QAOA vs greedy optimization
+    POST /generate-report       → LLM-generated policy report
 
 CLI utilities (run directly):
     uv run python main.py pipeline
@@ -28,6 +30,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 from src.quantum.optimizer import run_qaoa_optimization, FEATURE_COLS
+from src.api.llm_policy import generate_report, parse_policy_text
 
 # ── Path constants ───────────────────────────────────────────────────────
 _DATASET_DIR = Path(__file__).resolve().parent / "src" / "dataset"
@@ -58,9 +61,9 @@ async def lifespan(app: FastAPI):
 
 # ── FastAPI app ──────────────────────────────────────────────────────────
 app = FastAPI(
-    title="NeoPolicy API",
+    title="Leadher API",
     description="Quantum-enhanced women's empowerment budget optimizer",
-    version="0.1.0",
+    version="1.0.0",
     lifespan=lifespan,
 )
 
@@ -76,6 +79,18 @@ app.add_middleware(
 # ── Request / Response models ────────────────────────────────────────────
 class OptimizeRequest(BaseModel):
     total_budget_cr: float
+    states: list[str] | None = None
+    districts: list[str] | None = None
+
+
+class ReportRequest(BaseModel):
+    total_budget_cr: float
+    states: list[str] | None = None
+    districts: list[str] | None = None
+
+
+class PolicyTextRequest(BaseModel):
+    policy_text: str
 
 
 # ── Endpoints ────────────────────────────────────────────────────────────
@@ -99,6 +114,15 @@ async def get_districts():
             if isinstance(v, float) and (v != v):  # NaN check
                 row[k] = None
     return records
+
+
+@app.get("/states")
+async def get_states():
+    """Return a sorted list of unique state names."""
+    df = state.df
+    if df is None:
+        raise HTTPException(status_code=503, detail="Data not loaded yet")
+    return sorted(df["state"].dropna().unique().tolist())
 
 
 @app.get("/district/{district_name}")
@@ -129,11 +153,71 @@ async def optimize(req: OptimizeRequest):
         raise HTTPException(status_code=400, detail="Budget must be positive")
 
     try:
-        result = run_qaoa_optimization(req.total_budget_cr)
+        result = run_qaoa_optimization(
+            req.total_budget_cr,
+            states=req.states,
+            district_names_filter=req.districts,
+        )
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Optimization failed: {str(e)}")
 
     return result
+
+
+@app.post("/generate-report")
+async def generate_report_endpoint(req: ReportRequest):
+    """
+    Generate a comprehensive LLM-powered policy report.
+    Runs optimization with the given parameters, then asks Gemini to
+    produce a full analysis with budget allocations, predicted impacts,
+    and policy recommendations.
+    """
+    if req.total_budget_cr <= 0:
+        raise HTTPException(status_code=400, detail="Budget must be positive")
+
+    # Run quantum optimization
+    try:
+        opt_result = run_qaoa_optimization(
+            req.total_budget_cr,
+            states=req.states,
+            district_names_filter=req.districts,
+        )
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Optimization failed: {str(e)}")
+
+    # Generate report via Gemini
+    try:
+        report_text = generate_report(opt_result, req.states, req.districts)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"LLM generation failed: {str(e)}")
+
+    return {
+        "report": report_text,
+        "optimization": opt_result,
+    }
+
+
+@app.post("/parse-policy")
+async def parse_policy_endpoint(req: PolicyTextRequest):
+    """
+    Parse a natural-language policy description into structured
+    optimization parameters (budget, states, districts) using Gemini.
+    """
+    if not req.policy_text.strip():
+        raise HTTPException(status_code=400, detail="Policy text is empty")
+
+    df = state.df
+    if df is None:
+        raise HTTPException(status_code=503, detail="Data not loaded yet")
+
+    available_states = sorted(df["state"].dropna().unique().tolist())
+
+    try:
+        params = parse_policy_text(req.policy_text, available_states)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Policy parsing failed: {str(e)}")
+
+    return params
 
 
 # ── CLI Commands ─────────────────────────────────────────────────────────
