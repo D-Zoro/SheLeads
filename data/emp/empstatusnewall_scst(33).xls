@@ -1,0 +1,424 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUDUCHERRY&state_code=25&district_name=KARAIKAL&district_code=2502&fin_year=2019-2020&source=national&typediv=0&Digest=Y0BA1Tiqhq3p9Ze4wyJOsg'>KARAIKAL</a>
+                    </td>
+                    <td align="right">
+                        5829
+                    </td>
+                    <td align="right">
+                        23
+                    </td>
+                    <td align="right">
+                        9885
+                    </td>
+                    <td align="right">
+                        15737
+                    </td>
+                    <td align="right">
+                        4603
+                    </td>
+                    <td align="right">
+                        18
+                    </td>
+                    <td align="right">
+                        6821
+                    </td>
+                    <td align="right">
+                        11442
+                    </td>
+                    
+                    <td align="right">
+                        10458
+                    </td>
+                    <td align="right">
+                        4936
+                    </td>
+                    <td align="right">
+                        19
+                    </td>
+                    <td align="right">
+                        7110
+                    </td>
+                    <td align="right">
+                        12065
+                    </td>
+                    <td align="right">
+                        97634
+                    </td>
+                    <td align="right">
+                        447
+                    </td>
+                    <td align="right">
+                        129028
+                    </td>
+                    <td align="right">
+                        227109
+                    </td>
+                    <td align="right">
+                        197040
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUDUCHERRY&state_code=25&district_name=PONDICHERRY&district_code=2501&fin_year=2019-2020&source=national&typediv=0&Digest=OYnWSeUid1Or2qXxElPc6Q'>PONDICHERRY</a>
+                    </td>
+                    <td align="right">
+                        13408
+                    </td>
+                    <td align="right">
+                        88
+                    </td>
+                    <td align="right">
+                        39516
+                    </td>
+                    <td align="right">
+                        53012
+                    </td>
+                    <td align="right">
+                        7359
+                    </td>
+                    <td align="right">
+                        40
+                    </td>
+                    <td align="right">
+                        20755
+                    </td>
+                    <td align="right">
+                        28154
+                    </td>
+                    
+                    <td align="right">
+                        26752
+                    </td>
+                    <td align="right">
+                        8351
+                    </td>
+                    <td align="right">
+                        42
+                    </td>
+                    <td align="right">
+                        22634
+                    </td>
+                    <td align="right">
+                        31027
+                    </td>
+                    <td align="right">
+                        145624
+                    </td>
+                    <td align="right">
+                        640
+                    </td>
+                    <td align="right">
+                        391758
+                    </td>
+                    <td align="right">
+                        538022
+                    </td>
+                    <td align="right">
+                        466956
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        19237
+                    </td>
+                    <td align="right">
+                        111
+                    </td>
+                    <td align="right">
+                        49401
+                    </td>
+                    <td align="right">
+                        68749
+                    </td>
+                    <td align="right">
+                        11962
+                    </td>
+                    <td align="right">
+                        58
+                    </td>
+                    <td align="right">
+                        27576
+                    </td>
+                    <td align="right">
+                        39596
+                    </td>
+                    
+                    <td align="right">
+                        37210
+                    </td>
+                    <td align="right">
+                        13287
+                    </td>
+                    <td align="right">
+                        61
+                    </td>
+                    <td align="right">
+                        29744
+                    </td>
+                    <td align="right">
+                        43092
+                    </td>
+                    <td align="right">
+                        243258
+                    </td>
+                    <td align="right">
+                        1087
+                    </td>
+                    <td align="right">
+                        520786
+                    </td>
+                    <td align="right">
+                        765131
+                    </td>
+                    <td align="right">
+                        663996
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                </tr>
+            
+                </table>
+            

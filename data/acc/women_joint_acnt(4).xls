@@ -1,0 +1,500 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl42$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl42$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl42$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl42$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl42$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">791641</td>
+                <td align="right">6111855</td>
+                <td align="right">9755778</td>
+                 <td align="right">5538677</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=ARARIA&district_code=0541&fin_year=2019-2020&source=national&Digest=dZC+AX7ekKzPqeVWLywIww'>ARARIA</a></td>
+                <td align="right">44176</td>
+                <td align="right">223692</td>
+                <td align="right">330078</td>
+                 <td align="right">209148</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=ARWAL&district_code=0551&fin_year=2019-2020&source=national&Digest=SFuPlQ9QdhjvE/M+sTPztw'>ARWAL</a></td>
+                <td align="right">12319</td>
+                <td align="right">66799</td>
+                <td align="right">73729</td>
+                 <td align="right">50200</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=AURANAGABAD&district_code=0505&fin_year=2019-2020&source=national&Digest=JbLndFcsa0GwNz4db3kj7Q'>AURANAGABAD</a></td>
+                <td align="right">16453</td>
+                <td align="right">125058</td>
+                <td align="right">221814</td>
+                 <td align="right">142655</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=BANKA+&district_code=0545&fin_year=2019-2020&source=national&Digest=Ko7fhXVYjKY80cEK9AU4dA'>BANKA </a></td>
+                <td align="right">21861</td>
+                <td align="right">169407</td>
+                <td align="right">233996</td>
+                 <td align="right">113590</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=BEGUSARAI&district_code=0517&fin_year=2019-2020&source=national&Digest=0U6y6cYK8tGWNTiuwkLI9g'>BEGUSARAI</a></td>
+                <td align="right">32911</td>
+                <td align="right">172350</td>
+                <td align="right">290786</td>
+                 <td align="right">127615</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=BHAGALPUR&district_code=0527&fin_year=2019-2020&source=national&Digest=s8pnn26DqH/m+jFjMQOaeg'>BHAGALPUR</a></td>
+                <td align="right">59523</td>
+                <td align="right">178678</td>
+                <td align="right">235499</td>
+                 <td align="right">120383</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=BHOJPUR&district_code=0503&fin_year=2019-2020&source=national&Digest=WEuB0PeFE0+MkfDvKIcKVg'>BHOJPUR</a></td>
+                <td align="right">45623</td>
+                <td align="right">114192</td>
+                <td align="right">155815</td>
+                 <td align="right">95724</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=BUXAR+&district_code=0548&fin_year=2019-2020&source=national&Digest=tclwUOnULRJNRj3peXT7OQ'>BUXAR </a></td>
+                <td align="right">2126</td>
+                <td align="right">66551</td>
+                <td align="right">114747</td>
+                 <td align="right">75112</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">9</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=DARBHANGA&district_code=0519&fin_year=2019-2020&source=national&Digest=++tNfPrp++Kx3wPPa76NNQ'>DARBHANGA</a></td>
+                <td align="right">41859</td>
+                <td align="right">323449</td>
+                <td align="right">425545</td>
+                 <td align="right">219107</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">10</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=GAYAJI&district_code=0507&fin_year=2019-2020&source=national&Digest=/P6/fJQ7RRGshA9uqHBWgQ'>GAYAJI</a></td>
+                <td align="right">14003</td>
+                <td align="right">279216</td>
+                <td align="right">488555</td>
+                 <td align="right">283610</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">11</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=GOPALGANJ&district_code=0511&fin_year=2019-2020&source=national&Digest=RIyHMtRHP1U/0LwOlV8zYQ'>GOPALGANJ</a></td>
+                <td align="right">5656</td>
+                <td align="right">76386</td>
+                <td align="right">117707</td>
+                 <td align="right">73968</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">12</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=JAMUI&district_code=0550&fin_year=2019-2020&source=national&Digest=tcESjhYxa4akwK8kP3Bhpw'>JAMUI</a></td>
+                <td align="right">18020</td>
+                <td align="right">155414</td>
+                <td align="right">258650</td>
+                 <td align="right">171164</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">13</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=JEHANABAD&district_code=0506&fin_year=2019-2020&source=national&Digest=HRDn2YOElsoNoqzqccHc6Q'>JEHANABAD</a></td>
+                <td align="right">31877</td>
+                <td align="right">83122</td>
+                <td align="right">110543</td>
+                 <td align="right">81467</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">14</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=KAIMUR+(BHABUA)&district_code=0549&fin_year=2019-2020&source=national&Digest=MVGyYqlUCMZ1k/0E7d2jvg'>KAIMUR (BHABUA)</a></td>
+                <td align="right">11120</td>
+                <td align="right">82283</td>
+                <td align="right">135477</td>
+                 <td align="right">90315</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">15</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=KATIHAR&district_code=0524&fin_year=2019-2020&source=national&Digest=GSNlzbs4tiTkKgRaLJU/4g'>KATIHAR</a></td>
+                <td align="right">15401</td>
+                <td align="right">223938</td>
+                <td align="right">367248</td>
+                 <td align="right">222741</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">16</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=KHAGARIA&district_code=0525&fin_year=2019-2020&source=national&Digest=v2HAgo2G0vIHFDCadEiHyw'>KHAGARIA</a></td>
+                <td align="right">3112</td>
+                <td align="right">82695</td>
+                <td align="right">145476</td>
+                 <td align="right">69191</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">17</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=KISHANGANJ&district_code=0542&fin_year=2019-2020&source=national&Digest=CHdFZVzqJeUiAc0JznHILA'>KISHANGANJ</a></td>
+                <td align="right">6861</td>
+                <td align="right">108555</td>
+                <td align="right">206915</td>
+                 <td align="right">146286</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">18</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=LAKHISARAI&district_code=0546&fin_year=2019-2020&source=national&Digest=44nFS95lec5UEowQ5QIvwg'>LAKHISARAI</a></td>
+                <td align="right">1155</td>
+                <td align="right">74126</td>
+                <td align="right">109174</td>
+                 <td align="right">71523</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">19</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=MADHEPURA&district_code=0522&fin_year=2019-2020&source=national&Digest=L72LLctTUXZ8fA16CpQ0lA'>MADHEPURA</a></td>
+                <td align="right">24593</td>
+                <td align="right">206201</td>
+                <td align="right">288673</td>
+                 <td align="right">135004</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">20</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=MADHUBANI&district_code=0520&fin_year=2019-2020&source=national&Digest=WWnSTKjUUn+NqpLMH4Xt6A'>MADHUBANI</a></td>
+                <td align="right">15942</td>
+                <td align="right">250572</td>
+                <td align="right">439866</td>
+                 <td align="right">212624</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">21</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=MUNGER&district_code=0526&fin_year=2019-2020&source=national&Digest=qpg0NciIkvrybq8IAsV7Ug'>MUNGER</a></td>
+                <td align="right">5913</td>
+                <td align="right">80055</td>
+                <td align="right">128147</td>
+                 <td align="right">78633</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">22</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=MUZAFFARPUR&district_code=0515&fin_year=2019-2020&source=national&Digest=qHMo/b2ifHtgdycUPl3rkg'>MUZAFFARPUR</a></td>
+                <td align="right">51920</td>
+                <td align="right">206495</td>
+                <td align="right">328243</td>
+                 <td align="right">200691</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">23</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=NALANDA&district_code=0502&fin_year=2019-2020&source=national&Digest=9mcq0m3iukj9dj8r2RfTdA'>NALANDA</a></td>
+                <td align="right">9598</td>
+                <td align="right">130479</td>
+                <td align="right">270088</td>
+                 <td align="right">168667</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">24</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=NAWADA&district_code=0508&fin_year=2019-2020&source=national&Digest=zbQxZHIEovdMIRDw0CmrPA'>NAWADA</a></td>
+                <td align="right">20611</td>
+                <td align="right">186894</td>
+                <td align="right">319876</td>
+                 <td align="right">204826</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">25</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=PASHCHIM+CHAMPARAN&district_code=0512&fin_year=2019-2020&source=national&Digest=scGjgsKfe8ZwG5al6bHnuQ'>PASHCHIM CHAMPARAN</a></td>
+                <td align="right">68873</td>
+                <td align="right">213819</td>
+                <td align="right">337535</td>
+                 <td align="right">180685</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">26</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=PATNA&district_code=0501&fin_year=2019-2020&source=national&Digest=FC2g0C+qM2P6eSqRmy5nFw'>PATNA</a></td>
+                <td align="right">5370</td>
+                <td align="right">221438</td>
+                <td align="right">250701</td>
+                 <td align="right">125846</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">27</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=PURBI+CHAMPARAN&district_code=0513&fin_year=2019-2020&source=national&Digest=/NAYdSDL296OKkFBnJVr5g'>PURBI CHAMPARAN</a></td>
+                <td align="right">11187</td>
+                <td align="right">263844</td>
+                <td align="right">536658</td>
+                 <td align="right">278375</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">28</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=PURNIA&district_code=0523&fin_year=2019-2020&source=national&Digest=9MHsaL3cWTfufePAZ85DVQ'>PURNIA</a></td>
+                <td align="right">7580</td>
+                <td align="right">212102</td>
+                <td align="right">368203</td>
+                 <td align="right">196270</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">29</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=ROHTAS&district_code=0504&fin_year=2019-2020&source=national&Digest=zYY6M5iNAAqkh5LKCIBznw'>ROHTAS</a></td>
+                <td align="right">12267</td>
+                <td align="right">100963</td>
+                <td align="right">178076</td>
+                 <td align="right">104320</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">30</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=SAHARSA&district_code=0521&fin_year=2019-2020&source=national&Digest=MXHttML/oFTwbOgwSwpP6w'>SAHARSA</a></td>
+                <td align="right">14158</td>
+                <td align="right">188571</td>
+                <td align="right">270913</td>
+                 <td align="right">192989</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">31</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=SAMASTIPUR&district_code=0518&fin_year=2019-2020&source=national&Digest=z7RE0ncI8uoOP8MWXTlEfA'>SAMASTIPUR</a></td>
+                <td align="right">70351</td>
+                <td align="right">322466</td>
+                <td align="right">537357</td>
+                 <td align="right">269800</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">32</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=SARAN&district_code=0509&fin_year=2019-2020&source=national&Digest=yvBZWt+jK4wR5jOK7HqyOA'>SARAN</a></td>
+                <td align="right">789</td>
+                <td align="right">156354</td>
+                <td align="right">257802</td>
+                 <td align="right">149660</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">33</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=Sheikhpura+&district_code=0547&fin_year=2019-2020&source=national&Digest=fqNaTEJPRvuqWu9INqQePw'>Sheikhpura </a></td>
+                <td align="right">1885</td>
+                <td align="right">38673</td>
+                <td align="right">65101</td>
+                 <td align="right">36988</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">34</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=SHEOHAR&district_code=0543&fin_year=2019-2020&source=national&Digest=6xg+4EpNnO5D7TigH/HJaQ'>SHEOHAR</a></td>
+                <td align="right">26054</td>
+                <td align="right">69329</td>
+                <td align="right">73800</td>
+                 <td align="right">47875</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">35</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=SITAMARHI&district_code=0514&fin_year=2019-2020&source=national&Digest=D6O6OG4HuDm+AicPor8OIA'>SITAMARHI</a></td>
+                <td align="right">19208</td>
+                <td align="right">229066</td>
+                <td align="right">342308</td>
+                 <td align="right">172405</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">36</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=SIWAN&district_code=0510&fin_year=2019-2020&source=national&Digest=q4cTzJYWyvt0z1sAhvEW3g'>SIWAN</a></td>
+                <td align="right">8040</td>
+                <td align="right">71698</td>
+                <td align="right">154307</td>
+                 <td align="right">107075</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">37</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=SUPAUL&district_code=0544&fin_year=2019-2020&source=national&Digest=T0Frm54TGgAMk5veo2hQ+Q'>SUPAUL</a></td>
+                <td align="right">31050</td>
+                <td align="right">158797</td>
+                <td align="right">253254</td>
+                 <td align="right">145891</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">38</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=BIHAR&state_code=05&district_name=VAISHALI&district_code=0516&fin_year=2019-2020&source=national&Digest=WnpKvxM6lIkDw3ByV0A6Yg'>VAISHALI</a></td>
+                <td align="right">2196</td>
+                <td align="right">198128</td>
+                <td align="right">333116</td>
+                 <td align="right">166254</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">791641</td>
+                <td align="right">6111855</td>
+                <td align="right">9755778</td>
+                 <td align="right">5538677</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

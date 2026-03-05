@@ -1,0 +1,258 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl20$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl20$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl20$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl20$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl20$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">80575</td>
+                <td align="right">404923</td>
+                <td align="right">444307</td>
+                 <td align="right">391814</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MANIPUR&state_code=20&district_name=BISHNUPUR&district_code=2006&fin_year=2019-2020&source=national&Digest=csMNyrxWDbGXj52AHuPSJA'>BISHNUPUR</a></td>
+                <td align="right">8958</td>
+                <td align="right">34539</td>
+                <td align="right">47268</td>
+                 <td align="right">41457</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MANIPUR&state_code=20&district_name=CHANDEL&district_code=2004&fin_year=2019-2020&source=national&Digest=BgSuTGUjzYWsAzdHOSiXHQ'>CHANDEL</a></td>
+                <td align="right">664</td>
+                <td align="right">9595</td>
+                <td align="right">10494</td>
+                 <td align="right">9439</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MANIPUR&state_code=20&district_name=CHURACHANDPUR&district_code=2003&fin_year=2019-2020&source=national&Digest=2UqbWg6c32KFlfWJ/fcVKg'>CHURACHANDPUR</a></td>
+                <td align="right">16705</td>
+                <td align="right">30766</td>
+                <td align="right">32514</td>
+                 <td align="right">29578</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MANIPUR&state_code=20&district_name=IMPHAL+EAST&district_code=2009&fin_year=2019-2020&source=national&Digest=MFP4itwbzXLxwcuyL5R0Ng'>IMPHAL EAST</a></td>
+                <td align="right">16492</td>
+                <td align="right">90683</td>
+                <td align="right">91431</td>
+                 <td align="right">80552</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MANIPUR&state_code=20&district_name=IMPHAL+WEST&district_code=2007&fin_year=2019-2020&source=national&Digest=8fyWdKt1J4lVnPaBUYSwjA'>IMPHAL WEST</a></td>
+                <td align="right">1420</td>
+                <td align="right">49682</td>
+                <td align="right">62046</td>
+                 <td align="right">57180</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MANIPUR&state_code=20&district_name=JIRIBAM&district_code=2010&fin_year=2019-2020&source=national&Digest=gnOyIpGEFu1mKweTiMuf1g'>JIRIBAM</a></td>
+                <td align="right">392</td>
+                <td align="right">4600</td>
+                <td align="right">6634</td>
+                 <td align="right">5814</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MANIPUR&state_code=20&district_name=KAKCHING&district_code=2012&fin_year=2019-2020&source=national&Digest=VpLFAvkyQfEbv9yDrmwlxQ'>KAKCHING</a></td>
+                <td align="right">8618</td>
+                <td align="right">42600</td>
+                <td align="right">36391</td>
+                 <td align="right">28832</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MANIPUR&state_code=20&district_name=KAMJONG&district_code=2013&fin_year=2019-2020&source=national&Digest=+EtG3ziZj15j1brVwlf3Pw'>KAMJONG</a></td>
+                <td align="right">51</td>
+                <td align="right">5562</td>
+                <td align="right">8312</td>
+                 <td align="right">7241</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">9</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MANIPUR&state_code=20&district_name=KANGPOKPI&district_code=2011&fin_year=2019-2020&source=national&Digest=X0ykY11hvssQMhRzSgUXWA'>KANGPOKPI</a></td>
+                <td align="right">521</td>
+                <td align="right">15922</td>
+                <td align="right">26246</td>
+                 <td align="right">20190</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">10</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MANIPUR&state_code=20&district_name=NONEY&district_code=2014&fin_year=2019-2020&source=national&Digest=Dk0v+SU4W8iNuBIdzfKU6A'>NONEY</a></td>
+                <td align="right">1108</td>
+                <td align="right">4099</td>
+                <td align="right">8514</td>
+                 <td align="right">6920</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">11</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MANIPUR&state_code=20&district_name=PHERZAWL&district_code=2015&fin_year=2019-2020&source=national&Digest=mjMi4X90GGeJWgRA/Kzk/g'>PHERZAWL</a></td>
+                <td align="right">2054</td>
+                <td align="right">3167</td>
+                <td align="right">3939</td>
+                 <td align="right">3359</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">12</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MANIPUR&state_code=20&district_name=SENAPATI&district_code=2001&fin_year=2019-2020&source=national&Digest=8Ri3Zvj+kk8l/8VQy15NdQ'>SENAPATI</a></td>
+                <td align="right">629</td>
+                <td align="right">19637</td>
+                <td align="right">24809</td>
+                 <td align="right">22825</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">13</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MANIPUR&state_code=20&district_name=TAMENGLONG&district_code=2002&fin_year=2019-2020&source=national&Digest=/DF9RKPh8c9sqcqMQzX9vQ'>TAMENGLONG</a></td>
+                <td align="right">1765</td>
+                <td align="right">9110</td>
+                <td align="right">11544</td>
+                 <td align="right">11227</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">14</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MANIPUR&state_code=20&district_name=TENGNOUPAL&district_code=2016&fin_year=2019-2020&source=national&Digest=eOfg2hAalMQMIGwcBgsPig'>TENGNOUPAL</a></td>
+                <td align="right">493</td>
+                <td align="right">7409</td>
+                <td align="right">9404</td>
+                 <td align="right">7963</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">15</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MANIPUR&state_code=20&district_name=THOUBAL&district_code=2005&fin_year=2019-2020&source=national&Digest=qCN5xMwPP9mLTtfLKC0lWw'>THOUBAL</a></td>
+                <td align="right">18992</td>
+                <td align="right">60638</td>
+                <td align="right">42989</td>
+                 <td align="right">38397</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">16</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MANIPUR&state_code=20&district_name=UKHRUL&district_code=2008&fin_year=2019-2020&source=national&Digest=tQgdaYwpZkOH0fxUwsS4vA'>UKHRUL</a></td>
+                <td align="right">1713</td>
+                <td align="right">16914</td>
+                <td align="right">21772</td>
+                 <td align="right">20840</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">80575</td>
+                <td align="right">404923</td>
+                <td align="right">444307</td>
+                 <td align="right">391814</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

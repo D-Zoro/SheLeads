@@ -1,0 +1,456 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl38$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl38$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl38$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl38$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl38$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">774631</td>
+                <td align="right">4493728</td>
+                <td align="right">6632311</td>
+                 <td align="right">4117945</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=AHILYANAGAR&district_code=1809&fin_year=2019-2020&source=national&Digest=6SywUcNZW8DJ7+Z2go8mvw'>AHILYANAGAR</a></td>
+                <td align="right">51525</td>
+                <td align="right">214687</td>
+                <td align="right">300871</td>
+                 <td align="right">148275</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=AKOLA&district_code=1823&fin_year=2019-2020&source=national&Digest=fOx/R3x7YZ1ZFMyOWQr52g'>AKOLA</a></td>
+                <td align="right">6417</td>
+                <td align="right">65355</td>
+                <td align="right">112766</td>
+                 <td align="right">75283</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=AMRAVATI&district_code=1824&fin_year=2019-2020&source=national&Digest=OjDJebdcGwxsimM61/tFJQ'>AMRAVATI</a></td>
+                <td align="right">14590</td>
+                <td align="right">178028</td>
+                <td align="right">261157</td>
+                 <td align="right">180466</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=BEED&district_code=1818&fin_year=2019-2020&source=national&Digest=H7xQSl7yH4FF2Z3Ag1l0Rw'>BEED</a></td>
+                <td align="right">70397</td>
+                <td align="right">179503</td>
+                <td align="right">350330</td>
+                 <td align="right">259633</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=BHANDARA&district_code=1828&fin_year=2019-2020&source=national&Digest=zSYkdwAHi+0Ou9kDoSZVDw'>BHANDARA</a></td>
+                <td align="right">21867</td>
+                <td align="right">241522</td>
+                <td align="right">241338</td>
+                 <td align="right">177085</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=BULDHANA&district_code=1822&fin_year=2019-2020&source=national&Digest=F/Qhanl2L3RN67DBt9t9LA'>BULDHANA</a></td>
+                <td align="right">20036</td>
+                <td align="right">105198</td>
+                <td align="right">171743</td>
+                 <td align="right">99304</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=CHANDRAPUR&district_code=1829&fin_year=2019-2020&source=national&Digest=5Vm48Zr/53gMipSIn/iQIw'>CHANDRAPUR</a></td>
+                <td align="right">52599</td>
+                <td align="right">224952</td>
+                <td align="right">247936</td>
+                 <td align="right">174428</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=Chatrapati+Sambhaji+Nagar&district_code=1815&fin_year=2019-2020&source=national&Digest=eT5B1zjxM+uogkuF+puzcw'>Chatrapati Sambhaji Nagar</a></td>
+                <td align="right">11159</td>
+                <td align="right">133531</td>
+                <td align="right">313668</td>
+                 <td align="right">219818</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">9</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=Dharashiv&district_code=1820&fin_year=2019-2020&source=national&Digest=H0BFwlPFJ6kl8fK4siB6fg'>Dharashiv</a></td>
+                <td align="right">4742</td>
+                <td align="right">93963</td>
+                <td align="right">127549</td>
+                 <td align="right">63332</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">10</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=DHULE&district_code=1807&fin_year=2019-2020&source=national&Digest=zp1oixrX4Fdk13sP0IWEvA'>DHULE</a></td>
+                <td align="right">33039</td>
+                <td align="right">119030</td>
+                <td align="right">181147</td>
+                 <td align="right">108075</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">11</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=GADCHIROLI&district_code=1830&fin_year=2019-2020&source=national&Digest=Nr7x9qRPjuEEsn/xaxpNuA'>GADCHIROLI</a></td>
+                <td align="right">11982</td>
+                <td align="right">204527</td>
+                <td align="right">201314</td>
+                 <td align="right">141402</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">12</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=GONDIA&district_code=1833&fin_year=2019-2020&source=national&Digest=nnjjTRguClhqnDCoywR+Bg'>GONDIA</a></td>
+                <td align="right">39065</td>
+                <td align="right">291276</td>
+                <td align="right">301222</td>
+                 <td align="right">233909</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">13</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=HINGOLI&district_code=1834&fin_year=2019-2020&source=national&Digest=cedZYM91Z7RatAGegYEoow'>HINGOLI</a></td>
+                <td align="right">13088</td>
+                <td align="right">74392</td>
+                <td align="right">120516</td>
+                 <td align="right">81064</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">14</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=JALGAON&district_code=1808&fin_year=2019-2020&source=national&Digest=WjokYK4WcqrMuaJPQ0YIfQ'>JALGAON</a></td>
+                <td align="right">16934</td>
+                <td align="right">130030</td>
+                <td align="right">235897</td>
+                 <td align="right">138942</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">15</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=JALNA&district_code=1816&fin_year=2019-2020&source=national&Digest=3M11FC1cHnZkpljwKHI6Uw'>JALNA</a></td>
+                <td align="right">74351</td>
+                <td align="right">158557</td>
+                <td align="right">261751</td>
+                 <td align="right">181231</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">16</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=KOLHAPUR&district_code=1814&fin_year=2019-2020&source=national&Digest=gsZJmR7mttqG+l/8zmH7Lg'>KOLHAPUR</a></td>
+                <td align="right">6018</td>
+                <td align="right">74570</td>
+                <td align="right">137455</td>
+                 <td align="right">67481</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">17</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=LATUR&district_code=1821&fin_year=2019-2020&source=national&Digest=JWsMK2v6dX80LzgOdHrldA'>LATUR</a></td>
+                <td align="right">10945</td>
+                <td align="right">117956</td>
+                <td align="right">186923</td>
+                 <td align="right">110559</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">18</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=NAGPUR&district_code=1827&fin_year=2019-2020&source=national&Digest=aOFjGaB+hPsOOMYQHB3Ocw'>NAGPUR</a></td>
+                <td align="right">16896</td>
+                <td align="right">98728</td>
+                <td align="right">138706</td>
+                 <td align="right">77329</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">19</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=NANDED&district_code=1819&fin_year=2019-2020&source=national&Digest=vKsLrJ2JxjAneTlepOgaWw'>NANDED</a></td>
+                <td align="right">12202</td>
+                <td align="right">182547</td>
+                <td align="right">294821</td>
+                 <td align="right">175615</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">20</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=NANDURBAR&district_code=1831&fin_year=2019-2020&source=national&Digest=DUu1Pl19fuAs86MkcIj8/w'>NANDURBAR</a></td>
+                <td align="right">17701</td>
+                <td align="right">173107</td>
+                <td align="right">226200</td>
+                 <td align="right">143195</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">21</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=NASHIK&district_code=1806&fin_year=2019-2020&source=national&Digest=Q81ylS8+EOCo1VH2w9lcIw'>NASHIK</a></td>
+                <td align="right">20948</td>
+                <td align="right">186991</td>
+                <td align="right">344555</td>
+                 <td align="right">210971</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">22</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=PALGHAR&district_code=1835&fin_year=2019-2020&source=national&Digest=oZbM3U1CkkIn+LF75m21tQ'>PALGHAR</a></td>
+                <td align="right">9043</td>
+                <td align="right">173791</td>
+                <td align="right">236607</td>
+                 <td align="right">166946</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">23</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=PARBHANI&district_code=1817&fin_year=2019-2020&source=national&Digest=RtPCbNJjlewu1yU95PTdqw'>PARBHANI</a></td>
+                <td align="right">24696</td>
+                <td align="right">98190</td>
+                <td align="right">177816</td>
+                 <td align="right">122794</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">24</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=PUNE&district_code=1810&fin_year=2019-2020&source=national&Digest=73TAi+I92SXb+hBKJyhdaw'>PUNE</a></td>
+                <td align="right">18877</td>
+                <td align="right">74876</td>
+                <td align="right">125109</td>
+                 <td align="right">55490</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">25</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=RAIGAD&district_code=1803&fin_year=2019-2020&source=national&Digest=/P+6VFffa99J15sx6ytDmw'>RAIGAD</a></td>
+                <td align="right">4808</td>
+                <td align="right">49094</td>
+                <td align="right">75425</td>
+                 <td align="right">34801</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">26</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=RATNAGIRI&district_code=1804&fin_year=2019-2020&source=national&Digest=yemSE1cuWFGa3GTbx7Q4fg'>RATNAGIRI</a></td>
+                <td align="right">14775</td>
+                <td align="right">76334</td>
+                <td align="right">97006</td>
+                 <td align="right">43678</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">27</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=SANGLI&district_code=1812&fin_year=2019-2020&source=national&Digest=BottGIIgMAT7jphX9CcU4w'>SANGLI</a></td>
+                <td align="right">17130</td>
+                <td align="right">96035</td>
+                <td align="right">116925</td>
+                 <td align="right">42872</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">28</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=SATARA&district_code=1811&fin_year=2019-2020&source=national&Digest=zqz7UcWCTK9+pSljcXQZHA'>SATARA</a></td>
+                <td align="right">18754</td>
+                <td align="right">115743</td>
+                <td align="right">165351</td>
+                 <td align="right">71781</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">29</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=SINDHUDURG&district_code=1805&fin_year=2019-2020&source=national&Digest=JuU9f/sKY8XSSxM2C/AT2g'>SINDHUDURG</a></td>
+                <td align="right">1660</td>
+                <td align="right">47872</td>
+                <td align="right">64641</td>
+                 <td align="right">27475</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">30</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=SOLAPUR&district_code=1813&fin_year=2019-2020&source=national&Digest=Jpjm/gtc/8njVe8AHnt3hg'>SOLAPUR</a></td>
+                <td align="right">15789</td>
+                <td align="right">103746</td>
+                <td align="right">187916</td>
+                 <td align="right">98164</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">31</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=THANE&district_code=1802&fin_year=2019-2020&source=national&Digest=yxXyrzo8KJAguUdHuP/GDg'>THANE</a></td>
+                <td align="right">2121</td>
+                <td align="right">52701</td>
+                <td align="right">79837</td>
+                 <td align="right">43090</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">32</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=WARDHA&district_code=1826&fin_year=2019-2020&source=national&Digest=YeHRJScmnXESOPk5j+XHiw'>WARDHA</a></td>
+                <td align="right">28059</td>
+                <td align="right">86498</td>
+                <td align="right">104328</td>
+                 <td align="right">51632</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">33</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=WASHIM&district_code=1832&fin_year=2019-2020&source=national&Digest=c03e/HdO4Ogi2FcXaVGzVA'>WASHIM</a></td>
+                <td align="right">21625</td>
+                <td align="right">83479</td>
+                <td align="right">143021</td>
+                 <td align="right">95657</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">34</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MAHARASHTRA&state_code=18&district_name=YAVATMAL&district_code=1825&fin_year=2019-2020&source=national&Digest=VjKX2QTbLRUsynFb5Ynh0w'>YAVATMAL</a></td>
+                <td align="right">70793</td>
+                <td align="right">186919</td>
+                <td align="right">300464</td>
+                 <td align="right">196168</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">774631</td>
+                <td align="right">4493728</td>
+                <td align="right">6632311</td>
+                 <td align="right">4117945</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

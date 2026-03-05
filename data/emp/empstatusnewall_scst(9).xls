@@ -1,0 +1,1944 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=ANANTNAG&district_code=1406&fin_year=2019-2020&source=national&typediv=0&Digest=oYmLGbAEQnEbR+X0BoCBxQ'>ANANTNAG</a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        5062
+                    </td>
+                    <td align="right">
+                        95108
+                    </td>
+                    <td align="right">
+                        100170
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        2245
+                    </td>
+                    <td align="right">
+                        45061
+                    </td>
+                    <td align="right">
+                        47306
+                    </td>
+                    
+                    <td align="right">
+                        30846
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        4396
+                    </td>
+                    <td align="right">
+                        78377
+                    </td>
+                    <td align="right">
+                        82773
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        92852
+                    </td>
+                    <td align="right">
+                        1920689
+                    </td>
+                    <td align="right">
+                        2013541
+                    </td>
+                    <td align="right">
+                        706176
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        11
+                    </td>
+                    <td align="right">
+                        382
+                    </td>
+                    <td align="right">
+                        393
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=BADGAM&district_code=1404&fin_year=2019-2020&source=national&typediv=0&Digest=rv76eQ3wi6TgIAV/pVjd0Q'>BADGAM</a>
+                    </td>
+                    <td align="right">
+                        37
+                    </td>
+                    <td align="right">
+                        1267
+                    </td>
+                    <td align="right">
+                        64400
+                    </td>
+                    <td align="right">
+                        65704
+                    </td>
+                    <td align="right">
+                        32
+                    </td>
+                    <td align="right">
+                        314
+                    </td>
+                    <td align="right">
+                        24352
+                    </td>
+                    <td align="right">
+                        24698
+                    </td>
+                    
+                    <td align="right">
+                        3028
+                    </td>
+                    <td align="right">
+                        32
+                    </td>
+                    <td align="right">
+                        406
+                    </td>
+                    <td align="right">
+                        28988
+                    </td>
+                    <td align="right">
+                        29426
+                    </td>
+                    <td align="right">
+                        909
+                    </td>
+                    <td align="right">
+                        9909
+                    </td>
+                    <td align="right">
+                        799782
+                    </td>
+                    <td align="right">
+                        810600
+                    </td>
+                    <td align="right">
+                        71028
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        140
+                    </td>
+                    <td align="right">
+                        140
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=BANDIPORA&district_code=1419&fin_year=2019-2020&source=national&typediv=0&Digest=9rCKVGm2TazBTzjK4VFjzQ'>BANDIPORA</a>
+                    </td>
+                    <td align="right">
+                        16
+                    </td>
+                    <td align="right">
+                        4488
+                    </td>
+                    <td align="right">
+                        30431
+                    </td>
+                    <td align="right">
+                        34935
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        1814
+                    </td>
+                    <td align="right">
+                        8982
+                    </td>
+                    <td align="right">
+                        10799
+                    </td>
+                    
+                    <td align="right">
+                        3848
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        2403
+                    </td>
+                    <td align="right">
+                        12821
+                    </td>
+                    <td align="right">
+                        15229
+                    </td>
+                    <td align="right">
+                        163
+                    </td>
+                    <td align="right">
+                        86308
+                    </td>
+                    <td align="right">
+                        359415
+                    </td>
+                    <td align="right">
+                        445886
+                    </td>
+                    <td align="right">
+                        104832
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        14
+                    </td>
+                    <td align="right">
+                        49
+                    </td>
+                    <td align="right">
+                        63
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        4
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=BARAMULLA&district_code=1402&fin_year=2019-2020&source=national&typediv=0&Digest=yVdbkMhcTk2H7QHFVvfDkg'>BARAMULLA</a>
+                    </td>
+                    <td align="right">
+                        34
+                    </td>
+                    <td align="right">
+                        3159
+                    </td>
+                    <td align="right">
+                        86930
+                    </td>
+                    <td align="right">
+                        90123
+                    </td>
+                    <td align="right">
+                        9
+                    </td>
+                    <td align="right">
+                        632
+                    </td>
+                    <td align="right">
+                        20615
+                    </td>
+                    <td align="right">
+                        21256
+                    </td>
+                    
+                    <td align="right">
+                        4456
+                    </td>
+                    <td align="right">
+                        10
+                    </td>
+                    <td align="right">
+                        831
+                    </td>
+                    <td align="right">
+                        27358
+                    </td>
+                    <td align="right">
+                        28199
+                    </td>
+                    <td align="right">
+                        182
+                    </td>
+                    <td align="right">
+                        12849
+                    </td>
+                    <td align="right">
+                        554371
+                    </td>
+                    <td align="right">
+                        567402
+                    </td>
+                    <td align="right">
+                        81092
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        61
+                    </td>
+                    <td align="right">
+                        63
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        5
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=DODA&district_code=1409&fin_year=2019-2020&source=national&typediv=0&Digest=1r3XK4b+U583qUAn9KQ3mA'>DODA</a>
+                    </td>
+                    <td align="right">
+                        7248
+                    </td>
+                    <td align="right">
+                        6004
+                    </td>
+                    <td align="right">
+                        71472
+                    </td>
+                    <td align="right">
+                        84724
+                    </td>
+                    <td align="right">
+                        5093
+                    </td>
+                    <td align="right">
+                        4507
+                    </td>
+                    <td align="right">
+                        52433
+                    </td>
+                    <td align="right">
+                        62033
+                    </td>
+                    
+                    <td align="right">
+                        42435
+                    </td>
+                    <td align="right">
+                        7550
+                    </td>
+                    <td align="right">
+                        7676
+                    </td>
+                    <td align="right">
+                        81395
+                    </td>
+                    <td align="right">
+                        96621
+                    </td>
+                    <td align="right">
+                        312006
+                    </td>
+                    <td align="right">
+                        291246
+                    </td>
+                    <td align="right">
+                        3163538
+                    </td>
+                    <td align="right">
+                        3766790
+                    </td>
+                    <td align="right">
+                        1526416
+                    </td>
+                    <td align="right">
+                        121
+                    </td>
+                    <td align="right">
+                        103
+                    </td>
+                    <td align="right">
+                        1846
+                    </td>
+                    <td align="right">
+                        2070
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        6
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=GANDERBAL&district_code=1420&fin_year=2019-2020&source=national&typediv=0&Digest=AFip3D1jXJxqIOJbKJTAOQ'>GANDERBAL</a>
+                    </td>
+                    <td align="right">
+                        4
+                    </td>
+                    <td align="right">
+                        6078
+                    </td>
+                    <td align="right">
+                        27261
+                    </td>
+                    <td align="right">
+                        33343
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        2569
+                    </td>
+                    <td align="right">
+                        10176
+                    </td>
+                    <td align="right">
+                        12746
+                    </td>
+                    
+                    <td align="right">
+                        5233
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        3835
+                    </td>
+                    <td align="right">
+                        13807
+                    </td>
+                    <td align="right">
+                        17643
+                    </td>
+                    <td align="right">
+                        36
+                    </td>
+                    <td align="right">
+                        89074
+                    </td>
+                    <td align="right">
+                        334663
+                    </td>
+                    <td align="right">
+                        423773
+                    </td>
+                    <td align="right">
+                        121000
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        42
+                    </td>
+                    <td align="right">
+                        44
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        7
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=JAMMU&district_code=1413&fin_year=2019-2020&source=national&typediv=0&Digest=o6UmKwnX6JRqR252odsn5A'>JAMMU</a>
+                    </td>
+                    <td align="right">
+                        22761
+                    </td>
+                    <td align="right">
+                        5621
+                    </td>
+                    <td align="right">
+                        46738
+                    </td>
+                    <td align="right">
+                        75120
+                    </td>
+                    <td align="right">
+                        6207
+                    </td>
+                    <td align="right">
+                        1720
+                    </td>
+                    <td align="right">
+                        12270
+                    </td>
+                    <td align="right">
+                        20197
+                    </td>
+                    
+                    <td align="right">
+                        4231
+                    </td>
+                    <td align="right">
+                        7132
+                    </td>
+                    <td align="right">
+                        2370
+                    </td>
+                    <td align="right">
+                        14140
+                    </td>
+                    <td align="right">
+                        23642
+                    </td>
+                    <td align="right">
+                        219086
+                    </td>
+                    <td align="right">
+                        81695
+                    </td>
+                    <td align="right">
+                        422776
+                    </td>
+                    <td align="right">
+                        723557
+                    </td>
+                    <td align="right">
+                        123498
+                    </td>
+                    <td align="right">
+                        43
+                    </td>
+                    <td align="right">
+                        32
+                    </td>
+                    <td align="right">
+                        61
+                    </td>
+                    <td align="right">
+                        136
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        8
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=KARGIL&district_code=1408&fin_year=2019-2020&source=national&typediv=0&Digest=IpA9dLU41lRhtXqUntCTow'>KARGIL</a>
+                    </td>
+                    <td align="right">
+                        26
+                    </td>
+                    <td align="right">
+                        18609
+                    </td>
+                    <td align="right">
+                        290
+                    </td>
+                    <td align="right">
+                        18925
+                    </td>
+                    <td align="right">
+                        24
+                    </td>
+                    <td align="right">
+                        17855
+                    </td>
+                    <td align="right">
+                        267
+                    </td>
+                    <td align="right">
+                        18146
+                    </td>
+                    
+                    <td align="right">
+                        11391
+                    </td>
+                    <td align="right">
+                        24
+                    </td>
+                    <td align="right">
+                        17938
+                    </td>
+                    <td align="right">
+                        269
+                    </td>
+                    <td align="right">
+                        18231
+                    </td>
+                    <td align="right">
+                        1495
+                    </td>
+                    <td align="right">
+                        1071773
+                    </td>
+                    <td align="right">
+                        15748
+                    </td>
+                    <td align="right">
+                        1089016
+                    </td>
+                    <td align="right">
+                        677591
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        9
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=KATHUA&district_code=1414&fin_year=2019-2020&source=national&typediv=0&Digest=fBUhIX5KcQsdpeJ/wg3d1Q'>KATHUA</a>
+                    </td>
+                    <td align="right">
+                        13799
+                    </td>
+                    <td align="right">
+                        5493
+                    </td>
+                    <td align="right">
+                        40968
+                    </td>
+                    <td align="right">
+                        60260
+                    </td>
+                    <td align="right">
+                        6484
+                    </td>
+                    <td align="right">
+                        2693
+                    </td>
+                    <td align="right">
+                        19685
+                    </td>
+                    <td align="right">
+                        28862
+                    </td>
+                    
+                    <td align="right">
+                        8575
+                    </td>
+                    <td align="right">
+                        8234
+                    </td>
+                    <td align="right">
+                        3675
+                    </td>
+                    <td align="right">
+                        25351
+                    </td>
+                    <td align="right">
+                        37260
+                    </td>
+                    <td align="right">
+                        250826
+                    </td>
+                    <td align="right">
+                        104347
+                    </td>
+                    <td align="right">
+                        726338
+                    </td>
+                    <td align="right">
+                        1081511
+                    </td>
+                    <td align="right">
+                        211360
+                    </td>
+                    <td align="right">
+                        114
+                    </td>
+                    <td align="right">
+                        49
+                    </td>
+                    <td align="right">
+                        203
+                    </td>
+                    <td align="right">
+                        366
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        10
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=KISHTWAR&district_code=1415&fin_year=2019-2020&source=national&typediv=0&Digest=UyyoELPY6o3CSKUwmyaGGw'>KISHTWAR</a>
+                    </td>
+                    <td align="right">
+                        2404
+                    </td>
+                    <td align="right">
+                        7643
+                    </td>
+                    <td align="right">
+                        53767
+                    </td>
+                    <td align="right">
+                        63814
+                    </td>
+                    <td align="right">
+                        1936
+                    </td>
+                    <td align="right">
+                        6735
+                    </td>
+                    <td align="right">
+                        43096
+                    </td>
+                    <td align="right">
+                        51767
+                    </td>
+                    
+                    <td align="right">
+                        21261
+                    </td>
+                    <td align="right">
+                        2322
+                    </td>
+                    <td align="right">
+                        7284
+                    </td>
+                    <td align="right">
+                        48054
+                    </td>
+                    <td align="right">
+                        57660
+                    </td>
+                    <td align="right">
+                        159420
+                    </td>
+                    <td align="right">
+                        567793
+                    </td>
+                    <td align="right">
+                        3564950
+                    </td>
+                    <td align="right">
+                        4292163
+                    </td>
+                    <td align="right">
+                        1510802
+                    </td>
+                    <td align="right">
+                        219
+                    </td>
+                    <td align="right">
+                        411
+                    </td>
+                    <td align="right">
+                        2249
+                    </td>
+                    <td align="right">
+                        2879
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        11
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=KULGAM&district_code=1421&fin_year=2019-2020&source=national&typediv=0&Digest=lHgmHV/+rJT/1KqfOX6Waw'>KULGAM</a>
+                    </td>
+                    <td align="right">
+                        25
+                    </td>
+                    <td align="right">
+                        1088
+                    </td>
+                    <td align="right">
+                        49523
+                    </td>
+                    <td align="right">
+                        50636
+                    </td>
+                    <td align="right">
+                        8
+                    </td>
+                    <td align="right">
+                        314
+                    </td>
+                    <td align="right">
+                        24433
+                    </td>
+                    <td align="right">
+                        24755
+                    </td>
+                    
+                    <td align="right">
+                        15666
+                    </td>
+                    <td align="right">
+                        12
+                    </td>
+                    <td align="right">
+                        587
+                    </td>
+                    <td align="right">
+                        45921
+                    </td>
+                    <td align="right">
+                        46520
+                    </td>
+                    <td align="right">
+                        491
+                    </td>
+                    <td align="right">
+                        14489
+                    </td>
+                    <td align="right">
+                        1267861
+                    </td>
+                    <td align="right">
+                        1282841
+                    </td>
+                    <td align="right">
+                        400861
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        745
+                    </td>
+                    <td align="right">
+                        749
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        12
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=KUPWARA&district_code=1401&fin_year=2019-2020&source=national&typediv=0&Digest=9OEWARyjfLAq15VnA9idTw'>KUPWARA</a>
+                    </td>
+                    <td align="right">
+                        26
+                    </td>
+                    <td align="right">
+                        2813
+                    </td>
+                    <td align="right">
+                        88003
+                    </td>
+                    <td align="right">
+                        90842
+                    </td>
+                    <td align="right">
+                        11
+                    </td>
+                    <td align="right">
+                        1727
+                    </td>
+                    <td align="right">
+                        45942
+                    </td>
+                    <td align="right">
+                        47680
+                    </td>
+                    
+                    <td align="right">
+                        27967
+                    </td>
+                    <td align="right">
+                        21
+                    </td>
+                    <td align="right">
+                        2801
+                    </td>
+                    <td align="right">
+                        79721
+                    </td>
+                    <td align="right">
+                        82543
+                    </td>
+                    <td align="right">
+                        575
+                    </td>
+                    <td align="right">
+                        81203
+                    </td>
+                    <td align="right">
+                        1972394
+                    </td>
+                    <td align="right">
+                        2054172
+                    </td>
+                    <td align="right">
+                        642200
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        12
+                    </td>
+                    <td align="right">
+                        295
+                    </td>
+                    <td align="right">
+                        307
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        13
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=LEH+(LADAKH)&district_code=1407&fin_year=2019-2020&source=national&typediv=0&Digest=Sp3rBXTacbDYlIk95lkowg'>LEH (LADAKH)</a>
+                    </td>
+                    <td align="right">
+                        4
+                    </td>
+                    <td align="right">
+                        16553
+                    </td>
+                    <td align="right">
+                        181
+                    </td>
+                    <td align="right">
+                        16738
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        12804
+                    </td>
+                    <td align="right">
+                        121
+                    </td>
+                    <td align="right">
+                        12926
+                    </td>
+                    
+                    <td align="right">
+                        10766
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        18642
+                    </td>
+                    <td align="right">
+                        161
+                    </td>
+                    <td align="right">
+                        18804
+                    </td>
+                    <td align="right">
+                        97
+                    </td>
+                    <td align="right">
+                        807357
+                    </td>
+                    <td align="right">
+                        6722
+                    </td>
+                    <td align="right">
+                        814176
+                    </td>
+                    <td align="right">
+                        476637
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        590
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        592
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        14
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=POONCH&district_code=1411&fin_year=2019-2020&source=national&typediv=0&Digest=k/o/gVUt//QS14jG4hTLCg'>POONCH</a>
+                    </td>
+                    <td align="right">
+                        69
+                    </td>
+                    <td align="right">
+                        25895
+                    </td>
+                    <td align="right">
+                        64406
+                    </td>
+                    <td align="right">
+                        90370
+                    </td>
+                    <td align="right">
+                        44
+                    </td>
+                    <td align="right">
+                        16448
+                    </td>
+                    <td align="right">
+                        40895
+                    </td>
+                    <td align="right">
+                        57387
+                    </td>
+                    
+                    <td align="right">
+                        35227
+                    </td>
+                    <td align="right">
+                        58
+                    </td>
+                    <td align="right">
+                        25510
+                    </td>
+                    <td align="right">
+                        64937
+                    </td>
+                    <td align="right">
+                        90505
+                    </td>
+                    <td align="right">
+                        2052
+                    </td>
+                    <td align="right">
+                        967648
+                    </td>
+                    <td align="right">
+                        2304275
+                    </td>
+                    <td align="right">
+                        3273975
+                    </td>
+                    <td align="right">
+                        1180021
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        532
+                    </td>
+                    <td align="right">
+                        1310
+                    </td>
+                    <td align="right">
+                        1844
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        15
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=PULWAMA&district_code=1405&fin_year=2019-2020&source=national&typediv=0&Digest=9adGWNaKv3uuXMt7S6CP+g'>PULWAMA</a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        2337
+                    </td>
+                    <td align="right">
+                        44982
+                    </td>
+                    <td align="right">
+                        47319
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        728
+                    </td>
+                    <td align="right">
+                        15728
+                    </td>
+                    <td align="right">
+                        16456
+                    </td>
+                    
+                    <td align="right">
+                        3312
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1207
+                    </td>
+                    <td align="right">
+                        20078
+                    </td>
+                    <td align="right">
+                        21285
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        24319
+                    </td>
+                    <td align="right">
+                        578564
+                    </td>
+                    <td align="right">
+                        602883
+                    </td>
+                    <td align="right">
+                        75908
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        97
+                    </td>
+                    <td align="right">
+                        99
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        16
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=RAJAURI&district_code=1412&fin_year=2019-2020&source=national&typediv=0&Digest=7fFbYLwwop+SQFZ7nQIGdg'>RAJAURI</a>
+                    </td>
+                    <td align="right">
+                        4552
+                    </td>
+                    <td align="right">
+                        35471
+                    </td>
+                    <td align="right">
+                        76304
+                    </td>
+                    <td align="right">
+                        116327
+                    </td>
+                    <td align="right">
+                        2376
+                    </td>
+                    <td align="right">
+                        20585
+                    </td>
+                    <td align="right">
+                        42440
+                    </td>
+                    <td align="right">
+                        65401
+                    </td>
+                    
+                    <td align="right">
+                        32803
+                    </td>
+                    <td align="right">
+                        3220
+                    </td>
+                    <td align="right">
+                        30144
+                    </td>
+                    <td align="right">
+                        62030
+                    </td>
+                    <td align="right">
+                        95394
+                    </td>
+                    <td align="right">
+                        122293
+                    </td>
+                    <td align="right">
+                        1111354
+                    </td>
+                    <td align="right">
+                        2246758
+                    </td>
+                    <td align="right">
+                        3480405
+                    </td>
+                    <td align="right">
+                        1127469
+                    </td>
+                    <td align="right">
+                        108
+                    </td>
+                    <td align="right">
+                        424
+                    </td>
+                    <td align="right">
+                        1054
+                    </td>
+                    <td align="right">
+                        1586
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        17
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=RAMBAN&district_code=1416&fin_year=2019-2020&source=national&typediv=0&Digest=8Ul1su9KSInN7ye/g1cIUw'>RAMBAN</a>
+                    </td>
+                    <td align="right">
+                        1324
+                    </td>
+                    <td align="right">
+                        4105
+                    </td>
+                    <td align="right">
+                        42827
+                    </td>
+                    <td align="right">
+                        48256
+                    </td>
+                    <td align="right">
+                        635
+                    </td>
+                    <td align="right">
+                        2043
+                    </td>
+                    <td align="right">
+                        22924
+                    </td>
+                    <td align="right">
+                        25602
+                    </td>
+                    
+                    <td align="right">
+                        12978
+                    </td>
+                    <td align="right">
+                        993
+                    </td>
+                    <td align="right">
+                        3247
+                    </td>
+                    <td align="right">
+                        36759
+                    </td>
+                    <td align="right">
+                        40999
+                    </td>
+                    <td align="right">
+                        30322
+                    </td>
+                    <td align="right">
+                        91763
+                    </td>
+                    <td align="right">
+                        979250
+                    </td>
+                    <td align="right">
+                        1101335
+                    </td>
+                    <td align="right">
+                        321255
+                    </td>
+                    <td align="right">
+                        12
+                    </td>
+                    <td align="right">
+                        32
+                    </td>
+                    <td align="right">
+                        270
+                    </td>
+                    <td align="right">
+                        314
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        18
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=REASI&district_code=1417&fin_year=2019-2020&source=national&typediv=0&Digest=Lr3EXup1VYVMo02Rko1GrA'>REASI</a>
+                    </td>
+                    <td align="right">
+                        4701
+                    </td>
+                    <td align="right">
+                        16463
+                    </td>
+                    <td align="right">
+                        41296
+                    </td>
+                    <td align="right">
+                        62460
+                    </td>
+                    <td align="right">
+                        2118
+                    </td>
+                    <td align="right">
+                        10839
+                    </td>
+                    <td align="right">
+                        24147
+                    </td>
+                    <td align="right">
+                        37104
+                    </td>
+                    
+                    <td align="right">
+                        23055
+                    </td>
+                    <td align="right">
+                        3357
+                    </td>
+                    <td align="right">
+                        17822
+                    </td>
+                    <td align="right">
+                        37429
+                    </td>
+                    <td align="right">
+                        58608
+                    </td>
+                    <td align="right">
+                        104841
+                    </td>
+                    <td align="right">
+                        561439
+                    </td>
+                    <td align="right">
+                        1131750
+                    </td>
+                    <td align="right">
+                        1798030
+                    </td>
+                    <td align="right">
+                        672077
+                    </td>
+                    <td align="right">
+                        45
+                    </td>
+                    <td align="right">
+                        285
+                    </td>
+                    <td align="right">
+                        502
+                    </td>
+                    <td align="right">
+                        832
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        19
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=SAMBA&district_code=1418&fin_year=2019-2020&source=national&typediv=0&Digest=eZfPcr7rdk21PsASAPBQew'>SAMBA</a>
+                    </td>
+                    <td align="right">
+                        5963
+                    </td>
+                    <td align="right">
+                        1123
+                    </td>
+                    <td align="right">
+                        16631
+                    </td>
+                    <td align="right">
+                        23717
+                    </td>
+                    <td align="right">
+                        1920
+                    </td>
+                    <td align="right">
+                        414
+                    </td>
+                    <td align="right">
+                        5041
+                    </td>
+                    <td align="right">
+                        7375
+                    </td>
+                    
+                    <td align="right">
+                        2729
+                    </td>
+                    <td align="right">
+                        2442
+                    </td>
+                    <td align="right">
+                        565
+                    </td>
+                    <td align="right">
+                        6235
+                    </td>
+                    <td align="right">
+                        9242
+                    </td>
+                    <td align="right">
+                        67644
+                    </td>
+                    <td align="right">
+                        17295
+                    </td>
+                    <td align="right">
+                        176099
+                    </td>
+                    <td align="right">
+                        261038
+                    </td>
+                    <td align="right">
+                        70473
+                    </td>
+                    <td align="right">
+                        24
+                    </td>
+                    <td align="right">
+                        14
+                    </td>
+                    <td align="right">
+                        39
+                    </td>
+                    <td align="right">
+                        77
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        20
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=SHOPIAN&district_code=1422&fin_year=2019-2020&source=national&typediv=0&Digest=838hVcFkfiIKWE9BPOMcsw'>SHOPIAN</a>
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        853
+                    </td>
+                    <td align="right">
+                        26975
+                    </td>
+                    <td align="right">
+                        27829
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        279
+                    </td>
+                    <td align="right">
+                        11841
+                    </td>
+                    <td align="right">
+                        12120
+                    </td>
+                    
+                    <td align="right">
+                        1476
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        347
+                    </td>
+                    <td align="right">
+                        13660
+                    </td>
+                    <td align="right">
+                        14007
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        10357
+                    </td>
+                    <td align="right">
+                        405272
+                    </td>
+                    <td align="right">
+                        415629
+                    </td>
+                    <td align="right">
+                        41276
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        39
+                    </td>
+                    <td align="right">
+                        39
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        21
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=SRINAGAR&district_code=1403&fin_year=2019-2020&source=national&typediv=0&Digest=+Ehc2eFfgiHtug2yPCsFmg'>SRINAGAR</a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        473
+                    </td>
+                    <td align="right">
+                        3102
+                    </td>
+                    <td align="right">
+                        3575
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        186
+                    </td>
+                    <td align="right">
+                        1010
+                    </td>
+                    <td align="right">
+                        1196
+                    </td>
+                    
+                    <td align="right">
+                        400
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        310
+                    </td>
+                    <td align="right">
+                        1297
+                    </td>
+                    <td align="right">
+                        1607
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        8003
+                    </td>
+                    <td align="right">
+                        36222
+                    </td>
+                    <td align="right">
+                        44225
+                    </td>
+                    <td align="right">
+                        10108
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        7
+                    </td>
+                    <td align="right">
+                        9
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        22
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=UDHAMPUR&district_code=1410&fin_year=2019-2020&source=national&typediv=0&Digest=NRLltJ2JsHvnk/2TJBNx9w'>UDHAMPUR</a>
+                    </td>
+                    <td align="right">
+                        16572
+                    </td>
+                    <td align="right">
+                        7619
+                    </td>
+                    <td align="right">
+                        38513
+                    </td>
+                    <td align="right">
+                        62704
+                    </td>
+                    <td align="right">
+                        7248
+                    </td>
+                    <td align="right">
+                        3478
+                    </td>
+                    <td align="right">
+                        16320
+                    </td>
+                    <td align="right">
+                        27046
+                    </td>
+                    
+                    <td align="right">
+                        6402
+                    </td>
+                    <td align="right">
+                        9372
+                    </td>
+                    <td align="right">
+                        4525
+                    </td>
+                    <td align="right">
+                        20847
+                    </td>
+                    <td align="right">
+                        34744
+                    </td>
+                    <td align="right">
+                        259391
+                    </td>
+                    <td align="right">
+                        133856
+                    </td>
+                    <td align="right">
+                        604561
+                    </td>
+                    <td align="right">
+                        997808
+                    </td>
+                    <td align="right">
+                        167612
+                    </td>
+                    <td align="right">
+                        42
+                    </td>
+                    <td align="right">
+                        53
+                    </td>
+                    <td align="right">
+                        180
+                    </td>
+                    <td align="right">
+                        275
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        79566
+                    </td>
+                    <td align="right">
+                        178217
+                    </td>
+                    <td align="right">
+                        1010108
+                    </td>
+                    <td align="right">
+                        1267891
+                    </td>
+                    <td align="right">
+                        34150
+                    </td>
+                    <td align="right">
+                        110929
+                    </td>
+                    <td align="right">
+                        487779
+                    </td>
+                    <td align="right">
+                        632858
+                    </td>
+                    
+                    <td align="right">
+                        308085
+                    </td>
+                    <td align="right">
+                        44786
+                    </td>
+                    <td align="right">
+                        156521
+                    </td>
+                    <td align="right">
+                        719635
+                    </td>
+                    <td align="right">
+                        920942
+                    </td>
+                    <td align="right">
+                        1531829
+                    </td>
+                    <td align="right">
+                        6236929
+                    </td>
+                    <td align="right">
+                        23571998
+                    </td>
+                    <td align="right">
+                        31340756
+                    </td>
+                    <td align="right">
+                        10319692
+                    </td>
+                    <td align="right">
+                        731
+                    </td>
+                    <td align="right">
+                        2575
+                    </td>
+                    <td align="right">
+                        9573
+                    </td>
+                    <td align="right">
+                        12879
+                    </td>
+                </tr>
+            
+                </table>
+            

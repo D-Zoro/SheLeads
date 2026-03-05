@@ -1,0 +1,346 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl28$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl28$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl28$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl28$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl28$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">308957</td>
+                <td align="right">3123634</td>
+                <td align="right">3398112</td>
+                 <td align="right">2030461</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=BOKARO&district_code=3420&fin_year=2019-2020&source=national&Digest=Ji1JMvydVexJo1gC0Q9Seg'>BOKARO</a></td>
+                <td align="right">6012</td>
+                <td align="right">112746</td>
+                <td align="right">159284</td>
+                 <td align="right">94424</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=CHATRA&district_code=3417&fin_year=2019-2020&source=national&Digest=oCO1R9kmjt6TsfUbNL/4vA'>CHATRA</a></td>
+                <td align="right">13475</td>
+                <td align="right">133208</td>
+                <td align="right">141351</td>
+                 <td align="right">108631</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=DEOGHAR&district_code=3422&fin_year=2019-2020&source=national&Digest=1FLyv30b9eIOcFFNpQox7Q'>DEOGHAR</a></td>
+                <td align="right">22086</td>
+                <td align="right">149643</td>
+                <td align="right">187250</td>
+                 <td align="right">107571</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=DHANBAD&district_code=3421&fin_year=2019-2020&source=national&Digest=dS8tFDZSSgkYKrmyXwynNQ'>DHANBAD</a></td>
+                <td align="right">3464</td>
+                <td align="right">96770</td>
+                <td align="right">126756</td>
+                 <td align="right">72303</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=DUMKA&district_code=3411&fin_year=2019-2020&source=national&Digest=x5tRMW4LojF7aeSZFfoUfg'>DUMKA</a></td>
+                <td align="right">30706</td>
+                <td align="right">189750</td>
+                <td align="right">157869</td>
+                 <td align="right">86517</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=EAST+SINGHBUM&district_code=3410&fin_year=2019-2020&source=national&Digest=cjcUPsZM1koJCIUCi+oC2w'>EAST SINGHBUM</a></td>
+                <td align="right">13551</td>
+                <td align="right">160941</td>
+                <td align="right">150765</td>
+                 <td align="right">77578</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=GARHWA&district_code=3407&fin_year=2019-2020&source=national&Digest=yh4pz5LriYwgqxrgWG/v8Q'>GARHWA</a></td>
+                <td align="right">23332</td>
+                <td align="right">208273</td>
+                <td align="right">211332</td>
+                 <td align="right">154712</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=GIRIDIH&district_code=3419&fin_year=2019-2020&source=national&Digest=FCc+aCSLZqXOQk1Xl0QCAw'>GIRIDIH</a></td>
+                <td align="right">3125</td>
+                <td align="right">219775</td>
+                <td align="right">287501</td>
+                 <td align="right">184771</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">9</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=GODDA&district_code=3415&fin_year=2019-2020&source=national&Digest=PUyxaxPsYWr8hB+Jnovzpw'>GODDA</a></td>
+                <td align="right">9546</td>
+                <td align="right">119824</td>
+                <td align="right">143098</td>
+                 <td align="right">77718</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">10</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=GUMLA&district_code=3403&fin_year=2019-2020&source=national&Digest=S2T/AIr+WUzGiifCVzaIcg'>GUMLA</a></td>
+                <td align="right">15663</td>
+                <td align="right">133432</td>
+                <td align="right">126943</td>
+                 <td align="right">63721</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">11</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=HAZARIBAGH&district_code=3416&fin_year=2019-2020&source=national&Digest=a07Yxvj0E6xqp6wEEm62Sg'>HAZARIBAGH</a></td>
+                <td align="right">19344</td>
+                <td align="right">158209</td>
+                <td align="right">182979</td>
+                 <td align="right">108167</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">12</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=JAMTARA&district_code=3412&fin_year=2019-2020&source=national&Digest=yTlUqi8dByV7IR1YvXJbFQ'>JAMTARA</a></td>
+                <td align="right">1814</td>
+                <td align="right">78245</td>
+                <td align="right">109754</td>
+                 <td align="right">82405</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">13</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=KHUNTI&district_code=3424&fin_year=2019-2020&source=national&Digest=v+7iGjfT4l8QUAXNlD9sPg'>KHUNTI</a></td>
+                <td align="right">6571</td>
+                <td align="right">63741</td>
+                <td align="right">63962</td>
+                 <td align="right">31849</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">14</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=KODERMA&district_code=3418&fin_year=2019-2020&source=national&Digest=DMeupZApkMe+ai7QKrTmhg'>KODERMA</a></td>
+                <td align="right">1729</td>
+                <td align="right">59491</td>
+                <td align="right">68903</td>
+                 <td align="right">41539</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">15</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=LATEHAR&district_code=3406&fin_year=2019-2020&source=national&Digest=gIkXjKwbWMlpXjwgr/4Hlw'>LATEHAR</a></td>
+                <td align="right">6148</td>
+                <td align="right">95028</td>
+                <td align="right">110875</td>
+                 <td align="right">82500</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">16</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=LOHARDAGA&district_code=3402&fin_year=2019-2020&source=national&Digest=ld3qgSNsFRIrb47hsqStuw'>LOHARDAGA</a></td>
+                <td align="right">12974</td>
+                <td align="right">71214</td>
+                <td align="right">71876</td>
+                 <td align="right">37934</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">17</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=PAKUR&district_code=3414&fin_year=2019-2020&source=national&Digest=ps+0UyALb2OTsXNKWhXcxw'>PAKUR</a></td>
+                <td align="right">34614</td>
+                <td align="right">116416</td>
+                <td align="right">111938</td>
+                 <td align="right">58676</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">18</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=PALAMU&district_code=3405&fin_year=2019-2020&source=national&Digest=XqUas6tGW5EGwlSWF7pyvA'>PALAMU</a></td>
+                <td align="right">13513</td>
+                <td align="right">198807</td>
+                <td align="right">201762</td>
+                 <td align="right">132581</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">19</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=RAMGARH&district_code=3423&fin_year=2019-2020&source=national&Digest=i8o4FzAsYX8RwZHYJyaztA'>RAMGARH</a></td>
+                <td align="right">2478</td>
+                <td align="right">56459</td>
+                <td align="right">70035</td>
+                 <td align="right">42510</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">20</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=RANCHI&district_code=3401&fin_year=2019-2020&source=national&Digest=mvOtez7tbh68r34Z0gas9g'>RANCHI</a></td>
+                <td align="right">22867</td>
+                <td align="right">208777</td>
+                <td align="right">189874</td>
+                 <td align="right">95031</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">21</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=SAHEBGANJ&district_code=3413&fin_year=2019-2020&source=national&Digest=uOx7JmdX00N8x8D8eQtIlw'>SAHEBGANJ</a></td>
+                <td align="right">3914</td>
+                <td align="right">105631</td>
+                <td align="right">132250</td>
+                 <td align="right">70003</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">22</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=SARAIKELA+KHARSAWAN&district_code=3409&fin_year=2019-2020&source=national&Digest=FSPFjU6vuE1whqE66sUKyw'>SARAIKELA KHARSAWAN</a></td>
+                <td align="right">5492</td>
+                <td align="right">117331</td>
+                <td align="right">137848</td>
+                 <td align="right">78340</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">23</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=SIMDEGA&district_code=3404&fin_year=2019-2020&source=national&Digest=4QYkSPUHE8tybTEyz+dmKQ'>SIMDEGA</a></td>
+                <td align="right">29022</td>
+                <td align="right">104559</td>
+                <td align="right">87378</td>
+                 <td align="right">55212</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">24</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JHARKHAND&state_code=34&district_name=WEST+SINGHBHUM&district_code=3408&fin_year=2019-2020&source=national&Digest=7c1lxvr0h7Gqsj3gQ5wosQ'>WEST SINGHBHUM</a></td>
+                <td align="right">7517</td>
+                <td align="right">165364</td>
+                <td align="right">166529</td>
+                 <td align="right">85768</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">308957</td>
+                <td align="right">3123634</td>
+                <td align="right">3398112</td>
+                 <td align="right">2030461</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

@@ -1,0 +1,1336 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KERALA&state_code=16&district_name=ALAPPUZHA&district_code=1611&fin_year=2019-2020&source=national&typediv=0&Digest=GPUgT1bpJQamqMe65xmheg'>ALAPPUZHA</a>
+                    </td>
+                    <td align="right">
+                        31813
+                    </td>
+                    <td align="right">
+                        746
+                    </td>
+                    <td align="right">
+                        245023
+                    </td>
+                    <td align="right">
+                        277582
+                    </td>
+                    <td align="right">
+                        19090
+                    </td>
+                    <td align="right">
+                        558
+                    </td>
+                    <td align="right">
+                        122999
+                    </td>
+                    <td align="right">
+                        142647
+                    </td>
+                    
+                    <td align="right">
+                        145196
+                    </td>
+                    <td align="right">
+                        21759
+                    </td>
+                    <td align="right">
+                        801
+                    </td>
+                    <td align="right">
+                        137443
+                    </td>
+                    <td align="right">
+                        160003
+                    </td>
+                    <td align="right">
+                        983461
+                    </td>
+                    <td align="right">
+                        49534
+                    </td>
+                    <td align="right">
+                        6524411
+                    </td>
+                    <td align="right">
+                        7557406
+                    </td>
+                    <td align="right">
+                        7070843
+                    </td>
+                    <td align="right">
+                        1866
+                    </td>
+                    <td align="right">
+                        232
+                    </td>
+                    <td align="right">
+                        12086
+                    </td>
+                    <td align="right">
+                        14184
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KERALA&state_code=16&district_name=ERNAKULAM&district_code=1608&fin_year=2019-2020&source=national&typediv=0&Digest=J55lkIdggVI9/wyxL+C/gw'>ERNAKULAM</a>
+                    </td>
+                    <td align="right">
+                        35972
+                    </td>
+                    <td align="right">
+                        2398
+                    </td>
+                    <td align="right">
+                        201171
+                    </td>
+                    <td align="right">
+                        239541
+                    </td>
+                    <td align="right">
+                        14288
+                    </td>
+                    <td align="right">
+                        1412
+                    </td>
+                    <td align="right">
+                        64102
+                    </td>
+                    <td align="right">
+                        79802
+                    </td>
+                    
+                    <td align="right">
+                        76244
+                    </td>
+                    <td align="right">
+                        15817
+                    </td>
+                    <td align="right">
+                        1933
+                    </td>
+                    <td align="right">
+                        71880
+                    </td>
+                    <td align="right">
+                        89630
+                    </td>
+                    <td align="right">
+                        873363
+                    </td>
+                    <td align="right">
+                        99307
+                    </td>
+                    <td align="right">
+                        3630559
+                    </td>
+                    <td align="right">
+                        4603229
+                    </td>
+                    <td align="right">
+                        4186243
+                    </td>
+                    <td align="right">
+                        3119
+                    </td>
+                    <td align="right">
+                        323
+                    </td>
+                    <td align="right">
+                        12795
+                    </td>
+                    <td align="right">
+                        16237
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KERALA&state_code=16&district_name=IDUKKI&district_code=1609&fin_year=2019-2020&source=national&typediv=0&Digest=hWnN8KTlOAKZYdXDQ6bBSA'>IDUKKI</a>
+                    </td>
+                    <td align="right">
+                        22483
+                    </td>
+                    <td align="right">
+                        16180
+                    </td>
+                    <td align="right">
+                        159673
+                    </td>
+                    <td align="right">
+                        198336
+                    </td>
+                    <td align="right">
+                        12736
+                    </td>
+                    <td align="right">
+                        11232
+                    </td>
+                    <td align="right">
+                        84799
+                    </td>
+                    <td align="right">
+                        108767
+                    </td>
+                    
+                    <td align="right">
+                        101819
+                    </td>
+                    <td align="right">
+                        16079
+                    </td>
+                    <td align="right">
+                        16754
+                    </td>
+                    <td align="right">
+                        119274
+                    </td>
+                    <td align="right">
+                        152107
+                    </td>
+                    <td align="right">
+                        583239
+                    </td>
+                    <td align="right">
+                        925545
+                    </td>
+                    <td align="right">
+                        4478047
+                    </td>
+                    <td align="right">
+                        5986831
+                    </td>
+                    <td align="right">
+                        4390680
+                    </td>
+                    <td align="right">
+                        1000
+                    </td>
+                    <td align="right">
+                        3811
+                    </td>
+                    <td align="right">
+                        11001
+                    </td>
+                    <td align="right">
+                        15812
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        4
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KERALA&state_code=16&district_name=KANNUR&district_code=1602&fin_year=2019-2020&source=national&typediv=0&Digest=SHISAuhH3JoPfXYZ5w7ZmA'>KANNUR</a>
+                    </td>
+                    <td align="right">
+                        7720
+                    </td>
+                    <td align="right">
+                        9703
+                    </td>
+                    <td align="right">
+                        205846
+                    </td>
+                    <td align="right">
+                        223269
+                    </td>
+                    <td align="right">
+                        2980
+                    </td>
+                    <td align="right">
+                        5522
+                    </td>
+                    <td align="right">
+                        71505
+                    </td>
+                    <td align="right">
+                        80007
+                    </td>
+                    
+                    <td align="right">
+                        78396
+                    </td>
+                    <td align="right">
+                        3275
+                    </td>
+                    <td align="right">
+                        7028
+                    </td>
+                    <td align="right">
+                        77353
+                    </td>
+                    <td align="right">
+                        87656
+                    </td>
+                    <td align="right">
+                        157850
+                    </td>
+                    <td align="right">
+                        384458
+                    </td>
+                    <td align="right">
+                        3757203
+                    </td>
+                    <td align="right">
+                        4299511
+                    </td>
+                    <td align="right">
+                        4098202
+                    </td>
+                    <td align="right">
+                        472
+                    </td>
+                    <td align="right">
+                        1358
+                    </td>
+                    <td align="right">
+                        12890
+                    </td>
+                    <td align="right">
+                        14720
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        5
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KERALA&state_code=16&district_name=KASARGOD&district_code=1601&fin_year=2019-2020&source=national&typediv=0&Digest=2GKJHGGpQ23Jvoo1gmgUJQ'>KASARGOD</a>
+                    </td>
+                    <td align="right">
+                        6366
+                    </td>
+                    <td align="right">
+                        17217
+                    </td>
+                    <td align="right">
+                        134636
+                    </td>
+                    <td align="right">
+                        158219
+                    </td>
+                    <td align="right">
+                        2851
+                    </td>
+                    <td align="right">
+                        9633
+                    </td>
+                    <td align="right">
+                        54358
+                    </td>
+                    <td align="right">
+                        66842
+                    </td>
+                    
+                    <td align="right">
+                        63576
+                    </td>
+                    <td align="right">
+                        3240
+                    </td>
+                    <td align="right">
+                        12153
+                    </td>
+                    <td align="right">
+                        61845
+                    </td>
+                    <td align="right">
+                        77238
+                    </td>
+                    <td align="right">
+                        166865
+                    </td>
+                    <td align="right">
+                        693574
+                    </td>
+                    <td align="right">
+                        3010678
+                    </td>
+                    <td align="right">
+                        3871117
+                    </td>
+                    <td align="right">
+                        3540412
+                    </td>
+                    <td align="right">
+                        489
+                    </td>
+                    <td align="right">
+                        2668
+                    </td>
+                    <td align="right">
+                        10160
+                    </td>
+                    <td align="right">
+                        13317
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        6
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KERALA&state_code=16&district_name=KOLLAM&district_code=1613&fin_year=2019-2020&source=national&typediv=0&Digest=HiHV5Puz2WqcU3FeH8sk/A'>KOLLAM</a>
+                    </td>
+                    <td align="right">
+                        34817
+                    </td>
+                    <td align="right">
+                        1675
+                    </td>
+                    <td align="right">
+                        329161
+                    </td>
+                    <td align="right">
+                        365653
+                    </td>
+                    <td align="right">
+                        16886
+                    </td>
+                    <td align="right">
+                        1207
+                    </td>
+                    <td align="right">
+                        125717
+                    </td>
+                    <td align="right">
+                        143810
+                    </td>
+                    
+                    <td align="right">
+                        135041
+                    </td>
+                    <td align="right">
+                        19586
+                    </td>
+                    <td align="right">
+                        1535
+                    </td>
+                    <td align="right">
+                        142807
+                    </td>
+                    <td align="right">
+                        163928
+                    </td>
+                    <td align="right">
+                        967155
+                    </td>
+                    <td align="right">
+                        90310
+                    </td>
+                    <td align="right">
+                        6466969
+                    </td>
+                    <td align="right">
+                        7524434
+                    </td>
+                    <td align="right">
+                        6641594
+                    </td>
+                    <td align="right">
+                        3517
+                    </td>
+                    <td align="right">
+                        279
+                    </td>
+                    <td align="right">
+                        24129
+                    </td>
+                    <td align="right">
+                        27925
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        7
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KERALA&state_code=16&district_name=KOTTAYAM&district_code=1610&fin_year=2019-2020&source=national&typediv=0&Digest=iIEN5V6+sAPM7j6obR60lw'>KOTTAYAM</a>
+                    </td>
+                    <td align="right">
+                        18139
+                    </td>
+                    <td align="right">
+                        4562
+                    </td>
+                    <td align="right">
+                        173088
+                    </td>
+                    <td align="right">
+                        195789
+                    </td>
+                    <td align="right">
+                        7751
+                    </td>
+                    <td align="right">
+                        1785
+                    </td>
+                    <td align="right">
+                        52136
+                    </td>
+                    <td align="right">
+                        61672
+                    </td>
+                    
+                    <td align="right">
+                        60662
+                    </td>
+                    <td align="right">
+                        8796
+                    </td>
+                    <td align="right">
+                        2279
+                    </td>
+                    <td align="right">
+                        58796
+                    </td>
+                    <td align="right">
+                        69871
+                    </td>
+                    <td align="right">
+                        459239
+                    </td>
+                    <td align="right">
+                        133017
+                    </td>
+                    <td align="right">
+                        3251346
+                    </td>
+                    <td align="right">
+                        3843602
+                    </td>
+                    <td align="right">
+                        3585113
+                    </td>
+                    <td align="right">
+                        1461
+                    </td>
+                    <td align="right">
+                        573
+                    </td>
+                    <td align="right">
+                        12690
+                    </td>
+                    <td align="right">
+                        14724
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        8
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KERALA&state_code=16&district_name=KOZHIKODE&district_code=1604&fin_year=2019-2020&source=national&typediv=0&Digest=CUvS29uWmlglAiBfvHb83Q'>KOZHIKODE</a>
+                    </td>
+                    <td align="right">
+                        26499
+                    </td>
+                    <td align="right">
+                        3579
+                    </td>
+                    <td align="right">
+                        279095
+                    </td>
+                    <td align="right">
+                        309173
+                    </td>
+                    <td align="right">
+                        14244
+                    </td>
+                    <td align="right">
+                        1960
+                    </td>
+                    <td align="right">
+                        125355
+                    </td>
+                    <td align="right">
+                        141559
+                    </td>
+                    
+                    <td align="right">
+                        133704
+                    </td>
+                    <td align="right">
+                        16031
+                    </td>
+                    <td align="right">
+                        2469
+                    </td>
+                    <td align="right">
+                        138614
+                    </td>
+                    <td align="right">
+                        157114
+                    </td>
+                    <td align="right">
+                        986048
+                    </td>
+                    <td align="right">
+                        180919
+                    </td>
+                    <td align="right">
+                        7243608
+                    </td>
+                    <td align="right">
+                        8410575
+                    </td>
+                    <td align="right">
+                        7807228
+                    </td>
+                    <td align="right">
+                        3958
+                    </td>
+                    <td align="right">
+                        857
+                    </td>
+                    <td align="right">
+                        26633
+                    </td>
+                    <td align="right">
+                        31448
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        9
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KERALA&state_code=16&district_name=MALAPPURAM&district_code=1605&fin_year=2019-2020&source=national&typediv=0&Digest=NGFLajiV3V8pn9kMRei/XA'>MALAPPURAM</a>
+                    </td>
+                    <td align="right">
+                        46776
+                    </td>
+                    <td align="right">
+                        3657
+                    </td>
+                    <td align="right">
+                        280703
+                    </td>
+                    <td align="right">
+                        331136
+                    </td>
+                    <td align="right">
+                        23098
+                    </td>
+                    <td align="right">
+                        2132
+                    </td>
+                    <td align="right">
+                        61914
+                    </td>
+                    <td align="right">
+                        87144
+                    </td>
+                    
+                    <td align="right">
+                        78116
+                    </td>
+                    <td align="right">
+                        25160
+                    </td>
+                    <td align="right">
+                        2860
+                    </td>
+                    <td align="right">
+                        68500
+                    </td>
+                    <td align="right">
+                        96520
+                    </td>
+                    <td align="right">
+                        1624978
+                    </td>
+                    <td align="right">
+                        154002
+                    </td>
+                    <td align="right">
+                        3113980
+                    </td>
+                    <td align="right">
+                        4892960
+                    </td>
+                    <td align="right">
+                        4415840
+                    </td>
+                    <td align="right">
+                        7410
+                    </td>
+                    <td align="right">
+                        566
+                    </td>
+                    <td align="right">
+                        12745
+                    </td>
+                    <td align="right">
+                        20721
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        10
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KERALA&state_code=16&district_name=PALAKKAD&district_code=1606&fin_year=2019-2020&source=national&typediv=0&Digest=sT9wDZhMnTFeN1VHAZd4mQ'>PALAKKAD</a>
+                    </td>
+                    <td align="right">
+                        78209
+                    </td>
+                    <td align="right">
+                        16402
+                    </td>
+                    <td align="right">
+                        264594
+                    </td>
+                    <td align="right">
+                        359205
+                    </td>
+                    <td align="right">
+                        41942
+                    </td>
+                    <td align="right">
+                        9964
+                    </td>
+                    <td align="right">
+                        102989
+                    </td>
+                    <td align="right">
+                        154895
+                    </td>
+                    
+                    <td align="right">
+                        151872
+                    </td>
+                    <td align="right">
+                        46321
+                    </td>
+                    <td align="right">
+                        13508
+                    </td>
+                    <td align="right">
+                        116531
+                    </td>
+                    <td align="right">
+                        176360
+                    </td>
+                    <td align="right">
+                        1961149
+                    </td>
+                    <td align="right">
+                        890401
+                    </td>
+                    <td align="right">
+                        4342475
+                    </td>
+                    <td align="right">
+                        7194025
+                    </td>
+                    <td align="right">
+                        6433955
+                    </td>
+                    <td align="right">
+                        3213
+                    </td>
+                    <td align="right">
+                        3983
+                    </td>
+                    <td align="right">
+                        5740
+                    </td>
+                    <td align="right">
+                        12936
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        11
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KERALA&state_code=16&district_name=PATHANAMTHITTA&district_code=1612&fin_year=2019-2020&source=national&typediv=0&Digest=lGlkXf4hR8AsexUy+wtEAA'>PATHANAMTHITTA</a>
+                    </td>
+                    <td align="right">
+                        24050
+                    </td>
+                    <td align="right">
+                        1588
+                    </td>
+                    <td align="right">
+                        119298
+                    </td>
+                    <td align="right">
+                        144936
+                    </td>
+                    <td align="right">
+                        12605
+                    </td>
+                    <td align="right">
+                        819
+                    </td>
+                    <td align="right">
+                        38536
+                    </td>
+                    <td align="right">
+                        51960
+                    </td>
+                    
+                    <td align="right">
+                        51624
+                    </td>
+                    <td align="right">
+                        14693
+                    </td>
+                    <td align="right">
+                        1009
+                    </td>
+                    <td align="right">
+                        43816
+                    </td>
+                    <td align="right">
+                        59518
+                    </td>
+                    <td align="right">
+                        769131
+                    </td>
+                    <td align="right">
+                        57018
+                    </td>
+                    <td align="right">
+                        2321723
+                    </td>
+                    <td align="right">
+                        3147872
+                    </td>
+                    <td align="right">
+                        2884013
+                    </td>
+                    <td align="right">
+                        2526
+                    </td>
+                    <td align="right">
+                        196
+                    </td>
+                    <td align="right">
+                        7232
+                    </td>
+                    <td align="right">
+                        9954
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        12
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KERALA&state_code=16&district_name=THIRUVANANTHAPURAM&district_code=1614&fin_year=2019-2020&source=national&typediv=0&Digest=3+DIqQ+SaveWnkVizwG48Q'>THIRUVANANTHAPURAM</a>
+                    </td>
+                    <td align="right">
+                        38688
+                    </td>
+                    <td align="right">
+                        6106
+                    </td>
+                    <td align="right">
+                        357813
+                    </td>
+                    <td align="right">
+                        402607
+                    </td>
+                    <td align="right">
+                        20590
+                    </td>
+                    <td align="right">
+                        4486
+                    </td>
+                    <td align="right">
+                        148636
+                    </td>
+                    <td align="right">
+                        173712
+                    </td>
+                    
+                    <td align="right">
+                        168407
+                    </td>
+                    <td align="right">
+                        23205
+                    </td>
+                    <td align="right">
+                        5806
+                    </td>
+                    <td align="right">
+                        168625
+                    </td>
+                    <td align="right">
+                        197636
+                    </td>
+                    <td align="right">
+                        1109266
+                    </td>
+                    <td align="right">
+                        394674
+                    </td>
+                    <td align="right">
+                        8428513
+                    </td>
+                    <td align="right">
+                        9932453
+                    </td>
+                    <td align="right">
+                        8872427
+                    </td>
+                    <td align="right">
+                        2170
+                    </td>
+                    <td align="right">
+                        1727
+                    </td>
+                    <td align="right">
+                        19286
+                    </td>
+                    <td align="right">
+                        23183
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        13
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KERALA&state_code=16&district_name=THRISSUR&district_code=1607&fin_year=2019-2020&source=national&typediv=0&Digest=CDKiju0DJ2tmgjKZwDFQGg'>THRISSUR</a>
+                    </td>
+                    <td align="right">
+                        64232
+                    </td>
+                    <td align="right">
+                        1672
+                    </td>
+                    <td align="right">
+                        221275
+                    </td>
+                    <td align="right">
+                        287179
+                    </td>
+                    <td align="right">
+                        23976
+                    </td>
+                    <td align="right">
+                        939
+                    </td>
+                    <td align="right">
+                        61096
+                    </td>
+                    <td align="right">
+                        86011
+                    </td>
+                    
+                    <td align="right">
+                        82164
+                    </td>
+                    <td align="right">
+                        26312
+                    </td>
+                    <td align="right">
+                        1300
+                    </td>
+                    <td align="right">
+                        67085
+                    </td>
+                    <td align="right">
+                        94697
+                    </td>
+                    <td align="right">
+                        1643743
+                    </td>
+                    <td align="right">
+                        75774
+                    </td>
+                    <td align="right">
+                        3563409
+                    </td>
+                    <td align="right">
+                        5282926
+                    </td>
+                    <td align="right">
+                        4916114
+                    </td>
+                    <td align="right">
+                        7290
+                    </td>
+                    <td align="right">
+                        305
+                    </td>
+                    <td align="right">
+                        15099
+                    </td>
+                    <td align="right">
+                        22694
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        14
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KERALA&state_code=16&district_name=WAYANAD&district_code=1603&fin_year=2019-2020&source=national&typediv=0&Digest=ZGCNtrjPh45ZVzkJqM1y+Q'>WAYANAD</a>
+                    </td>
+                    <td align="right">
+                        4817
+                    </td>
+                    <td align="right">
+                        40010
+                    </td>
+                    <td align="right">
+                        101771
+                    </td>
+                    <td align="right">
+                        146598
+                    </td>
+                    <td align="right">
+                        2477
+                    </td>
+                    <td align="right">
+                        19945
+                    </td>
+                    <td align="right">
+                        37878
+                    </td>
+                    <td align="right">
+                        60300
+                    </td>
+                    
+                    <td align="right">
+                        55587
+                    </td>
+                    <td align="right">
+                        2918
+                    </td>
+                    <td align="right">
+                        24180
+                    </td>
+                    <td align="right">
+                        44753
+                    </td>
+                    <td align="right">
+                        71851
+                    </td>
+                    <td align="right">
+                        161665
+                    </td>
+                    <td align="right">
+                        1399198
+                    </td>
+                    <td align="right">
+                        2121895
+                    </td>
+                    <td align="right">
+                        3682758
+                    </td>
+                    <td align="right">
+                        3205099
+                    </td>
+                    <td align="right">
+                        575
+                    </td>
+                    <td align="right">
+                        4848
+                    </td>
+                    <td align="right">
+                        7863
+                    </td>
+                    <td align="right">
+                        13286
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        440581
+                    </td>
+                    <td align="right">
+                        125495
+                    </td>
+                    <td align="right">
+                        3073147
+                    </td>
+                    <td align="right">
+                        3639223
+                    </td>
+                    <td align="right">
+                        215514
+                    </td>
+                    <td align="right">
+                        71594
+                    </td>
+                    <td align="right">
+                        1152020
+                    </td>
+                    <td align="right">
+                        1439128
+                    </td>
+                    
+                    <td align="right">
+                        1382408
+                    </td>
+                    <td align="right">
+                        243192
+                    </td>
+                    <td align="right">
+                        93615
+                    </td>
+                    <td align="right">
+                        1317322
+                    </td>
+                    <td align="right">
+                        1654129
+                    </td>
+                    <td align="right">
+                        12447152
+                    </td>
+                    <td align="right">
+                        5527731
+                    </td>
+                    <td align="right">
+                        62254816
+                    </td>
+                    <td align="right">
+                        80229699
+                    </td>
+                    <td align="right">
+                        72047763
+                    </td>
+                    <td align="right">
+                        39066
+                    </td>
+                    <td align="right">
+                        21726
+                    </td>
+                    <td align="right">
+                        190349
+                    </td>
+                    <td align="right">
+                        251141
+                    </td>
+                </tr>
+            
+                </table>
+            

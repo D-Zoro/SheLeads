@@ -1,0 +1,880 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MIZORAM&state_code=22&district_name=AIZAWL&district_code=2201&fin_year=2019-2020&source=national&typediv=0&Digest=pWkCVtb8Z8HDrpR+hnYJhQ'>AIZAWL</a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        27241
+                    </td>
+                    <td align="right">
+                        214
+                    </td>
+                    <td align="right">
+                        27455
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        28054
+                    </td>
+                    <td align="right">
+                        214
+                    </td>
+                    <td align="right">
+                        28268
+                    </td>
+                    
+                    <td align="right">
+                        17755
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        30148
+                    </td>
+                    <td align="right">
+                        223
+                    </td>
+                    <td align="right">
+                        30371
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        2664530
+                    </td>
+                    <td align="right">
+                        18835
+                    </td>
+                    <td align="right">
+                        2683365
+                    </td>
+                    <td align="right">
+                        1501268
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        24634
+                    </td>
+                    <td align="right">
+                        172
+                    </td>
+                    <td align="right">
+                        24806
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MIZORAM&state_code=22&district_name=CHAMPHAI+&district_code=2206&fin_year=2019-2020&source=national&typediv=0&Digest=lDexYdIJSEkGjGUFVIn6fQ'>CHAMPHAI </a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        29744
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        29744
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        30760
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        30760
+                    </td>
+                    
+                    <td align="right">
+                        16902
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        30936
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        30936
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        2877082
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        2877082
+                    </td>
+                    <td align="right">
+                        1536059
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        16223
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        16223
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MIZORAM&state_code=22&district_name=KOLASIB&district_code=2205&fin_year=2019-2020&source=national&typediv=0&Digest=H3tz5Bc8VqIzrh6Pjat1aw'>KOLASIB</a>
+                    </td>
+                    <td align="right">
+                        6
+                    </td>
+                    <td align="right">
+                        19312
+                    </td>
+                    <td align="right">
+                        82
+                    </td>
+                    <td align="right">
+                        19400
+                    </td>
+                    <td align="right">
+                        6
+                    </td>
+                    <td align="right">
+                        19766
+                    </td>
+                    <td align="right">
+                        83
+                    </td>
+                    <td align="right">
+                        19855
+                    </td>
+                    
+                    <td align="right">
+                        9643
+                    </td>
+                    <td align="right">
+                        6
+                    </td>
+                    <td align="right">
+                        20243
+                    </td>
+                    <td align="right">
+                        85
+                    </td>
+                    <td align="right">
+                        20334
+                    </td>
+                    <td align="right">
+                        590
+                    </td>
+                    <td align="right">
+                        1860192
+                    </td>
+                    <td align="right">
+                        7776
+                    </td>
+                    <td align="right">
+                        1868558
+                    </td>
+                    <td align="right">
+                        855052
+                    </td>
+                    <td align="right">
+                        4
+                    </td>
+                    <td align="right">
+                        16724
+                    </td>
+                    <td align="right">
+                        74
+                    </td>
+                    <td align="right">
+                        16802
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        4
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MIZORAM&state_code=22&district_name=LAWNGTLAI&district_code=2208&fin_year=2019-2020&source=national&typediv=0&Digest=klX/bURollQcZ8HTyBlYQA'>LAWNGTLAI</a>
+                    </td>
+                    <td align="right">
+                        7
+                    </td>
+                    <td align="right">
+                        32903
+                    </td>
+                    <td align="right">
+                        201
+                    </td>
+                    <td align="right">
+                        33111
+                    </td>
+                    <td align="right">
+                        7
+                    </td>
+                    <td align="right">
+                        32717
+                    </td>
+                    <td align="right">
+                        202
+                    </td>
+                    <td align="right">
+                        32926
+                    </td>
+                    
+                    <td align="right">
+                        13312
+                    </td>
+                    <td align="right">
+                        7
+                    </td>
+                    <td align="right">
+                        34182
+                    </td>
+                    <td align="right">
+                        208
+                    </td>
+                    <td align="right">
+                        34397
+                    </td>
+                    <td align="right">
+                        576
+                    </td>
+                    <td align="right">
+                        3062016
+                    </td>
+                    <td align="right">
+                        18734
+                    </td>
+                    <td align="right">
+                        3081326
+                    </td>
+                    <td align="right">
+                        1127745
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        24856
+                    </td>
+                    <td align="right">
+                        165
+                    </td>
+                    <td align="right">
+                        25024
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        5
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MIZORAM&state_code=22&district_name=LUNGLEI&district_code=2202&fin_year=2019-2020&source=national&typediv=0&Digest=Mr7D9gmpW+Zdfn4SFuifSQ'>LUNGLEI</a>
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        38197
+                    </td>
+                    <td align="right">
+                        216
+                    </td>
+                    <td align="right">
+                        38418
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        38373
+                    </td>
+                    <td align="right">
+                        215
+                    </td>
+                    <td align="right">
+                        38593
+                    </td>
+                    
+                    <td align="right">
+                        22112
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        38376
+                    </td>
+                    <td align="right">
+                        215
+                    </td>
+                    <td align="right">
+                        38596
+                    </td>
+                    <td align="right">
+                        500
+                    </td>
+                    <td align="right">
+                        3640123
+                    </td>
+                    <td align="right">
+                        19436
+                    </td>
+                    <td align="right">
+                        3660059
+                    </td>
+                    <td align="right">
+                        2053277
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        31532
+                    </td>
+                    <td align="right">
+                        166
+                    </td>
+                    <td align="right">
+                        31703
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        6
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MIZORAM&state_code=22&district_name=MAMIT&district_code=2204&fin_year=2019-2020&source=national&typediv=0&Digest=r0hkFtOyjPXyvElc4hMEJw'>MAMIT</a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        21150
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        21150
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        21395
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        21396
+                    </td>
+                    
+                    <td align="right">
+                        14478
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        21555
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        21556
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        2044274
+                    </td>
+                    <td align="right">
+                        20
+                    </td>
+                    <td align="right">
+                        2044294
+                    </td>
+                    <td align="right">
+                        1374764
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        18846
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        18846
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        7
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MIZORAM&state_code=22&district_name=SERCHHIP&district_code=2207&fin_year=2019-2020&source=national&typediv=0&Digest=tFMUv6vHy+QPN8k5v7Go3w'>SERCHHIP</a>
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        14926
+                    </td>
+                    <td align="right">
+                        113
+                    </td>
+                    <td align="right">
+                        15042
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        14882
+                    </td>
+                    <td align="right">
+                        112
+                    </td>
+                    <td align="right">
+                        14997
+                    </td>
+                    
+                    <td align="right">
+                        7701
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        15146
+                    </td>
+                    <td align="right">
+                        112
+                    </td>
+                    <td align="right">
+                        15261
+                    </td>
+                    <td align="right">
+                        298
+                    </td>
+                    <td align="right">
+                        1420440
+                    </td>
+                    <td align="right">
+                        10093
+                    </td>
+                    <td align="right">
+                        1430831
+                    </td>
+                    <td align="right">
+                        713637
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        8826
+                    </td>
+                    <td align="right">
+                        59
+                    </td>
+                    <td align="right">
+                        8886
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        8
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MIZORAM&state_code=22&district_name=Siaha&district_code=2203&fin_year=2019-2020&source=national&typediv=0&Digest=kpuUhEGPOfBtQga8ZNCPCw'>Siaha</a>
+                    </td>
+                    <td align="right">
+                        16
+                    </td>
+                    <td align="right">
+                        15925
+                    </td>
+                    <td align="right">
+                        364
+                    </td>
+                    <td align="right">
+                        16305
+                    </td>
+                    <td align="right">
+                        17
+                    </td>
+                    <td align="right">
+                        15800
+                    </td>
+                    <td align="right">
+                        363
+                    </td>
+                    <td align="right">
+                        16180
+                    </td>
+                    
+                    <td align="right">
+                        6798
+                    </td>
+                    <td align="right">
+                        19
+                    </td>
+                    <td align="right">
+                        16297
+                    </td>
+                    <td align="right">
+                        364
+                    </td>
+                    <td align="right">
+                        16680
+                    </td>
+                    <td align="right">
+                        1691
+                    </td>
+                    <td align="right">
+                        1525621
+                    </td>
+                    <td align="right">
+                        35412
+                    </td>
+                    <td align="right">
+                        1562724
+                    </td>
+                    <td align="right">
+                        607034
+                    </td>
+                    <td align="right">
+                        16
+                    </td>
+                    <td align="right">
+                        14343
+                    </td>
+                    <td align="right">
+                        334
+                    </td>
+                    <td align="right">
+                        14693
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        37
+                    </td>
+                    <td align="right">
+                        199398
+                    </td>
+                    <td align="right">
+                        1190
+                    </td>
+                    <td align="right">
+                        200625
+                    </td>
+                    <td align="right">
+                        38
+                    </td>
+                    <td align="right">
+                        201747
+                    </td>
+                    <td align="right">
+                        1190
+                    </td>
+                    <td align="right">
+                        202975
+                    </td>
+                    
+                    <td align="right">
+                        108701
+                    </td>
+                    <td align="right">
+                        40
+                    </td>
+                    <td align="right">
+                        206883
+                    </td>
+                    <td align="right">
+                        1208
+                    </td>
+                    <td align="right">
+                        208131
+                    </td>
+                    <td align="right">
+                        3655
+                    </td>
+                    <td align="right">
+                        19094278
+                    </td>
+                    <td align="right">
+                        110306
+                    </td>
+                    <td align="right">
+                        19208239
+                    </td>
+                    <td align="right">
+                        9768836
+                    </td>
+                    <td align="right">
+                        29
+                    </td>
+                    <td align="right">
+                        155984
+                    </td>
+                    <td align="right">
+                        970
+                    </td>
+                    <td align="right">
+                        156983
+                    </td>
+                </tr>
+            
+                </table>
+            

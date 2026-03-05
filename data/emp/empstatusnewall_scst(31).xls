@@ -1,0 +1,348 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=DN+HAVELI+AND+DD&state_code=07&district_name=DADRA+AND+NAGAR+HAVELI&district_code=0701&fin_year=2019-2020&source=national&typediv=0&Digest=KU8U0Z30KDTDlZYW9z+FVQ'>DADRA AND NAGAR HAVELI</a>
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        3496
+                    </td>
+                    <td align="right">
+                        52
+                    </td>
+                    <td align="right">
+                        3549
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        3496
+                    </td>
+                    <td align="right">
+                        52
+                    </td>
+                    <td align="right">
+                        3549
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                </table>
+            

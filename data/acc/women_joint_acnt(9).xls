@@ -1,0 +1,324 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl26$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl26$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl26$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl26$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl26$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">95252</td>
+                <td align="right">720712</td>
+                <td align="right">902403</td>
+                 <td align="right">457021</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=AMBALA&district_code=1201&fin_year=2019-2020&source=national&Digest=o75FbqGGl7z6c3yEMl0WXQ'>AMBALA</a></td>
+                <td align="right">1157</td>
+                <td align="right">20241</td>
+                <td align="right">21781</td>
+                 <td align="right">7617</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=BHIWANI&district_code=1213&fin_year=2019-2020&source=national&Digest=1DlaxQTIXdSVMHc00XmBZg'>BHIWANI</a></td>
+                <td align="right">4334</td>
+                <td align="right">47263</td>
+                <td align="right">63311</td>
+                 <td align="right">29196</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=CHARKI+DADRI&district_code=1222&fin_year=2019-2020&source=national&Digest=SFxF3B8PvAYDSs6HQJpKGw'>CHARKI DADRI</a></td>
+                <td align="right">1226</td>
+                <td align="right">10664</td>
+                <td align="right">17269</td>
+                 <td align="right">5584</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=FARIDABAD&district_code=1209&fin_year=2019-2020&source=national&Digest=JTsv51yQyWEYy4OpqlVWrg'>FARIDABAD</a></td>
+                <td align="right">79</td>
+                <td align="right">3429</td>
+                <td align="right">4520</td>
+                 <td align="right">1217</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=FATEHABAD&district_code=1218&fin_year=2019-2020&source=national&Digest=majf64ItMvtCKVZm4RZ2XA'>FATEHABAD</a></td>
+                <td align="right">815</td>
+                <td align="right">59813</td>
+                <td align="right">79365</td>
+                 <td align="right">64187</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=GURUGRAM&district_code=1210&fin_year=2019-2020&source=national&Digest=cx/3kEpSR1jh+vNrl1gG6A'>GURUGRAM</a></td>
+                <td align="right">272</td>
+                <td align="right">5836</td>
+                <td align="right">7403</td>
+                 <td align="right">1862</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=HISAR&district_code=1215&fin_year=2019-2020&source=national&Digest=O+SwGKes6I317fACM06pCg'>HISAR</a></td>
+                <td align="right">17914</td>
+                <td align="right">83773</td>
+                <td align="right">103097</td>
+                 <td align="right">66082</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=JHAJJAR&district_code=1220&fin_year=2019-2020&source=national&Digest=5I9teLp2+a0MFvud1+utPQ'>JHAJJAR</a></td>
+                <td align="right">3453</td>
+                <td align="right">25161</td>
+                <td align="right">36082</td>
+                 <td align="right">11639</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">9</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=JIND&district_code=1214&fin_year=2019-2020&source=national&Digest=Y/u2l8HyPaXNxYXbOSscqw'>JIND</a></td>
+                <td align="right">4953</td>
+                <td align="right">44590</td>
+                <td align="right">58531</td>
+                 <td align="right">33904</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">10</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=KAITHAL&district_code=1204&fin_year=2019-2020&source=national&Digest=/YwYaiD4Mak7rUl2RcMreQ'>KAITHAL</a></td>
+                <td align="right">1486</td>
+                <td align="right">41686</td>
+                <td align="right">56201</td>
+                 <td align="right">34556</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">11</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=KARNAL&district_code=1205&fin_year=2019-2020&source=national&Digest=y8FnGcAGZx9EcPp9Z41wtw'>KARNAL</a></td>
+                <td align="right">5105</td>
+                <td align="right">60745</td>
+                <td align="right">73158</td>
+                 <td align="right">39998</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">12</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=KURUKSHETRA&district_code=1203&fin_year=2019-2020&source=national&Digest=xI6op2nG+4DjnnyUudEbGw'>KURUKSHETRA</a></td>
+                <td align="right">10888</td>
+                <td align="right">38521</td>
+                <td align="right">48836</td>
+                 <td align="right">22354</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">13</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=MAHENDRAGARH&district_code=1212&fin_year=2019-2020&source=national&Digest=0HxC4pWqadI2LutDiaqh/Q'>MAHENDRAGARH</a></td>
+                <td align="right">2006</td>
+                <td align="right">23811</td>
+                <td align="right">29950</td>
+                 <td align="right">10174</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">14</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=MEWAT&district_code=1219&fin_year=2019-2020&source=national&Digest=aNzDHjVN2+MWnnwLc7MJ0A'>MEWAT</a></td>
+                <td align="right">12483</td>
+                <td align="right">58692</td>
+                <td align="right">57468</td>
+                 <td align="right">13169</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">15</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=PALWAL&district_code=1221&fin_year=2019-2020&source=national&Digest=UtEhpVQx0XC4GX1nGEb5hA'>PALWAL</a></td>
+                <td align="right">3660</td>
+                <td align="right">15801</td>
+                <td align="right">19610</td>
+                 <td align="right">2117</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">16</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=PANCHKULA&district_code=1217&fin_year=2019-2020&source=national&Digest=kaKHXMxhXeu76H8kKWm+LA'>PANCHKULA</a></td>
+                <td align="right">418</td>
+                <td align="right">5331</td>
+                <td align="right">6500</td>
+                 <td align="right">2492</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">17</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=PANIPAT&district_code=1206&fin_year=2019-2020&source=national&Digest=G5Qj35O09OvY008V4lBeVw'>PANIPAT</a></td>
+                <td align="right">2316</td>
+                <td align="right">22794</td>
+                <td align="right">30627</td>
+                 <td align="right">15182</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">18</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=REWARI&district_code=1211&fin_year=2019-2020&source=national&Digest=cryYW/pYxGwItytyMeILww'>REWARI</a></td>
+                <td align="right">5457</td>
+                <td align="right">13221</td>
+                <td align="right">18401</td>
+                 <td align="right">5888</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">19</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=ROHTAK&district_code=1208&fin_year=2019-2020&source=national&Digest=aIQrtwtZDqlozNM+yvwZJA'>ROHTAK</a></td>
+                <td align="right">1788</td>
+                <td align="right">23030</td>
+                <td align="right">31549</td>
+                 <td align="right">17013</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">20</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=SIRSA&district_code=1216&fin_year=2019-2020&source=national&Digest=bQL1cMxJMiIQ25VUlpmaRQ'>SIRSA</a></td>
+                <td align="right">9675</td>
+                <td align="right">74594</td>
+                <td align="right">88270</td>
+                 <td align="right">52770</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">21</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=SONIPAT&district_code=1207&fin_year=2019-2020&source=national&Digest=QtAl54OhwyuhS+AcBtC6YA'>SONIPAT</a></td>
+                <td align="right">3178</td>
+                <td align="right">19938</td>
+                <td align="right">23743</td>
+                 <td align="right">11908</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">22</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=HARYANA&state_code=12&district_name=YAMUNANAGAR&district_code=1202&fin_year=2019-2020&source=national&Digest=on+j4U0zTBq2dV0789IoSQ'>YAMUNANAGAR</a></td>
+                <td align="right">2589</td>
+                <td align="right">21778</td>
+                <td align="right">26731</td>
+                 <td align="right">8112</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">95252</td>
+                <td align="right">720712</td>
+                <td align="right">902403</td>
+                 <td align="right">457021</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

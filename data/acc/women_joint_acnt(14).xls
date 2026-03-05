@@ -1,0 +1,236 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl18$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl18$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl18$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl18$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl18$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">22443</td>
+                <td align="right">2828842</td>
+                <td align="right">3054864</td>
+                 <td align="right">1805376</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KERALA&state_code=16&district_name=ALAPPUZHA&district_code=1611&fin_year=2019-2020&source=national&Digest=QhnkgguRaDIMcv3mlT4Xxw'>ALAPPUZHA</a></td>
+                <td align="right">720</td>
+                <td align="right">243084</td>
+                <td align="right">240039</td>
+                 <td align="right">173789</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KERALA&state_code=16&district_name=ERNAKULAM&district_code=1608&fin_year=2019-2020&source=national&Digest=7xwpoOECW+SR7aO5oS0ECQ'>ERNAKULAM</a></td>
+                <td align="right">2123</td>
+                <td align="right">180680</td>
+                <td align="right">189356</td>
+                 <td align="right">91605</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KERALA&state_code=16&district_name=IDUKKI&district_code=1609&fin_year=2019-2020&source=national&Digest=1BO1ioLIp1ThPLv4Fx6B9g'>IDUKKI</a></td>
+                <td align="right">1783</td>
+                <td align="right">179417</td>
+                <td align="right">173261</td>
+                 <td align="right">107449</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KERALA&state_code=16&district_name=KANNUR&district_code=1602&fin_year=2019-2020&source=national&Digest=E6CPIO3ZisNTh1o24p+yrQ'>KANNUR</a></td>
+                <td align="right">394</td>
+                <td align="right">170381</td>
+                <td align="right">199933</td>
+                 <td align="right">117146</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KERALA&state_code=16&district_name=KASARGOD&district_code=1601&fin_year=2019-2020&source=national&Digest=QoQtwxFLB53DcgS8d0YWpQ'>KASARGOD</a></td>
+                <td align="right">1140</td>
+                <td align="right">122339</td>
+                <td align="right">142596</td>
+                 <td align="right">95623</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KERALA&state_code=16&district_name=KOLLAM&district_code=1613&fin_year=2019-2020&source=national&Digest=27iUQok2cVfrGpff9NYN1Q'>KOLLAM</a></td>
+                <td align="right">4270</td>
+                <td align="right">285137</td>
+                <td align="right">300979</td>
+                 <td align="right">174865</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KERALA&state_code=16&district_name=KOTTAYAM&district_code=1610&fin_year=2019-2020&source=national&Digest=kWY6VX1oXOcS2iYtI3bslg'>KOTTAYAM</a></td>
+                <td align="right">1832</td>
+                <td align="right">140157</td>
+                <td align="right">143451</td>
+                 <td align="right">76028</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KERALA&state_code=16&district_name=KOZHIKODE&district_code=1604&fin_year=2019-2020&source=national&Digest=a4iVWqW61O4Fxn62E62V4w'>KOZHIKODE</a></td>
+                <td align="right">896</td>
+                <td align="right">248857</td>
+                <td align="right">273008</td>
+                 <td align="right">176890</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">9</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KERALA&state_code=16&district_name=MALAPPURAM&district_code=1605&fin_year=2019-2020&source=national&Digest=V0Mci5VZs72EV25xTkJ9dQ'>MALAPPURAM</a></td>
+                <td align="right">1244</td>
+                <td align="right">208649</td>
+                <td align="right">255497</td>
+                 <td align="right">122914</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">10</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KERALA&state_code=16&district_name=PALAKKAD&district_code=1606&fin_year=2019-2020&source=national&Digest=cojM0OyE1553BXnziHWVDg'>PALAKKAD</a></td>
+                <td align="right">1541</td>
+                <td align="right">280842</td>
+                <td align="right">314893</td>
+                 <td align="right">195909</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">11</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KERALA&state_code=16&district_name=PATHANAMTHITTA&district_code=1612&fin_year=2019-2020&source=national&Digest=dkifEgz3+BDYooIKv1XkGQ'>PATHANAMTHITTA</a></td>
+                <td align="right">816</td>
+                <td align="right">106567</td>
+                <td align="right">111285</td>
+                 <td align="right">62234</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">12</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KERALA&state_code=16&district_name=THIRUVANANTHAPURAM&district_code=1614&fin_year=2019-2020&source=national&Digest=1ChyLZrF1ZV/b+2CmemdsQ'>THIRUVANANTHAPURAM</a></td>
+                <td align="right">4640</td>
+                <td align="right">324588</td>
+                <td align="right">330020</td>
+                 <td align="right">206956</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">13</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KERALA&state_code=16&district_name=THRISSUR&district_code=1607&fin_year=2019-2020&source=national&Digest=JbCRB/FZTNqKu45ZcWtQgw'>THRISSUR</a></td>
+                <td align="right">443</td>
+                <td align="right">227432</td>
+                <td align="right">258969</td>
+                 <td align="right">128504</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">14</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KERALA&state_code=16&district_name=WAYANAD&district_code=1603&fin_year=2019-2020&source=national&Digest=3E79+dMoU2zwOAqtMHNQRA'>WAYANAD</a></td>
+                <td align="right">601</td>
+                <td align="right">110712</td>
+                <td align="right">121577</td>
+                 <td align="right">75464</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">22443</td>
+                <td align="right">2828842</td>
+                <td align="right">3054864</td>
+                 <td align="right">1805376</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

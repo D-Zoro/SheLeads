@@ -1,0 +1,225 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl17$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl17$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl17$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl17$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl17$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">78310</td>
+                <td align="right">879955</td>
+                <td align="right">753441</td>
+                 <td align="right">524912</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=UTTARAKHAND&state_code=35&district_name=ALMORA&district_code=3507&fin_year=2019-2020&source=national&Digest=8ZS424tGHe9dyZ0r0U/w9A'>ALMORA</a></td>
+                <td align="right">7231</td>
+                <td align="right">81459</td>
+                <td align="right">64529</td>
+                 <td align="right">38174</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=UTTARAKHAND&state_code=35&district_name=BAGESHWAR&district_code=3512&fin_year=2019-2020&source=national&Digest=0dpiWb2ocxl+usgpjTwbCA'>BAGESHWAR</a></td>
+                <td align="right">1343</td>
+                <td align="right">37046</td>
+                <td align="right">32934</td>
+                 <td align="right">20408</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=UTTARAKHAND&state_code=35&district_name=CHAMOLI&district_code=3504&fin_year=2019-2020&source=national&Digest=K8jvwxVpbOOHOX0YeouRrA'>CHAMOLI</a></td>
+                <td align="right">7668</td>
+                <td align="right">77070</td>
+                <td align="right">71458</td>
+                 <td align="right">57877</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=UTTARAKHAND&state_code=35&district_name=CHAMPAWAT&district_code=3510&fin_year=2019-2020&source=national&Digest=jH7MO8q035ChpL78GntGaw'>CHAMPAWAT</a></td>
+                <td align="right">1724</td>
+                <td align="right">28555</td>
+                <td align="right">27442</td>
+                 <td align="right">18777</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=UTTARAKHAND&state_code=35&district_name=DEHRADUN&district_code=3502&fin_year=2019-2020&source=national&Digest=hZyeznWaCL3s1PdlyeT+5w'>DEHRADUN</a></td>
+                <td align="right">2742</td>
+                <td align="right">38131</td>
+                <td align="right">27254</td>
+                 <td align="right">19860</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=UTTARAKHAND&state_code=35&district_name=HARIDWAR&district_code=3503&fin_year=2019-2020&source=national&Digest=0GxbUNvXe7xzwfSEdqNKag'>HARIDWAR</a></td>
+                <td align="right">5501</td>
+                <td align="right">52357</td>
+                <td align="right">48382</td>
+                 <td align="right">25673</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=UTTARAKHAND&state_code=35&district_name=NAINITAL&district_code=3508&fin_year=2019-2020&source=national&Digest=q2zyANR6DeO5QhaOLpQTzA'>NAINITAL</a></td>
+                <td align="right">2057</td>
+                <td align="right">43446</td>
+                <td align="right">34548</td>
+                 <td align="right">19630</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=UTTARAKHAND&state_code=35&district_name=PAURI+GARHWAL&district_code=3505&fin_year=2019-2020&source=national&Digest=7qqkaJM58FZ0SL5pu36sPA'>PAURI GARHWAL</a></td>
+                <td align="right">9819</td>
+                <td align="right">105950</td>
+                <td align="right">87573</td>
+                 <td align="right">64434</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">9</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=UTTARAKHAND&state_code=35&district_name=PITHORAGARH&district_code=3511&fin_year=2019-2020&source=national&Digest=O7NCtj9WKUmcrMC1jG/aXA'>PITHORAGARH</a></td>
+                <td align="right">7224</td>
+                <td align="right">83522</td>
+                <td align="right">68537</td>
+                 <td align="right">45332</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">10</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=UTTARAKHAND&state_code=35&district_name=RUDRA+PRAYAG&district_code=3506&fin_year=2019-2020&source=national&Digest=1h0UKN28ruK3hXj5Yw/kOg'>RUDRA PRAYAG</a></td>
+                <td align="right">3205</td>
+                <td align="right">47767</td>
+                <td align="right">38860</td>
+                 <td align="right">26590</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">11</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=UTTARAKHAND&state_code=35&district_name=TEHRI+GARHWAL&district_code=3513&fin_year=2019-2020&source=national&Digest=6hqNWowQixJO1j6n0rvSqw'>TEHRI GARHWAL</a></td>
+                <td align="right">10651</td>
+                <td align="right">140675</td>
+                <td align="right">122132</td>
+                 <td align="right">98283</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">12</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=UTTARAKHAND&state_code=35&district_name=UDAM+SINGH+NAGAR&district_code=3509&fin_year=2019-2020&source=national&Digest=F29d2DzdcPtz6z+vZ6BK4A'>UDAM SINGH NAGAR</a></td>
+                <td align="right">16375</td>
+                <td align="right">71843</td>
+                <td align="right">59601</td>
+                 <td align="right">27994</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">13</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=UTTARAKHAND&state_code=35&district_name=UTTAR+KASHI&district_code=3501&fin_year=2019-2020&source=national&Digest=m2GxUnCWKxAKkPCMHQqzHw'>UTTAR KASHI</a></td>
+                <td align="right">2770</td>
+                <td align="right">72134</td>
+                <td align="right">70191</td>
+                 <td align="right">61880</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">78310</td>
+                <td align="right">879955</td>
+                <td align="right">753441</td>
+                 <td align="right">524912</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

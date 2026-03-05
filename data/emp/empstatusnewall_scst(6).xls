@@ -1,0 +1,2780 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=AHMADABAD&district_code=1112&fin_year=2019-2020&source=national&typediv=0&Digest=ibWz5p7MaxPFYGXqTLoxxA'>AHMADABAD</a>
+                    </td>
+                    <td align="right">
+                        14469
+                    </td>
+                    <td align="right">
+                        4534
+                    </td>
+                    <td align="right">
+                        96938
+                    </td>
+                    <td align="right">
+                        115941
+                    </td>
+                    <td align="right">
+                        650
+                    </td>
+                    <td align="right">
+                        338
+                    </td>
+                    <td align="right">
+                        8850
+                    </td>
+                    <td align="right">
+                        9838
+                    </td>
+                    
+                    <td align="right">
+                        8698
+                    </td>
+                    <td align="right">
+                        1244
+                    </td>
+                    <td align="right">
+                        452
+                    </td>
+                    <td align="right">
+                        18102
+                    </td>
+                    <td align="right">
+                        19798
+                    </td>
+                    <td align="right">
+                        32981
+                    </td>
+                    <td align="right">
+                        6539
+                    </td>
+                    <td align="right">
+                        425661
+                    </td>
+                    <td align="right">
+                        465181
+                    </td>
+                    <td align="right">
+                        204168
+                    </td>
+                    <td align="right">
+                        48
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        249
+                    </td>
+                    <td align="right">
+                        300
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=AMRELI&district_code=1105&fin_year=2019-2020&source=national&typediv=0&Digest=KXkNNDpK9j8F2sHx7UTvyw'>AMRELI</a>
+                    </td>
+                    <td align="right">
+                        17586
+                    </td>
+                    <td align="right">
+                        358
+                    </td>
+                    <td align="right">
+                        81200
+                    </td>
+                    <td align="right">
+                        99144
+                    </td>
+                    <td align="right">
+                        2286
+                    </td>
+                    <td align="right">
+                        94
+                    </td>
+                    <td align="right">
+                        11772
+                    </td>
+                    <td align="right">
+                        14152
+                    </td>
+                    
+                    <td align="right">
+                        17341
+                    </td>
+                    <td align="right">
+                        5665
+                    </td>
+                    <td align="right">
+                        249
+                    </td>
+                    <td align="right">
+                        29474
+                    </td>
+                    <td align="right">
+                        35388
+                    </td>
+                    <td align="right">
+                        118302
+                    </td>
+                    <td align="right">
+                        4137
+                    </td>
+                    <td align="right">
+                        580029
+                    </td>
+                    <td align="right">
+                        702468
+                    </td>
+                    <td align="right">
+                        354391
+                    </td>
+                    <td align="right">
+                        71
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        299
+                    </td>
+                    <td align="right">
+                        371
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=ANAND&district_code=1122&fin_year=2019-2020&source=national&typediv=0&Digest=sgjCodeJ3O6ICOHZSZxRyQ'>ANAND</a>
+                    </td>
+                    <td align="right">
+                        10880
+                    </td>
+                    <td align="right">
+                        3535
+                    </td>
+                    <td align="right">
+                        179279
+                    </td>
+                    <td align="right">
+                        193694
+                    </td>
+                    <td align="right">
+                        294
+                    </td>
+                    <td align="right">
+                        77
+                    </td>
+                    <td align="right">
+                        7110
+                    </td>
+                    <td align="right">
+                        7481
+                    </td>
+                    
+                    <td align="right">
+                        4791
+                    </td>
+                    <td align="right">
+                        489
+                    </td>
+                    <td align="right">
+                        111
+                    </td>
+                    <td align="right">
+                        9995
+                    </td>
+                    <td align="right">
+                        10595
+                    </td>
+                    <td align="right">
+                        10396
+                    </td>
+                    <td align="right">
+                        2397
+                    </td>
+                    <td align="right">
+                        256327
+                    </td>
+                    <td align="right">
+                        269120
+                    </td>
+                    <td align="right">
+                        112804
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        51
+                    </td>
+                    <td align="right">
+                        54
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        4
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=ARVALLI&district_code=1130&fin_year=2019-2020&source=national&typediv=0&Digest=Stei7I2nkRV+dcFiMvcSUw'>ARVALLI</a>
+                    </td>
+                    <td align="right">
+                        6511
+                    </td>
+                    <td align="right">
+                        38982
+                    </td>
+                    <td align="right">
+                        76069
+                    </td>
+                    <td align="right">
+                        121562
+                    </td>
+                    <td align="right">
+                        1570
+                    </td>
+                    <td align="right">
+                        9912
+                    </td>
+                    <td align="right">
+                        25035
+                    </td>
+                    <td align="right">
+                        36517
+                    </td>
+                    
+                    <td align="right">
+                        26403
+                    </td>
+                    <td align="right">
+                        2435
+                    </td>
+                    <td align="right">
+                        15850
+                    </td>
+                    <td align="right">
+                        40238
+                    </td>
+                    <td align="right">
+                        58523
+                    </td>
+                    <td align="right">
+                        51320
+                    </td>
+                    <td align="right">
+                        347793
+                    </td>
+                    <td align="right">
+                        911442
+                    </td>
+                    <td align="right">
+                        1310555
+                    </td>
+                    <td align="right">
+                        570979
+                    </td>
+                    <td align="right">
+                        6
+                    </td>
+                    <td align="right">
+                        140
+                    </td>
+                    <td align="right">
+                        143
+                    </td>
+                    <td align="right">
+                        289
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        5
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=BANAS+KANTHA&district_code=1108&fin_year=2019-2020&source=national&typediv=0&Digest=69pyHrS//dR38+AJYugdRg'>BANAS KANTHA</a>
+                    </td>
+                    <td align="right">
+                        22075
+                    </td>
+                    <td align="right">
+                        16834
+                    </td>
+                    <td align="right">
+                        116588
+                    </td>
+                    <td align="right">
+                        155497
+                    </td>
+                    <td align="right">
+                        6233
+                    </td>
+                    <td align="right">
+                        3943
+                    </td>
+                    <td align="right">
+                        26023
+                    </td>
+                    <td align="right">
+                        36199
+                    </td>
+                    
+                    <td align="right">
+                        23871
+                    </td>
+                    <td align="right">
+                        9737
+                    </td>
+                    <td align="right">
+                        6237
+                    </td>
+                    <td align="right">
+                        39267
+                    </td>
+                    <td align="right">
+                        55241
+                    </td>
+                    <td align="right">
+                        283330
+                    </td>
+                    <td align="right">
+                        151300
+                    </td>
+                    <td align="right">
+                        1121495
+                    </td>
+                    <td align="right">
+                        1556125
+                    </td>
+                    <td align="right">
+                        666988
+                    </td>
+                    <td align="right">
+                        91
+                    </td>
+                    <td align="right">
+                        16
+                    </td>
+                    <td align="right">
+                        348
+                    </td>
+                    <td align="right">
+                        455
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        6
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=BHARUCH&district_code=1116&fin_year=2019-2020&source=national&typediv=0&Digest=kHIek7x/tF/lW6Z43EnVDw'>BHARUCH</a>
+                    </td>
+                    <td align="right">
+                        5903
+                    </td>
+                    <td align="right">
+                        76409
+                    </td>
+                    <td align="right">
+                        28251
+                    </td>
+                    <td align="right">
+                        110563
+                    </td>
+                    <td align="right">
+                        271
+                    </td>
+                    <td align="right">
+                        4680
+                    </td>
+                    <td align="right">
+                        1351
+                    </td>
+                    <td align="right">
+                        6302
+                    </td>
+                    
+                    <td align="right">
+                        4191
+                    </td>
+                    <td align="right">
+                        373
+                    </td>
+                    <td align="right">
+                        6706
+                    </td>
+                    <td align="right">
+                        2161
+                    </td>
+                    <td align="right">
+                        9240
+                    </td>
+                    <td align="right">
+                        12803
+                    </td>
+                    <td align="right">
+                        210953
+                    </td>
+                    <td align="right">
+                        71852
+                    </td>
+                    <td align="right">
+                        295608
+                    </td>
+                    <td align="right">
+                        132913
+                    </td>
+                    <td align="right">
+                        14
+                    </td>
+                    <td align="right">
+                        93
+                    </td>
+                    <td align="right">
+                        41
+                    </td>
+                    <td align="right">
+                        148
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        7
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=BHAVNAGAR&district_code=1104&fin_year=2019-2020&source=national&typediv=0&Digest=7hE4o22wPWfPdf6c9tQReg'>BHAVNAGAR</a>
+                    </td>
+                    <td align="right">
+                        3485
+                    </td>
+                    <td align="right">
+                        471
+                    </td>
+                    <td align="right">
+                        64086
+                    </td>
+                    <td align="right">
+                        68042
+                    </td>
+                    <td align="right">
+                        760
+                    </td>
+                    <td align="right">
+                        91
+                    </td>
+                    <td align="right">
+                        17477
+                    </td>
+                    <td align="right">
+                        18328
+                    </td>
+                    
+                    <td align="right">
+                        21813
+                    </td>
+                    <td align="right">
+                        1979
+                    </td>
+                    <td align="right">
+                        221
+                    </td>
+                    <td align="right">
+                        41632
+                    </td>
+                    <td align="right">
+                        43832
+                    </td>
+                    <td align="right">
+                        39538
+                    </td>
+                    <td align="right">
+                        4030
+                    </td>
+                    <td align="right">
+                        868457
+                    </td>
+                    <td align="right">
+                        912025
+                    </td>
+                    <td align="right">
+                        459955
+                    </td>
+                    <td align="right">
+                        17
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        323
+                    </td>
+                    <td align="right">
+                        341
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        8
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=Botad&district_code=1128&fin_year=2019-2020&source=national&typediv=0&Digest=IZEU+bMLyCalYNapuOIYoQ'>Botad</a>
+                    </td>
+                    <td align="right">
+                        2198
+                    </td>
+                    <td align="right">
+                        57
+                    </td>
+                    <td align="right">
+                        44917
+                    </td>
+                    <td align="right">
+                        47172
+                    </td>
+                    <td align="right">
+                        241
+                    </td>
+                    <td align="right">
+                        7
+                    </td>
+                    <td align="right">
+                        9218
+                    </td>
+                    <td align="right">
+                        9466
+                    </td>
+                    
+                    <td align="right">
+                        10029
+                    </td>
+                    <td align="right">
+                        563
+                    </td>
+                    <td align="right">
+                        13
+                    </td>
+                    <td align="right">
+                        20399
+                    </td>
+                    <td align="right">
+                        20975
+                    </td>
+                    <td align="right">
+                        9864
+                    </td>
+                    <td align="right">
+                        144
+                    </td>
+                    <td align="right">
+                        344731
+                    </td>
+                    <td align="right">
+                        354739
+                    </td>
+                    <td align="right">
+                        167691
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        52
+                    </td>
+                    <td align="right">
+                        57
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        9
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=Chhotaudepur&district_code=1129&fin_year=2019-2020&source=national&typediv=0&Digest=k1t9Qorf6+0RBBV+gg6lWQ'>Chhotaudepur</a>
+                    </td>
+                    <td align="right">
+                        6174
+                    </td>
+                    <td align="right">
+                        165612
+                    </td>
+                    <td align="right">
+                        33200
+                    </td>
+                    <td align="right">
+                        204986
+                    </td>
+                    <td align="right">
+                        1018
+                    </td>
+                    <td align="right">
+                        40928
+                    </td>
+                    <td align="right">
+                        9415
+                    </td>
+                    <td align="right">
+                        51361
+                    </td>
+                    
+                    <td align="right">
+                        32857
+                    </td>
+                    <td align="right">
+                        1626
+                    </td>
+                    <td align="right">
+                        67297
+                    </td>
+                    <td align="right">
+                        13311
+                    </td>
+                    <td align="right">
+                        82234
+                    </td>
+                    <td align="right">
+                        49968
+                    </td>
+                    <td align="right">
+                        1980182
+                    </td>
+                    <td align="right">
+                        461937
+                    </td>
+                    <td align="right">
+                        2492087
+                    </td>
+                    <td align="right">
+                        952746
+                    </td>
+                    <td align="right">
+                        24
+                    </td>
+                    <td align="right">
+                        792
+                    </td>
+                    <td align="right">
+                        143
+                    </td>
+                    <td align="right">
+                        959
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        10
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=DANG&district_code=1119&fin_year=2019-2020&source=national&typediv=0&Digest=tIOZ6Tjm8PmyRedDirOpCg'>DANG</a>
+                    </td>
+                    <td align="right">
+                        47
+                    </td>
+                    <td align="right">
+                        45512
+                    </td>
+                    <td align="right">
+                        1218
+                    </td>
+                    <td align="right">
+                        46777
+                    </td>
+                    <td align="right">
+                        20
+                    </td>
+                    <td align="right">
+                        17102
+                    </td>
+                    <td align="right">
+                        466
+                    </td>
+                    <td align="right">
+                        17588
+                    </td>
+                    
+                    <td align="right">
+                        13078
+                    </td>
+                    <td align="right">
+                        22
+                    </td>
+                    <td align="right">
+                        27162
+                    </td>
+                    <td align="right">
+                        721
+                    </td>
+                    <td align="right">
+                        27905
+                    </td>
+                    <td align="right">
+                        685
+                    </td>
+                    <td align="right">
+                        871647
+                    </td>
+                    <td align="right">
+                        22508
+                    </td>
+                    <td align="right">
+                        894840
+                    </td>
+                    <td align="right">
+                        399371
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        361
+                    </td>
+                    <td align="right">
+                        11
+                    </td>
+                    <td align="right">
+                        372
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        11
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=DEVBHUMI+DWARKA&district_code=1132&fin_year=2019-2020&source=national&typediv=0&Digest=Qf5nZL7AFeHTvUsGFDK5sA'>DEVBHUMI DWARKA</a>
+                    </td>
+                    <td align="right">
+                        3147
+                    </td>
+                    <td align="right">
+                        1017
+                    </td>
+                    <td align="right">
+                        40400
+                    </td>
+                    <td align="right">
+                        44564
+                    </td>
+                    <td align="right">
+                        595
+                    </td>
+                    <td align="right">
+                        157
+                    </td>
+                    <td align="right">
+                        5647
+                    </td>
+                    <td align="right">
+                        6399
+                    </td>
+                    
+                    <td align="right">
+                        4428
+                    </td>
+                    <td align="right">
+                        1090
+                    </td>
+                    <td align="right">
+                        280
+                    </td>
+                    <td align="right">
+                        9689
+                    </td>
+                    <td align="right">
+                        11059
+                    </td>
+                    <td align="right">
+                        27106
+                    </td>
+                    <td align="right">
+                        5056
+                    </td>
+                    <td align="right">
+                        256145
+                    </td>
+                    <td align="right">
+                        288307
+                    </td>
+                    <td align="right">
+                        104210
+                    </td>
+                    <td align="right">
+                        12
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        81
+                    </td>
+                    <td align="right">
+                        93
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        12
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=DOHAD&district_code=1123&fin_year=2019-2020&source=national&typediv=0&Digest=jDJM7BW0lCD5WzAdiJW8SQ'>DOHAD</a>
+                    </td>
+                    <td align="right">
+                        4144
+                    </td>
+                    <td align="right">
+                        274222
+                    </td>
+                    <td align="right">
+                        140854
+                    </td>
+                    <td align="right">
+                        419220
+                    </td>
+                    <td align="right">
+                        1153
+                    </td>
+                    <td align="right">
+                        78772
+                    </td>
+                    <td align="right">
+                        45705
+                    </td>
+                    <td align="right">
+                        125630
+                    </td>
+                    
+                    <td align="right">
+                        95920
+                    </td>
+                    <td align="right">
+                        2107
+                    </td>
+                    <td align="right">
+                        136272
+                    </td>
+                    <td align="right">
+                        74577
+                    </td>
+                    <td align="right">
+                        212956
+                    </td>
+                    <td align="right">
+                        53642
+                    </td>
+                    <td align="right">
+                        3541087
+                    </td>
+                    <td align="right">
+                        2217400
+                    </td>
+                    <td align="right">
+                        5812129
+                    </td>
+                    <td align="right">
+                        2612792
+                    </td>
+                    <td align="right">
+                        10
+                    </td>
+                    <td align="right">
+                        376
+                    </td>
+                    <td align="right">
+                        352
+                    </td>
+                    <td align="right">
+                        738
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        13
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=GANDHINAGAR&district_code=1111&fin_year=2019-2020&source=national&typediv=0&Digest=Xz+wECuGIvwbDUXMsLQJtA'>GANDHINAGAR</a>
+                    </td>
+                    <td align="right">
+                        1475
+                    </td>
+                    <td align="right">
+                        103
+                    </td>
+                    <td align="right">
+                        38491
+                    </td>
+                    <td align="right">
+                        40069
+                    </td>
+                    <td align="right">
+                        236
+                    </td>
+                    <td align="right">
+                        6
+                    </td>
+                    <td align="right">
+                        8413
+                    </td>
+                    <td align="right">
+                        8655
+                    </td>
+                    
+                    <td align="right">
+                        5324
+                    </td>
+                    <td align="right">
+                        302
+                    </td>
+                    <td align="right">
+                        9
+                    </td>
+                    <td align="right">
+                        11790
+                    </td>
+                    <td align="right">
+                        12101
+                    </td>
+                    <td align="right">
+                        7194
+                    </td>
+                    <td align="right">
+                        210
+                    </td>
+                    <td align="right">
+                        336921
+                    </td>
+                    <td align="right">
+                        344325
+                    </td>
+                    <td align="right">
+                        135294
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        102
+                    </td>
+                    <td align="right">
+                        102
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        14
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=GIR+SOMNATH&district_code=1131&fin_year=2019-2020&source=national&typediv=0&Digest=ChZ+/W2s7UyO29VaoSW6Kg'>GIR SOMNATH</a>
+                    </td>
+                    <td align="right">
+                        5209
+                    </td>
+                    <td align="right">
+                        1389
+                    </td>
+                    <td align="right">
+                        37174
+                    </td>
+                    <td align="right">
+                        43772
+                    </td>
+                    <td align="right">
+                        676
+                    </td>
+                    <td align="right">
+                        78
+                    </td>
+                    <td align="right">
+                        5806
+                    </td>
+                    <td align="right">
+                        6560
+                    </td>
+                    
+                    <td align="right">
+                        7865
+                    </td>
+                    <td align="right">
+                        1418
+                    </td>
+                    <td align="right">
+                        154
+                    </td>
+                    <td align="right">
+                        12098
+                    </td>
+                    <td align="right">
+                        13670
+                    </td>
+                    <td align="right">
+                        26798
+                    </td>
+                    <td align="right">
+                        2887
+                    </td>
+                    <td align="right">
+                        205072
+                    </td>
+                    <td align="right">
+                        234757
+                    </td>
+                    <td align="right">
+                        140117
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        13
+                    </td>
+                    <td align="right">
+                        16
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        15
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=JAMNAGAR&district_code=1101&fin_year=2019-2020&source=national&typediv=0&Digest=HRHBWTpnSCnLuxVhKfPlIg'>JAMNAGAR</a>
+                    </td>
+                    <td align="right">
+                        5345
+                    </td>
+                    <td align="right">
+                        400
+                    </td>
+                    <td align="right">
+                        35452
+                    </td>
+                    <td align="right">
+                        41197
+                    </td>
+                    <td align="right">
+                        1404
+                    </td>
+                    <td align="right">
+                        54
+                    </td>
+                    <td align="right">
+                        9536
+                    </td>
+                    <td align="right">
+                        10994
+                    </td>
+                    
+                    <td align="right">
+                        9445
+                    </td>
+                    <td align="right">
+                        2974
+                    </td>
+                    <td align="right">
+                        130
+                    </td>
+                    <td align="right">
+                        18902
+                    </td>
+                    <td align="right">
+                        22006
+                    </td>
+                    <td align="right">
+                        76776
+                    </td>
+                    <td align="right">
+                        2839
+                    </td>
+                    <td align="right">
+                        491750
+                    </td>
+                    <td align="right">
+                        571365
+                    </td>
+                    <td align="right">
+                        247364
+                    </td>
+                    <td align="right">
+                        61
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        426
+                    </td>
+                    <td align="right">
+                        487
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        16
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=JUNAGADH&district_code=1106&fin_year=2019-2020&source=national&typediv=0&Digest=U8u9qb3Sh1IASOH8spDDAQ'>JUNAGADH</a>
+                    </td>
+                    <td align="right">
+                        18803
+                    </td>
+                    <td align="right">
+                        5245
+                    </td>
+                    <td align="right">
+                        70193
+                    </td>
+                    <td align="right">
+                        94241
+                    </td>
+                    <td align="right">
+                        3972
+                    </td>
+                    <td align="right">
+                        796
+                    </td>
+                    <td align="right">
+                        7578
+                    </td>
+                    <td align="right">
+                        12346
+                    </td>
+                    
+                    <td align="right">
+                        13289
+                    </td>
+                    <td align="right">
+                        9524
+                    </td>
+                    <td align="right">
+                        1859
+                    </td>
+                    <td align="right">
+                        17292
+                    </td>
+                    <td align="right">
+                        28675
+                    </td>
+                    <td align="right">
+                        166644
+                    </td>
+                    <td align="right">
+                        34843
+                    </td>
+                    <td align="right">
+                        301564
+                    </td>
+                    <td align="right">
+                        503051
+                    </td>
+                    <td align="right">
+                        236058
+                    </td>
+                    <td align="right">
+                        14
+                    </td>
+                    <td align="right">
+                        6
+                    </td>
+                    <td align="right">
+                        79
+                    </td>
+                    <td align="right">
+                        99
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        17
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=KACHCHH&district_code=1107&fin_year=2019-2020&source=national&typediv=0&Digest=hdB/G2Cb6D35bJ5hl8e1rw'>KACHCHH</a>
+                    </td>
+                    <td align="right">
+                        4210
+                    </td>
+                    <td align="right">
+                        170
+                    </td>
+                    <td align="right">
+                        64218
+                    </td>
+                    <td align="right">
+                        68598
+                    </td>
+                    <td align="right">
+                        1552
+                    </td>
+                    <td align="right">
+                        45
+                    </td>
+                    <td align="right">
+                        33887
+                    </td>
+                    <td align="right">
+                        35484
+                    </td>
+                    
+                    <td align="right">
+                        25883
+                    </td>
+                    <td align="right">
+                        2457
+                    </td>
+                    <td align="right">
+                        68
+                    </td>
+                    <td align="right">
+                        52019
+                    </td>
+                    <td align="right">
+                        54544
+                    </td>
+                    <td align="right">
+                        88027
+                    </td>
+                    <td align="right">
+                        2320
+                    </td>
+                    <td align="right">
+                        2021249
+                    </td>
+                    <td align="right">
+                        2111596
+                    </td>
+                    <td align="right">
+                        1016263
+                    </td>
+                    <td align="right">
+                        141
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        2565
+                    </td>
+                    <td align="right">
+                        2709
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        18
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=KHEDA&district_code=1113&fin_year=2019-2020&source=national&typediv=0&Digest=K0ZE6RsdflfQWtcDVgAIFQ'>KHEDA</a>
+                    </td>
+                    <td align="right">
+                        2805
+                    </td>
+                    <td align="right">
+                        766
+                    </td>
+                    <td align="right">
+                        102258
+                    </td>
+                    <td align="right">
+                        105829
+                    </td>
+                    <td align="right">
+                        126
+                    </td>
+                    <td align="right">
+                        52
+                    </td>
+                    <td align="right">
+                        9517
+                    </td>
+                    <td align="right">
+                        9695
+                    </td>
+                    
+                    <td align="right">
+                        4150
+                    </td>
+                    <td align="right">
+                        168
+                    </td>
+                    <td align="right">
+                        77
+                    </td>
+                    <td align="right">
+                        12764
+                    </td>
+                    <td align="right">
+                        13009
+                    </td>
+                    <td align="right">
+                        4875
+                    </td>
+                    <td align="right">
+                        1841
+                    </td>
+                    <td align="right">
+                        346182
+                    </td>
+                    <td align="right">
+                        352898
+                    </td>
+                    <td align="right">
+                        95088
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        23
+                    </td>
+                    <td align="right">
+                        23
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        19
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=MAHESANA&district_code=1110&fin_year=2019-2020&source=national&typediv=0&Digest=LtzqBrvRz8ngFcnUUAEPPw'>MAHESANA</a>
+                    </td>
+                    <td align="right">
+                        9615
+                    </td>
+                    <td align="right">
+                        60
+                    </td>
+                    <td align="right">
+                        67955
+                    </td>
+                    <td align="right">
+                        77630
+                    </td>
+                    <td align="right">
+                        818
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        13272
+                    </td>
+                    <td align="right">
+                        14093
+                    </td>
+                    
+                    <td align="right">
+                        6786
+                    </td>
+                    <td align="right">
+                        1274
+                    </td>
+                    <td align="right">
+                        4
+                    </td>
+                    <td align="right">
+                        17609
+                    </td>
+                    <td align="right">
+                        18887
+                    </td>
+                    <td align="right">
+                        41025
+                    </td>
+                    <td align="right">
+                        149
+                    </td>
+                    <td align="right">
+                        679178
+                    </td>
+                    <td align="right">
+                        720352
+                    </td>
+                    <td align="right">
+                        244631
+                    </td>
+                    <td align="right">
+                        13
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        521
+                    </td>
+                    <td align="right">
+                        534
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        20
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=MAHISAGAR&district_code=1133&fin_year=2019-2020&source=national&typediv=0&Digest=A3lYLEiGhKJRiv2T5jUUYA'>MAHISAGAR</a>
+                    </td>
+                    <td align="right">
+                        5982
+                    </td>
+                    <td align="right">
+                        45677
+                    </td>
+                    <td align="right">
+                        73377
+                    </td>
+                    <td align="right">
+                        125036
+                    </td>
+                    <td align="right">
+                        1197
+                    </td>
+                    <td align="right">
+                        9452
+                    </td>
+                    <td align="right">
+                        16840
+                    </td>
+                    <td align="right">
+                        27489
+                    </td>
+                    
+                    <td align="right">
+                        18762
+                    </td>
+                    <td align="right">
+                        1931
+                    </td>
+                    <td align="right">
+                        16201
+                    </td>
+                    <td align="right">
+                        27296
+                    </td>
+                    <td align="right">
+                        45428
+                    </td>
+                    <td align="right">
+                        52218
+                    </td>
+                    <td align="right">
+                        359848
+                    </td>
+                    <td align="right">
+                        730863
+                    </td>
+                    <td align="right">
+                        1142929
+                    </td>
+                    <td align="right">
+                        451339
+                    </td>
+                    <td align="right">
+                        19
+                    </td>
+                    <td align="right">
+                        44
+                    </td>
+                    <td align="right">
+                        132
+                    </td>
+                    <td align="right">
+                        195
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        21
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=Morbi&district_code=1127&fin_year=2019-2020&source=national&typediv=0&Digest=Dp0o33eQLwgQ9/5wFDUQoA'>Morbi</a>
+                    </td>
+                    <td align="right">
+                        1850
+                    </td>
+                    <td align="right">
+                        154
+                    </td>
+                    <td align="right">
+                        31777
+                    </td>
+                    <td align="right">
+                        33781
+                    </td>
+                    <td align="right">
+                        269
+                    </td>
+                    <td align="right">
+                        14
+                    </td>
+                    <td align="right">
+                        2800
+                    </td>
+                    <td align="right">
+                        3083
+                    </td>
+                    
+                    <td align="right">
+                        2951
+                    </td>
+                    <td align="right">
+                        516
+                    </td>
+                    <td align="right">
+                        36
+                    </td>
+                    <td align="right">
+                        5974
+                    </td>
+                    <td align="right">
+                        6526
+                    </td>
+                    <td align="right">
+                        14284
+                    </td>
+                    <td align="right">
+                        874
+                    </td>
+                    <td align="right">
+                        146748
+                    </td>
+                    <td align="right">
+                        161906
+                    </td>
+                    <td align="right">
+                        75082
+                    </td>
+                    <td align="right">
+                        22
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        167
+                    </td>
+                    <td align="right">
+                        190
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        22
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=NARMADA&district_code=1124&fin_year=2019-2020&source=national&typediv=0&Digest=0YC74RoSf3DLZ4HdZayszg'>NARMADA</a>
+                    </td>
+                    <td align="right">
+                        2840
+                    </td>
+                    <td align="right">
+                        108180
+                    </td>
+                    <td align="right">
+                        12091
+                    </td>
+                    <td align="right">
+                        123111
+                    </td>
+                    <td align="right">
+                        1161
+                    </td>
+                    <td align="right">
+                        60751
+                    </td>
+                    <td align="right">
+                        3925
+                    </td>
+                    <td align="right">
+                        65837
+                    </td>
+                    
+                    <td align="right">
+                        55615
+                    </td>
+                    <td align="right">
+                        1976
+                    </td>
+                    <td align="right">
+                        101698
+                    </td>
+                    <td align="right">
+                        6182
+                    </td>
+                    <td align="right">
+                        109856
+                    </td>
+                    <td align="right">
+                        53551
+                    </td>
+                    <td align="right">
+                        2579830
+                    </td>
+                    <td align="right">
+                        162980
+                    </td>
+                    <td align="right">
+                        2796361
+                    </td>
+                    <td align="right">
+                        1456445
+                    </td>
+                    <td align="right">
+                        16
+                    </td>
+                    <td align="right">
+                        1578
+                    </td>
+                    <td align="right">
+                        66
+                    </td>
+                    <td align="right">
+                        1660
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        23
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=NAVSARI++&district_code=1125&fin_year=2019-2020&source=national&typediv=0&Digest=uUugB532qvyxsZrVxGJemA'>NAVSARI  </a>
+                    </td>
+                    <td align="right">
+                        1625
+                    </td>
+                    <td align="right">
+                        99551
+                    </td>
+                    <td align="right">
+                        28710
+                    </td>
+                    <td align="right">
+                        129886
+                    </td>
+                    <td align="right">
+                        267
+                    </td>
+                    <td align="right">
+                        15510
+                    </td>
+                    <td align="right">
+                        14000
+                    </td>
+                    <td align="right">
+                        29777
+                    </td>
+                    
+                    <td align="right">
+                        24261
+                    </td>
+                    <td align="right">
+                        298
+                    </td>
+                    <td align="right">
+                        18384
+                    </td>
+                    <td align="right">
+                        14309
+                    </td>
+                    <td align="right">
+                        32991
+                    </td>
+                    <td align="right">
+                        8207
+                    </td>
+                    <td align="right">
+                        584000
+                    </td>
+                    <td align="right">
+                        344718
+                    </td>
+                    <td align="right">
+                        936925
+                    </td>
+                    <td align="right">
+                        643792
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        33
+                    </td>
+                    <td align="right">
+                        7
+                    </td>
+                    <td align="right">
+                        40
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        24
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=PANCH+MAHALS&district_code=1114&fin_year=2019-2020&source=national&typediv=0&Digest=8xYRgdN6KFEKBUliuvuV4A'>PANCH MAHALS</a>
+                    </td>
+                    <td align="right">
+                        8188
+                    </td>
+                    <td align="right">
+                        41026
+                    </td>
+                    <td align="right">
+                        150566
+                    </td>
+                    <td align="right">
+                        199780
+                    </td>
+                    <td align="right">
+                        2581
+                    </td>
+                    <td align="right">
+                        13804
+                    </td>
+                    <td align="right">
+                        52582
+                    </td>
+                    <td align="right">
+                        68967
+                    </td>
+                    
+                    <td align="right">
+                        41586
+                    </td>
+                    <td align="right">
+                        3869
+                    </td>
+                    <td align="right">
+                        19896
+                    </td>
+                    <td align="right">
+                        78281
+                    </td>
+                    <td align="right">
+                        102046
+                    </td>
+                    <td align="right">
+                        127147
+                    </td>
+                    <td align="right">
+                        664225
+                    </td>
+                    <td align="right">
+                        2538742
+                    </td>
+                    <td align="right">
+                        3330114
+                    </td>
+                    <td align="right">
+                        1298368
+                    </td>
+                    <td align="right">
+                        36
+                    </td>
+                    <td align="right">
+                        140
+                    </td>
+                    <td align="right">
+                        455
+                    </td>
+                    <td align="right">
+                        631
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        25
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=PATAN&district_code=1120&fin_year=2019-2020&source=national&typediv=0&Digest=LiIrcFjeNhb2qrlD6qjEsQ'>PATAN</a>
+                    </td>
+                    <td align="right">
+                        22405
+                    </td>
+                    <td align="right">
+                        5242
+                    </td>
+                    <td align="right">
+                        177428
+                    </td>
+                    <td align="right">
+                        205075
+                    </td>
+                    <td align="right">
+                        2058
+                    </td>
+                    <td align="right">
+                        370
+                    </td>
+                    <td align="right">
+                        19417
+                    </td>
+                    <td align="right">
+                        21845
+                    </td>
+                    
+                    <td align="right">
+                        14901
+                    </td>
+                    <td align="right">
+                        3376
+                    </td>
+                    <td align="right">
+                        609
+                    </td>
+                    <td align="right">
+                        31904
+                    </td>
+                    <td align="right">
+                        35889
+                    </td>
+                    <td align="right">
+                        82683
+                    </td>
+                    <td align="right">
+                        14724
+                    </td>
+                    <td align="right">
+                        733635
+                    </td>
+                    <td align="right">
+                        831042
+                    </td>
+                    <td align="right">
+                        336229
+                    </td>
+                    <td align="right">
+                        27
+                    </td>
+                    <td align="right">
+                        9
+                    </td>
+                    <td align="right">
+                        308
+                    </td>
+                    <td align="right">
+                        344
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        26
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=PORBANDAR&district_code=1121&fin_year=2019-2020&source=national&typediv=0&Digest=21q6eyx0Z0aBiTN+vlS21w'>PORBANDAR</a>
+                    </td>
+                    <td align="right">
+                        4179
+                    </td>
+                    <td align="right">
+                        1010
+                    </td>
+                    <td align="right">
+                        26431
+                    </td>
+                    <td align="right">
+                        31620
+                    </td>
+                    <td align="right">
+                        1307
+                    </td>
+                    <td align="right">
+                        191
+                    </td>
+                    <td align="right">
+                        4183
+                    </td>
+                    <td align="right">
+                        5681
+                    </td>
+                    
+                    <td align="right">
+                        5375
+                    </td>
+                    <td align="right">
+                        2286
+                    </td>
+                    <td align="right">
+                        321
+                    </td>
+                    <td align="right">
+                        7039
+                    </td>
+                    <td align="right">
+                        9646
+                    </td>
+                    <td align="right">
+                        61511
+                    </td>
+                    <td align="right">
+                        9861
+                    </td>
+                    <td align="right">
+                        195607
+                    </td>
+                    <td align="right">
+                        266979
+                    </td>
+                    <td align="right">
+                        157225
+                    </td>
+                    <td align="right">
+                        9
+                    </td>
+                    <td align="right">
+                        6
+                    </td>
+                    <td align="right">
+                        60
+                    </td>
+                    <td align="right">
+                        75
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        27
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=RAJKOT&district_code=1102&fin_year=2019-2020&source=national&typediv=0&Digest=ExfBLgssUy/Yf8fB37BN0A'>RAJKOT</a>
+                    </td>
+                    <td align="right">
+                        7386
+                    </td>
+                    <td align="right">
+                        760
+                    </td>
+                    <td align="right">
+                        109768
+                    </td>
+                    <td align="right">
+                        117914
+                    </td>
+                    <td align="right">
+                        594
+                    </td>
+                    <td align="right">
+                        28
+                    </td>
+                    <td align="right">
+                        7891
+                    </td>
+                    <td align="right">
+                        8513
+                    </td>
+                    
+                    <td align="right">
+                        8816
+                    </td>
+                    <td align="right">
+                        1368
+                    </td>
+                    <td align="right">
+                        80
+                    </td>
+                    <td align="right">
+                        17267
+                    </td>
+                    <td align="right">
+                        18715
+                    </td>
+                    <td align="right">
+                        28068
+                    </td>
+                    <td align="right">
+                        1587
+                    </td>
+                    <td align="right">
+                        383297
+                    </td>
+                    <td align="right">
+                        412952
+                    </td>
+                    <td align="right">
+                        194073
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        91
+                    </td>
+                    <td align="right">
+                        96
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        28
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=SABAR+KANTHA&district_code=1109&fin_year=2019-2020&source=national&typediv=0&Digest=gJsDM437umft8AQrDoplww'>SABAR KANTHA</a>
+                    </td>
+                    <td align="right">
+                        17550
+                    </td>
+                    <td align="right">
+                        39303
+                    </td>
+                    <td align="right">
+                        61075
+                    </td>
+                    <td align="right">
+                        117928
+                    </td>
+                    <td align="right">
+                        5649
+                    </td>
+                    <td align="right">
+                        9874
+                    </td>
+                    <td align="right">
+                        15042
+                    </td>
+                    <td align="right">
+                        30565
+                    </td>
+                    
+                    <td align="right">
+                        23355
+                    </td>
+                    <td align="right">
+                        8779
+                    </td>
+                    <td align="right">
+                        15471
+                    </td>
+                    <td align="right">
+                        23403
+                    </td>
+                    <td align="right">
+                        47653
+                    </td>
+                    <td align="right">
+                        252007
+                    </td>
+                    <td align="right">
+                        367838
+                    </td>
+                    <td align="right">
+                        679642
+                    </td>
+                    <td align="right">
+                        1299487
+                    </td>
+                    <td align="right">
+                        637874
+                    </td>
+                    <td align="right">
+                        111
+                    </td>
+                    <td align="right">
+                        10
+                    </td>
+                    <td align="right">
+                        316
+                    </td>
+                    <td align="right">
+                        437
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        29
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=SURAT&district_code=1117&fin_year=2019-2020&source=national&typediv=0&Digest=/saILvvz9zFKL7v5MVpbaw'>SURAT</a>
+                    </td>
+                    <td align="right">
+                        4243
+                    </td>
+                    <td align="right">
+                        152946
+                    </td>
+                    <td align="right">
+                        18495
+                    </td>
+                    <td align="right">
+                        175684
+                    </td>
+                    <td align="right">
+                        249
+                    </td>
+                    <td align="right">
+                        24987
+                    </td>
+                    <td align="right">
+                        1602
+                    </td>
+                    <td align="right">
+                        26838
+                    </td>
+                    
+                    <td align="right">
+                        15479
+                    </td>
+                    <td align="right">
+                        315
+                    </td>
+                    <td align="right">
+                        32385
+                    </td>
+                    <td align="right">
+                        1890
+                    </td>
+                    <td align="right">
+                        34590
+                    </td>
+                    <td align="right">
+                        9570
+                    </td>
+                    <td align="right">
+                        894421
+                    </td>
+                    <td align="right">
+                        84644
+                    </td>
+                    <td align="right">
+                        988635
+                    </td>
+                    <td align="right">
+                        412985
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        219
+                    </td>
+                    <td align="right">
+                        275
+                    </td>
+                    <td align="right">
+                        494
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        30
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=SURENDRANAGAR&district_code=1103&fin_year=2019-2020&source=national&typediv=0&Digest=pPHAM2oITeOVmjE6LW/bJw'>SURENDRANAGAR</a>
+                    </td>
+                    <td align="right">
+                        6112
+                    </td>
+                    <td align="right">
+                        1135
+                    </td>
+                    <td align="right">
+                        77569
+                    </td>
+                    <td align="right">
+                        84816
+                    </td>
+                    <td align="right">
+                        1013
+                    </td>
+                    <td align="right">
+                        225
+                    </td>
+                    <td align="right">
+                        20773
+                    </td>
+                    <td align="right">
+                        22011
+                    </td>
+                    
+                    <td align="right">
+                        15190
+                    </td>
+                    <td align="right">
+                        1962
+                    </td>
+                    <td align="right">
+                        389
+                    </td>
+                    <td align="right">
+                        36622
+                    </td>
+                    <td align="right">
+                        38973
+                    </td>
+                    <td align="right">
+                        44869
+                    </td>
+                    <td align="right">
+                        11889
+                    </td>
+                    <td align="right">
+                        936377
+                    </td>
+                    <td align="right">
+                        993135
+                    </td>
+                    <td align="right">
+                        361284
+                    </td>
+                    <td align="right">
+                        34
+                    </td>
+                    <td align="right">
+                        6
+                    </td>
+                    <td align="right">
+                        586
+                    </td>
+                    <td align="right">
+                        626
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        31
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=TAPI&district_code=1126&fin_year=2019-2020&source=national&typediv=0&Digest=Fs+ZTs5Cctsi0hvUIrajUw'>TAPI</a>
+                    </td>
+                    <td align="right">
+                        1880
+                    </td>
+                    <td align="right">
+                        173663
+                    </td>
+                    <td align="right">
+                        12194
+                    </td>
+                    <td align="right">
+                        187737
+                    </td>
+                    <td align="right">
+                        227
+                    </td>
+                    <td align="right">
+                        39337
+                    </td>
+                    <td align="right">
+                        1917
+                    </td>
+                    <td align="right">
+                        41481
+                    </td>
+                    
+                    <td align="right">
+                        29057
+                    </td>
+                    <td align="right">
+                        419
+                    </td>
+                    <td align="right">
+                        50824
+                    </td>
+                    <td align="right">
+                        2667
+                    </td>
+                    <td align="right">
+                        53910
+                    </td>
+                    <td align="right">
+                        7751
+                    </td>
+                    <td align="right">
+                        881550
+                    </td>
+                    <td align="right">
+                        48857
+                    </td>
+                    <td align="right">
+                        938158
+                    </td>
+                    <td align="right">
+                        503791
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        77
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        79
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        32
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=VADODARA&district_code=1115&fin_year=2019-2020&source=national&typediv=0&Digest=xY3tac5evuRuOO34Bt+TTQ'>VADODARA</a>
+                    </td>
+                    <td align="right">
+                        13118
+                    </td>
+                    <td align="right">
+                        28372
+                    </td>
+                    <td align="right">
+                        63047
+                    </td>
+                    <td align="right">
+                        104537
+                    </td>
+                    <td align="right">
+                        320
+                    </td>
+                    <td align="right">
+                        915
+                    </td>
+                    <td align="right">
+                        4020
+                    </td>
+                    <td align="right">
+                        5255
+                    </td>
+                    
+                    <td align="right">
+                        2742
+                    </td>
+                    <td align="right">
+                        457
+                    </td>
+                    <td align="right">
+                        1220
+                    </td>
+                    <td align="right">
+                        5656
+                    </td>
+                    <td align="right">
+                        7333
+                    </td>
+                    <td align="right">
+                        13295
+                    </td>
+                    <td align="right">
+                        43263
+                    </td>
+                    <td align="right">
+                        171145
+                    </td>
+                    <td align="right">
+                        227703
+                    </td>
+                    <td align="right">
+                        79541
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        33
+                    </td>
+                    <td align="right">
+                        60
+                    </td>
+                    <td align="right">
+                        96
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        33
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=GUJARAT&state_code=11&district_name=VALSAD&district_code=1118&fin_year=2019-2020&source=national&typediv=0&Digest=V5p8VwQL9TyYoSCIymK5Kw'>VALSAD</a>
+                    </td>
+                    <td align="right">
+                        4505
+                    </td>
+                    <td align="right">
+                        168390
+                    </td>
+                    <td align="right">
+                        24270
+                    </td>
+                    <td align="right">
+                        197165
+                    </td>
+                    <td align="right">
+                        298
+                    </td>
+                    <td align="right">
+                        20165
+                    </td>
+                    <td align="right">
+                        3988
+                    </td>
+                    <td align="right">
+                        24451
+                    </td>
+                    
+                    <td align="right">
+                        18758
+                    </td>
+                    <td align="right">
+                        391
+                    </td>
+                    <td align="right">
+                        27166
+                    </td>
+                    <td align="right">
+                        4443
+                    </td>
+                    <td align="right">
+                        32000
+                    </td>
+                    <td align="right">
+                        15439
+                    </td>
+                    <td align="right">
+                        740288
+                    </td>
+                    <td align="right">
+                        95423
+                    </td>
+                    <td align="right">
+                        851150
+                    </td>
+                    <td align="right">
+                        499855
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        55
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        57
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        245944
+                    </td>
+                    <td align="right">
+                        1501085
+                    </td>
+                    <td align="right">
+                        2185539
+                    </td>
+                    <td align="right">
+                        3932568
+                    </td>
+                    <td align="right">
+                        41065
+                    </td>
+                    <td align="right">
+                        352758
+                    </td>
+                    <td align="right">
+                        425058
+                    </td>
+                    <td align="right">
+                        818881
+                    </td>
+                    
+                    <td align="right">
+                        613010
+                    </td>
+                    <td align="right">
+                        73390
+                    </td>
+                    <td align="right">
+                        547831
+                    </td>
+                    <td align="right">
+                        704973
+                    </td>
+                    <td align="right">
+                        1326194
+                    </td>
+                    <td align="right">
+                        1871874
+                    </td>
+                    <td align="right">
+                        14324552
+                    </td>
+                    <td align="right">
+                        19172578
+                    </td>
+                    <td align="right">
+                        35369004
+                    </td>
+                    <td align="right">
+                        15961706
+                    </td>
+                    <td align="right">
+                        816
+                    </td>
+                    <td align="right">
+                        4003
+                    </td>
+                    <td align="right">
+                        8348
+                    </td>
+                    <td align="right">
+                        13167
+                    </td>
+                </tr>
+            
+                </table>
+            

@@ -1,0 +1,335 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl27$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl27$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl27$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl27$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl27$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">103022</td>
+                <td align="right">1145709</td>
+                <td align="right">1229427</td>
+                 <td align="right">878079</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=AMRITSAR&district_code=2602&fin_year=2019-2020&source=national&Digest=PVNHDl3vHdIbwIsb/yTrKw'>AMRITSAR</a></td>
+                <td align="right">3733</td>
+                <td align="right">65677</td>
+                <td align="right">33389</td>
+                 <td align="right">23707</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=BARNALA&district_code=2621&fin_year=2019-2020&source=national&Digest=SREo3vfOSLO9KJ2w+XjJoQ'>BARNALA</a></td>
+                <td align="right">3908</td>
+                <td align="right">28461</td>
+                <td align="right">29948</td>
+                 <td align="right">21320</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=BHATINDA++++++++++++++++++&district_code=2611&fin_year=2019-2020&source=national&Digest=6PY7vmQcpxt4q/T+Qt+RoQ'>BHATINDA                  </a></td>
+                <td align="right">3286</td>
+                <td align="right">63739</td>
+                <td align="right">72526</td>
+                 <td align="right">58029</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=FARIDKOT&district_code=2612&fin_year=2019-2020&source=national&Digest=s7fZx1uxW4e94bpcX/Pi8Q'>FARIDKOT</a></td>
+                <td align="right">2632</td>
+                <td align="right">41240</td>
+                <td align="right">41847</td>
+                 <td align="right">32315</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=FATEHGARH+SAHIB&district_code=2618&fin_year=2019-2020&source=national&Digest=iFGoi2AeUzxCA/AEU3iP5Q'>FATEHGARH SAHIB</a></td>
+                <td align="right">888</td>
+                <td align="right">36577</td>
+                <td align="right">35525</td>
+                 <td align="right">27504</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=Fazilka&district_code=2623&fin_year=2019-2020&source=national&Digest=3akY/fCtXIyYRH9AWiRmyA'>Fazilka</a></td>
+                <td align="right">4359</td>
+                <td align="right">95560</td>
+                <td align="right">122490</td>
+                 <td align="right">96827</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=FEROZEPUR+++++++++++++++++&district_code=2603&fin_year=2019-2020&source=national&Digest=9hUS815pRF09+MpSBatVTg'>FEROZEPUR                 </a></td>
+                <td align="right">5767</td>
+                <td align="right">61379</td>
+                <td align="right">72340</td>
+                 <td align="right">48527</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=GURDASPUR&district_code=2601&fin_year=2019-2020&source=national&Digest=6Hjwk3iBUV47YF6vpBpQoQ'>GURDASPUR</a></td>
+                <td align="right">1508</td>
+                <td align="right">43976</td>
+                <td align="right">50262</td>
+                 <td align="right">31746</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">9</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=HOSHIARPUR&district_code=2607&fin_year=2019-2020&source=national&Digest=QYkaG3euOhsqv2ViZsAjLQ'>HOSHIARPUR</a></td>
+                <td align="right">8469</td>
+                <td align="right">63898</td>
+                <td align="right">64964</td>
+                 <td align="right">39221</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">10</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=JALANDHAR&district_code=2605&fin_year=2019-2020&source=national&Digest=s4nQml8CoaEXqponUaxK5w'>JALANDHAR</a></td>
+                <td align="right">6991</td>
+                <td align="right">49774</td>
+                <td align="right">51602</td>
+                 <td align="right">28770</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">11</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=KAPURTHALA&district_code=2606&fin_year=2019-2020&source=national&Digest=zOSYBM4Xo+eI+vTZaB3r/w'>KAPURTHALA</a></td>
+                <td align="right">3718</td>
+                <td align="right">31885</td>
+                <td align="right">34288</td>
+                 <td align="right">21848</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">12</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=LUDHIANA&district_code=2604&fin_year=2019-2020&source=national&Digest=iRULZwSQ0QbepLPwmIegIA'>LUDHIANA</a></td>
+                <td align="right">1822</td>
+                <td align="right">81007</td>
+                <td align="right">81581</td>
+                 <td align="right">56613</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">13</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=MALERKOTLA&district_code=2624&fin_year=2019-2020&source=national&Digest=AMyhutHquZjb76orlDQahg'>MALERKOTLA</a></td>
+                <td align="right">0</td>
+                <td align="right">0</td>
+                <td align="right">98</td>
+                 <td align="right">40</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">14</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=MANSA&district_code=2617&fin_year=2019-2020&source=national&Digest=597uoPIoxwOUxV99pN5q2A'>MANSA</a></td>
+                <td align="right">3603</td>
+                <td align="right">46827</td>
+                <td align="right">54483</td>
+                 <td align="right">42155</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">15</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=MOGA&district_code=2615&fin_year=2019-2020&source=national&Digest=wdId2235rgfclBlG64uiVg'>MOGA</a></td>
+                <td align="right">8803</td>
+                <td align="right">70280</td>
+                <td align="right">74391</td>
+                 <td align="right">46266</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">16</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=MUKATSAR&district_code=2616&fin_year=2019-2020&source=national&Digest=/LjwCD00wUOS4JzVvIqbZA'>MUKATSAR</a></td>
+                <td align="right">12633</td>
+                <td align="right">79749</td>
+                <td align="right">90969</td>
+                 <td align="right">70012</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">17</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=NAWANSHAHR+&district_code=2614&fin_year=2019-2020&source=national&Digest=/ZelJ+bWy4JMGkgZKAPVsw'>NAWANSHAHR </a></td>
+                <td align="right">1214</td>
+                <td align="right">27647</td>
+                <td align="right">34377</td>
+                 <td align="right">24883</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">18</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=Pathankot&district_code=2622&fin_year=2019-2020&source=national&Digest=w3CnYqIHFxmvlLgfCU6CxQ'>Pathankot</a></td>
+                <td align="right">480</td>
+                <td align="right">16846</td>
+                <td align="right">18984</td>
+                 <td align="right">9836</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">19</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=PATIALA&district_code=2609&fin_year=2019-2020&source=national&Digest=wFkBR2VTLpek8h3Y8jAKsw'>PATIALA</a></td>
+                <td align="right">4553</td>
+                <td align="right">81995</td>
+                <td align="right">96184</td>
+                 <td align="right">74102</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">20</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=ROPAR&district_code=2608&fin_year=2019-2020&source=national&Digest=yJvkka02WSvZjPPrBSTWwQ'>ROPAR</a></td>
+                <td align="right">1346</td>
+                <td align="right">26107</td>
+                <td align="right">32245</td>
+                 <td align="right">22516</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">21</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=SANGRUR&district_code=2610&fin_year=2019-2020&source=national&Digest=ijj2CcgVUjtRDEK/6va3UA'>SANGRUR</a></td>
+                <td align="right">6435</td>
+                <td align="right">68143</td>
+                <td align="right">83540</td>
+                 <td align="right">64631</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">22</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=SAS+NAGAR+MOHALI&district_code=2619&fin_year=2019-2020&source=national&Digest=eswV6AhaAor3qzioQ5Kgew'>SAS NAGAR MOHALI</a></td>
+                <td align="right">709</td>
+                <td align="right">18470</td>
+                <td align="right">20113</td>
+                 <td align="right">12989</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">23</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=PUNJAB&state_code=26&district_name=TARN+TARAN&district_code=2620&fin_year=2019-2020&source=national&Digest=pC3dG8oBHoBbn4y/pYh6PQ'>TARN TARAN</a></td>
+                <td align="right">16165</td>
+                <td align="right">46472</td>
+                <td align="right">33281</td>
+                 <td align="right">24222</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">103022</td>
+                <td align="right">1145709</td>
+                <td align="right">1229427</td>
+                 <td align="right">878079</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

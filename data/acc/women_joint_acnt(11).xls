@@ -1,0 +1,324 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl26$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl26$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl26$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl26$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl26$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">13796</td>
+                <td align="right">703526</td>
+                <td align="right">708055</td>
+                 <td align="right">576774</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=ANANTNAG&district_code=1406&fin_year=2019-2020&source=national&Digest=QgLymKHUP2lHpB9RFFdAEg'>ANANTNAG</a></td>
+                <td align="right">1628</td>
+                <td align="right">95410</td>
+                <td align="right">69810</td>
+                 <td align="right">52965</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=BADGAM&district_code=1404&fin_year=2019-2020&source=national&Digest=7NN4UiMPLdmSf/MqIiUXUg'>BADGAM</a></td>
+                <td align="right">181</td>
+                <td align="right">11296</td>
+                <td align="right">15669</td>
+                 <td align="right">11867</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=BANDIPORA&district_code=1419&fin_year=2019-2020&source=national&Digest=zyfJIcXaMMHAn8XAlPOnDg'>BANDIPORA</a></td>
+                <td align="right">159</td>
+                <td align="right">13521</td>
+                <td align="right">17252</td>
+                 <td align="right">12694</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=BARAMULLA&district_code=1402&fin_year=2019-2020&source=national&Digest=MLllyh7mKw+yGJri/c54cg'>BARAMULLA</a></td>
+                <td align="right">194</td>
+                <td align="right">27696</td>
+                <td align="right">29621</td>
+                 <td align="right">18949</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=DODA&district_code=1409&fin_year=2019-2020&source=national&Digest=SotsrHVtQPJWzK8z1woeVw'>DODA</a></td>
+                <td align="right">1188</td>
+                <td align="right">70747</td>
+                <td align="right">81543</td>
+                 <td align="right">77586</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=GANDERBAL&district_code=1420&fin_year=2019-2020&source=national&Digest=3Ck7+Lw5jZXCzb7O+nuPdQ'>GANDERBAL</a></td>
+                <td align="right">69</td>
+                <td align="right">16544</td>
+                <td align="right">18342</td>
+                 <td align="right">14102</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=JAMMU&district_code=1413&fin_year=2019-2020&source=national&Digest=W6lIec58gMp/D4zqdMxgsA'>JAMMU</a></td>
+                <td align="right">290</td>
+                <td align="right">19784</td>
+                <td align="right">15323</td>
+                 <td align="right">9945</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=KARGIL&district_code=1408&fin_year=2019-2020&source=national&Digest=1smpP/n1PutBDGHekKVOLQ'>KARGIL</a></td>
+                <td align="right">407</td>
+                <td align="right">13869</td>
+                <td align="right">12752</td>
+                 <td align="right">11502</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">9</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=KATHUA&district_code=1414&fin_year=2019-2020&source=national&Digest=F0KDe93ZmW+GbvoSP3w7Fw'>KATHUA</a></td>
+                <td align="right">395</td>
+                <td align="right">21795</td>
+                <td align="right">24819</td>
+                 <td align="right">18169</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">10</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=KISHTWAR&district_code=1415&fin_year=2019-2020&source=national&Digest=FQSNRq+fGSDER850CXNWqA'>KISHTWAR</a></td>
+                <td align="right">945</td>
+                <td align="right">37999</td>
+                <td align="right">36843</td>
+                 <td align="right">32861</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">11</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=KULGAM&district_code=1421&fin_year=2019-2020&source=national&Digest=6LGLAlFCh96nF8f3mbRH2g'>KULGAM</a></td>
+                <td align="right">407</td>
+                <td align="right">45847</td>
+                <td align="right">36763</td>
+                 <td align="right">30456</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">12</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=KUPWARA&district_code=1401&fin_year=2019-2020&source=national&Digest=RAotAvaTjWZZU65SDbw7WA'>KUPWARA</a></td>
+                <td align="right">714</td>
+                <td align="right">65678</td>
+                <td align="right">71770</td>
+                 <td align="right">64120</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">13</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=LEH+(LADAKH)&district_code=1407&fin_year=2019-2020&source=national&Digest=SOz/myg4xLEBkiGOTYuHbg'>LEH (LADAKH)</a></td>
+                <td align="right">699</td>
+                <td align="right">16425</td>
+                <td align="right">15915</td>
+                 <td align="right">13945</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">14</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=POONCH&district_code=1411&fin_year=2019-2020&source=national&Digest=HrKRgK+qWSjuUmWnyEjjNg'>POONCH</a></td>
+                <td align="right">1749</td>
+                <td align="right">60832</td>
+                <td align="right">62655</td>
+                 <td align="right">55225</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">15</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=PULWAMA&district_code=1405&fin_year=2019-2020&source=national&Digest=YlyFvSYIhE7W7SZAebJDYg'>PULWAMA</a></td>
+                <td align="right">171</td>
+                <td align="right">11203</td>
+                <td align="right">12904</td>
+                 <td align="right">8558</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">16</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=RAJAURI&district_code=1412&fin_year=2019-2020&source=national&Digest=lJxom7FGqWMC1Eoby00SvQ'>RAJAURI</a></td>
+                <td align="right">1625</td>
+                <td align="right">69711</td>
+                <td align="right">89890</td>
+                 <td align="right">80054</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">17</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=RAMBAN&district_code=1416&fin_year=2019-2020&source=national&Digest=3nsLLYLRgXH+HRWwSQJCCg'>RAMBAN</a></td>
+                <td align="right">1276</td>
+                <td align="right">30954</td>
+                <td align="right">29939</td>
+                 <td align="right">20549</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">18</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=REASI&district_code=1417&fin_year=2019-2020&source=national&Digest=Y2B+N7OTk3yl5QOMOuLn5Q'>REASI</a></td>
+                <td align="right">979</td>
+                <td align="right">40598</td>
+                <td align="right">32778</td>
+                 <td align="right">21022</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">19</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=SAMBA&district_code=1418&fin_year=2019-2020&source=national&Digest=ykfDyt3QiqadKC+5NfaaFA'>SAMBA</a></td>
+                <td align="right">214</td>
+                <td align="right">10383</td>
+                <td align="right">9081</td>
+                 <td align="right">4449</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">20</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=SHOPIAN&district_code=1422&fin_year=2019-2020&source=national&Digest=bzcg7uYNTw++ZfosAFIR0w'>SHOPIAN</a></td>
+                <td align="right">173</td>
+                <td align="right">5073</td>
+                <td align="right">5008</td>
+                 <td align="right">4795</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">21</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=SRINAGAR&district_code=1403&fin_year=2019-2020&source=national&Digest=i1Y06T5SIBWZyIC06T5D6A'>SRINAGAR</a></td>
+                <td align="right">26</td>
+                <td align="right">1375</td>
+                <td align="right">1174</td>
+                 <td align="right">751</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">22</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=JAMMU+AND+KASHMIR&state_code=14&district_name=UDHAMPUR&district_code=1410&fin_year=2019-2020&source=national&Digest=yxclHK07qHk6miprvxFS1g'>UDHAMPUR</a></td>
+                <td align="right">307</td>
+                <td align="right">16786</td>
+                <td align="right">18204</td>
+                 <td align="right">12210</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">13796</td>
+                <td align="right">703526</td>
+                <td align="right">708055</td>
+                 <td align="right">576774</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

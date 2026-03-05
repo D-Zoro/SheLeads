@@ -1,0 +1,880 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=TRIPURA&state_code=30&district_name=DHALAI&district_code=3004&fin_year=2019-2020&source=national&typediv=0&Digest=NWKO8/oL+WmY0/0sKjfqJg'>DHALAI</a>
+                    </td>
+                    <td align="right">
+                        12925
+                    </td>
+                    <td align="right">
+                        55290
+                    </td>
+                    <td align="right">
+                        17127
+                    </td>
+                    <td align="right">
+                        85342
+                    </td>
+                    <td align="right">
+                        12107
+                    </td>
+                    <td align="right">
+                        53362
+                    </td>
+                    <td align="right">
+                        15580
+                    </td>
+                    <td align="right">
+                        81049
+                    </td>
+                    
+                    <td align="right">
+                        60337
+                    </td>
+                    <td align="right">
+                        16953
+                    </td>
+                    <td align="right">
+                        85432
+                    </td>
+                    <td align="right">
+                        22151
+                    </td>
+                    <td align="right">
+                        124536
+                    </td>
+                    <td align="right">
+                        896364
+                    </td>
+                    <td align="right">
+                        4891188
+                    </td>
+                    <td align="right">
+                        1142313
+                    </td>
+                    <td align="right">
+                        6929865
+                    </td>
+                    <td align="right">
+                        3229128
+                    </td>
+                    <td align="right">
+                        1302
+                    </td>
+                    <td align="right">
+                        21044
+                    </td>
+                    <td align="right">
+                        2127
+                    </td>
+                    <td align="right">
+                        24473
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=TRIPURA&state_code=30&district_name=Gomati&district_code=3008&fin_year=2019-2020&source=national&typediv=0&Digest=MZKH9wtrCBo/OsC1mIEaDQ'>Gomati</a>
+                    </td>
+                    <td align="right">
+                        14102
+                    </td>
+                    <td align="right">
+                        42856
+                    </td>
+                    <td align="right">
+                        32277
+                    </td>
+                    <td align="right">
+                        89235
+                    </td>
+                    <td align="right">
+                        12737
+                    </td>
+                    <td align="right">
+                        39668
+                    </td>
+                    <td align="right">
+                        27978
+                    </td>
+                    <td align="right">
+                        80383
+                    </td>
+                    
+                    <td align="right">
+                        57869
+                    </td>
+                    <td align="right">
+                        18226
+                    </td>
+                    <td align="right">
+                        58187
+                    </td>
+                    <td align="right">
+                        38136
+                    </td>
+                    <td align="right">
+                        114549
+                    </td>
+                    <td align="right">
+                        735612
+                    </td>
+                    <td align="right">
+                        3043601
+                    </td>
+                    <td align="right">
+                        1535350
+                    </td>
+                    <td align="right">
+                        5314563
+                    </td>
+                    <td align="right">
+                        2711150
+                    </td>
+                    <td align="right">
+                        652
+                    </td>
+                    <td align="right">
+                        7551
+                    </td>
+                    <td align="right">
+                        1189
+                    </td>
+                    <td align="right">
+                        9392
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=TRIPURA&state_code=30&district_name=Khowai&district_code=3006&fin_year=2019-2020&source=national&typediv=0&Digest=VadX/ql8GVa4H96Uc78w0g'>Khowai</a>
+                    </td>
+                    <td align="right">
+                        13420
+                    </td>
+                    <td align="right">
+                        33135
+                    </td>
+                    <td align="right">
+                        20935
+                    </td>
+                    <td align="right">
+                        67490
+                    </td>
+                    <td align="right">
+                        12474
+                    </td>
+                    <td align="right">
+                        31293
+                    </td>
+                    <td align="right">
+                        18937
+                    </td>
+                    <td align="right">
+                        62704
+                    </td>
+                    
+                    <td align="right">
+                        35073
+                    </td>
+                    <td align="right">
+                        15090
+                    </td>
+                    <td align="right">
+                        37952
+                    </td>
+                    <td align="right">
+                        23325
+                    </td>
+                    <td align="right">
+                        76367
+                    </td>
+                    <td align="right">
+                        640069
+                    </td>
+                    <td align="right">
+                        1974287
+                    </td>
+                    <td align="right">
+                        945376
+                    </td>
+                    <td align="right">
+                        3559732
+                    </td>
+                    <td align="right">
+                        1581184
+                    </td>
+                    <td align="right">
+                        42
+                    </td>
+                    <td align="right">
+                        2270
+                    </td>
+                    <td align="right">
+                        181
+                    </td>
+                    <td align="right">
+                        2493
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        4
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=TRIPURA&state_code=30&district_name=NORTH+TRIPURA&district_code=3003&fin_year=2019-2020&source=national&typediv=0&Digest=vzMbQG7Wq6bE7fz6tkt9Cw'>NORTH TRIPURA</a>
+                    </td>
+                    <td align="right">
+                        11225
+                    </td>
+                    <td align="right">
+                        21543
+                    </td>
+                    <td align="right">
+                        34812
+                    </td>
+                    <td align="right">
+                        67580
+                    </td>
+                    <td align="right">
+                        9937
+                    </td>
+                    <td align="right">
+                        20081
+                    </td>
+                    <td align="right">
+                        30457
+                    </td>
+                    <td align="right">
+                        60475
+                    </td>
+                    
+                    <td align="right">
+                        40590
+                    </td>
+                    <td align="right">
+                        14901
+                    </td>
+                    <td align="right">
+                        32377
+                    </td>
+                    <td align="right">
+                        43990
+                    </td>
+                    <td align="right">
+                        91268
+                    </td>
+                    <td align="right">
+                        532557
+                    </td>
+                    <td align="right">
+                        1501149
+                    </td>
+                    <td align="right">
+                        1587181
+                    </td>
+                    <td align="right">
+                        3620887
+                    </td>
+                    <td align="right">
+                        1550143
+                    </td>
+                    <td align="right">
+                        616
+                    </td>
+                    <td align="right">
+                        5032
+                    </td>
+                    <td align="right">
+                        1667
+                    </td>
+                    <td align="right">
+                        7315
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        5
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=TRIPURA&state_code=30&district_name=Sepahijala&district_code=3007&fin_year=2019-2020&source=national&typediv=0&Digest=xN+tMUeT5a1kNBavIvdkHg'>Sepahijala</a>
+                    </td>
+                    <td align="right">
+                        14890
+                    </td>
+                    <td align="right">
+                        24417
+                    </td>
+                    <td align="right">
+                        45299
+                    </td>
+                    <td align="right">
+                        84606
+                    </td>
+                    <td align="right">
+                        13168
+                    </td>
+                    <td align="right">
+                        21791
+                    </td>
+                    <td align="right">
+                        36639
+                    </td>
+                    <td align="right">
+                        71598
+                    </td>
+                    
+                    <td align="right">
+                        49576
+                    </td>
+                    <td align="right">
+                        19205
+                    </td>
+                    <td align="right">
+                        31845
+                    </td>
+                    <td align="right">
+                        51038
+                    </td>
+                    <td align="right">
+                        102088
+                    </td>
+                    <td align="right">
+                        752282
+                    </td>
+                    <td align="right">
+                        1533578
+                    </td>
+                    <td align="right">
+                        2046558
+                    </td>
+                    <td align="right">
+                        4332418
+                    </td>
+                    <td align="right">
+                        2115146
+                    </td>
+                    <td align="right">
+                        681
+                    </td>
+                    <td align="right">
+                        2686
+                    </td>
+                    <td align="right">
+                        2328
+                    </td>
+                    <td align="right">
+                        5695
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        6
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=TRIPURA&state_code=30&district_name=SOUTH+TRIPURA&district_code=3002&fin_year=2019-2020&source=national&typediv=0&Digest=rjcYM22xT+VenMTP00Y88A'>SOUTH TRIPURA</a>
+                    </td>
+                    <td align="right">
+                        13299
+                    </td>
+                    <td align="right">
+                        32364
+                    </td>
+                    <td align="right">
+                        45166
+                    </td>
+                    <td align="right">
+                        90829
+                    </td>
+                    <td align="right">
+                        12147
+                    </td>
+                    <td align="right">
+                        30200
+                    </td>
+                    <td align="right">
+                        40222
+                    </td>
+                    <td align="right">
+                        82569
+                    </td>
+                    
+                    <td align="right">
+                        52642
+                    </td>
+                    <td align="right">
+                        16249
+                    </td>
+                    <td align="right">
+                        42743
+                    </td>
+                    <td align="right">
+                        53871
+                    </td>
+                    <td align="right">
+                        112863
+                    </td>
+                    <td align="right">
+                        703562
+                    </td>
+                    <td align="right">
+                        1818808
+                    </td>
+                    <td align="right">
+                        2256422
+                    </td>
+                    <td align="right">
+                        4778792
+                    </td>
+                    <td align="right">
+                        2200393
+                    </td>
+                    <td align="right">
+                        252
+                    </td>
+                    <td align="right">
+                        1236
+                    </td>
+                    <td align="right">
+                        539
+                    </td>
+                    <td align="right">
+                        2027
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        7
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=TRIPURA&state_code=30&district_name=Unakoti&district_code=3005&fin_year=2019-2020&source=national&typediv=0&Digest=EvoyHcl00EZSSYbLoqRwxA'>Unakoti</a>
+                    </td>
+                    <td align="right">
+                        10074
+                    </td>
+                    <td align="right">
+                        12408
+                    </td>
+                    <td align="right">
+                        29841
+                    </td>
+                    <td align="right">
+                        52323
+                    </td>
+                    <td align="right">
+                        8701
+                    </td>
+                    <td align="right">
+                        10905
+                    </td>
+                    <td align="right">
+                        24159
+                    </td>
+                    <td align="right">
+                        43765
+                    </td>
+                    
+                    <td align="right">
+                        27812
+                    </td>
+                    <td align="right">
+                        12054
+                    </td>
+                    <td align="right">
+                        17453
+                    </td>
+                    <td align="right">
+                        32154
+                    </td>
+                    <td align="right">
+                        61661
+                    </td>
+                    <td align="right">
+                        456567
+                    </td>
+                    <td align="right">
+                        762364
+                    </td>
+                    <td align="right">
+                        1117779
+                    </td>
+                    <td align="right">
+                        2336710
+                    </td>
+                    <td align="right">
+                        1040067
+                    </td>
+                    <td align="right">
+                        251
+                    </td>
+                    <td align="right">
+                        2188
+                    </td>
+                    <td align="right">
+                        564
+                    </td>
+                    <td align="right">
+                        3003
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        8
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=TRIPURA&state_code=30&district_name=WEST+TRIPURA&district_code=3001&fin_year=2019-2020&source=national&typediv=0&Digest=nPSGMAvMn9zxUS2nKqg2Ow'>WEST TRIPURA</a>
+                    </td>
+                    <td align="right">
+                        19140
+                    </td>
+                    <td align="right">
+                        35916
+                    </td>
+                    <td align="right">
+                        39357
+                    </td>
+                    <td align="right">
+                        94413
+                    </td>
+                    <td align="right">
+                        16863
+                    </td>
+                    <td align="right">
+                        32938
+                    </td>
+                    <td align="right">
+                        33648
+                    </td>
+                    <td align="right">
+                        83449
+                    </td>
+                    
+                    <td align="right">
+                        51487
+                    </td>
+                    <td align="right">
+                        20163
+                    </td>
+                    <td align="right">
+                        40595
+                    </td>
+                    <td align="right">
+                        40189
+                    </td>
+                    <td align="right">
+                        100947
+                    </td>
+                    <td align="right">
+                        577940
+                    </td>
+                    <td align="right">
+                        1777472
+                    </td>
+                    <td align="right">
+                        1173706
+                    </td>
+                    <td align="right">
+                        3529118
+                    </td>
+                    <td align="right">
+                        1753703
+                    </td>
+                    <td align="right">
+                        39
+                    </td>
+                    <td align="right">
+                        832
+                    </td>
+                    <td align="right">
+                        112
+                    </td>
+                    <td align="right">
+                        983
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        109075
+                    </td>
+                    <td align="right">
+                        257929
+                    </td>
+                    <td align="right">
+                        264814
+                    </td>
+                    <td align="right">
+                        631818
+                    </td>
+                    <td align="right">
+                        98134
+                    </td>
+                    <td align="right">
+                        240238
+                    </td>
+                    <td align="right">
+                        227620
+                    </td>
+                    <td align="right">
+                        565992
+                    </td>
+                    
+                    <td align="right">
+                        375386
+                    </td>
+                    <td align="right">
+                        132841
+                    </td>
+                    <td align="right">
+                        346584
+                    </td>
+                    <td align="right">
+                        304854
+                    </td>
+                    <td align="right">
+                        784279
+                    </td>
+                    <td align="right">
+                        5294953
+                    </td>
+                    <td align="right">
+                        17302447
+                    </td>
+                    <td align="right">
+                        11804685
+                    </td>
+                    <td align="right">
+                        34402085
+                    </td>
+                    <td align="right">
+                        16180914
+                    </td>
+                    <td align="right">
+                        3835
+                    </td>
+                    <td align="right">
+                        42839
+                    </td>
+                    <td align="right">
+                        8707
+                    </td>
+                    <td align="right">
+                        55381
+                    </td>
+                </tr>
+            
+                </table>
+            

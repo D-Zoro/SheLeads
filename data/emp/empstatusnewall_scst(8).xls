@@ -1,0 +1,1184 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=HIMACHAL+PRADESH&state_code=13&district_name=BILASPUR&district_code=1301&fin_year=2019-2020&source=national&typediv=0&Digest=/3fro7QjQ2+HQJm7Jt1V2w'>BILASPUR</a>
+                    </td>
+                    <td align="right">
+                        18871
+                    </td>
+                    <td align="right">
+                        2094
+                    </td>
+                    <td align="right">
+                        58259
+                    </td>
+                    <td align="right">
+                        79224
+                    </td>
+                    <td align="right">
+                        5255
+                    </td>
+                    <td align="right">
+                        705
+                    </td>
+                    <td align="right">
+                        14687
+                    </td>
+                    <td align="right">
+                        20647
+                    </td>
+                    
+                    <td align="right">
+                        16373
+                    </td>
+                    <td align="right">
+                        6981
+                    </td>
+                    <td align="right">
+                        985
+                    </td>
+                    <td align="right">
+                        19383
+                    </td>
+                    <td align="right">
+                        27349
+                    </td>
+                    <td align="right">
+                        228331
+                    </td>
+                    <td align="right">
+                        36398
+                    </td>
+                    <td align="right">
+                        621804
+                    </td>
+                    <td align="right">
+                        886533
+                    </td>
+                    <td align="right">
+                        542453
+                    </td>
+                    <td align="right">
+                        416
+                    </td>
+                    <td align="right">
+                        117
+                    </td>
+                    <td align="right">
+                        1086
+                    </td>
+                    <td align="right">
+                        1619
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=HIMACHAL+PRADESH&state_code=13&district_name=CHAMBA&district_code=1302&fin_year=2019-2020&source=national&typediv=0&Digest=YAlqrUXwPXd/AZQhYbqgmw'>CHAMBA</a>
+                    </td>
+                    <td align="right">
+                        23788
+                    </td>
+                    <td align="right">
+                        30531
+                    </td>
+                    <td align="right">
+                        68498
+                    </td>
+                    <td align="right">
+                        122817
+                    </td>
+                    <td align="right">
+                        17028
+                    </td>
+                    <td align="right">
+                        21944
+                    </td>
+                    <td align="right">
+                        47731
+                    </td>
+                    <td align="right">
+                        86703
+                    </td>
+                    
+                    <td align="right">
+                        62049
+                    </td>
+                    <td align="right">
+                        24644
+                    </td>
+                    <td align="right">
+                        29601
+                    </td>
+                    <td align="right">
+                        67860
+                    </td>
+                    <td align="right">
+                        122105
+                    </td>
+                    <td align="right">
+                        1179648
+                    </td>
+                    <td align="right">
+                        1605892
+                    </td>
+                    <td align="right">
+                        3204873
+                    </td>
+                    <td align="right">
+                        5990413
+                    </td>
+                    <td align="right">
+                        3100632
+                    </td>
+                    <td align="right">
+                        4845
+                    </td>
+                    <td align="right">
+                        7520
+                    </td>
+                    <td align="right">
+                        12820
+                    </td>
+                    <td align="right">
+                        25185
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=HIMACHAL+PRADESH&state_code=13&district_name=HAMIRPUR&district_code=1303&fin_year=2019-2020&source=national&typediv=0&Digest=jKJdnAVVoJPXQh+D2QoTXw'>HAMIRPUR</a>
+                    </td>
+                    <td align="right">
+                        22105
+                    </td>
+                    <td align="right">
+                        907
+                    </td>
+                    <td align="right">
+                        70234
+                    </td>
+                    <td align="right">
+                        93246
+                    </td>
+                    <td align="right">
+                        7645
+                    </td>
+                    <td align="right">
+                        211
+                    </td>
+                    <td align="right">
+                        19188
+                    </td>
+                    <td align="right">
+                        27044
+                    </td>
+                    
+                    <td align="right">
+                        23825
+                    </td>
+                    <td align="right">
+                        8917
+                    </td>
+                    <td align="right">
+                        251
+                    </td>
+                    <td align="right">
+                        22349
+                    </td>
+                    <td align="right">
+                        31517
+                    </td>
+                    <td align="right">
+                        322184
+                    </td>
+                    <td align="right">
+                        8270
+                    </td>
+                    <td align="right">
+                        759709
+                    </td>
+                    <td align="right">
+                        1090163
+                    </td>
+                    <td align="right">
+                        862140
+                    </td>
+                    <td align="right">
+                        590
+                    </td>
+                    <td align="right">
+                        12
+                    </td>
+                    <td align="right">
+                        1110
+                    </td>
+                    <td align="right">
+                        1712
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        4
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=HIMACHAL+PRADESH&state_code=13&district_name=KANGRA&district_code=1304&fin_year=2019-2020&source=national&typediv=0&Digest=idkif3nqdPtrKXpkerIO3A'>KANGRA</a>
+                    </td>
+                    <td align="right">
+                        59828
+                    </td>
+                    <td align="right">
+                        16069
+                    </td>
+                    <td align="right">
+                        185865
+                    </td>
+                    <td align="right">
+                        261762
+                    </td>
+                    <td align="right">
+                        22434
+                    </td>
+                    <td align="right">
+                        6065
+                    </td>
+                    <td align="right">
+                        60882
+                    </td>
+                    <td align="right">
+                        89381
+                    </td>
+                    
+                    <td align="right">
+                        72353
+                    </td>
+                    <td align="right">
+                        25496
+                    </td>
+                    <td align="right">
+                        6939
+                    </td>
+                    <td align="right">
+                        68241
+                    </td>
+                    <td align="right">
+                        100676
+                    </td>
+                    <td align="right">
+                        934736
+                    </td>
+                    <td align="right">
+                        257564
+                    </td>
+                    <td align="right">
+                        2347812
+                    </td>
+                    <td align="right">
+                        3540112
+                    </td>
+                    <td align="right">
+                        2652042
+                    </td>
+                    <td align="right">
+                        1634
+                    </td>
+                    <td align="right">
+                        485
+                    </td>
+                    <td align="right">
+                        3232
+                    </td>
+                    <td align="right">
+                        5351
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        5
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=HIMACHAL+PRADESH&state_code=13&district_name=KINNAUR&district_code=1305&fin_year=2019-2020&source=national&typediv=0&Digest=V+5ly/zGS94p5PslIMS78w'>KINNAUR</a>
+                    </td>
+                    <td align="right">
+                        6715
+                    </td>
+                    <td align="right">
+                        11821
+                    </td>
+                    <td align="right">
+                        464
+                    </td>
+                    <td align="right">
+                        19000
+                    </td>
+                    <td align="right">
+                        4290
+                    </td>
+                    <td align="right">
+                        6836
+                    </td>
+                    <td align="right">
+                        273
+                    </td>
+                    <td align="right">
+                        11399
+                    </td>
+                    
+                    <td align="right">
+                        9805
+                    </td>
+                    <td align="right">
+                        6009
+                    </td>
+                    <td align="right">
+                        9524
+                    </td>
+                    <td align="right">
+                        412
+                    </td>
+                    <td align="right">
+                        15945
+                    </td>
+                    <td align="right">
+                        261869
+                    </td>
+                    <td align="right">
+                        417270
+                    </td>
+                    <td align="right">
+                        15017
+                    </td>
+                    <td align="right">
+                        694156
+                    </td>
+                    <td align="right">
+                        484640
+                    </td>
+                    <td align="right">
+                        680
+                    </td>
+                    <td align="right">
+                        1129
+                    </td>
+                    <td align="right">
+                        28
+                    </td>
+                    <td align="right">
+                        1837
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        6
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=HIMACHAL+PRADESH&state_code=13&district_name=KULLU&district_code=1306&fin_year=2019-2020&source=national&typediv=0&Digest=zfW9zU0bo0tvJelrPS+kLw'>KULLU</a>
+                    </td>
+                    <td align="right">
+                        27886
+                    </td>
+                    <td align="right">
+                        2203
+                    </td>
+                    <td align="right">
+                        62519
+                    </td>
+                    <td align="right">
+                        92608
+                    </td>
+                    <td align="right">
+                        13354
+                    </td>
+                    <td align="right">
+                        450
+                    </td>
+                    <td align="right">
+                        29569
+                    </td>
+                    <td align="right">
+                        43373
+                    </td>
+                    
+                    <td align="right">
+                        35321
+                    </td>
+                    <td align="right">
+                        20505
+                    </td>
+                    <td align="right">
+                        644
+                    </td>
+                    <td align="right">
+                        45279
+                    </td>
+                    <td align="right">
+                        66428
+                    </td>
+                    <td align="right">
+                        576921
+                    </td>
+                    <td align="right">
+                        17057
+                    </td>
+                    <td align="right">
+                        1225168
+                    </td>
+                    <td align="right">
+                        1819146
+                    </td>
+                    <td align="right">
+                        1028092
+                    </td>
+                    <td align="right">
+                        1048
+                    </td>
+                    <td align="right">
+                        23
+                    </td>
+                    <td align="right">
+                        2060
+                    </td>
+                    <td align="right">
+                        3131
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        7
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=HIMACHAL+PRADESH&state_code=13&district_name=LAHUL+AND+SPITI&district_code=1307&fin_year=2019-2020&source=national&typediv=0&Digest=PM1jG4aFqntYxdoQ66kQdA'>LAHUL AND SPITI</a>
+                    </td>
+                    <td align="right">
+                        582
+                    </td>
+                    <td align="right">
+                        6123
+                    </td>
+                    <td align="right">
+                        8
+                    </td>
+                    <td align="right">
+                        6713
+                    </td>
+                    <td align="right">
+                        274
+                    </td>
+                    <td align="right">
+                        3016
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        3293
+                    </td>
+                    
+                    <td align="right">
+                        3016
+                    </td>
+                    <td align="right">
+                        393
+                    </td>
+                    <td align="right">
+                        4370
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        4766
+                    </td>
+                    <td align="right">
+                        8499
+                    </td>
+                    <td align="right">
+                        108369
+                    </td>
+                    <td align="right">
+                        44
+                    </td>
+                    <td align="right">
+                        116912
+                    </td>
+                    <td align="right">
+                        76325
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        90
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        95
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        8
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=HIMACHAL+PRADESH&state_code=13&district_name=MANDI&district_code=1308&fin_year=2019-2020&source=national&typediv=0&Digest=PYFJau3DQyb7pbhBPHGiEw'>MANDI</a>
+                    </td>
+                    <td align="right">
+                        70881
+                    </td>
+                    <td align="right">
+                        3257
+                    </td>
+                    <td align="right">
+                        175948
+                    </td>
+                    <td align="right">
+                        250086
+                    </td>
+                    <td align="right">
+                        36642
+                    </td>
+                    <td align="right">
+                        1460
+                    </td>
+                    <td align="right">
+                        95723
+                    </td>
+                    <td align="right">
+                        133825
+                    </td>
+                    
+                    <td align="right">
+                        120239
+                    </td>
+                    <td align="right">
+                        48725
+                    </td>
+                    <td align="right">
+                        1825
+                    </td>
+                    <td align="right">
+                        126278
+                    </td>
+                    <td align="right">
+                        176828
+                    </td>
+                    <td align="right">
+                        1687422
+                    </td>
+                    <td align="right">
+                        61749
+                    </td>
+                    <td align="right">
+                        4535801
+                    </td>
+                    <td align="right">
+                        6284972
+                    </td>
+                    <td align="right">
+                        4598634
+                    </td>
+                    <td align="right">
+                        2952
+                    </td>
+                    <td align="right">
+                        91
+                    </td>
+                    <td align="right">
+                        7816
+                    </td>
+                    <td align="right">
+                        10859
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        9
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=HIMACHAL+PRADESH&state_code=13&district_name=SHIMLA&district_code=1309&fin_year=2019-2020&source=national&typediv=0&Digest=e4XGOIVh/1iXWoUVyNvjxw'>SHIMLA</a>
+                    </td>
+                    <td align="right">
+                        34373
+                    </td>
+                    <td align="right">
+                        362
+                    </td>
+                    <td align="right">
+                        90180
+                    </td>
+                    <td align="right">
+                        124915
+                    </td>
+                    <td align="right">
+                        14715
+                    </td>
+                    <td align="right">
+                        156
+                    </td>
+                    <td align="right">
+                        35242
+                    </td>
+                    <td align="right">
+                        50113
+                    </td>
+                    
+                    <td align="right">
+                        38324
+                    </td>
+                    <td align="right">
+                        22076
+                    </td>
+                    <td align="right">
+                        216
+                    </td>
+                    <td align="right">
+                        54548
+                    </td>
+                    <td align="right">
+                        76840
+                    </td>
+                    <td align="right">
+                        624493
+                    </td>
+                    <td align="right">
+                        7185
+                    </td>
+                    <td align="right">
+                        1440090
+                    </td>
+                    <td align="right">
+                        2071768
+                    </td>
+                    <td align="right">
+                        1097408
+                    </td>
+                    <td align="right">
+                        1059
+                    </td>
+                    <td align="right">
+                        22
+                    </td>
+                    <td align="right">
+                        2282
+                    </td>
+                    <td align="right">
+                        3363
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        10
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=HIMACHAL+PRADESH&state_code=13&district_name=SIRMAUR&district_code=1310&fin_year=2019-2020&source=national&typediv=0&Digest=nHJvbClGpsoCOJpJnSUvCg'>SIRMAUR</a>
+                    </td>
+                    <td align="right">
+                        27970
+                    </td>
+                    <td align="right">
+                        1734
+                    </td>
+                    <td align="right">
+                        55370
+                    </td>
+                    <td align="right">
+                        85074
+                    </td>
+                    <td align="right">
+                        10191
+                    </td>
+                    <td align="right">
+                        443
+                    </td>
+                    <td align="right">
+                        20296
+                    </td>
+                    <td align="right">
+                        30930
+                    </td>
+                    
+                    <td align="right">
+                        18924
+                    </td>
+                    <td align="right">
+                        14931
+                    </td>
+                    <td align="right">
+                        564
+                    </td>
+                    <td align="right">
+                        30218
+                    </td>
+                    <td align="right">
+                        45713
+                    </td>
+                    <td align="right">
+                        500165
+                    </td>
+                    <td align="right">
+                        20364
+                    </td>
+                    <td align="right">
+                        1019242
+                    </td>
+                    <td align="right">
+                        1539771
+                    </td>
+                    <td align="right">
+                        636241
+                    </td>
+                    <td align="right">
+                        1185
+                    </td>
+                    <td align="right">
+                        47
+                    </td>
+                    <td align="right">
+                        2650
+                    </td>
+                    <td align="right">
+                        3882
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        11
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=HIMACHAL+PRADESH&state_code=13&district_name=SOLAN&district_code=1311&fin_year=2019-2020&source=national&typediv=0&Digest=X6KHQ/auXFcMcabQlAYw+g'>SOLAN</a>
+                    </td>
+                    <td align="right">
+                        27210
+                    </td>
+                    <td align="right">
+                        2328
+                    </td>
+                    <td align="right">
+                        48532
+                    </td>
+                    <td align="right">
+                        78070
+                    </td>
+                    <td align="right">
+                        5772
+                    </td>
+                    <td align="right">
+                        418
+                    </td>
+                    <td align="right">
+                        10667
+                    </td>
+                    <td align="right">
+                        16857
+                    </td>
+                    
+                    <td align="right">
+                        11244
+                    </td>
+                    <td align="right">
+                        7786
+                    </td>
+                    <td align="right">
+                        539
+                    </td>
+                    <td align="right">
+                        14653
+                    </td>
+                    <td align="right">
+                        22978
+                    </td>
+                    <td align="right">
+                        245546
+                    </td>
+                    <td align="right">
+                        15073
+                    </td>
+                    <td align="right">
+                        463687
+                    </td>
+                    <td align="right">
+                        724306
+                    </td>
+                    <td align="right">
+                        349983
+                    </td>
+                    <td align="right">
+                        420
+                    </td>
+                    <td align="right">
+                        15
+                    </td>
+                    <td align="right">
+                        835
+                    </td>
+                    <td align="right">
+                        1270
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        12
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=HIMACHAL+PRADESH&state_code=13&district_name=UNA&district_code=1312&fin_year=2019-2020&source=national&typediv=0&Digest=qfax1hWSxDV9HB26x0ib1A'>UNA</a>
+                    </td>
+                    <td align="right">
+                        18527
+                    </td>
+                    <td align="right">
+                        1580
+                    </td>
+                    <td align="right">
+                        47595
+                    </td>
+                    <td align="right">
+                        67702
+                    </td>
+                    <td align="right">
+                        7842
+                    </td>
+                    <td align="right">
+                        543
+                    </td>
+                    <td align="right">
+                        13460
+                    </td>
+                    <td align="right">
+                        21845
+                    </td>
+                    
+                    <td align="right">
+                        16873
+                    </td>
+                    <td align="right">
+                        8957
+                    </td>
+                    <td align="right">
+                        654
+                    </td>
+                    <td align="right">
+                        15377
+                    </td>
+                    <td align="right">
+                        24988
+                    </td>
+                    <td align="right">
+                        430905
+                    </td>
+                    <td align="right">
+                        27051
+                    </td>
+                    <td align="right">
+                        702578
+                    </td>
+                    <td align="right">
+                        1160534
+                    </td>
+                    <td align="right">
+                        834643
+                    </td>
+                    <td align="right">
+                        1075
+                    </td>
+                    <td align="right">
+                        56
+                    </td>
+                    <td align="right">
+                        1757
+                    </td>
+                    <td align="right">
+                        2888
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        338736
+                    </td>
+                    <td align="right">
+                        79009
+                    </td>
+                    <td align="right">
+                        863472
+                    </td>
+                    <td align="right">
+                        1281217
+                    </td>
+                    <td align="right">
+                        145442
+                    </td>
+                    <td align="right">
+                        42247
+                    </td>
+                    <td align="right">
+                        347721
+                    </td>
+                    <td align="right">
+                        535410
+                    </td>
+                    
+                    <td align="right">
+                        428346
+                    </td>
+                    <td align="right">
+                        195420
+                    </td>
+                    <td align="right">
+                        56112
+                    </td>
+                    <td align="right">
+                        464601
+                    </td>
+                    <td align="right">
+                        716133
+                    </td>
+                    <td align="right">
+                        7000719
+                    </td>
+                    <td align="right">
+                        2582242
+                    </td>
+                    <td align="right">
+                        16335825
+                    </td>
+                    <td align="right">
+                        25918786
+                    </td>
+                    <td align="right">
+                        16263233
+                    </td>
+                    <td align="right">
+                        15909
+                    </td>
+                    <td align="right">
+                        9607
+                    </td>
+                    <td align="right">
+                        35676
+                    </td>
+                    <td align="right">
+                        61192
+                    </td>
+                </tr>
+            
+                </table>
+            

@@ -1,0 +1,2020 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=AMRITSAR&district_code=2602&fin_year=2019-2020&source=national&typediv=0&Digest=IRtwKifgsLJeXG1CxspPdQ'>AMRITSAR</a>
+                    </td>
+                    <td align="right">
+                        91165
+                    </td>
+                    <td align="right">
+                        39
+                    </td>
+                    <td align="right">
+                        26540
+                    </td>
+                    <td align="right">
+                        117744
+                    </td>
+                    <td align="right">
+                        22941
+                    </td>
+                    <td align="right">
+                        13
+                    </td>
+                    <td align="right">
+                        7848
+                    </td>
+                    <td align="right">
+                        30802
+                    </td>
+                    
+                    <td align="right">
+                        15488
+                    </td>
+                    <td align="right">
+                        25239
+                    </td>
+                    <td align="right">
+                        13
+                    </td>
+                    <td align="right">
+                        8502
+                    </td>
+                    <td align="right">
+                        33754
+                    </td>
+                    <td align="right">
+                        672333
+                    </td>
+                    <td align="right">
+                        483
+                    </td>
+                    <td align="right">
+                        271129
+                    </td>
+                    <td align="right">
+                        943945
+                    </td>
+                    <td align="right">
+                        383744
+                    </td>
+                    <td align="right">
+                        126
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        50
+                    </td>
+                    <td align="right">
+                        176
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=BARNALA&district_code=2621&fin_year=2019-2020&source=national&typediv=0&Digest=0UGv0I96QC0aPY92FT9yTA'>BARNALA</a>
+                    </td>
+                    <td align="right">
+                        27386
+                    </td>
+                    <td align="right">
+                        16
+                    </td>
+                    <td align="right">
+                        3802
+                    </td>
+                    <td align="right">
+                        31204
+                    </td>
+                    <td align="right">
+                        16110
+                    </td>
+                    <td align="right">
+                        9
+                    </td>
+                    <td align="right">
+                        1839
+                    </td>
+                    <td align="right">
+                        17958
+                    </td>
+                    
+                    <td align="right">
+                        14542
+                    </td>
+                    <td align="right">
+                        18988
+                    </td>
+                    <td align="right">
+                        11
+                    </td>
+                    <td align="right">
+                        2135
+                    </td>
+                    <td align="right">
+                        21134
+                    </td>
+                    <td align="right">
+                        459010
+                    </td>
+                    <td align="right">
+                        335
+                    </td>
+                    <td align="right">
+                        51893
+                    </td>
+                    <td align="right">
+                        511238
+                    </td>
+                    <td align="right">
+                        349277
+                    </td>
+                    <td align="right">
+                        50
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        7
+                    </td>
+                    <td align="right">
+                        57
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=BHATINDA++++++++++++++++++&district_code=2611&fin_year=2019-2020&source=national&typediv=0&Digest=JE0bga8mnYdLI/c39hBSxA'>BHATINDA                  </a>
+                    </td>
+                    <td align="right">
+                        65537
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        22534
+                    </td>
+                    <td align="right">
+                        88072
+                    </td>
+                    <td align="right">
+                        37549
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        9177
+                    </td>
+                    <td align="right">
+                        46726
+                    </td>
+                    
+                    <td align="right">
+                        39365
+                    </td>
+                    <td align="right">
+                        46346
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        11209
+                    </td>
+                    <td align="right">
+                        57555
+                    </td>
+                    <td align="right">
+                        987688
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        242098
+                    </td>
+                    <td align="right">
+                        1229786
+                    </td>
+                    <td align="right">
+                        823065
+                    </td>
+                    <td align="right">
+                        201
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        69
+                    </td>
+                    <td align="right">
+                        270
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        4
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=FARIDKOT&district_code=2612&fin_year=2019-2020&source=national&typediv=0&Digest=ilhcZRPTjUPw9tbKLrUJvQ'>FARIDKOT</a>
+                    </td>
+                    <td align="right">
+                        37164
+                    </td>
+                    <td align="right">
+                        30
+                    </td>
+                    <td align="right">
+                        10485
+                    </td>
+                    <td align="right">
+                        47679
+                    </td>
+                    <td align="right">
+                        19380
+                    </td>
+                    <td align="right">
+                        13
+                    </td>
+                    <td align="right">
+                        5292
+                    </td>
+                    <td align="right">
+                        24685
+                    </td>
+                    
+                    <td align="right">
+                        20475
+                    </td>
+                    <td align="right">
+                        26358
+                    </td>
+                    <td align="right">
+                        19
+                    </td>
+                    <td align="right">
+                        6736
+                    </td>
+                    <td align="right">
+                        33113
+                    </td>
+                    <td align="right">
+                        490465
+                    </td>
+                    <td align="right">
+                        557
+                    </td>
+                    <td align="right">
+                        145256
+                    </td>
+                    <td align="right">
+                        636278
+                    </td>
+                    <td align="right">
+                        386275
+                    </td>
+                    <td align="right">
+                        33
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        9
+                    </td>
+                    <td align="right">
+                        42
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        5
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=FATEHGARH+SAHIB&district_code=2618&fin_year=2019-2020&source=national&typediv=0&Digest=1179a4lmrkpcaY2h9giwcA'>FATEHGARH SAHIB</a>
+                    </td>
+                    <td align="right">
+                        35608
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        13168
+                    </td>
+                    <td align="right">
+                        48777
+                    </td>
+                    <td align="right">
+                        20327
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        6291
+                    </td>
+                    <td align="right">
+                        26618
+                    </td>
+                    
+                    <td align="right">
+                        21847
+                    </td>
+                    <td align="right">
+                        23395
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        7105
+                    </td>
+                    <td align="right">
+                        30500
+                    </td>
+                    <td align="right">
+                        1176700
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        363017
+                    </td>
+                    <td align="right">
+                        1539717
+                    </td>
+                    <td align="right">
+                        1180985
+                    </td>
+                    <td align="right">
+                        1209
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        387
+                    </td>
+                    <td align="right">
+                        1596
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        6
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=Fazilka&district_code=2623&fin_year=2019-2020&source=national&typediv=0&Digest=h4Ka/fHeniSUChiZ01Q4kQ'>Fazilka</a>
+                    </td>
+                    <td align="right">
+                        67458
+                    </td>
+                    <td align="right">
+                        34
+                    </td>
+                    <td align="right">
+                        56062
+                    </td>
+                    <td align="right">
+                        123554
+                    </td>
+                    <td align="right">
+                        38744
+                    </td>
+                    <td align="right">
+                        23
+                    </td>
+                    <td align="right">
+                        27797
+                    </td>
+                    <td align="right">
+                        66564
+                    </td>
+                    
+                    <td align="right">
+                        48923
+                    </td>
+                    <td align="right">
+                        54168
+                    </td>
+                    <td align="right">
+                        32
+                    </td>
+                    <td align="right">
+                        36758
+                    </td>
+                    <td align="right">
+                        90958
+                    </td>
+                    <td align="right">
+                        870128
+                    </td>
+                    <td align="right">
+                        440
+                    </td>
+                    <td align="right">
+                        599859
+                    </td>
+                    <td align="right">
+                        1470427
+                    </td>
+                    <td align="right">
+                        751868
+                    </td>
+                    <td align="right">
+                        52
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        59
+                    </td>
+                    <td align="right">
+                        111
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        7
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=FEROZEPUR+++++++++++++++++&district_code=2603&fin_year=2019-2020&source=national&typediv=0&Digest=7zasRm3VsOT2ukLhVbceoQ'>FEROZEPUR                 </a>
+                    </td>
+                    <td align="right">
+                        81910
+                    </td>
+                    <td align="right">
+                        45
+                    </td>
+                    <td align="right">
+                        25175
+                    </td>
+                    <td align="right">
+                        107130
+                    </td>
+                    <td align="right">
+                        34089
+                    </td>
+                    <td align="right">
+                        27
+                    </td>
+                    <td align="right">
+                        10748
+                    </td>
+                    <td align="right">
+                        44864
+                    </td>
+                    
+                    <td align="right">
+                        25968
+                    </td>
+                    <td align="right">
+                        44205
+                    </td>
+                    <td align="right">
+                        35
+                    </td>
+                    <td align="right">
+                        13317
+                    </td>
+                    <td align="right">
+                        57557
+                    </td>
+                    <td align="right">
+                        974321
+                    </td>
+                    <td align="right">
+                        1180
+                    </td>
+                    <td align="right">
+                        360772
+                    </td>
+                    <td align="right">
+                        1336273
+                    </td>
+                    <td align="right">
+                        581897
+                    </td>
+                    <td align="right">
+                        269
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        112
+                    </td>
+                    <td align="right">
+                        381
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        8
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=GURDASPUR&district_code=2601&fin_year=2019-2020&source=national&typediv=0&Digest=1/1hm6DJnJRL8k4oiLr07g'>GURDASPUR</a>
+                    </td>
+                    <td align="right">
+                        16521
+                    </td>
+                    <td align="right">
+                        67
+                    </td>
+                    <td align="right">
+                        84259
+                    </td>
+                    <td align="right">
+                        100847
+                    </td>
+                    <td align="right">
+                        5103
+                    </td>
+                    <td align="right">
+                        48
+                    </td>
+                    <td align="right">
+                        34101
+                    </td>
+                    <td align="right">
+                        39252
+                    </td>
+                    
+                    <td align="right">
+                        13937
+                    </td>
+                    <td align="right">
+                        5520
+                    </td>
+                    <td align="right">
+                        50
+                    </td>
+                    <td align="right">
+                        35528
+                    </td>
+                    <td align="right">
+                        41098
+                    </td>
+                    <td align="right">
+                        154135
+                    </td>
+                    <td align="right">
+                        1509
+                    </td>
+                    <td align="right">
+                        1154105
+                    </td>
+                    <td align="right">
+                        1309749
+                    </td>
+                    <td align="right">
+                        385930
+                    </td>
+                    <td align="right">
+                        9
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        131
+                    </td>
+                    <td align="right">
+                        140
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        9
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=HOSHIARPUR&district_code=2607&fin_year=2019-2020&source=national&typediv=0&Digest=v2WEKpvf32J+6R7lNhGhJg'>HOSHIARPUR</a>
+                    </td>
+                    <td align="right">
+                        57996
+                    </td>
+                    <td align="right">
+                        81
+                    </td>
+                    <td align="right">
+                        49213
+                    </td>
+                    <td align="right">
+                        107290
+                    </td>
+                    <td align="right">
+                        25655
+                    </td>
+                    <td align="right">
+                        29
+                    </td>
+                    <td align="right">
+                        17838
+                    </td>
+                    <td align="right">
+                        43522
+                    </td>
+                    
+                    <td align="right">
+                        27056
+                    </td>
+                    <td align="right">
+                        27966
+                    </td>
+                    <td align="right">
+                        32
+                    </td>
+                    <td align="right">
+                        19262
+                    </td>
+                    <td align="right">
+                        47260
+                    </td>
+                    <td align="right">
+                        828697
+                    </td>
+                    <td align="right">
+                        999
+                    </td>
+                    <td align="right">
+                        701050
+                    </td>
+                    <td align="right">
+                        1530746
+                    </td>
+                    <td align="right">
+                        839287
+                    </td>
+                    <td align="right">
+                        292
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        321
+                    </td>
+                    <td align="right">
+                        613
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        10
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=JALANDHAR&district_code=2605&fin_year=2019-2020&source=national&typediv=0&Digest=Vp/KPAO6p89SeXOMQuf6KA'>JALANDHAR</a>
+                    </td>
+                    <td align="right">
+                        56789
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        4942
+                    </td>
+                    <td align="right">
+                        61732
+                    </td>
+                    <td align="right">
+                        23168
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1591
+                    </td>
+                    <td align="right">
+                        24759
+                    </td>
+                    
+                    <td align="right">
+                        18354
+                    </td>
+                    <td align="right">
+                        25469
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1793
+                    </td>
+                    <td align="right">
+                        27262
+                    </td>
+                    <td align="right">
+                        717768
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        50681
+                    </td>
+                    <td align="right">
+                        768449
+                    </td>
+                    <td align="right">
+                        514302
+                    </td>
+                    <td align="right">
+                        221
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        11
+                    </td>
+                    <td align="right">
+                        232
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        11
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=KAPURTHALA&district_code=2606&fin_year=2019-2020&source=national&typediv=0&Digest=wReCqpHIG7YZ1NL826TDiA'>KAPURTHALA</a>
+                    </td>
+                    <td align="right">
+                        32215
+                    </td>
+                    <td align="right">
+                        72
+                    </td>
+                    <td align="right">
+                        8364
+                    </td>
+                    <td align="right">
+                        40651
+                    </td>
+                    <td align="right">
+                        19534
+                    </td>
+                    <td align="right">
+                        65
+                    </td>
+                    <td align="right">
+                        3929
+                    </td>
+                    <td align="right">
+                        23528
+                    </td>
+                    
+                    <td align="right">
+                        17773
+                    </td>
+                    <td align="right">
+                        22170
+                    </td>
+                    <td align="right">
+                        66
+                    </td>
+                    <td align="right">
+                        4396
+                    </td>
+                    <td align="right">
+                        26632
+                    </td>
+                    <td align="right">
+                        818914
+                    </td>
+                    <td align="right">
+                        2210
+                    </td>
+                    <td align="right">
+                        146884
+                    </td>
+                    <td align="right">
+                        968008
+                    </td>
+                    <td align="right">
+                        678902
+                    </td>
+                    <td align="right">
+                        757
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        127
+                    </td>
+                    <td align="right">
+                        885
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        12
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=LUDHIANA&district_code=2604&fin_year=2019-2020&source=national&typediv=0&Digest=CUbwJa42kFdvi7RoZvA7ng'>LUDHIANA</a>
+                    </td>
+                    <td align="right">
+                        103032
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        30451
+                    </td>
+                    <td align="right">
+                        133484
+                    </td>
+                    <td align="right">
+                        44180
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        10185
+                    </td>
+                    <td align="right">
+                        54367
+                    </td>
+                    
+                    <td align="right">
+                        43478
+                    </td>
+                    <td align="right">
+                        48550
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        11086
+                    </td>
+                    <td align="right">
+                        59639
+                    </td>
+                    <td align="right">
+                        1705640
+                    </td>
+                    <td align="right">
+                        92
+                    </td>
+                    <td align="right">
+                        394502
+                    </td>
+                    <td align="right">
+                        2100234
+                    </td>
+                    <td align="right">
+                        1571460
+                    </td>
+                    <td align="right">
+                        619
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        134
+                    </td>
+                    <td align="right">
+                        753
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        13
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=MALERKOTLA&district_code=2624&fin_year=2019-2020&source=national&typediv=0&Digest=GnrD++EgXAlvQLD04WcnTw'>MALERKOTLA</a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        14
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=MANSA&district_code=2617&fin_year=2019-2020&source=national&typediv=0&Digest=vn9NQZM7HAJkAfrbqAIdUQ'>MANSA</a>
+                    </td>
+                    <td align="right">
+                        50005
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        24278
+                    </td>
+                    <td align="right">
+                        74283
+                    </td>
+                    <td align="right">
+                        27001
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        6971
+                    </td>
+                    <td align="right">
+                        33972
+                    </td>
+                    
+                    <td align="right">
+                        26868
+                    </td>
+                    <td align="right">
+                        34622
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        8431
+                    </td>
+                    <td align="right">
+                        43053
+                    </td>
+                    <td align="right">
+                        735074
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        195279
+                    </td>
+                    <td align="right">
+                        930353
+                    </td>
+                    <td align="right">
+                        577705
+                    </td>
+                    <td align="right">
+                        139
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        57
+                    </td>
+                    <td align="right">
+                        196
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        15
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=MOGA&district_code=2615&fin_year=2019-2020&source=national&typediv=0&Digest=gM/T5uvWvVMfEmEyq0xvxA'>MOGA</a>
+                    </td>
+                    <td align="right">
+                        71670
+                    </td>
+                    <td align="right">
+                        55
+                    </td>
+                    <td align="right">
+                        10673
+                    </td>
+                    <td align="right">
+                        82398
+                    </td>
+                    <td align="right">
+                        35440
+                    </td>
+                    <td align="right">
+                        23
+                    </td>
+                    <td align="right">
+                        4281
+                    </td>
+                    <td align="right">
+                        39744
+                    </td>
+                    
+                    <td align="right">
+                        32846
+                    </td>
+                    <td align="right">
+                        45110
+                    </td>
+                    <td align="right">
+                        30
+                    </td>
+                    <td align="right">
+                        5371
+                    </td>
+                    <td align="right">
+                        50511
+                    </td>
+                    <td align="right">
+                        925697
+                    </td>
+                    <td align="right">
+                        593
+                    </td>
+                    <td align="right">
+                        121129
+                    </td>
+                    <td align="right">
+                        1047419
+                    </td>
+                    <td align="right">
+                        674747
+                    </td>
+                    <td align="right">
+                        108
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        10
+                    </td>
+                    <td align="right">
+                        118
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        16
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=MUKATSAR&district_code=2616&fin_year=2019-2020&source=national&typediv=0&Digest=qwo1cSuGBJ0xACfSWFJXKA'>MUKATSAR</a>
+                    </td>
+                    <td align="right">
+                        75277
+                    </td>
+                    <td align="right">
+                        50
+                    </td>
+                    <td align="right">
+                        16180
+                    </td>
+                    <td align="right">
+                        91507
+                    </td>
+                    <td align="right">
+                        41209
+                    </td>
+                    <td align="right">
+                        15
+                    </td>
+                    <td align="right">
+                        7364
+                    </td>
+                    <td align="right">
+                        48588
+                    </td>
+                    
+                    <td align="right">
+                        42394
+                    </td>
+                    <td align="right">
+                        58752
+                    </td>
+                    <td align="right">
+                        22
+                    </td>
+                    <td align="right">
+                        10656
+                    </td>
+                    <td align="right">
+                        69430
+                    </td>
+                    <td align="right">
+                        1030449
+                    </td>
+                    <td align="right">
+                        416
+                    </td>
+                    <td align="right">
+                        209486
+                    </td>
+                    <td align="right">
+                        1240351
+                    </td>
+                    <td align="right">
+                        738146
+                    </td>
+                    <td align="right">
+                        106
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        35
+                    </td>
+                    <td align="right">
+                        141
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        17
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=NAWANSHAHR+&district_code=2614&fin_year=2019-2020&source=national&typediv=0&Digest=AW0AzEyqePi7WWs7Vh6bSg'>NAWANSHAHR </a>
+                    </td>
+                    <td align="right">
+                        26219
+                    </td>
+                    <td align="right">
+                        12
+                    </td>
+                    <td align="right">
+                        14328
+                    </td>
+                    <td align="right">
+                        40559
+                    </td>
+                    <td align="right">
+                        13854
+                    </td>
+                    <td align="right">
+                        8
+                    </td>
+                    <td align="right">
+                        6484
+                    </td>
+                    <td align="right">
+                        20346
+                    </td>
+                    
+                    <td align="right">
+                        14766
+                    </td>
+                    <td align="right">
+                        15106
+                    </td>
+                    <td align="right">
+                        8
+                    </td>
+                    <td align="right">
+                        7063
+                    </td>
+                    <td align="right">
+                        22177
+                    </td>
+                    <td align="right">
+                        626228
+                    </td>
+                    <td align="right">
+                        352
+                    </td>
+                    <td align="right">
+                        264030
+                    </td>
+                    <td align="right">
+                        890610
+                    </td>
+                    <td align="right">
+                        605729
+                    </td>
+                    <td align="right">
+                        205
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        76
+                    </td>
+                    <td align="right">
+                        281
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        18
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=Pathankot&district_code=2622&fin_year=2019-2020&source=national&typediv=0&Digest=KCITwWcBYRuKPw21Zbtq+Q'>Pathankot</a>
+                    </td>
+                    <td align="right">
+                        18319
+                    </td>
+                    <td align="right">
+                        44
+                    </td>
+                    <td align="right">
+                        18146
+                    </td>
+                    <td align="right">
+                        36509
+                    </td>
+                    <td align="right">
+                        6703
+                    </td>
+                    <td align="right">
+                        22
+                    </td>
+                    <td align="right">
+                        7268
+                    </td>
+                    <td align="right">
+                        13993
+                    </td>
+                    
+                    <td align="right">
+                        4047
+                    </td>
+                    <td align="right">
+                        7305
+                    </td>
+                    <td align="right">
+                        23
+                    </td>
+                    <td align="right">
+                        7754
+                    </td>
+                    <td align="right">
+                        15082
+                    </td>
+                    <td align="right">
+                        265212
+                    </td>
+                    <td align="right">
+                        805
+                    </td>
+                    <td align="right">
+                        339336
+                    </td>
+                    <td align="right">
+                        605353
+                    </td>
+                    <td align="right">
+                        143342
+                    </td>
+                    <td align="right">
+                        62
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        141
+                    </td>
+                    <td align="right">
+                        203
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        19
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=PATIALA&district_code=2609&fin_year=2019-2020&source=national&typediv=0&Digest=jAZ6oMMRDfhglqQQzlRYWA'>PATIALA</a>
+                    </td>
+                    <td align="right">
+                        69627
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        46852
+                    </td>
+                    <td align="right">
+                        116481
+                    </td>
+                    <td align="right">
+                        37609
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        20787
+                    </td>
+                    <td align="right">
+                        58396
+                    </td>
+                    
+                    <td align="right">
+                        43088
+                    </td>
+                    <td align="right">
+                        44021
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        24142
+                    </td>
+                    <td align="right">
+                        68163
+                    </td>
+                    <td align="right">
+                        976982
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        550808
+                    </td>
+                    <td align="right">
+                        1527790
+                    </td>
+                    <td align="right">
+                        964876
+                    </td>
+                    <td align="right">
+                        187
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        100
+                    </td>
+                    <td align="right">
+                        287
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        20
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=ROPAR&district_code=2608&fin_year=2019-2020&source=national&typediv=0&Digest=AwLFJeYyiCg75neq/Hkofw'>ROPAR</a>
+                    </td>
+                    <td align="right">
+                        20213
+                    </td>
+                    <td align="right">
+                        55
+                    </td>
+                    <td align="right">
+                        20769
+                    </td>
+                    <td align="right">
+                        41037
+                    </td>
+                    <td align="right">
+                        9394
+                    </td>
+                    <td align="right">
+                        19
+                    </td>
+                    <td align="right">
+                        6792
+                    </td>
+                    <td align="right">
+                        16205
+                    </td>
+                    
+                    <td align="right">
+                        11804
+                    </td>
+                    <td align="right">
+                        10515
+                    </td>
+                    <td align="right">
+                        21
+                    </td>
+                    <td align="right">
+                        7475
+                    </td>
+                    <td align="right">
+                        18011
+                    </td>
+                    <td align="right">
+                        364905
+                    </td>
+                    <td align="right">
+                        567
+                    </td>
+                    <td align="right">
+                        255236
+                    </td>
+                    <td align="right">
+                        620708
+                    </td>
+                    <td align="right">
+                        416536
+                    </td>
+                    <td align="right">
+                        201
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        144
+                    </td>
+                    <td align="right">
+                        345
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        21
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=SANGRUR&district_code=2610&fin_year=2019-2020&source=national&typediv=0&Digest=3RCOott+PfAx629ILi+gCA'>SANGRUR</a>
+                    </td>
+                    <td align="right">
+                        73179
+                    </td>
+                    <td align="right">
+                        66
+                    </td>
+                    <td align="right">
+                        24061
+                    </td>
+                    <td align="right">
+                        97306
+                    </td>
+                    <td align="right">
+                        36425
+                    </td>
+                    <td align="right">
+                        35
+                    </td>
+                    <td align="right">
+                        8665
+                    </td>
+                    <td align="right">
+                        45125
+                    </td>
+                    
+                    <td align="right">
+                        33611
+                    </td>
+                    <td align="right">
+                        41948
+                    </td>
+                    <td align="right">
+                        35
+                    </td>
+                    <td align="right">
+                        9738
+                    </td>
+                    <td align="right">
+                        51721
+                    </td>
+                    <td align="right">
+                        950737
+                    </td>
+                    <td align="right">
+                        535
+                    </td>
+                    <td align="right">
+                        221835
+                    </td>
+                    <td align="right">
+                        1173107
+                    </td>
+                    <td align="right">
+                        739535
+                    </td>
+                    <td align="right">
+                        297
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        92
+                    </td>
+                    <td align="right">
+                        389
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        22
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=SAS+NAGAR+MOHALI&district_code=2619&fin_year=2019-2020&source=national&typediv=0&Digest=+q5kEgBNTCj7lJlcOUt0rw'>SAS NAGAR MOHALI</a>
+                    </td>
+                    <td align="right">
+                        14585
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        17054
+                    </td>
+                    <td align="right">
+                        31641
+                    </td>
+                    <td align="right">
+                        5281
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        6475
+                    </td>
+                    <td align="right">
+                        11758
+                    </td>
+                    
+                    <td align="right">
+                        8750
+                    </td>
+                    <td align="right">
+                        5978
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        7094
+                    </td>
+                    <td align="right">
+                        13074
+                    </td>
+                    <td align="right">
+                        158556
+                    </td>
+                    <td align="right">
+                        109
+                    </td>
+                    <td align="right">
+                        227152
+                    </td>
+                    <td align="right">
+                        385817
+                    </td>
+                    <td align="right">
+                        255219
+                    </td>
+                    <td align="right">
+                        45
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        124
+                    </td>
+                    <td align="right">
+                        169
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        23
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=PUNJAB&state_code=26&district_name=TARN+TARAN&district_code=2620&fin_year=2019-2020&source=national&typediv=0&Digest=4pHNneagyiByLXU/AmaivA'>TARN TARAN</a>
+                    </td>
+                    <td align="right">
+                        67988
+                    </td>
+                    <td align="right">
+                        56
+                    </td>
+                    <td align="right">
+                        39029
+                    </td>
+                    <td align="right">
+                        107073
+                    </td>
+                    <td align="right">
+                        11190
+                    </td>
+                    <td align="right">
+                        29
+                    </td>
+                    <td align="right">
+                        10434
+                    </td>
+                    <td align="right">
+                        21653
+                    </td>
+                    
+                    <td align="right">
+                        11544
+                    </td>
+                    <td align="right">
+                        15603
+                    </td>
+                    <td align="right">
+                        40
+                    </td>
+                    <td align="right">
+                        14795
+                    </td>
+                    <td align="right">
+                        30438
+                    </td>
+                    <td align="right">
+                        333952
+                    </td>
+                    <td align="right">
+                        630
+                    </td>
+                    <td align="right">
+                        424053
+                    </td>
+                    <td align="right">
+                        758635
+                    </td>
+                    <td align="right">
+                        267659
+                    </td>
+                    <td align="right">
+                        89
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        214
+                    </td>
+                    <td align="right">
+                        303
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        1159863
+                    </td>
+                    <td align="right">
+                        730
+                    </td>
+                    <td align="right">
+                        566365
+                    </td>
+                    <td align="right">
+                        1726958
+                    </td>
+                    <td align="right">
+                        530886
+                    </td>
+                    <td align="right">
+                        382
+                    </td>
+                    <td align="right">
+                        222157
+                    </td>
+                    <td align="right">
+                        753425
+                    </td>
+                    
+                    <td align="right">
+                        536924
+                    </td>
+                    <td align="right">
+                        647334
+                    </td>
+                    <td align="right">
+                        442
+                    </td>
+                    <td align="right">
+                        260346
+                    </td>
+                    <td align="right">
+                        908122
+                    </td>
+                    <td align="right">
+                        16223591
+                    </td>
+                    <td align="right">
+                        11812
+                    </td>
+                    <td align="right">
+                        7289590
+                    </td>
+                    <td align="right">
+                        23524993
+                    </td>
+                    <td align="right">
+                        13830486
+                    </td>
+                    <td align="right">
+                        5277
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        2410
+                    </td>
+                    <td align="right">
+                        7688
+                    </td>
+                </tr>
+            
+                </table>
+            

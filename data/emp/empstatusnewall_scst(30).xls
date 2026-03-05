@@ -1,0 +1,500 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ANDAMAN+AND+NICOBAR&state_code=01&district_name=NICOBARS&district_code=0102&fin_year=2019-2020&source=national&typediv=0&Digest=t+WGtanbl5z3dNM4qeqFIg'>NICOBARS</a>
+                    </td>
+                    <td align="right">
+                        4
+                    </td>
+                    <td align="right">
+                        3994
+                    </td>
+                    <td align="right">
+                        1725
+                    </td>
+                    <td align="right">
+                        5723
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        27
+                    </td>
+                    <td align="right">
+                        13
+                    </td>
+                    <td align="right">
+                        40
+                    </td>
+                    
+                    <td align="right">
+                        18
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        28
+                    </td>
+                    <td align="right">
+                        13
+                    </td>
+                    <td align="right">
+                        41
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        783
+                    </td>
+                    <td align="right">
+                        75
+                    </td>
+                    <td align="right">
+                        858
+                    </td>
+                    <td align="right">
+                        263
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ANDAMAN+AND+NICOBAR&state_code=01&district_name=NORTH+AND+MIDDLE+ANDAMAN&district_code=0103&fin_year=2019-2020&source=national&typediv=0&Digest=XgACkbDCj2LNmo83e8OsRw'>NORTH AND MIDDLE ANDAMAN</a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        18208
+                    </td>
+                    <td align="right">
+                        18208
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        4100
+                    </td>
+                    <td align="right">
+                        4100
+                    </td>
+                    
+                    <td align="right">
+                        2845
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        5045
+                    </td>
+                    <td align="right">
+                        5045
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        177265
+                    </td>
+                    <td align="right">
+                        177265
+                    </td>
+                    <td align="right">
+                        105714
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        322
+                    </td>
+                    <td align="right">
+                        322
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ANDAMAN+AND+NICOBAR&state_code=01&district_name=SOUTH+ANDAMAN&district_code=0101&fin_year=2019-2020&source=national&typediv=0&Digest=1GZei7k/BAwvF50m6T9w0Q'>SOUTH ANDAMAN</a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        9501
+                    </td>
+                    <td align="right">
+                        9501
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1702
+                    </td>
+                    <td align="right">
+                        1702
+                    </td>
+                    
+                    <td align="right">
+                        1177
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1838
+                    </td>
+                    <td align="right">
+                        1838
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        42494
+                    </td>
+                    <td align="right">
+                        42494
+                    </td>
+                    <td align="right">
+                        25140
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        4
+                    </td>
+                    <td align="right">
+                        3994
+                    </td>
+                    <td align="right">
+                        29434
+                    </td>
+                    <td align="right">
+                        33432
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        27
+                    </td>
+                    <td align="right">
+                        5815
+                    </td>
+                    <td align="right">
+                        5842
+                    </td>
+                    
+                    <td align="right">
+                        4040
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        28
+                    </td>
+                    <td align="right">
+                        6896
+                    </td>
+                    <td align="right">
+                        6924
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        783
+                    </td>
+                    <td align="right">
+                        219834
+                    </td>
+                    <td align="right">
+                        220617
+                    </td>
+                    <td align="right">
+                        131117
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        325
+                    </td>
+                    <td align="right">
+                        325
+                    </td>
+                </tr>
+            
+                </table>
+            

@@ -1,0 +1,2552 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=BAGALKOTE&district_code=1501&fin_year=2019-2020&source=national&typediv=0&Digest=qscQdjVd0fABh0DXb/hPVQ'>BAGALKOTE</a>
+                    </td>
+                    <td align="right">
+                        35534
+                    </td>
+                    <td align="right">
+                        13021
+                    </td>
+                    <td align="right">
+                        148356
+                    </td>
+                    <td align="right">
+                        196911
+                    </td>
+                    <td align="right">
+                        11943
+                    </td>
+                    <td align="right">
+                        4610
+                    </td>
+                    <td align="right">
+                        61170
+                    </td>
+                    <td align="right">
+                        77723
+                    </td>
+                    
+                    <td align="right">
+                        62666
+                    </td>
+                    <td align="right">
+                        19895
+                    </td>
+                    <td align="right">
+                        8220
+                    </td>
+                    <td align="right">
+                        103703
+                    </td>
+                    <td align="right">
+                        131818
+                    </td>
+                    <td align="right">
+                        583412
+                    </td>
+                    <td align="right">
+                        214811
+                    </td>
+                    <td align="right">
+                        3077640
+                    </td>
+                    <td align="right">
+                        3875863
+                    </td>
+                    <td align="right">
+                        1837707
+                    </td>
+                    <td align="right">
+                        1406
+                    </td>
+                    <td align="right">
+                        388
+                    </td>
+                    <td align="right">
+                        7817
+                    </td>
+                    <td align="right">
+                        9611
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=BALLARI&district_code=1505&fin_year=2019-2020&source=national&typediv=0&Digest=Up726tjA6k0Ew+alvQMadw'>BALLARI</a>
+                    </td>
+                    <td align="right">
+                        62805
+                    </td>
+                    <td align="right">
+                        64434
+                    </td>
+                    <td align="right">
+                        149490
+                    </td>
+                    <td align="right">
+                        276729
+                    </td>
+                    <td align="right">
+                        30007
+                    </td>
+                    <td align="right">
+                        33645
+                    </td>
+                    <td align="right">
+                        72780
+                    </td>
+                    <td align="right">
+                        136432
+                    </td>
+                    
+                    <td align="right">
+                        143283
+                    </td>
+                    <td align="right">
+                        63079
+                    </td>
+                    <td align="right">
+                        72102
+                    </td>
+                    <td align="right">
+                        153168
+                    </td>
+                    <td align="right">
+                        288349
+                    </td>
+                    <td align="right">
+                        1666827
+                    </td>
+                    <td align="right">
+                        1911846
+                    </td>
+                    <td align="right">
+                        4075273
+                    </td>
+                    <td align="right">
+                        7653946
+                    </td>
+                    <td align="right">
+                        3852737
+                    </td>
+                    <td align="right">
+                        2893
+                    </td>
+                    <td align="right">
+                        2544
+                    </td>
+                    <td align="right">
+                        6643
+                    </td>
+                    <td align="right">
+                        12080
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=BELAGAVI&district_code=1504&fin_year=2019-2020&source=national&typediv=0&Digest=SUa9BdljcHSbUO07DpoMAg'>BELAGAVI</a>
+                    </td>
+                    <td align="right">
+                        70188
+                    </td>
+                    <td align="right">
+                        45563
+                    </td>
+                    <td align="right">
+                        499382
+                    </td>
+                    <td align="right">
+                        615133
+                    </td>
+                    <td align="right">
+                        18633
+                    </td>
+                    <td align="right">
+                        14212
+                    </td>
+                    <td align="right">
+                        158473
+                    </td>
+                    <td align="right">
+                        191318
+                    </td>
+                    
+                    <td align="right">
+                        150882
+                    </td>
+                    <td align="right">
+                        30342
+                    </td>
+                    <td align="right">
+                        21995
+                    </td>
+                    <td align="right">
+                        247032
+                    </td>
+                    <td align="right">
+                        299369
+                    </td>
+                    <td align="right">
+                        761797
+                    </td>
+                    <td align="right">
+                        647787
+                    </td>
+                    <td align="right">
+                        6858699
+                    </td>
+                    <td align="right">
+                        8268283
+                    </td>
+                    <td align="right">
+                        4289826
+                    </td>
+                    <td align="right">
+                        1365
+                    </td>
+                    <td align="right">
+                        1301
+                    </td>
+                    <td align="right">
+                        12450
+                    </td>
+                    <td align="right">
+                        15116
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        4
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=BENGALURU&district_code=1502&fin_year=2019-2020&source=national&typediv=0&Digest=Z+GhypLG8SXQ4xB8nOomXQ'>BENGALURU</a>
+                    </td>
+                    <td align="right">
+                        14400
+                    </td>
+                    <td align="right">
+                        1434
+                    </td>
+                    <td align="right">
+                        29951
+                    </td>
+                    <td align="right">
+                        45785
+                    </td>
+                    <td align="right">
+                        522
+                    </td>
+                    <td align="right">
+                        72
+                    </td>
+                    <td align="right">
+                        1379
+                    </td>
+                    <td align="right">
+                        1973
+                    </td>
+                    
+                    <td align="right">
+                        2009
+                    </td>
+                    <td align="right">
+                        1035
+                    </td>
+                    <td align="right">
+                        150
+                    </td>
+                    <td align="right">
+                        2821
+                    </td>
+                    <td align="right">
+                        4006
+                    </td>
+                    <td align="right">
+                        21870
+                    </td>
+                    <td align="right">
+                        2788
+                    </td>
+                    <td align="right">
+                        59108
+                    </td>
+                    <td align="right">
+                        83766
+                    </td>
+                    <td align="right">
+                        42357
+                    </td>
+                    <td align="right">
+                        4
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        13
+                    </td>
+                    <td align="right">
+                        17
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        5
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=BENGALURU+RURAL&district_code=1503&fin_year=2019-2020&source=national&typediv=0&Digest=7JISa869yVIMN1Hsd71EeQ'>BENGALURU RURAL</a>
+                    </td>
+                    <td align="right">
+                        17953
+                    </td>
+                    <td align="right">
+                        4543
+                    </td>
+                    <td align="right">
+                        61271
+                    </td>
+                    <td align="right">
+                        83767
+                    </td>
+                    <td align="right">
+                        4330
+                    </td>
+                    <td align="right">
+                        1276
+                    </td>
+                    <td align="right">
+                        18420
+                    </td>
+                    <td align="right">
+                        24026
+                    </td>
+                    
+                    <td align="right">
+                        21983
+                    </td>
+                    <td align="right">
+                        8183
+                    </td>
+                    <td align="right">
+                        2549
+                    </td>
+                    <td align="right">
+                        35611
+                    </td>
+                    <td align="right">
+                        46343
+                    </td>
+                    <td align="right">
+                        190613
+                    </td>
+                    <td align="right">
+                        56674
+                    </td>
+                    <td align="right">
+                        925049
+                    </td>
+                    <td align="right">
+                        1172336
+                    </td>
+                    <td align="right">
+                        552974
+                    </td>
+                    <td align="right">
+                        220
+                    </td>
+                    <td align="right">
+                        66
+                    </td>
+                    <td align="right">
+                        1390
+                    </td>
+                    <td align="right">
+                        1676
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        6
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=BENGALURU+SOUTH&district_code=1529&fin_year=2019-2020&source=national&typediv=0&Digest=Oe3dZ51Ci/F0Y6RdNfc3Kg'>BENGALURU SOUTH</a>
+                    </td>
+                    <td align="right">
+                        28381
+                    </td>
+                    <td align="right">
+                        3549
+                    </td>
+                    <td align="right">
+                        137325
+                    </td>
+                    <td align="right">
+                        169255
+                    </td>
+                    <td align="right">
+                        12466
+                    </td>
+                    <td align="right">
+                        1535
+                    </td>
+                    <td align="right">
+                        74121
+                    </td>
+                    <td align="right">
+                        88122
+                    </td>
+                    
+                    <td align="right">
+                        82783
+                    </td>
+                    <td align="right">
+                        22780
+                    </td>
+                    <td align="right">
+                        2766
+                    </td>
+                    <td align="right">
+                        142912
+                    </td>
+                    <td align="right">
+                        168458
+                    </td>
+                    <td align="right">
+                        828323
+                    </td>
+                    <td align="right">
+                        105351
+                    </td>
+                    <td align="right">
+                        5302501
+                    </td>
+                    <td align="right">
+                        6236175
+                    </td>
+                    <td align="right">
+                        3024405
+                    </td>
+                    <td align="right">
+                        2251
+                    </td>
+                    <td align="right">
+                        304
+                    </td>
+                    <td align="right">
+                        14646
+                    </td>
+                    <td align="right">
+                        17201
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        7
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=BIDAR&district_code=1506&fin_year=2019-2020&source=national&typediv=0&Digest=2DlN2LlYpEqRw2jaLqu0DQ'>BIDAR</a>
+                    </td>
+                    <td align="right">
+                        42393
+                    </td>
+                    <td align="right">
+                        24436
+                    </td>
+                    <td align="right">
+                        101003
+                    </td>
+                    <td align="right">
+                        167832
+                    </td>
+                    <td align="right">
+                        17382
+                    </td>
+                    <td align="right">
+                        10145
+                    </td>
+                    <td align="right">
+                        40674
+                    </td>
+                    <td align="right">
+                        68201
+                    </td>
+                    
+                    <td align="right">
+                        60813
+                    </td>
+                    <td align="right">
+                        28918
+                    </td>
+                    <td align="right">
+                        17192
+                    </td>
+                    <td align="right">
+                        68959
+                    </td>
+                    <td align="right">
+                        115069
+                    </td>
+                    <td align="right">
+                        703230
+                    </td>
+                    <td align="right">
+                        455618
+                    </td>
+                    <td align="right">
+                        1886753
+                    </td>
+                    <td align="right">
+                        3045601
+                    </td>
+                    <td align="right">
+                        1611969
+                    </td>
+                    <td align="right">
+                        64
+                    </td>
+                    <td align="right">
+                        56
+                    </td>
+                    <td align="right">
+                        212
+                    </td>
+                    <td align="right">
+                        332
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        8
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=CHAMARAJA+NAGARA&district_code=1508&fin_year=2019-2020&source=national&typediv=0&Digest=+xY/1/oESOrrnMKKqcyNQw'>CHAMARAJA NAGARA</a>
+                    </td>
+                    <td align="right">
+                        44821
+                    </td>
+                    <td align="right">
+                        18422
+                    </td>
+                    <td align="right">
+                        108658
+                    </td>
+                    <td align="right">
+                        171901
+                    </td>
+                    <td align="right">
+                        14050
+                    </td>
+                    <td align="right">
+                        5307
+                    </td>
+                    <td align="right">
+                        35818
+                    </td>
+                    <td align="right">
+                        55175
+                    </td>
+                    
+                    <td align="right">
+                        50467
+                    </td>
+                    <td align="right">
+                        26064
+                    </td>
+                    <td align="right">
+                        9707
+                    </td>
+                    <td align="right">
+                        65298
+                    </td>
+                    <td align="right">
+                        101069
+                    </td>
+                    <td align="right">
+                        657657
+                    </td>
+                    <td align="right">
+                        243552
+                    </td>
+                    <td align="right">
+                        1767209
+                    </td>
+                    <td align="right">
+                        2668418
+                    </td>
+                    <td align="right">
+                        1337773
+                    </td>
+                    <td align="right">
+                        313
+                    </td>
+                    <td align="right">
+                        126
+                    </td>
+                    <td align="right">
+                        862
+                    </td>
+                    <td align="right">
+                        1301
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        9
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=CHIKKABALLAPURA&district_code=1528&fin_year=2019-2020&source=national&typediv=0&Digest=SowIgo6grcx0aIT1FB7AzQ'>CHIKKABALLAPURA</a>
+                    </td>
+                    <td align="right">
+                        45413
+                    </td>
+                    <td align="right">
+                        26322
+                    </td>
+                    <td align="right">
+                        114760
+                    </td>
+                    <td align="right">
+                        186495
+                    </td>
+                    <td align="right">
+                        14297
+                    </td>
+                    <td align="right">
+                        9197
+                    </td>
+                    <td align="right">
+                        42902
+                    </td>
+                    <td align="right">
+                        66396
+                    </td>
+                    
+                    <td align="right">
+                        62058
+                    </td>
+                    <td align="right">
+                        26389
+                    </td>
+                    <td align="right">
+                        17395
+                    </td>
+                    <td align="right">
+                        82783
+                    </td>
+                    <td align="right">
+                        126567
+                    </td>
+                    <td align="right">
+                        740089
+                    </td>
+                    <td align="right">
+                        496010
+                    </td>
+                    <td align="right">
+                        2399275
+                    </td>
+                    <td align="right">
+                        3635374
+                    </td>
+                    <td align="right">
+                        1776636
+                    </td>
+                    <td align="right">
+                        1178
+                    </td>
+                    <td align="right">
+                        1001
+                    </td>
+                    <td align="right">
+                        3904
+                    </td>
+                    <td align="right">
+                        6083
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        10
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=CHIKKAMAGALURU&district_code=1509&fin_year=2019-2020&source=national&typediv=0&Digest=FQ8PVr9EwgxzY6atToaIOw'>CHIKKAMAGALURU</a>
+                    </td>
+                    <td align="right">
+                        32674
+                    </td>
+                    <td align="right">
+                        6539
+                    </td>
+                    <td align="right">
+                        107348
+                    </td>
+                    <td align="right">
+                        146561
+                    </td>
+                    <td align="right">
+                        8348
+                    </td>
+                    <td align="right">
+                        1669
+                    </td>
+                    <td align="right">
+                        40727
+                    </td>
+                    <td align="right">
+                        50744
+                    </td>
+                    
+                    <td align="right">
+                        46642
+                    </td>
+                    <td align="right">
+                        16060
+                    </td>
+                    <td align="right">
+                        3167
+                    </td>
+                    <td align="right">
+                        80368
+                    </td>
+                    <td align="right">
+                        99595
+                    </td>
+                    <td align="right">
+                        376647
+                    </td>
+                    <td align="right">
+                        73973
+                    </td>
+                    <td align="right">
+                        2126755
+                    </td>
+                    <td align="right">
+                        2577375
+                    </td>
+                    <td align="right">
+                        1193764
+                    </td>
+                    <td align="right">
+                        308
+                    </td>
+                    <td align="right">
+                        72
+                    </td>
+                    <td align="right">
+                        2127
+                    </td>
+                    <td align="right">
+                        2507
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        11
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=CHITRADURGA&district_code=1510&fin_year=2019-2020&source=national&typediv=0&Digest=2lJjGfbMGY1ry9Gd/0eJRw'>CHITRADURGA</a>
+                    </td>
+                    <td align="right">
+                        62382
+                    </td>
+                    <td align="right">
+                        56566
+                    </td>
+                    <td align="right">
+                        166458
+                    </td>
+                    <td align="right">
+                        285406
+                    </td>
+                    <td align="right">
+                        24333
+                    </td>
+                    <td align="right">
+                        24746
+                    </td>
+                    <td align="right">
+                        66822
+                    </td>
+                    <td align="right">
+                        115901
+                    </td>
+                    
+                    <td align="right">
+                        106032
+                    </td>
+                    <td align="right">
+                        43398
+                    </td>
+                    <td align="right">
+                        43570
+                    </td>
+                    <td align="right">
+                        122369
+                    </td>
+                    <td align="right">
+                        209337
+                    </td>
+                    <td align="right">
+                        1222362
+                    </td>
+                    <td align="right">
+                        1406054
+                    </td>
+                    <td align="right">
+                        3594658
+                    </td>
+                    <td align="right">
+                        6223074
+                    </td>
+                    <td align="right">
+                        3213833
+                    </td>
+                    <td align="right">
+                        1425
+                    </td>
+                    <td align="right">
+                        3468
+                    </td>
+                    <td align="right">
+                        4878
+                    </td>
+                    <td align="right">
+                        9771
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        12
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=DAKSHINA+KANNADA&district_code=1511&fin_year=2019-2020&source=national&typediv=0&Digest=SVouu/HbkJipuoScawCwDA'>DAKSHINA KANNADA</a>
+                    </td>
+                    <td align="right">
+                        17884
+                    </td>
+                    <td align="right">
+                        12210
+                    </td>
+                    <td align="right">
+                        99019
+                    </td>
+                    <td align="right">
+                        129113
+                    </td>
+                    <td align="right">
+                        1960
+                    </td>
+                    <td align="right">
+                        1790
+                    </td>
+                    <td align="right">
+                        22369
+                    </td>
+                    <td align="right">
+                        26119
+                    </td>
+                    
+                    <td align="right">
+                        21692
+                    </td>
+                    <td align="right">
+                        3406
+                    </td>
+                    <td align="right">
+                        3175
+                    </td>
+                    <td align="right">
+                        39926
+                    </td>
+                    <td align="right">
+                        46507
+                    </td>
+                    <td align="right">
+                        80415
+                    </td>
+                    <td align="right">
+                        80072
+                    </td>
+                    <td align="right">
+                        1130585
+                    </td>
+                    <td align="right">
+                        1291072
+                    </td>
+                    <td align="right">
+                        576472
+                    </td>
+                    <td align="right">
+                        93
+                    </td>
+                    <td align="right">
+                        89
+                    </td>
+                    <td align="right">
+                        1968
+                    </td>
+                    <td align="right">
+                        2150
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        13
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=DAVANAGERE&district_code=1512&fin_year=2019-2020&source=national&typediv=0&Digest=Znac/5Oq++7W3Z1PGnlSjA'>DAVANAGERE</a>
+                    </td>
+                    <td align="right">
+                        54637
+                    </td>
+                    <td align="right">
+                        36214
+                    </td>
+                    <td align="right">
+                        157469
+                    </td>
+                    <td align="right">
+                        248320
+                    </td>
+                    <td align="right">
+                        14615
+                    </td>
+                    <td align="right">
+                        11184
+                    </td>
+                    <td align="right">
+                        42710
+                    </td>
+                    <td align="right">
+                        68509
+                    </td>
+                    
+                    <td align="right">
+                        63381
+                    </td>
+                    <td align="right">
+                        27244
+                    </td>
+                    <td align="right">
+                        22914
+                    </td>
+                    <td align="right">
+                        84005
+                    </td>
+                    <td align="right">
+                        134163
+                    </td>
+                    <td align="right">
+                        683357
+                    </td>
+                    <td align="right">
+                        540722
+                    </td>
+                    <td align="right">
+                        2178204
+                    </td>
+                    <td align="right">
+                        3402283
+                    </td>
+                    <td align="right">
+                        1594282
+                    </td>
+                    <td align="right">
+                        751
+                    </td>
+                    <td align="right">
+                        480
+                    </td>
+                    <td align="right">
+                        2676
+                    </td>
+                    <td align="right">
+                        3907
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        14
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=DHARWAR&district_code=1513&fin_year=2019-2020&source=national&typediv=0&Digest=ZKeWIsnVhN7PJ3zLSHfpsw'>DHARWAR</a>
+                    </td>
+                    <td align="right">
+                        11181
+                    </td>
+                    <td align="right">
+                        7654
+                    </td>
+                    <td align="right">
+                        119896
+                    </td>
+                    <td align="right">
+                        138731
+                    </td>
+                    <td align="right">
+                        3419
+                    </td>
+                    <td align="right">
+                        2407
+                    </td>
+                    <td align="right">
+                        35342
+                    </td>
+                    <td align="right">
+                        41168
+                    </td>
+                    
+                    <td align="right">
+                        33535
+                    </td>
+                    <td align="right">
+                        6548
+                    </td>
+                    <td align="right">
+                        4530
+                    </td>
+                    <td align="right">
+                        66926
+                    </td>
+                    <td align="right">
+                        78004
+                    </td>
+                    <td align="right">
+                        157003
+                    </td>
+                    <td align="right">
+                        104359
+                    </td>
+                    <td align="right">
+                        1579553
+                    </td>
+                    <td align="right">
+                        1840915
+                    </td>
+                    <td align="right">
+                        771117
+                    </td>
+                    <td align="right">
+                        359
+                    </td>
+                    <td align="right">
+                        227
+                    </td>
+                    <td align="right">
+                        3327
+                    </td>
+                    <td align="right">
+                        3913
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        15
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=GADAG&district_code=1514&fin_year=2019-2020&source=national&typediv=0&Digest=ISmz1TkynO3XlGgwXrZMuw'>GADAG</a>
+                    </td>
+                    <td align="right">
+                        24984
+                    </td>
+                    <td align="right">
+                        11075
+                    </td>
+                    <td align="right">
+                        108544
+                    </td>
+                    <td align="right">
+                        144603
+                    </td>
+                    <td align="right">
+                        12031
+                    </td>
+                    <td align="right">
+                        6309
+                    </td>
+                    <td align="right">
+                        57474
+                    </td>
+                    <td align="right">
+                        75814
+                    </td>
+                    
+                    <td align="right">
+                        69406
+                    </td>
+                    <td align="right">
+                        23497
+                    </td>
+                    <td align="right">
+                        12463
+                    </td>
+                    <td align="right">
+                        114194
+                    </td>
+                    <td align="right">
+                        150154
+                    </td>
+                    <td align="right">
+                        512426
+                    </td>
+                    <td align="right">
+                        265101
+                    </td>
+                    <td align="right">
+                        2412611
+                    </td>
+                    <td align="right">
+                        3190138
+                    </td>
+                    <td align="right">
+                        1453108
+                    </td>
+                    <td align="right">
+                        408
+                    </td>
+                    <td align="right">
+                        189
+                    </td>
+                    <td align="right">
+                        2211
+                    </td>
+                    <td align="right">
+                        2808
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        16
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=HASSAN&district_code=1516&fin_year=2019-2020&source=national&typediv=0&Digest=dUi3xF6ygE/DZxufyN3KYg'>HASSAN</a>
+                    </td>
+                    <td align="right">
+                        42918
+                    </td>
+                    <td align="right">
+                        4363
+                    </td>
+                    <td align="right">
+                        202076
+                    </td>
+                    <td align="right">
+                        249357
+                    </td>
+                    <td align="right">
+                        12828
+                    </td>
+                    <td align="right">
+                        1454
+                    </td>
+                    <td align="right">
+                        73797
+                    </td>
+                    <td align="right">
+                        88079
+                    </td>
+                    
+                    <td align="right">
+                        83658
+                    </td>
+                    <td align="right">
+                        24489
+                    </td>
+                    <td align="right">
+                        2854
+                    </td>
+                    <td align="right">
+                        145851
+                    </td>
+                    <td align="right">
+                        173194
+                    </td>
+                    <td align="right">
+                        613538
+                    </td>
+                    <td align="right">
+                        74661
+                    </td>
+                    <td align="right">
+                        3893020
+                    </td>
+                    <td align="right">
+                        4581219
+                    </td>
+                    <td align="right">
+                        2192927
+                    </td>
+                    <td align="right">
+                        879
+                    </td>
+                    <td align="right">
+                        83
+                    </td>
+                    <td align="right">
+                        4717
+                    </td>
+                    <td align="right">
+                        5679
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        17
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=HAVERI&district_code=1517&fin_year=2019-2020&source=national&typediv=0&Digest=Nidl5ObnunpPYLLbjK4u3w'>HAVERI</a>
+                    </td>
+                    <td align="right">
+                        31935
+                    </td>
+                    <td align="right">
+                        23291
+                    </td>
+                    <td align="right">
+                        158512
+                    </td>
+                    <td align="right">
+                        213738
+                    </td>
+                    <td align="right">
+                        9691
+                    </td>
+                    <td align="right">
+                        7967
+                    </td>
+                    <td align="right">
+                        50959
+                    </td>
+                    <td align="right">
+                        68617
+                    </td>
+                    
+                    <td align="right">
+                        59133
+                    </td>
+                    <td align="right">
+                        18418
+                    </td>
+                    <td align="right">
+                        15431
+                    </td>
+                    <td align="right">
+                        98441
+                    </td>
+                    <td align="right">
+                        132290
+                    </td>
+                    <td align="right">
+                        413869
+                    </td>
+                    <td align="right">
+                        367427
+                    </td>
+                    <td align="right">
+                        2394980
+                    </td>
+                    <td align="right">
+                        3176276
+                    </td>
+                    <td align="right">
+                        1408626
+                    </td>
+                    <td align="right">
+                        566
+                    </td>
+                    <td align="right">
+                        643
+                    </td>
+                    <td align="right">
+                        4248
+                    </td>
+                    <td align="right">
+                        5457
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        18
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=KALABURAGI&district_code=1515&fin_year=2019-2020&source=national&typediv=0&Digest=wk2sS/wzU5Y/RfIV96c2Xw'>KALABURAGI</a>
+                    </td>
+                    <td align="right">
+                        66714
+                    </td>
+                    <td align="right">
+                        3753
+                    </td>
+                    <td align="right">
+                        215595
+                    </td>
+                    <td align="right">
+                        286062
+                    </td>
+                    <td align="right">
+                        24612
+                    </td>
+                    <td align="right">
+                        1520
+                    </td>
+                    <td align="right">
+                        81204
+                    </td>
+                    <td align="right">
+                        107336
+                    </td>
+                    
+                    <td align="right">
+                        93013
+                    </td>
+                    <td align="right">
+                        41956
+                    </td>
+                    <td align="right">
+                        2684
+                    </td>
+                    <td align="right">
+                        134928
+                    </td>
+                    <td align="right">
+                        179568
+                    </td>
+                    <td align="right">
+                        1009823
+                    </td>
+                    <td align="right">
+                        69153
+                    </td>
+                    <td align="right">
+                        3404840
+                    </td>
+                    <td align="right">
+                        4483816
+                    </td>
+                    <td align="right">
+                        2348337
+                    </td>
+                    <td align="right">
+                        1190
+                    </td>
+                    <td align="right">
+                        92
+                    </td>
+                    <td align="right">
+                        4599
+                    </td>
+                    <td align="right">
+                        5881
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        19
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=KODAGU&district_code=1518&fin_year=2019-2020&source=national&typediv=0&Digest=f51ABXU+O7kqfxurKu5XgA'>KODAGU</a>
+                    </td>
+                    <td align="right">
+                        7959
+                    </td>
+                    <td align="right">
+                        5045
+                    </td>
+                    <td align="right">
+                        53778
+                    </td>
+                    <td align="right">
+                        66782
+                    </td>
+                    <td align="right">
+                        951
+                    </td>
+                    <td align="right">
+                        557
+                    </td>
+                    <td align="right">
+                        9251
+                    </td>
+                    <td align="right">
+                        10759
+                    </td>
+                    
+                    <td align="right">
+                        9088
+                    </td>
+                    <td align="right">
+                        1637
+                    </td>
+                    <td align="right">
+                        938
+                    </td>
+                    <td align="right">
+                        16402
+                    </td>
+                    <td align="right">
+                        18977
+                    </td>
+                    <td align="right">
+                        39927
+                    </td>
+                    <td align="right">
+                        23351
+                    </td>
+                    <td align="right">
+                        444903
+                    </td>
+                    <td align="right">
+                        508181
+                    </td>
+                    <td align="right">
+                        237996
+                    </td>
+                    <td align="right">
+                        54
+                    </td>
+                    <td align="right">
+                        32
+                    </td>
+                    <td align="right">
+                        751
+                    </td>
+                    <td align="right">
+                        837
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        20
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=KOLAR&district_code=1519&fin_year=2019-2020&source=national&typediv=0&Digest=D1110bOP7CYLvVUeBi25KA'>KOLAR</a>
+                    </td>
+                    <td align="right">
+                        58086
+                    </td>
+                    <td align="right">
+                        12791
+                    </td>
+                    <td align="right">
+                        142485
+                    </td>
+                    <td align="right">
+                        213362
+                    </td>
+                    <td align="right">
+                        19582
+                    </td>
+                    <td align="right">
+                        4885
+                    </td>
+                    <td align="right">
+                        54157
+                    </td>
+                    <td align="right">
+                        78624
+                    </td>
+                    
+                    <td align="right">
+                        67145
+                    </td>
+                    <td align="right">
+                        33373
+                    </td>
+                    <td align="right">
+                        8728
+                    </td>
+                    <td align="right">
+                        93605
+                    </td>
+                    <td align="right">
+                        135706
+                    </td>
+                    <td align="right">
+                        1028315
+                    </td>
+                    <td align="right">
+                        267623
+                    </td>
+                    <td align="right">
+                        3151400
+                    </td>
+                    <td align="right">
+                        4447338
+                    </td>
+                    <td align="right">
+                        2206782
+                    </td>
+                    <td align="right">
+                        2293
+                    </td>
+                    <td align="right">
+                        671
+                    </td>
+                    <td align="right">
+                        8321
+                    </td>
+                    <td align="right">
+                        11285
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        21
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=KOPPAL&district_code=1520&fin_year=2019-2020&source=national&typediv=0&Digest=czwunoeMZRJIJKyOklLqkw'>KOPPAL</a>
+                    </td>
+                    <td align="right">
+                        41401
+                    </td>
+                    <td align="right">
+                        32100
+                    </td>
+                    <td align="right">
+                        170583
+                    </td>
+                    <td align="right">
+                        244084
+                    </td>
+                    <td align="right">
+                        15900
+                    </td>
+                    <td align="right">
+                        14445
+                    </td>
+                    <td align="right">
+                        69111
+                    </td>
+                    <td align="right">
+                        99456
+                    </td>
+                    
+                    <td align="right">
+                        98436
+                    </td>
+                    <td align="right">
+                        30951
+                    </td>
+                    <td align="right">
+                        29742
+                    </td>
+                    <td align="right">
+                        137038
+                    </td>
+                    <td align="right">
+                        197731
+                    </td>
+                    <td align="right">
+                        750398
+                    </td>
+                    <td align="right">
+                        730992
+                    </td>
+                    <td align="right">
+                        3525244
+                    </td>
+                    <td align="right">
+                        5006634
+                    </td>
+                    <td align="right">
+                        2505279
+                    </td>
+                    <td align="right">
+                        714
+                    </td>
+                    <td align="right">
+                        709
+                    </td>
+                    <td align="right">
+                        3170
+                    </td>
+                    <td align="right">
+                        4593
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        22
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=MANDYA&district_code=1521&fin_year=2019-2020&source=national&typediv=0&Digest=6sNfH7Zy1av2K+KaADXQRQ'>MANDYA</a>
+                    </td>
+                    <td align="right">
+                        35007
+                    </td>
+                    <td align="right">
+                        2474
+                    </td>
+                    <td align="right">
+                        243256
+                    </td>
+                    <td align="right">
+                        280737
+                    </td>
+                    <td align="right">
+                        6892
+                    </td>
+                    <td align="right">
+                        506
+                    </td>
+                    <td align="right">
+                        59498
+                    </td>
+                    <td align="right">
+                        66896
+                    </td>
+                    
+                    <td align="right">
+                        55878
+                    </td>
+                    <td align="right">
+                        11097
+                    </td>
+                    <td align="right">
+                        868
+                    </td>
+                    <td align="right">
+                        102082
+                    </td>
+                    <td align="right">
+                        114047
+                    </td>
+                    <td align="right">
+                        256893
+                    </td>
+                    <td align="right">
+                        19963
+                    </td>
+                    <td align="right">
+                        2571709
+                    </td>
+                    <td align="right">
+                        2848565
+                    </td>
+                    <td align="right">
+                        1378268
+                    </td>
+                    <td align="right">
+                        259
+                    </td>
+                    <td align="right">
+                        20
+                    </td>
+                    <td align="right">
+                        2573
+                    </td>
+                    <td align="right">
+                        2852
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        23
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=MYSURU&district_code=1522&fin_year=2019-2020&source=national&typediv=0&Digest=+HLW+ZrwCARr5+OjK+Udsw'>MYSURU</a>
+                    </td>
+                    <td align="right">
+                        50451
+                    </td>
+                    <td align="right">
+                        32200
+                    </td>
+                    <td align="right">
+                        184855
+                    </td>
+                    <td align="right">
+                        267506
+                    </td>
+                    <td align="right">
+                        9195
+                    </td>
+                    <td align="right">
+                        5559
+                    </td>
+                    <td align="right">
+                        39199
+                    </td>
+                    <td align="right">
+                        53953
+                    </td>
+                    
+                    <td align="right">
+                        51461
+                    </td>
+                    <td align="right">
+                        17743
+                    </td>
+                    <td align="right">
+                        10887
+                    </td>
+                    <td align="right">
+                        76632
+                    </td>
+                    <td align="right">
+                        105262
+                    </td>
+                    <td align="right">
+                        338539
+                    </td>
+                    <td align="right">
+                        215224
+                    </td>
+                    <td align="right">
+                        1691394
+                    </td>
+                    <td align="right">
+                        2245157
+                    </td>
+                    <td align="right">
+                        1083686
+                    </td>
+                    <td align="right">
+                        283
+                    </td>
+                    <td align="right">
+                        195
+                    </td>
+                    <td align="right">
+                        1858
+                    </td>
+                    <td align="right">
+                        2336
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        24
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=RAICHUR&district_code=1523&fin_year=2019-2020&source=national&typediv=0&Digest=sxzOVTUDrBThgJXFWsmmUQ'>RAICHUR</a>
+                    </td>
+                    <td align="right">
+                        46746
+                    </td>
+                    <td align="right">
+                        57874
+                    </td>
+                    <td align="right">
+                        170030
+                    </td>
+                    <td align="right">
+                        274650
+                    </td>
+                    <td align="right">
+                        29627
+                    </td>
+                    <td align="right">
+                        38171
+                    </td>
+                    <td align="right">
+                        114077
+                    </td>
+                    <td align="right">
+                        181875
+                    </td>
+                    
+                    <td align="right">
+                        188909
+                    </td>
+                    <td align="right">
+                        59832
+                    </td>
+                    <td align="right">
+                        77500
+                    </td>
+                    <td align="right">
+                        231272
+                    </td>
+                    <td align="right">
+                        368604
+                    </td>
+                    <td align="right">
+                        1775529
+                    </td>
+                    <td align="right">
+                        2330399
+                    </td>
+                    <td align="right">
+                        6998890
+                    </td>
+                    <td align="right">
+                        11104818
+                    </td>
+                    <td align="right">
+                        5754830
+                    </td>
+                    <td align="right">
+                        3983
+                    </td>
+                    <td align="right">
+                        5495
+                    </td>
+                    <td align="right">
+                        16387
+                    </td>
+                    <td align="right">
+                        25865
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        25
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=SHIVAMOGGA&district_code=1524&fin_year=2019-2020&source=national&typediv=0&Digest=t16XdGaYsbpS5fpxRp02tw'>SHIVAMOGGA</a>
+                    </td>
+                    <td align="right">
+                        42935
+                    </td>
+                    <td align="right">
+                        9882
+                    </td>
+                    <td align="right">
+                        162605
+                    </td>
+                    <td align="right">
+                        215422
+                    </td>
+                    <td align="right">
+                        17710
+                    </td>
+                    <td align="right">
+                        4271
+                    </td>
+                    <td align="right">
+                        66284
+                    </td>
+                    <td align="right">
+                        88265
+                    </td>
+                    
+                    <td align="right">
+                        76086
+                    </td>
+                    <td align="right">
+                        31063
+                    </td>
+                    <td align="right">
+                        7410
+                    </td>
+                    <td align="right">
+                        114236
+                    </td>
+                    <td align="right">
+                        152709
+                    </td>
+                    <td align="right">
+                        602202
+                    </td>
+                    <td align="right">
+                        152806
+                    </td>
+                    <td align="right">
+                        2471061
+                    </td>
+                    <td align="right">
+                        3226069
+                    </td>
+                    <td align="right">
+                        1640783
+                    </td>
+                    <td align="right">
+                        643
+                    </td>
+                    <td align="right">
+                        164
+                    </td>
+                    <td align="right">
+                        3131
+                    </td>
+                    <td align="right">
+                        3938
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        26
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=TUMAKURU&district_code=1525&fin_year=2019-2020&source=national&typediv=0&Digest=8AiYOj/dkJl7ufHyI+dp6Q'>TUMAKURU</a>
+                    </td>
+                    <td align="right">
+                        61768
+                    </td>
+                    <td align="right">
+                        28402
+                    </td>
+                    <td align="right">
+                        298117
+                    </td>
+                    <td align="right">
+                        388287
+                    </td>
+                    <td align="right">
+                        13834
+                    </td>
+                    <td align="right">
+                        7054
+                    </td>
+                    <td align="right">
+                        83844
+                    </td>
+                    <td align="right">
+                        104732
+                    </td>
+                    
+                    <td align="right">
+                        96663
+                    </td>
+                    <td align="right">
+                        26000
+                    </td>
+                    <td align="right">
+                        13478
+                    </td>
+                    <td align="right">
+                        157100
+                    </td>
+                    <td align="right">
+                        196578
+                    </td>
+                    <td align="right">
+                        655723
+                    </td>
+                    <td align="right">
+                        344198
+                    </td>
+                    <td align="right">
+                        4408066
+                    </td>
+                    <td align="right">
+                        5407987
+                    </td>
+                    <td align="right">
+                        2637156
+                    </td>
+                    <td align="right">
+                        838
+                    </td>
+                    <td align="right">
+                        514
+                    </td>
+                    <td align="right">
+                        7949
+                    </td>
+                    <td align="right">
+                        9301
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        27
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=UDUPI&district_code=1526&fin_year=2019-2020&source=national&typediv=0&Digest=dKrEG0Umz4+aJNamcM0XdQ'>UDUPI</a>
+                    </td>
+                    <td align="right">
+                        4729
+                    </td>
+                    <td align="right">
+                        4390
+                    </td>
+                    <td align="right">
+                        61061
+                    </td>
+                    <td align="right">
+                        70180
+                    </td>
+                    <td align="right">
+                        591
+                    </td>
+                    <td align="right">
+                        494
+                    </td>
+                    <td align="right">
+                        10038
+                    </td>
+                    <td align="right">
+                        11123
+                    </td>
+                    
+                    <td align="right">
+                        12431
+                    </td>
+                    <td align="right">
+                        1011
+                    </td>
+                    <td align="right">
+                        954
+                    </td>
+                    <td align="right">
+                        18143
+                    </td>
+                    <td align="right">
+                        20108
+                    </td>
+                    <td align="right">
+                        23816
+                    </td>
+                    <td align="right">
+                        18129
+                    </td>
+                    <td align="right">
+                        383969
+                    </td>
+                    <td align="right">
+                        425914
+                    </td>
+                    <td align="right">
+                        271572
+                    </td>
+                    <td align="right">
+                        23
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        360
+                    </td>
+                    <td align="right">
+                        388
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        28
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=UTTARA+KANNADA&district_code=1527&fin_year=2019-2020&source=national&typediv=0&Digest=BPg1slEqK+MM3IkDRsbI6Q'>UTTARA KANNADA</a>
+                    </td>
+                    <td align="right">
+                        11793
+                    </td>
+                    <td align="right">
+                        5145
+                    </td>
+                    <td align="right">
+                        146035
+                    </td>
+                    <td align="right">
+                        162973
+                    </td>
+                    <td align="right">
+                        2532
+                    </td>
+                    <td align="right">
+                        1527
+                    </td>
+                    <td align="right">
+                        34327
+                    </td>
+                    <td align="right">
+                        38386
+                    </td>
+                    
+                    <td align="right">
+                        31381
+                    </td>
+                    <td align="right">
+                        4068
+                    </td>
+                    <td align="right">
+                        2562
+                    </td>
+                    <td align="right">
+                        57933
+                    </td>
+                    <td align="right">
+                        64563
+                    </td>
+                    <td align="right">
+                        91599
+                    </td>
+                    <td align="right">
+                        60852
+                    </td>
+                    <td align="right">
+                        1291380
+                    </td>
+                    <td align="right">
+                        1443831
+                    </td>
+                    <td align="right">
+                        697472
+                    </td>
+                    <td align="right">
+                        107
+                    </td>
+                    <td align="right">
+                        100
+                    </td>
+                    <td align="right">
+                        1871
+                    </td>
+                    <td align="right">
+                        2078
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        29
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=VIJAYPURA&district_code=1507&fin_year=2019-2020&source=national&typediv=0&Digest=O8KZ9GedVvRhsgRgFZPWGw'>VIJAYPURA</a>
+                    </td>
+                    <td align="right">
+                        49569
+                    </td>
+                    <td align="right">
+                        3359
+                    </td>
+                    <td align="right">
+                        193014
+                    </td>
+                    <td align="right">
+                        245942
+                    </td>
+                    <td align="right">
+                        17099
+                    </td>
+                    <td align="right">
+                        1034
+                    </td>
+                    <td align="right">
+                        71137
+                    </td>
+                    <td align="right">
+                        89270
+                    </td>
+                    
+                    <td align="right">
+                        69315
+                    </td>
+                    <td align="right">
+                        30275
+                    </td>
+                    <td align="right">
+                        1953
+                    </td>
+                    <td align="right">
+                        126335
+                    </td>
+                    <td align="right">
+                        158563
+                    </td>
+                    <td align="right">
+                        896336
+                    </td>
+                    <td align="right">
+                        57365
+                    </td>
+                    <td align="right">
+                        3971354
+                    </td>
+                    <td align="right">
+                        4925055
+                    </td>
+                    <td align="right">
+                        2061604
+                    </td>
+                    <td align="right">
+                        2119
+                    </td>
+                    <td align="right">
+                        160
+                    </td>
+                    <td align="right">
+                        10838
+                    </td>
+                    <td align="right">
+                        13117
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        30
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=KARNATAKA&state_code=15&district_name=Yadgir&district_code=1530&fin_year=2019-2020&source=national&typediv=0&Digest=V5eXnFjSi35lV1fHa1jQ0w'>Yadgir</a>
+                    </td>
+                    <td align="right">
+                        35371
+                    </td>
+                    <td align="right">
+                        17470
+                    </td>
+                    <td align="right">
+                        129285
+                    </td>
+                    <td align="right">
+                        182126
+                    </td>
+                    <td align="right">
+                        11951
+                    </td>
+                    <td align="right">
+                        6264
+                    </td>
+                    <td align="right">
+                        44564
+                    </td>
+                    <td align="right">
+                        62779
+                    </td>
+                    
+                    <td align="right">
+                        44934
+                    </td>
+                    <td align="right">
+                        18058
+                    </td>
+                    <td align="right">
+                        9559
+                    </td>
+                    <td align="right">
+                        64648
+                    </td>
+                    <td align="right">
+                        92265
+                    </td>
+                    <td align="right">
+                        551227
+                    </td>
+                    <td align="right">
+                        295205
+                    </td>
+                    <td align="right">
+                        2021513
+                    </td>
+                    <td align="right">
+                        2867945
+                    </td>
+                    <td align="right">
+                        1395249
+                    </td>
+                    <td align="right">
+                        1056
+                    </td>
+                    <td align="right">
+                        538
+                    </td>
+                    <td align="right">
+                        3662
+                    </td>
+                    <td align="right">
+                        5256
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        1153012
+                    </td>
+                    <td align="right">
+                        574521
+                    </td>
+                    <td align="right">
+                        4640217
+                    </td>
+                    <td align="right">
+                        6367750
+                    </td>
+                    <td align="right">
+                        381331
+                    </td>
+                    <td align="right">
+                        223812
+                    </td>
+                    <td align="right">
+                        1632628
+                    </td>
+                    <td align="right">
+                        2237771
+                    </td>
+                    
+                    <td align="right">
+                        2015163
+                    </td>
+                    <td align="right">
+                        696809
+                    </td>
+                    <td align="right">
+                        427443
+                    </td>
+                    <td align="right">
+                        2984721
+                    </td>
+                    <td align="right">
+                        4108973
+                    </td>
+                    <td align="right">
+                        18233762
+                    </td>
+                    <td align="right">
+                        11632066
+                    </td>
+                    <td align="right">
+                        81997596
+                    </td>
+                    <td align="right">
+                        111863424
+                    </td>
+                    <td align="right">
+                        54949527
+                    </td>
+                    <td align="right">
+                        28045
+                    </td>
+                    <td align="right">
+                        19732
+                    </td>
+                    <td align="right">
+                        139559
+                    </td>
+                    <td align="right">
+                        187336
+                    </td>
+                </tr>
+            
+                </table>
+            

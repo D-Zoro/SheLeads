@@ -1,0 +1,1108 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=NAGALAND&state_code=23&district_name=DIMAPUR&district_code=2308&fin_year=2019-2020&source=national&typediv=0&Digest=NCSgAazIoAikZWudQIVFrQ'>DIMAPUR</a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        67991
+                    </td>
+                    <td align="right">
+                        6570
+                    </td>
+                    <td align="right">
+                        74561
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        64333
+                    </td>
+                    <td align="right">
+                        6319
+                    </td>
+                    <td align="right">
+                        70652
+                    </td>
+                    
+                    <td align="right">
+                        25494
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        69574
+                    </td>
+                    <td align="right">
+                        6507
+                    </td>
+                    <td align="right">
+                        76081
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1935201
+                    </td>
+                    <td align="right">
+                        197330
+                    </td>
+                    <td align="right">
+                        2132531
+                    </td>
+                    <td align="right">
+                        686427
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=NAGALAND&state_code=23&district_name=KIPHIRE&district_code=2309&fin_year=2019-2020&source=national&typediv=0&Digest=j708uA7DuuQQ6enX9gHkCg'>KIPHIRE</a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        23771
+                    </td>
+                    <td align="right">
+                        56
+                    </td>
+                    <td align="right">
+                        23827
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        22796
+                    </td>
+                    <td align="right">
+                        56
+                    </td>
+                    <td align="right">
+                        22852
+                    </td>
+                    
+                    <td align="right">
+                        7797
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        23235
+                    </td>
+                    <td align="right">
+                        56
+                    </td>
+                    <td align="right">
+                        23291
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        925283
+                    </td>
+                    <td align="right">
+                        2492
+                    </td>
+                    <td align="right">
+                        927775
+                    </td>
+                    <td align="right">
+                        302789
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=NAGALAND&state_code=23&district_name=KOHIMA&district_code=2301&fin_year=2019-2020&source=national&typediv=0&Digest=2iroStnO6Vrg8K5uIWWkUg'>KOHIMA</a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        53578
+                    </td>
+                    <td align="right">
+                        172
+                    </td>
+                    <td align="right">
+                        53750
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        40739
+                    </td>
+                    <td align="right">
+                        148
+                    </td>
+                    <td align="right">
+                        40887
+                    </td>
+                    
+                    <td align="right">
+                        19937
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        45689
+                    </td>
+                    <td align="right">
+                        155
+                    </td>
+                    <td align="right">
+                        45844
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1440325
+                    </td>
+                    <td align="right">
+                        6905
+                    </td>
+                    <td align="right">
+                        1447230
+                    </td>
+                    <td align="right">
+                        619248
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        4
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=NAGALAND&state_code=23&district_name=LONGLENG&district_code=2310&fin_year=2019-2020&source=national&typediv=0&Digest=AHwli5VTvcEqnQxt789GyA'>LONGLENG</a>
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        21631
+                    </td>
+                    <td align="right">
+                        105
+                    </td>
+                    <td align="right">
+                        21738
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        21306
+                    </td>
+                    <td align="right">
+                        100
+                    </td>
+                    <td align="right">
+                        21407
+                    </td>
+                    
+                    <td align="right">
+                        9826
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        28508
+                    </td>
+                    <td align="right">
+                        127
+                    </td>
+                    <td align="right">
+                        28637
+                    </td>
+                    <td align="right">
+                        41
+                    </td>
+                    <td align="right">
+                        779236
+                    </td>
+                    <td align="right">
+                        3631
+                    </td>
+                    <td align="right">
+                        782908
+                    </td>
+                    <td align="right">
+                        188468
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        5
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=NAGALAND&state_code=23&district_name=MOKOKCHUNG&district_code=2305&fin_year=2019-2020&source=national&typediv=0&Digest=MabmDhLX0REbbupUIVQEsA'>MOKOKCHUNG</a>
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        35373
+                    </td>
+                    <td align="right">
+                        371
+                    </td>
+                    <td align="right">
+                        35746
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        32578
+                    </td>
+                    <td align="right">
+                        296
+                    </td>
+                    <td align="right">
+                        32876
+                    </td>
+                    
+                    <td align="right">
+                        15543
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        33872
+                    </td>
+                    <td align="right">
+                        302
+                    </td>
+                    <td align="right">
+                        34176
+                    </td>
+                    <td align="right">
+                        98
+                    </td>
+                    <td align="right">
+                        1418923
+                    </td>
+                    <td align="right">
+                        13535
+                    </td>
+                    <td align="right">
+                        1432556
+                    </td>
+                    <td align="right">
+                        650551
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        6
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=NAGALAND&state_code=23&district_name=MON&district_code=2307&fin_year=2019-2020&source=national&typediv=0&Digest=sARK4zy6h1QOHlxhHNOfIQ'>MON</a>
+                    </td>
+                    <td align="right">
+                        10
+                    </td>
+                    <td align="right">
+                        43335
+                    </td>
+                    <td align="right">
+                        567
+                    </td>
+                    <td align="right">
+                        43912
+                    </td>
+                    <td align="right">
+                        10
+                    </td>
+                    <td align="right">
+                        41595
+                    </td>
+                    <td align="right">
+                        503
+                    </td>
+                    <td align="right">
+                        42108
+                    </td>
+                    
+                    <td align="right">
+                        17684
+                    </td>
+                    <td align="right">
+                        10
+                    </td>
+                    <td align="right">
+                        44703
+                    </td>
+                    <td align="right">
+                        521
+                    </td>
+                    <td align="right">
+                        45234
+                    </td>
+                    <td align="right">
+                        320
+                    </td>
+                    <td align="right">
+                        1285967
+                    </td>
+                    <td align="right">
+                        11962
+                    </td>
+                    <td align="right">
+                        1298249
+                    </td>
+                    <td align="right">
+                        502794
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        7
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=NAGALAND&state_code=23&district_name=PEREN&district_code=2311&fin_year=2019-2020&source=national&typediv=0&Digest=pm1R3rdWyUtAcmME7mToSQ'>PEREN</a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        27950
+                    </td>
+                    <td align="right">
+                        19
+                    </td>
+                    <td align="right">
+                        27969
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        27518
+                    </td>
+                    <td align="right">
+                        16
+                    </td>
+                    <td align="right">
+                        27534
+                    </td>
+                    
+                    <td align="right">
+                        13557
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        35472
+                    </td>
+                    <td align="right">
+                        18
+                    </td>
+                    <td align="right">
+                        35490
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        732463
+                    </td>
+                    <td align="right">
+                        439
+                    </td>
+                    <td align="right">
+                        732902
+                    </td>
+                    <td align="right">
+                        246459
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        8
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=NAGALAND&state_code=23&district_name=PHEK&district_code=2302&fin_year=2019-2020&source=national&typediv=0&Digest=8GfF7mFNlhX8JH9nwZDtGg'>PHEK</a>
+                    </td>
+                    <td align="right">
+                        27
+                    </td>
+                    <td align="right">
+                        31095
+                    </td>
+                    <td align="right">
+                        3332
+                    </td>
+                    <td align="right">
+                        34454
+                    </td>
+                    <td align="right">
+                        27
+                    </td>
+                    <td align="right">
+                        30946
+                    </td>
+                    <td align="right">
+                        3192
+                    </td>
+                    <td align="right">
+                        34165
+                    </td>
+                    
+                    <td align="right">
+                        12254
+                    </td>
+                    <td align="right">
+                        27
+                    </td>
+                    <td align="right">
+                        31753
+                    </td>
+                    <td align="right">
+                        3707
+                    </td>
+                    <td align="right">
+                        35487
+                    </td>
+                    <td align="right">
+                        981
+                    </td>
+                    <td align="right">
+                        1267327
+                    </td>
+                    <td align="right">
+                        159475
+                    </td>
+                    <td align="right">
+                        1427783
+                    </td>
+                    <td align="right">
+                        491681
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        9
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=NAGALAND&state_code=23&district_name=TUENSANG&district_code=2306&fin_year=2019-2020&source=national&typediv=0&Digest=bUvfafCqhkqtzuBTDpaWwQ'>TUENSANG</a>
+                    </td>
+                    <td align="right">
+                        8
+                    </td>
+                    <td align="right">
+                        42148
+                    </td>
+                    <td align="right">
+                        6540
+                    </td>
+                    <td align="right">
+                        48696
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        26578
+                    </td>
+                    <td align="right">
+                        5098
+                    </td>
+                    <td align="right">
+                        31681
+                    </td>
+                    
+                    <td align="right">
+                        12909
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        28718
+                    </td>
+                    <td align="right">
+                        5265
+                    </td>
+                    <td align="right">
+                        33988
+                    </td>
+                    <td align="right">
+                        193
+                    </td>
+                    <td align="right">
+                        1284267
+                    </td>
+                    <td align="right">
+                        232630
+                    </td>
+                    <td align="right">
+                        1517090
+                    </td>
+                    <td align="right">
+                        582059
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        10
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=NAGALAND&state_code=23&district_name=WOKHA&district_code=2304&fin_year=2019-2020&source=national&typediv=0&Digest=OI7doWX42xOiFmC3gj+rkw'>WOKHA</a>
+                    </td>
+                    <td align="right">
+                        4
+                    </td>
+                    <td align="right">
+                        32114
+                    </td>
+                    <td align="right">
+                        1768
+                    </td>
+                    <td align="right">
+                        33886
+                    </td>
+                    <td align="right">
+                        4
+                    </td>
+                    <td align="right">
+                        31016
+                    </td>
+                    <td align="right">
+                        1730
+                    </td>
+                    <td align="right">
+                        32750
+                    </td>
+                    
+                    <td align="right">
+                        13004
+                    </td>
+                    <td align="right">
+                        4
+                    </td>
+                    <td align="right">
+                        31052
+                    </td>
+                    <td align="right">
+                        1733
+                    </td>
+                    <td align="right">
+                        32789
+                    </td>
+                    <td align="right">
+                        115
+                    </td>
+                    <td align="right">
+                        932246
+                    </td>
+                    <td align="right">
+                        52543
+                    </td>
+                    <td align="right">
+                        984904
+                    </td>
+                    <td align="right">
+                        392286
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        11
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=NAGALAND&state_code=23&district_name=ZUNHEBOTO&district_code=2303&fin_year=2019-2020&source=national&typediv=0&Digest=xCgUswrkDr3wnqMR8k8yMw'>ZUNHEBOTO</a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        37650
+                    </td>
+                    <td align="right">
+                        157
+                    </td>
+                    <td align="right">
+                        37807
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        33448
+                    </td>
+                    <td align="right">
+                        8
+                    </td>
+                    <td align="right">
+                        33456
+                    </td>
+                    
+                    <td align="right">
+                        8483
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        34965
+                    </td>
+                    <td align="right">
+                        8
+                    </td>
+                    <td align="right">
+                        34973
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1164117
+                    </td>
+                    <td align="right">
+                        246
+                    </td>
+                    <td align="right">
+                        1164363
+                    </td>
+                    <td align="right">
+                        271124
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        53
+                    </td>
+                    <td align="right">
+                        416636
+                    </td>
+                    <td align="right">
+                        19657
+                    </td>
+                    <td align="right">
+                        436346
+                    </td>
+                    <td align="right">
+                        49
+                    </td>
+                    <td align="right">
+                        372853
+                    </td>
+                    <td align="right">
+                        17466
+                    </td>
+                    <td align="right">
+                        390368
+                    </td>
+                    
+                    <td align="right">
+                        156488
+                    </td>
+                    <td align="right">
+                        50
+                    </td>
+                    <td align="right">
+                        407541
+                    </td>
+                    <td align="right">
+                        18399
+                    </td>
+                    <td align="right">
+                        425990
+                    </td>
+                    <td align="right">
+                        1748
+                    </td>
+                    <td align="right">
+                        13165355
+                    </td>
+                    <td align="right">
+                        681188
+                    </td>
+                    <td align="right">
+                        13848291
+                    </td>
+                    <td align="right">
+                        4933886
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                </tr>
+            
+                </table>
+            

@@ -1,0 +1,2780 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=BAKSA&district_code=0424&fin_year=2019-2020&source=national&typediv=0&Digest=kTCSjRfkoX1CCMbjVxXm6w'>BAKSA</a>
+                    </td>
+                    <td align="right">
+                        18711
+                    </td>
+                    <td align="right">
+                        81204
+                    </td>
+                    <td align="right">
+                        119574
+                    </td>
+                    <td align="right">
+                        219489
+                    </td>
+                    <td align="right">
+                        6664
+                    </td>
+                    <td align="right">
+                        35947
+                    </td>
+                    <td align="right">
+                        49257
+                    </td>
+                    <td align="right">
+                        91868
+                    </td>
+                    
+                    <td align="right">
+                        55492
+                    </td>
+                    <td align="right">
+                        8503
+                    </td>
+                    <td align="right">
+                        43012
+                    </td>
+                    <td align="right">
+                        58812
+                    </td>
+                    <td align="right">
+                        110327
+                    </td>
+                    <td align="right">
+                        172700
+                    </td>
+                    <td align="right">
+                        915746
+                    </td>
+                    <td align="right">
+                        1349216
+                    </td>
+                    <td align="right">
+                        2437662
+                    </td>
+                    <td align="right">
+                        1204501
+                    </td>
+                    <td align="right">
+                        12
+                    </td>
+                    <td align="right">
+                        76
+                    </td>
+                    <td align="right">
+                        242
+                    </td>
+                    <td align="right">
+                        330
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=BARPETA&district_code=0405&fin_year=2019-2020&source=national&typediv=0&Digest=Cu1M5D0zMxbS1A4u4JuW2w'>BARPETA</a>
+                    </td>
+                    <td align="right">
+                        8348
+                    </td>
+                    <td align="right">
+                        3463
+                    </td>
+                    <td align="right">
+                        286205
+                    </td>
+                    <td align="right">
+                        298016
+                    </td>
+                    <td align="right">
+                        2541
+                    </td>
+                    <td align="right">
+                        1209
+                    </td>
+                    <td align="right">
+                        94598
+                    </td>
+                    <td align="right">
+                        98348
+                    </td>
+                    
+                    <td align="right">
+                        67849
+                    </td>
+                    <td align="right">
+                        4260
+                    </td>
+                    <td align="right">
+                        1973
+                    </td>
+                    <td align="right">
+                        156113
+                    </td>
+                    <td align="right">
+                        162346
+                    </td>
+                    <td align="right">
+                        74264
+                    </td>
+                    <td align="right">
+                        45623
+                    </td>
+                    <td align="right">
+                        3252134
+                    </td>
+                    <td align="right">
+                        3372021
+                    </td>
+                    <td align="right">
+                        1332084
+                    </td>
+                    <td align="right">
+                        8
+                    </td>
+                    <td align="right">
+                        4
+                    </td>
+                    <td align="right">
+                        1160
+                    </td>
+                    <td align="right">
+                        1172
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=Biswanath&district_code=0428&fin_year=2019-2020&source=national&typediv=0&Digest=VmT/0R6hK8OC+Ysdge4IQw'>Biswanath</a>
+                    </td>
+                    <td align="right">
+                        9674
+                    </td>
+                    <td align="right">
+                        22782
+                    </td>
+                    <td align="right">
+                        87487
+                    </td>
+                    <td align="right">
+                        119943
+                    </td>
+                    <td align="right">
+                        3384
+                    </td>
+                    <td align="right">
+                        9743
+                    </td>
+                    <td align="right">
+                        27259
+                    </td>
+                    <td align="right">
+                        40386
+                    </td>
+                    
+                    <td align="right">
+                        25564
+                    </td>
+                    <td align="right">
+                        4290
+                    </td>
+                    <td align="right">
+                        14163
+                    </td>
+                    <td align="right">
+                        33922
+                    </td>
+                    <td align="right">
+                        52375
+                    </td>
+                    <td align="right">
+                        61376
+                    </td>
+                    <td align="right">
+                        255313
+                    </td>
+                    <td align="right">
+                        544802
+                    </td>
+                    <td align="right">
+                        861491
+                    </td>
+                    <td align="right">
+                        411608
+                    </td>
+                    <td align="right">
+                        4
+                    </td>
+                    <td align="right">
+                        47
+                    </td>
+                    <td align="right">
+                        116
+                    </td>
+                    <td align="right">
+                        167
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        4
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=BONGAIGAON&district_code=0403&fin_year=2019-2020&source=national&typediv=0&Digest=g8g6+Io/ZtJ1ZdBiquckkA'>BONGAIGAON</a>
+                    </td>
+                    <td align="right">
+                        7914
+                    </td>
+                    <td align="right">
+                        1969
+                    </td>
+                    <td align="right">
+                        106557
+                    </td>
+                    <td align="right">
+                        116440
+                    </td>
+                    <td align="right">
+                        1955
+                    </td>
+                    <td align="right">
+                        406
+                    </td>
+                    <td align="right">
+                        29145
+                    </td>
+                    <td align="right">
+                        31506
+                    </td>
+                    
+                    <td align="right">
+                        19402
+                    </td>
+                    <td align="right">
+                        2835
+                    </td>
+                    <td align="right">
+                        516
+                    </td>
+                    <td align="right">
+                        42914
+                    </td>
+                    <td align="right">
+                        46265
+                    </td>
+                    <td align="right">
+                        37883
+                    </td>
+                    <td align="right">
+                        8459
+                    </td>
+                    <td align="right">
+                        721191
+                    </td>
+                    <td align="right">
+                        767533
+                    </td>
+                    <td align="right">
+                        304297
+                    </td>
+                    <td align="right">
+                        7
+                    </td>
+                    <td align="right">
+                        6
+                    </td>
+                    <td align="right">
+                        322
+                    </td>
+                    <td align="right">
+                        335
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        5
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=CACHAR&district_code=0423&fin_year=2019-2020&source=national&typediv=0&Digest=IFChfdBKftUO/GSGny2M1g'>CACHAR</a>
+                    </td>
+                    <td align="right">
+                        18475
+                    </td>
+                    <td align="right">
+                        3037
+                    </td>
+                    <td align="right">
+                        246387
+                    </td>
+                    <td align="right">
+                        267899
+                    </td>
+                    <td align="right">
+                        7457
+                    </td>
+                    <td align="right">
+                        1376
+                    </td>
+                    <td align="right">
+                        101843
+                    </td>
+                    <td align="right">
+                        110676
+                    </td>
+                    
+                    <td align="right">
+                        32707
+                    </td>
+                    <td align="right">
+                        7884
+                    </td>
+                    <td align="right">
+                        1462
+                    </td>
+                    <td align="right">
+                        108209
+                    </td>
+                    <td align="right">
+                        117555
+                    </td>
+                    <td align="right">
+                        278347
+                    </td>
+                    <td align="right">
+                        42672
+                    </td>
+                    <td align="right">
+                        4035564
+                    </td>
+                    <td align="right">
+                        4356583
+                    </td>
+                    <td align="right">
+                        1175914
+                    </td>
+                    <td align="right">
+                        39
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        964
+                    </td>
+                    <td align="right">
+                        1008
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        6
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=CHARAIDEO&district_code=0430&fin_year=2019-2020&source=national&typediv=0&Digest=7TSYMsWIeHlv0ziDW6nvJw'>CHARAIDEO</a>
+                    </td>
+                    <td align="right">
+                        930
+                    </td>
+                    <td align="right">
+                        1774
+                    </td>
+                    <td align="right">
+                        64682
+                    </td>
+                    <td align="right">
+                        67386
+                    </td>
+                    <td align="right">
+                        249
+                    </td>
+                    <td align="right">
+                        463
+                    </td>
+                    <td align="right">
+                        15452
+                    </td>
+                    <td align="right">
+                        16164
+                    </td>
+                    
+                    <td align="right">
+                        9728
+                    </td>
+                    <td align="right">
+                        319
+                    </td>
+                    <td align="right">
+                        553
+                    </td>
+                    <td align="right">
+                        19552
+                    </td>
+                    <td align="right">
+                        20424
+                    </td>
+                    <td align="right">
+                        3742
+                    </td>
+                    <td align="right">
+                        6954
+                    </td>
+                    <td align="right">
+                        266095
+                    </td>
+                    <td align="right">
+                        276791
+                    </td>
+                    <td align="right">
+                        124108
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        49
+                    </td>
+                    <td align="right">
+                        50
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        7
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=CHIRANG&district_code=0425&fin_year=2019-2020&source=national&typediv=0&Digest=uooPec1gneANJXaKUKZqeg'>CHIRANG</a>
+                    </td>
+                    <td align="right">
+                        7117
+                    </td>
+                    <td align="right">
+                        44958
+                    </td>
+                    <td align="right">
+                        55066
+                    </td>
+                    <td align="right">
+                        107141
+                    </td>
+                    <td align="right">
+                        3649
+                    </td>
+                    <td align="right">
+                        25142
+                    </td>
+                    <td align="right">
+                        27504
+                    </td>
+                    <td align="right">
+                        56295
+                    </td>
+                    
+                    <td align="right">
+                        41362
+                    </td>
+                    <td align="right">
+                        5005
+                    </td>
+                    <td align="right">
+                        40312
+                    </td>
+                    <td align="right">
+                        41125
+                    </td>
+                    <td align="right">
+                        86442
+                    </td>
+                    <td align="right">
+                        119944
+                    </td>
+                    <td align="right">
+                        1142301
+                    </td>
+                    <td align="right">
+                        1097047
+                    </td>
+                    <td align="right">
+                        2359292
+                    </td>
+                    <td align="right">
+                        1121489
+                    </td>
+                    <td align="right">
+                        44
+                    </td>
+                    <td align="right">
+                        1295
+                    </td>
+                    <td align="right">
+                        740
+                    </td>
+                    <td align="right">
+                        2079
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        8
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=DARRANG&district_code=0408&fin_year=2019-2020&source=national&typediv=0&Digest=VMzRuI+1HZBy2vS22N8Azg'>DARRANG</a>
+                    </td>
+                    <td align="right">
+                        5462
+                    </td>
+                    <td align="right">
+                        845
+                    </td>
+                    <td align="right">
+                        156474
+                    </td>
+                    <td align="right">
+                        162781
+                    </td>
+                    <td align="right">
+                        1077
+                    </td>
+                    <td align="right">
+                        150
+                    </td>
+                    <td align="right">
+                        35783
+                    </td>
+                    <td align="right">
+                        37010
+                    </td>
+                    
+                    <td align="right">
+                        26561
+                    </td>
+                    <td align="right">
+                        1550
+                    </td>
+                    <td align="right">
+                        231
+                    </td>
+                    <td align="right">
+                        58868
+                    </td>
+                    <td align="right">
+                        60649
+                    </td>
+                    <td align="right">
+                        32473
+                    </td>
+                    <td align="right">
+                        3928
+                    </td>
+                    <td align="right">
+                        1148135
+                    </td>
+                    <td align="right">
+                        1184536
+                    </td>
+                    <td align="right">
+                        518940
+                    </td>
+                    <td align="right">
+                        16
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        345
+                    </td>
+                    <td align="right">
+                        362
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        9
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=DHEMAJI&district_code=0411&fin_year=2019-2020&source=national&typediv=0&Digest=/9h9eEnFRuEJwatQ4klK1w'>DHEMAJI</a>
+                    </td>
+                    <td align="right">
+                        5819
+                    </td>
+                    <td align="right">
+                        64434
+                    </td>
+                    <td align="right">
+                        76310
+                    </td>
+                    <td align="right">
+                        146563
+                    </td>
+                    <td align="right">
+                        2424
+                    </td>
+                    <td align="right">
+                        35992
+                    </td>
+                    <td align="right">
+                        37872
+                    </td>
+                    <td align="right">
+                        76288
+                    </td>
+                    
+                    <td align="right">
+                        75141
+                    </td>
+                    <td align="right">
+                        4405
+                    </td>
+                    <td align="right">
+                        71727
+                    </td>
+                    <td align="right">
+                        71620
+                    </td>
+                    <td align="right">
+                        147752
+                    </td>
+                    <td align="right">
+                        80942
+                    </td>
+                    <td align="right">
+                        1332460
+                    </td>
+                    <td align="right">
+                        1335354
+                    </td>
+                    <td align="right">
+                        2748756
+                    </td>
+                    <td align="right">
+                        1357519
+                    </td>
+                    <td align="right">
+                        32
+                    </td>
+                    <td align="right">
+                        332
+                    </td>
+                    <td align="right">
+                        511
+                    </td>
+                    <td align="right">
+                        875
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        10
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=DHUBRI&district_code=0401&fin_year=2019-2020&source=national&typediv=0&Digest=AbbGFJ0QfGbRNl9m3/PNtQ'>DHUBRI</a>
+                    </td>
+                    <td align="right">
+                        2117
+                    </td>
+                    <td align="right">
+                        170
+                    </td>
+                    <td align="right">
+                        214758
+                    </td>
+                    <td align="right">
+                        217045
+                    </td>
+                    <td align="right">
+                        828
+                    </td>
+                    <td align="right">
+                        32
+                    </td>
+                    <td align="right">
+                        84836
+                    </td>
+                    <td align="right">
+                        85696
+                    </td>
+                    
+                    <td align="right">
+                        70750
+                    </td>
+                    <td align="right">
+                        1536
+                    </td>
+                    <td align="right">
+                        60
+                    </td>
+                    <td align="right">
+                        169175
+                    </td>
+                    <td align="right">
+                        170771
+                    </td>
+                    <td align="right">
+                        31883
+                    </td>
+                    <td align="right">
+                        1206
+                    </td>
+                    <td align="right">
+                        3382347
+                    </td>
+                    <td align="right">
+                        3415436
+                    </td>
+                    <td align="right">
+                        1385595
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1030
+                    </td>
+                    <td align="right">
+                        1033
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        11
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=DIBRUGARH&district_code=0417&fin_year=2019-2020&source=national&typediv=0&Digest=pc0O4N4tK8xheFqfR1HSVg'>DIBRUGARH</a>
+                    </td>
+                    <td align="right">
+                        6046
+                    </td>
+                    <td align="right">
+                        17051
+                    </td>
+                    <td align="right">
+                        164691
+                    </td>
+                    <td align="right">
+                        187788
+                    </td>
+                    <td align="right">
+                        2735
+                    </td>
+                    <td align="right">
+                        8980
+                    </td>
+                    <td align="right">
+                        70214
+                    </td>
+                    <td align="right">
+                        81929
+                    </td>
+                    
+                    <td align="right">
+                        55425
+                    </td>
+                    <td align="right">
+                        3920
+                    </td>
+                    <td align="right">
+                        13474
+                    </td>
+                    <td align="right">
+                        93374
+                    </td>
+                    <td align="right">
+                        110768
+                    </td>
+                    <td align="right">
+                        60304
+                    </td>
+                    <td align="right">
+                        200018
+                    </td>
+                    <td align="right">
+                        1419895
+                    </td>
+                    <td align="right">
+                        1680217
+                    </td>
+                    <td align="right">
+                        820976
+                    </td>
+                    <td align="right">
+                        15
+                    </td>
+                    <td align="right">
+                        40
+                    </td>
+                    <td align="right">
+                        376
+                    </td>
+                    <td align="right">
+                        431
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        12
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=Dima+Hasao&district_code=0420&fin_year=2019-2020&source=national&typediv=0&Digest=iT6eSEDMqYoAQSwH9sVvLA'>Dima Hasao</a>
+                    </td>
+                    <td align="right">
+                        682
+                    </td>
+                    <td align="right">
+                        27979
+                    </td>
+                    <td align="right">
+                        3202
+                    </td>
+                    <td align="right">
+                        31863
+                    </td>
+                    <td align="right">
+                        181
+                    </td>
+                    <td align="right">
+                        10292
+                    </td>
+                    <td align="right">
+                        755
+                    </td>
+                    <td align="right">
+                        11228
+                    </td>
+                    
+                    <td align="right">
+                        6054
+                    </td>
+                    <td align="right">
+                        218
+                    </td>
+                    <td align="right">
+                        13857
+                    </td>
+                    <td align="right">
+                        991
+                    </td>
+                    <td align="right">
+                        15066
+                    </td>
+                    <td align="right">
+                        3290
+                    </td>
+                    <td align="right">
+                        270726
+                    </td>
+                    <td align="right">
+                        18826
+                    </td>
+                    <td align="right">
+                        292842
+                    </td>
+                    <td align="right">
+                        108051
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        7
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        8
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        13
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=GOALPARA&district_code=0404&fin_year=2019-2020&source=national&typediv=0&Digest=Zoboj0HxU1UCb2csVXhSwg'>GOALPARA</a>
+                    </td>
+                    <td align="right">
+                        6402
+                    </td>
+                    <td align="right">
+                        39098
+                    </td>
+                    <td align="right">
+                        101572
+                    </td>
+                    <td align="right">
+                        147072
+                    </td>
+                    <td align="right">
+                        1171
+                    </td>
+                    <td align="right">
+                        8501
+                    </td>
+                    <td align="right">
+                        22231
+                    </td>
+                    <td align="right">
+                        31903
+                    </td>
+                    
+                    <td align="right">
+                        21601
+                    </td>
+                    <td align="right">
+                        1646
+                    </td>
+                    <td align="right">
+                        11486
+                    </td>
+                    <td align="right">
+                        32826
+                    </td>
+                    <td align="right">
+                        45958
+                    </td>
+                    <td align="right">
+                        26178
+                    </td>
+                    <td align="right">
+                        165891
+                    </td>
+                    <td align="right">
+                        533581
+                    </td>
+                    <td align="right">
+                        725650
+                    </td>
+                    <td align="right">
+                        327702
+                    </td>
+                    <td align="right">
+                        8
+                    </td>
+                    <td align="right">
+                        14
+                    </td>
+                    <td align="right">
+                        97
+                    </td>
+                    <td align="right">
+                        119
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        14
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=GOLAGHAT&district_code=0414&fin_year=2019-2020&source=national&typediv=0&Digest=2gu7H1plnu6kKOM5VoIh1g'>GOLAGHAT</a>
+                    </td>
+                    <td align="right">
+                        7704
+                    </td>
+                    <td align="right">
+                        16857
+                    </td>
+                    <td align="right">
+                        150330
+                    </td>
+                    <td align="right">
+                        174891
+                    </td>
+                    <td align="right">
+                        3251
+                    </td>
+                    <td align="right">
+                        7894
+                    </td>
+                    <td align="right">
+                        60041
+                    </td>
+                    <td align="right">
+                        71186
+                    </td>
+                    
+                    <td align="right">
+                        41886
+                    </td>
+                    <td align="right">
+                        4336
+                    </td>
+                    <td align="right">
+                        11365
+                    </td>
+                    <td align="right">
+                        79712
+                    </td>
+                    <td align="right">
+                        95413
+                    </td>
+                    <td align="right">
+                        67090
+                    </td>
+                    <td align="right">
+                        179098
+                    </td>
+                    <td align="right">
+                        1269982
+                    </td>
+                    <td align="right">
+                        1516170
+                    </td>
+                    <td align="right">
+                        646962
+                    </td>
+                    <td align="right">
+                        27
+                    </td>
+                    <td align="right">
+                        96
+                    </td>
+                    <td align="right">
+                        392
+                    </td>
+                    <td align="right">
+                        515
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        15
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=HAILAKANDI&district_code=0422&fin_year=2019-2020&source=national&typediv=0&Digest=fZiCljrKDO9U2XoAf1Zesw'>HAILAKANDI</a>
+                    </td>
+                    <td align="right">
+                        11220
+                    </td>
+                    <td align="right">
+                        2759
+                    </td>
+                    <td align="right">
+                        112217
+                    </td>
+                    <td align="right">
+                        126196
+                    </td>
+                    <td align="right">
+                        3109
+                    </td>
+                    <td align="right">
+                        916
+                    </td>
+                    <td align="right">
+                        31453
+                    </td>
+                    <td align="right">
+                        35478
+                    </td>
+                    
+                    <td align="right">
+                        9771
+                    </td>
+                    <td align="right">
+                        3430
+                    </td>
+                    <td align="right">
+                        965
+                    </td>
+                    <td align="right">
+                        36244
+                    </td>
+                    <td align="right">
+                        40639
+                    </td>
+                    <td align="right">
+                        78742
+                    </td>
+                    <td align="right">
+                        18653
+                    </td>
+                    <td align="right">
+                        764097
+                    </td>
+                    <td align="right">
+                        861492
+                    </td>
+                    <td align="right">
+                        200490
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        78
+                    </td>
+                    <td align="right">
+                        78
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        16
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=HOJAI&district_code=0429&fin_year=2019-2020&source=national&typediv=0&Digest=nsel2u4yhlKvYpx+ipODAQ'>HOJAI</a>
+                    </td>
+                    <td align="right">
+                        12238
+                    </td>
+                    <td align="right">
+                        3724
+                    </td>
+                    <td align="right">
+                        93223
+                    </td>
+                    <td align="right">
+                        109185
+                    </td>
+                    <td align="right">
+                        5087
+                    </td>
+                    <td align="right">
+                        1462
+                    </td>
+                    <td align="right">
+                        43170
+                    </td>
+                    <td align="right">
+                        49719
+                    </td>
+                    
+                    <td align="right">
+                        27891
+                    </td>
+                    <td align="right">
+                        9534
+                    </td>
+                    <td align="right">
+                        2012
+                    </td>
+                    <td align="right">
+                        56797
+                    </td>
+                    <td align="right">
+                        68343
+                    </td>
+                    <td align="right">
+                        227904
+                    </td>
+                    <td align="right">
+                        52327
+                    </td>
+                    <td align="right">
+                        1817024
+                    </td>
+                    <td align="right">
+                        2097255
+                    </td>
+                    <td align="right">
+                        813352
+                    </td>
+                    <td align="right">
+                        172
+                    </td>
+                    <td align="right">
+                        22
+                    </td>
+                    <td align="right">
+                        380
+                    </td>
+                    <td align="right">
+                        574
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        17
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=JORHAT&district_code=0415&fin_year=2019-2020&source=national&typediv=0&Digest=scevvqyEHES33AznR4hnfQ'>JORHAT</a>
+                    </td>
+                    <td align="right">
+                        7988
+                    </td>
+                    <td align="right">
+                        8210
+                    </td>
+                    <td align="right">
+                        128014
+                    </td>
+                    <td align="right">
+                        144212
+                    </td>
+                    <td align="right">
+                        2470
+                    </td>
+                    <td align="right">
+                        3067
+                    </td>
+                    <td align="right">
+                        38341
+                    </td>
+                    <td align="right">
+                        43878
+                    </td>
+                    
+                    <td align="right">
+                        24323
+                    </td>
+                    <td align="right">
+                        2861
+                    </td>
+                    <td align="right">
+                        3833
+                    </td>
+                    <td align="right">
+                        42947
+                    </td>
+                    <td align="right">
+                        49641
+                    </td>
+                    <td align="right">
+                        51767
+                    </td>
+                    <td align="right">
+                        89504
+                    </td>
+                    <td align="right">
+                        804272
+                    </td>
+                    <td align="right">
+                        945543
+                    </td>
+                    <td align="right">
+                        430544
+                    </td>
+                    <td align="right">
+                        12
+                    </td>
+                    <td align="right">
+                        30
+                    </td>
+                    <td align="right">
+                        80
+                    </td>
+                    <td align="right">
+                        122
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        18
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=KAMRUP&district_code=0407&fin_year=2019-2020&source=national&typediv=0&Digest=lqDHxzwaIJheNnJuMEiJNQ'>KAMRUP</a>
+                    </td>
+                    <td align="right">
+                        19253
+                    </td>
+                    <td align="right">
+                        31319
+                    </td>
+                    <td align="right">
+                        217855
+                    </td>
+                    <td align="right">
+                        268427
+                    </td>
+                    <td align="right">
+                        5190
+                    </td>
+                    <td align="right">
+                        7730
+                    </td>
+                    <td align="right">
+                        64688
+                    </td>
+                    <td align="right">
+                        77608
+                    </td>
+                    
+                    <td align="right">
+                        40972
+                    </td>
+                    <td align="right">
+                        7078
+                    </td>
+                    <td align="right">
+                        9249
+                    </td>
+                    <td align="right">
+                        89130
+                    </td>
+                    <td align="right">
+                        105457
+                    </td>
+                    <td align="right">
+                        142243
+                    </td>
+                    <td align="right">
+                        178690
+                    </td>
+                    <td align="right">
+                        1985413
+                    </td>
+                    <td align="right">
+                        2306346
+                    </td>
+                    <td align="right">
+                        854224
+                    </td>
+                    <td align="right">
+                        64
+                    </td>
+                    <td align="right">
+                        99
+                    </td>
+                    <td align="right">
+                        785
+                    </td>
+                    <td align="right">
+                        948
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        19
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=KAMRUP+(METRO)&district_code=0426&fin_year=2019-2020&source=national&typediv=0&Digest=+8ekZSVZ6SFnRdNw7zuCYg'>KAMRUP (METRO)</a>
+                    </td>
+                    <td align="right">
+                        8780
+                    </td>
+                    <td align="right">
+                        10464
+                    </td>
+                    <td align="right">
+                        25172
+                    </td>
+                    <td align="right">
+                        44416
+                    </td>
+                    <td align="right">
+                        1118
+                    </td>
+                    <td align="right">
+                        1215
+                    </td>
+                    <td align="right">
+                        1898
+                    </td>
+                    <td align="right">
+                        4231
+                    </td>
+                    
+                    <td align="right">
+                        2588
+                    </td>
+                    <td align="right">
+                        1547
+                    </td>
+                    <td align="right">
+                        1528
+                    </td>
+                    <td align="right">
+                        2454
+                    </td>
+                    <td align="right">
+                        5529
+                    </td>
+                    <td align="right">
+                        43785
+                    </td>
+                    <td align="right">
+                        29678
+                    </td>
+                    <td align="right">
+                        66910
+                    </td>
+                    <td align="right">
+                        140373
+                    </td>
+                    <td align="right">
+                        60602
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        20
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=KARBI+ANGLONG&district_code=0419&fin_year=2019-2020&source=national&typediv=0&Digest=fV4BDVA4P+74RM37mjLgZQ'>KARBI ANGLONG</a>
+                    </td>
+                    <td align="right">
+                        5282
+                    </td>
+                    <td align="right">
+                        77602
+                    </td>
+                    <td align="right">
+                        25179
+                    </td>
+                    <td align="right">
+                        108063
+                    </td>
+                    <td align="right">
+                        2452
+                    </td>
+                    <td align="right">
+                        41710
+                    </td>
+                    <td align="right">
+                        7875
+                    </td>
+                    <td align="right">
+                        52037
+                    </td>
+                    
+                    <td align="right">
+                        32198
+                    </td>
+                    <td align="right">
+                        3341
+                    </td>
+                    <td align="right">
+                        52592
+                    </td>
+                    <td align="right">
+                        9975
+                    </td>
+                    <td align="right">
+                        65908
+                    </td>
+                    <td align="right">
+                        51852
+                    </td>
+                    <td align="right">
+                        1110878
+                    </td>
+                    <td align="right">
+                        168204
+                    </td>
+                    <td align="right">
+                        1330934
+                    </td>
+                    <td align="right">
+                        648967
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        91
+                    </td>
+                    <td align="right">
+                        4
+                    </td>
+                    <td align="right">
+                        95
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        21
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=KOKRAJHAR&district_code=0402&fin_year=2019-2020&source=national&typediv=0&Digest=5ylXMPkiI2pXFzJUauVlOQ'>KOKRAJHAR</a>
+                    </td>
+                    <td align="right">
+                        3846
+                    </td>
+                    <td align="right">
+                        60276
+                    </td>
+                    <td align="right">
+                        115264
+                    </td>
+                    <td align="right">
+                        179386
+                    </td>
+                    <td align="right">
+                        1020
+                    </td>
+                    <td align="right">
+                        22317
+                    </td>
+                    <td align="right">
+                        38857
+                    </td>
+                    <td align="right">
+                        62194
+                    </td>
+                    
+                    <td align="right">
+                        52254
+                    </td>
+                    <td align="right">
+                        1814
+                    </td>
+                    <td align="right">
+                        38008
+                    </td>
+                    <td align="right">
+                        75831
+                    </td>
+                    <td align="right">
+                        115653
+                    </td>
+                    <td align="right">
+                        41993
+                    </td>
+                    <td align="right">
+                        827777
+                    </td>
+                    <td align="right">
+                        1517785
+                    </td>
+                    <td align="right">
+                        2387555
+                    </td>
+                    <td align="right">
+                        1059167
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        406
+                    </td>
+                    <td align="right">
+                        383
+                    </td>
+                    <td align="right">
+                        792
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        22
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=LAKHIMPUR&district_code=0410&fin_year=2019-2020&source=national&typediv=0&Digest=Evr/9fe19jwecr3BdxeEcQ'>LAKHIMPUR</a>
+                    </td>
+                    <td align="right">
+                        11297
+                    </td>
+                    <td align="right">
+                        53574
+                    </td>
+                    <td align="right">
+                        152664
+                    </td>
+                    <td align="right">
+                        217535
+                    </td>
+                    <td align="right">
+                        4494
+                    </td>
+                    <td align="right">
+                        27637
+                    </td>
+                    <td align="right">
+                        74227
+                    </td>
+                    <td align="right">
+                        106358
+                    </td>
+                    
+                    <td align="right">
+                        96523
+                    </td>
+                    <td align="right">
+                        8122
+                    </td>
+                    <td align="right">
+                        52152
+                    </td>
+                    <td align="right">
+                        134908
+                    </td>
+                    <td align="right">
+                        195182
+                    </td>
+                    <td align="right">
+                        202776
+                    </td>
+                    <td align="right">
+                        1354873
+                    </td>
+                    <td align="right">
+                        3439207
+                    </td>
+                    <td align="right">
+                        4996856
+                    </td>
+                    <td align="right">
+                        2469341
+                    </td>
+                    <td align="right">
+                        413
+                    </td>
+                    <td align="right">
+                        2873
+                    </td>
+                    <td align="right">
+                        7242
+                    </td>
+                    <td align="right">
+                        10528
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        23
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=MAJULI&district_code=0432&fin_year=2019-2020&source=national&typediv=0&Digest=XSpP2+98iV1cyl+aLna62Q'>MAJULI</a>
+                    </td>
+                    <td align="right">
+                        4344
+                    </td>
+                    <td align="right">
+                        16330
+                    </td>
+                    <td align="right">
+                        16332
+                    </td>
+                    <td align="right">
+                        37006
+                    </td>
+                    <td align="right">
+                        2810
+                    </td>
+                    <td align="right">
+                        10431
+                    </td>
+                    <td align="right">
+                        11167
+                    </td>
+                    <td align="right">
+                        24408
+                    </td>
+                    
+                    <td align="right">
+                        15770
+                    </td>
+                    <td align="right">
+                        4143
+                    </td>
+                    <td align="right">
+                        17266
+                    </td>
+                    <td align="right">
+                        17358
+                    </td>
+                    <td align="right">
+                        38767
+                    </td>
+                    <td align="right">
+                        124075
+                    </td>
+                    <td align="right">
+                        412351
+                    </td>
+                    <td align="right">
+                        503278
+                    </td>
+                    <td align="right">
+                        1039704
+                    </td>
+                    <td align="right">
+                        411666
+                    </td>
+                    <td align="right">
+                        112
+                    </td>
+                    <td align="right">
+                        533
+                    </td>
+                    <td align="right">
+                        536
+                    </td>
+                    <td align="right">
+                        1181
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        24
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=Morigaon&district_code=0412&fin_year=2019-2020&source=national&typediv=0&Digest=r0zjIfkYYcU918r98u7rYQ'>Morigaon</a>
+                    </td>
+                    <td align="right">
+                        18172
+                    </td>
+                    <td align="right">
+                        23372
+                    </td>
+                    <td align="right">
+                        132016
+                    </td>
+                    <td align="right">
+                        173560
+                    </td>
+                    <td align="right">
+                        7411
+                    </td>
+                    <td align="right">
+                        7990
+                    </td>
+                    <td align="right">
+                        53820
+                    </td>
+                    <td align="right">
+                        69221
+                    </td>
+                    
+                    <td align="right">
+                        41041
+                    </td>
+                    <td align="right">
+                        10295
+                    </td>
+                    <td align="right">
+                        10203
+                    </td>
+                    <td align="right">
+                        78733
+                    </td>
+                    <td align="right">
+                        99231
+                    </td>
+                    <td align="right">
+                        183436
+                    </td>
+                    <td align="right">
+                        163849
+                    </td>
+                    <td align="right">
+                        1548121
+                    </td>
+                    <td align="right">
+                        1895406
+                    </td>
+                    <td align="right">
+                        757746
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        9
+                    </td>
+                    <td align="right">
+                        88
+                    </td>
+                    <td align="right">
+                        102
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        25
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=NAGAON&district_code=0413&fin_year=2019-2020&source=national&typediv=0&Digest=GgEqOpvESkWE0c3I1EdTFQ'>NAGAON</a>
+                    </td>
+                    <td align="right">
+                        12454
+                    </td>
+                    <td align="right">
+                        8690
+                    </td>
+                    <td align="right">
+                        220153
+                    </td>
+                    <td align="right">
+                        241297
+                    </td>
+                    <td align="right">
+                        6012
+                    </td>
+                    <td align="right">
+                        3085
+                    </td>
+                    <td align="right">
+                        93899
+                    </td>
+                    <td align="right">
+                        102996
+                    </td>
+                    
+                    <td align="right">
+                        52253
+                    </td>
+                    <td align="right">
+                        7612
+                    </td>
+                    <td align="right">
+                        4035
+                    </td>
+                    <td align="right">
+                        120945
+                    </td>
+                    <td align="right">
+                        132592
+                    </td>
+                    <td align="right">
+                        181336
+                    </td>
+                    <td align="right">
+                        75183
+                    </td>
+                    <td align="right">
+                        3012972
+                    </td>
+                    <td align="right">
+                        3269491
+                    </td>
+                    <td align="right">
+                        1236133
+                    </td>
+                    <td align="right">
+                        69
+                    </td>
+                    <td align="right">
+                        23
+                    </td>
+                    <td align="right">
+                        1211
+                    </td>
+                    <td align="right">
+                        1303
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        26
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=NALBARI&district_code=0406&fin_year=2019-2020&source=national&typediv=0&Digest=ja0YwvQm6zw1SN2Qc0Ab3Q'>NALBARI</a>
+                    </td>
+                    <td align="right">
+                        5523
+                    </td>
+                    <td align="right">
+                        3576
+                    </td>
+                    <td align="right">
+                        139311
+                    </td>
+                    <td align="right">
+                        148410
+                    </td>
+                    <td align="right">
+                        1920
+                    </td>
+                    <td align="right">
+                        1358
+                    </td>
+                    <td align="right">
+                        61167
+                    </td>
+                    <td align="right">
+                        64445
+                    </td>
+                    
+                    <td align="right">
+                        31925
+                    </td>
+                    <td align="right">
+                        2600
+                    </td>
+                    <td align="right">
+                        1648
+                    </td>
+                    <td align="right">
+                        80799
+                    </td>
+                    <td align="right">
+                        85047
+                    </td>
+                    <td align="right">
+                        63966
+                    </td>
+                    <td align="right">
+                        41325
+                    </td>
+                    <td align="right">
+                        2605351
+                    </td>
+                    <td align="right">
+                        2710642
+                    </td>
+                    <td align="right">
+                        1017237
+                    </td>
+                    <td align="right">
+                        18
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        2094
+                    </td>
+                    <td align="right">
+                        2113
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        27
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=SIVASAGAR&district_code=0416&fin_year=2019-2020&source=national&typediv=0&Digest=nZ0tV4Hr/BChPyntN95vgg'>SIVASAGAR</a>
+                    </td>
+                    <td align="right">
+                        4304
+                    </td>
+                    <td align="right">
+                        6238
+                    </td>
+                    <td align="right">
+                        95778
+                    </td>
+                    <td align="right">
+                        106320
+                    </td>
+                    <td align="right">
+                        1283
+                    </td>
+                    <td align="right">
+                        2319
+                    </td>
+                    <td align="right">
+                        30370
+                    </td>
+                    <td align="right">
+                        33972
+                    </td>
+                    
+                    <td align="right">
+                        21522
+                    </td>
+                    <td align="right">
+                        1647
+                    </td>
+                    <td align="right">
+                        3125
+                    </td>
+                    <td align="right">
+                        39570
+                    </td>
+                    <td align="right">
+                        44342
+                    </td>
+                    <td align="right">
+                        23286
+                    </td>
+                    <td align="right">
+                        33987
+                    </td>
+                    <td align="right">
+                        564566
+                    </td>
+                    <td align="right">
+                        621839
+                    </td>
+                    <td align="right">
+                        278055
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        117
+                    </td>
+                    <td align="right">
+                        121
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        28
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=SONITPUR&district_code=0409&fin_year=2019-2020&source=national&typediv=0&Digest=/3cQZ1KwseunbGArq2rpyA'>SONITPUR</a>
+                    </td>
+                    <td align="right">
+                        7839
+                    </td>
+                    <td align="right">
+                        11216
+                    </td>
+                    <td align="right">
+                        178981
+                    </td>
+                    <td align="right">
+                        198036
+                    </td>
+                    <td align="right">
+                        3438
+                    </td>
+                    <td align="right">
+                        5001
+                    </td>
+                    <td align="right">
+                        79550
+                    </td>
+                    <td align="right">
+                        87989
+                    </td>
+                    
+                    <td align="right">
+                        66082
+                    </td>
+                    <td align="right">
+                        4833
+                    </td>
+                    <td align="right">
+                        7830
+                    </td>
+                    <td align="right">
+                        138783
+                    </td>
+                    <td align="right">
+                        151446
+                    </td>
+                    <td align="right">
+                        105660
+                    </td>
+                    <td align="right">
+                        153590
+                    </td>
+                    <td align="right">
+                        2927804
+                    </td>
+                    <td align="right">
+                        3187054
+                    </td>
+                    <td align="right">
+                        1347415
+                    </td>
+                    <td align="right">
+                        10
+                    </td>
+                    <td align="right">
+                        19
+                    </td>
+                    <td align="right">
+                        731
+                    </td>
+                    <td align="right">
+                        760
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        29
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=SOUTH+SALMARA-MANKACHAR&district_code=0431&fin_year=2019-2020&source=national&typediv=0&Digest=NnuczwNYjyDGy0mh6xx4dA'>SOUTH SALMARA-MANKACHAR</a>
+                    </td>
+                    <td align="right">
+                        1080
+                    </td>
+                    <td align="right">
+                        363
+                    </td>
+                    <td align="right">
+                        53462
+                    </td>
+                    <td align="right">
+                        54905
+                    </td>
+                    <td align="right">
+                        463
+                    </td>
+                    <td align="right">
+                        83
+                    </td>
+                    <td align="right">
+                        25240
+                    </td>
+                    <td align="right">
+                        25786
+                    </td>
+                    
+                    <td align="right">
+                        15066
+                    </td>
+                    <td align="right">
+                        497
+                    </td>
+                    <td align="right">
+                        84
+                    </td>
+                    <td align="right">
+                        27653
+                    </td>
+                    <td align="right">
+                        28234
+                    </td>
+                    <td align="right">
+                        15757
+                    </td>
+                    <td align="right">
+                        3047
+                    </td>
+                    <td align="right">
+                        853687
+                    </td>
+                    <td align="right">
+                        872491
+                    </td>
+                    <td align="right">
+                        466916
+                    </td>
+                    <td align="right">
+                        3
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        478
+                    </td>
+                    <td align="right">
+                        481
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        30
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=Sribhumi&district_code=0421&fin_year=2019-2020&source=national&typediv=0&Digest=tjPHy3b+X4aCvnuQx2jP9A'>Sribhumi</a>
+                    </td>
+                    <td align="right">
+                        29790
+                    </td>
+                    <td align="right">
+                        2392
+                    </td>
+                    <td align="right">
+                        171461
+                    </td>
+                    <td align="right">
+                        203643
+                    </td>
+                    <td align="right">
+                        10892
+                    </td>
+                    <td align="right">
+                        713
+                    </td>
+                    <td align="right">
+                        77517
+                    </td>
+                    <td align="right">
+                        89122
+                    </td>
+                    
+                    <td align="right">
+                        35141
+                    </td>
+                    <td align="right">
+                        11912
+                    </td>
+                    <td align="right">
+                        784
+                    </td>
+                    <td align="right">
+                        89981
+                    </td>
+                    <td align="right">
+                        102677
+                    </td>
+                    <td align="right">
+                        311936
+                    </td>
+                    <td align="right">
+                        17408
+                    </td>
+                    <td align="right">
+                        2357930
+                    </td>
+                    <td align="right">
+                        2687274
+                    </td>
+                    <td align="right">
+                        908453
+                    </td>
+                    <td align="right">
+                        20
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        741
+                    </td>
+                    <td align="right">
+                        762
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        31
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=TINSUKIA&district_code=0418&fin_year=2019-2020&source=national&typediv=0&Digest=BDfU1HfRU/8B8AHAKARH5w'>TINSUKIA</a>
+                    </td>
+                    <td align="right">
+                        2958
+                    </td>
+                    <td align="right">
+                        12273
+                    </td>
+                    <td align="right">
+                        153934
+                    </td>
+                    <td align="right">
+                        169165
+                    </td>
+                    <td align="right">
+                        738
+                    </td>
+                    <td align="right">
+                        3556
+                    </td>
+                    <td align="right">
+                        40460
+                    </td>
+                    <td align="right">
+                        44754
+                    </td>
+                    
+                    <td align="right">
+                        25890
+                    </td>
+                    <td align="right">
+                        915
+                    </td>
+                    <td align="right">
+                        4748
+                    </td>
+                    <td align="right">
+                        49759
+                    </td>
+                    <td align="right">
+                        55422
+                    </td>
+                    <td align="right">
+                        11681
+                    </td>
+                    <td align="right">
+                        63278
+                    </td>
+                    <td align="right">
+                        796598
+                    </td>
+                    <td align="right">
+                        871557
+                    </td>
+                    <td align="right">
+                        380957
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        12
+                    </td>
+                    <td align="right">
+                        211
+                    </td>
+                    <td align="right">
+                        224
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        32
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=UDALGURI&district_code=0427&fin_year=2019-2020&source=national&typediv=0&Digest=AP6qi7girC5yWXtTubOwfg'>UDALGURI</a>
+                    </td>
+                    <td align="right">
+                        7625
+                    </td>
+                    <td align="right">
+                        62088
+                    </td>
+                    <td align="right">
+                        97879
+                    </td>
+                    <td align="right">
+                        167592
+                    </td>
+                    <td align="right">
+                        4235
+                    </td>
+                    <td align="right">
+                        39529
+                    </td>
+                    <td align="right">
+                        53511
+                    </td>
+                    <td align="right">
+                        97275
+                    </td>
+                    
+                    <td align="right">
+                        58032
+                    </td>
+                    <td align="right">
+                        5666
+                    </td>
+                    <td align="right">
+                        50182
+                    </td>
+                    <td align="right">
+                        70805
+                    </td>
+                    <td align="right">
+                        126653
+                    </td>
+                    <td align="right">
+                        161967
+                    </td>
+                    <td align="right">
+                        1615954
+                    </td>
+                    <td align="right">
+                        2019459
+                    </td>
+                    <td align="right">
+                        3797380
+                    </td>
+                    <td align="right">
+                        1710627
+                    </td>
+                    <td align="right">
+                        57
+                    </td>
+                    <td align="right">
+                        462
+                    </td>
+                    <td align="right">
+                        788
+                    </td>
+                    <td align="right">
+                        1307
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        33
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ASSAM&state_code=04&district_name=WEST+KARBI+ANGLONG&district_code=0434&fin_year=2019-2020&source=national&typediv=0&Digest=iikmTu48ZHlsYyKjpn9iLw'>WEST KARBI ANGLONG</a>
+                    </td>
+                    <td align="right">
+                        1191
+                    </td>
+                    <td align="right">
+                        31820
+                    </td>
+                    <td align="right">
+                        9243
+                    </td>
+                    <td align="right">
+                        42254
+                    </td>
+                    <td align="right">
+                        355
+                    </td>
+                    <td align="right">
+                        13282
+                    </td>
+                    <td align="right">
+                        2858
+                    </td>
+                    <td align="right">
+                        16495
+                    </td>
+                    
+                    <td align="right">
+                        8724
+                    </td>
+                    <td align="right">
+                        416
+                    </td>
+                    <td align="right">
+                        14987
+                    </td>
+                    <td align="right">
+                        3046
+                    </td>
+                    <td align="right">
+                        18449
+                    </td>
+                    <td align="right">
+                        5666
+                    </td>
+                    <td align="right">
+                        244285
+                    </td>
+                    <td align="right">
+                        41825
+                    </td>
+                    <td align="right">
+                        291776
+                    </td>
+                    <td align="right">
+                        135806
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        4
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        4
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        280585
+                    </td>
+                    <td align="right">
+                        751907
+                    </td>
+                    <td align="right">
+                        3971433
+                    </td>
+                    <td align="right">
+                        5003925
+                    </td>
+                    <td align="right">
+                        102063
+                    </td>
+                    <td align="right">
+                        339528
+                    </td>
+                    <td align="right">
+                        1486858
+                    </td>
+                    <td align="right">
+                        1928449
+                    </td>
+                    
+                    <td align="right">
+                        1207488
+                    </td>
+                    <td align="right">
+                        138970
+                    </td>
+                    <td align="right">
+                        499422
+                    </td>
+                    <td align="right">
+                        2132931
+                    </td>
+                    <td align="right">
+                        2771323
+                    </td>
+                    <td align="right">
+                        3080244
+                    </td>
+                    <td align="right">
+                        11057032
+                    </td>
+                    <td align="right">
+                        48168672
+                    </td>
+                    <td align="right">
+                        62305948
+                    </td>
+                    <td align="right">
+                        26027444
+                    </td>
+                    <td align="right">
+                        1177
+                    </td>
+                    <td align="right">
+                        6510
+                    </td>
+                    <td align="right">
+                        22292
+                    </td>
+                    <td align="right">
+                        29979
+                    </td>
+                </tr>
+            
+                </table>
+            

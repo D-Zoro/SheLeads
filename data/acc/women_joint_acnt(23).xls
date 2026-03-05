@@ -1,0 +1,412 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl34$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl34$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl34$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl34$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl34$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">964574</td>
+                <td align="right">5528847</td>
+                <td align="right">4372528</td>
+                 <td align="right">3223163</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=ANGUL&district_code=2421&fin_year=2019-2020&source=national&Digest=JmbeE7QYup0homNyhAuywg'>ANGUL</a></td>
+                <td align="right">22295</td>
+                <td align="right">153420</td>
+                <td align="right">144147</td>
+                 <td align="right">109818</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=BALESHWAR&district_code=2405&fin_year=2019-2020&source=national&Digest=V5d1DjXJSvp/Sqb/bzIa8A'>BALESHWAR</a></td>
+                <td align="right">41685</td>
+                <td align="right">210923</td>
+                <td align="right">188416</td>
+                 <td align="right">103876</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=BARGARH&district_code=2414&fin_year=2019-2020&source=national&Digest=t/phzg8em/8dKrsxVeGZUA'>BARGARH</a></td>
+                <td align="right">19763</td>
+                <td align="right">155841</td>
+                <td align="right">140795</td>
+                 <td align="right">97298</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=BHADRAK&district_code=2417&fin_year=2019-2020&source=national&Digest=VH6wYJoZN0WCwsNWLn3uyA'>BHADRAK</a></td>
+                <td align="right">26690</td>
+                <td align="right">141867</td>
+                <td align="right">152096</td>
+                 <td align="right">89381</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=BOLANGIR&district_code=2409&fin_year=2019-2020&source=national&Digest=SXLxXLn5eS+w2QQ6AXvjrQ'>BOLANGIR</a></td>
+                <td align="right">71460</td>
+                <td align="right">276638</td>
+                <td align="right">233740</td>
+                 <td align="right">183992</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=BOUDH&district_code=2426&fin_year=2019-2020&source=national&Digest=i4QwWQqoP8JOy8V1ktYCFA'>BOUDH</a></td>
+                <td align="right">8462</td>
+                <td align="right">85008</td>
+                <td align="right">76244</td>
+                 <td align="right">56008</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=CUTTACK&district_code=2406&fin_year=2019-2020&source=national&Digest=bk6qGNGwja9l0xOfSoZqhQ'>CUTTACK</a></td>
+                <td align="right">33410</td>
+                <td align="right">166319</td>
+                <td align="right">129070</td>
+                 <td align="right">67773</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=DEOGARH&district_code=2416&fin_year=2019-2020&source=national&Digest=RqQZIK673o31tTC22wikJQ'>DEOGARH</a></td>
+                <td align="right">11521</td>
+                <td align="right">58202</td>
+                <td align="right">55927</td>
+                 <td align="right">41630</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">9</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=DHENKANAL&district_code=2407&fin_year=2019-2020&source=national&Digest=/EL1//M9D4cF+3WbxNAk5g'>DHENKANAL</a></td>
+                <td align="right">14791</td>
+                <td align="right">218633</td>
+                <td align="right">148816</td>
+                 <td align="right">101772</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">10</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=GAJAPATI&district_code=2424&fin_year=2019-2020&source=national&Digest=5FyWATi3bKK3ZuDMVzR7JQ'>GAJAPATI</a></td>
+                <td align="right">16031</td>
+                <td align="right">119417</td>
+                <td align="right">97008</td>
+                 <td align="right">77617</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">11</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=GANJAM&district_code=2412&fin_year=2019-2020&source=national&Digest=05AX4Pg0HvoG9TVIQEsB5g'>GANJAM</a></td>
+                <td align="right">54043</td>
+                <td align="right">458349</td>
+                <td align="right">337089</td>
+                 <td align="right">288947</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">12</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=JAGATSINGHAPUR&district_code=2419&fin_year=2019-2020&source=national&Digest=FkqviR/dI+/VdWiIAIyr/A'>JAGATSINGHAPUR</a></td>
+                <td align="right">45164</td>
+                <td align="right">110564</td>
+                <td align="right">82387</td>
+                 <td align="right">55746</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">13</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=JAJPUR&district_code=2420&fin_year=2019-2020&source=national&Digest=LQ5EHPaqQV1K5nBbmk5B5A'>JAJPUR</a></td>
+                <td align="right">20299</td>
+                <td align="right">143984</td>
+                <td align="right">128942</td>
+                 <td align="right">79915</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">14</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=JHARSUGUDA&district_code=2415&fin_year=2019-2020&source=national&Digest=Ym8fx8g0htSfTXT4dmGT5w'>JHARSUGUDA</a></td>
+                <td align="right">7527</td>
+                <td align="right">57032</td>
+                <td align="right">55086</td>
+                 <td align="right">40607</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">15</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=KALAHANDI&district_code=2410&fin_year=2019-2020&source=national&Digest=0Z2Yqrf7XbtU/DK9FcfBIA'>KALAHANDI</a></td>
+                <td align="right">38404</td>
+                <td align="right">246084</td>
+                <td align="right">229062</td>
+                 <td align="right">183987</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">16</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=KANDHAMAL&district_code=2408&fin_year=2019-2020&source=national&Digest=EaSoYr1y7kIbPMFCXZzTxw'>KANDHAMAL</a></td>
+                <td align="right">38908</td>
+                <td align="right">176603</td>
+                <td align="right">130246</td>
+                 <td align="right">124829</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">17</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=KENDRAPARA&district_code=2418&fin_year=2019-2020&source=national&Digest=/KTTtNc8LVJVJKJcCXXf+g'>KENDRAPARA</a></td>
+                <td align="right">15295</td>
+                <td align="right">125691</td>
+                <td align="right">130571</td>
+                 <td align="right">74255</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">18</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=KENDUJHAR&district_code=2403&fin_year=2019-2020&source=national&Digest=AHH8fVbZsuc9DihQOBP09Q'>KENDUJHAR</a></td>
+                <td align="right">18896</td>
+                <td align="right">286227</td>
+                <td align="right">255403</td>
+                 <td align="right">199646</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">19</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=KHORDHA&district_code=2423&fin_year=2019-2020&source=national&Digest=n6bMa1RTPUcrm44t1AVpow'>KHORDHA</a></td>
+                <td align="right">5282</td>
+                <td align="right">82479</td>
+                <td align="right">78237</td>
+                 <td align="right">44728</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">20</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=KORAPUT&district_code=2411&fin_year=2019-2020&source=national&Digest=VCvPiUrH/IxkKkY9dVqgIA'>KORAPUT</a></td>
+                <td align="right">60166</td>
+                <td align="right">249662</td>
+                <td align="right">174863</td>
+                 <td align="right">146666</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">21</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=MALKANGIRI&district_code=2431&fin_year=2019-2020&source=national&Digest=bR+1AmQtqSeFBJQKqi7b+w'>MALKANGIRI</a></td>
+                <td align="right">30775</td>
+                <td align="right">115783</td>
+                <td align="right">83189</td>
+                 <td align="right">68280</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">22</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=MAYURBHANJ&district_code=2404&fin_year=2019-2020&source=national&Digest=eTu8c6QmqxEoi6o42CkJIw'>MAYURBHANJ</a></td>
+                <td align="right">44273</td>
+                <td align="right">432733</td>
+                <td align="right">330300</td>
+                 <td align="right">255831</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">23</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=NABARANGAPUR&district_code=2430&fin_year=2019-2020&source=national&Digest=OLAXz2PXj6CgV9ESV7bLEQ'>NABARANGAPUR</a></td>
+                <td align="right">126037</td>
+                <td align="right">263777</td>
+                <td align="right">146601</td>
+                 <td align="right">109375</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">24</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=NAYAGARH&district_code=2422&fin_year=2019-2020&source=national&Digest=LASKvo1nnaUwrEcOhlmBmQ'>NAYAGARH</a></td>
+                <td align="right">33372</td>
+                <td align="right">135279</td>
+                <td align="right">124473</td>
+                 <td align="right">78028</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">25</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=NUAPADA&district_code=2428&fin_year=2019-2020&source=national&Digest=RUy8JJNFp/fnhlD0g+pUqw'>NUAPADA</a></td>
+                <td align="right">26094</td>
+                <td align="right">144314</td>
+                <td align="right">100427</td>
+                 <td align="right">88659</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">26</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=PURI&district_code=2413&fin_year=2019-2020&source=national&Digest=udRt7lnTEqu+wOpjubTPQA'>PURI</a></td>
+                <td align="right">17504</td>
+                <td align="right">231342</td>
+                <td align="right">144686</td>
+                 <td align="right">81503</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">27</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=RAYAGADA&district_code=2429&fin_year=2019-2020&source=national&Digest=mtS8vALjEDDrlJaii0tTLw'>RAYAGADA</a></td>
+                <td align="right">44077</td>
+                <td align="right">194680</td>
+                <td align="right">106347</td>
+                 <td align="right">88084</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">28</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=SAMBALPUR&district_code=2401&fin_year=2019-2020&source=national&Digest=I8G95sQHcWwU5DPu6KSQzw'>SAMBALPUR</a></td>
+                <td align="right">15017</td>
+                <td align="right">115916</td>
+                <td align="right">89178</td>
+                 <td align="right">67621</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">29</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=SONEPUR&district_code=2427&fin_year=2019-2020&source=national&Digest=hPSqY27UA2xWL2zg7wz7Yg'>SONEPUR</a></td>
+                <td align="right">9735</td>
+                <td align="right">87415</td>
+                <td align="right">81948</td>
+                 <td align="right">50420</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">30</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ODISHA&state_code=24&district_name=SUNDARGARH&district_code=2402&fin_year=2019-2020&source=national&Digest=VfmbFdKurYBL2NwYts2jpg'>SUNDARGARH</a></td>
+                <td align="right">47598</td>
+                <td align="right">284665</td>
+                <td align="right">197234</td>
+                 <td align="right">166871</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">964574</td>
+                <td align="right">5528847</td>
+                <td align="right">4372528</td>
+                 <td align="right">3223163</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

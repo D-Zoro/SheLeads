@@ -1,0 +1,2020 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=ALIPURDUAR&district_code=3220&fin_year=2019-2020&source=national&typediv=0&Digest=CfZ7Pv37Lc5LFH3BGNNcag'>ALIPURDUAR</a>
+                    </td>
+                    <td align="right">
+                        86337
+                    </td>
+                    <td align="right">
+                        67065
+                    </td>
+                    <td align="right">
+                        164634
+                    </td>
+                    <td align="right">
+                        318036
+                    </td>
+                    <td align="right">
+                        63129
+                    </td>
+                    <td align="right">
+                        48991
+                    </td>
+                    <td align="right">
+                        114584
+                    </td>
+                    <td align="right">
+                        226704
+                    </td>
+                    
+                    <td align="right">
+                        168246
+                    </td>
+                    <td align="right">
+                        91212
+                    </td>
+                    <td align="right">
+                        71638
+                    </td>
+                    <td align="right">
+                        168758
+                    </td>
+                    <td align="right">
+                        331608
+                    </td>
+                    <td align="right">
+                        3293660
+                    </td>
+                    <td align="right">
+                        2483088
+                    </td>
+                    <td align="right">
+                        5908116
+                    </td>
+                    <td align="right">
+                        11684864
+                    </td>
+                    <td align="right">
+                        6026011
+                    </td>
+                    <td align="right">
+                        4140
+                    </td>
+                    <td align="right">
+                        3386
+                    </td>
+                    <td align="right">
+                        7813
+                    </td>
+                    <td align="right">
+                        15339
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=BANKURA&district_code=3213&fin_year=2019-2020&source=national&typediv=0&Digest=a+f4UEvD/rSdTadBYDAbpQ'>BANKURA</a>
+                    </td>
+                    <td align="right">
+                        247942
+                    </td>
+                    <td align="right">
+                        75445
+                    </td>
+                    <td align="right">
+                        295265
+                    </td>
+                    <td align="right">
+                        618652
+                    </td>
+                    <td align="right">
+                        140785
+                    </td>
+                    <td align="right">
+                        42686
+                    </td>
+                    <td align="right">
+                        119268
+                    </td>
+                    <td align="right">
+                        302739
+                    </td>
+                    
+                    <td align="right">
+                        241367
+                    </td>
+                    <td align="right">
+                        257836
+                    </td>
+                    <td align="right">
+                        76265
+                    </td>
+                    <td align="right">
+                        198677
+                    </td>
+                    <td align="right">
+                        532778
+                    </td>
+                    <td align="right">
+                        6936707
+                    </td>
+                    <td align="right">
+                        2087151
+                    </td>
+                    <td align="right">
+                        4860447
+                    </td>
+                    <td align="right">
+                        13884305
+                    </td>
+                    <td align="right">
+                        6729011
+                    </td>
+                    <td align="right">
+                        10885
+                    </td>
+                    <td align="right">
+                        2923
+                    </td>
+                    <td align="right">
+                        6182
+                    </td>
+                    <td align="right">
+                        19990
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=BIRBHUM&district_code=3203&fin_year=2019-2020&source=national&typediv=0&Digest=ECBwARxkJXw74dGcpZGO2g'>BIRBHUM</a>
+                    </td>
+                    <td align="right">
+                        248634
+                    </td>
+                    <td align="right">
+                        56144
+                    </td>
+                    <td align="right">
+                        423282
+                    </td>
+                    <td align="right">
+                        728060
+                    </td>
+                    <td align="right">
+                        151426
+                    </td>
+                    <td align="right">
+                        32107
+                    </td>
+                    <td align="right">
+                        202913
+                    </td>
+                    <td align="right">
+                        386446
+                    </td>
+                    
+                    <td align="right">
+                        243857
+                    </td>
+                    <td align="right">
+                        231598
+                    </td>
+                    <td align="right">
+                        47221
+                    </td>
+                    <td align="right">
+                        309905
+                    </td>
+                    <td align="right">
+                        588724
+                    </td>
+                    <td align="right">
+                        6546300
+                    </td>
+                    <td align="right">
+                        1354226
+                    </td>
+                    <td align="right">
+                        8551344
+                    </td>
+                    <td align="right">
+                        16451870
+                    </td>
+                    <td align="right">
+                        6754184
+                    </td>
+                    <td align="right">
+                        4919
+                    </td>
+                    <td align="right">
+                        1036
+                    </td>
+                    <td align="right">
+                        7211
+                    </td>
+                    <td align="right">
+                        13166
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        4
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=COOCHBEHAR&district_code=3208&fin_year=2019-2020&source=national&typediv=0&Digest=E+vC96BDODSCdW+vk5asBA'>COOCHBEHAR</a>
+                    </td>
+                    <td align="right">
+                        349023
+                    </td>
+                    <td align="right">
+                        5073
+                    </td>
+                    <td align="right">
+                        288237
+                    </td>
+                    <td align="right">
+                        642333
+                    </td>
+                    <td align="right">
+                        177420
+                    </td>
+                    <td align="right">
+                        2679
+                    </td>
+                    <td align="right">
+                        156397
+                    </td>
+                    <td align="right">
+                        336496
+                    </td>
+                    
+                    <td align="right">
+                        266301
+                    </td>
+                    <td align="right">
+                        238185
+                    </td>
+                    <td align="right">
+                        3578
+                    </td>
+                    <td align="right">
+                        217556
+                    </td>
+                    <td align="right">
+                        459319
+                    </td>
+                    <td align="right">
+                        7856124
+                    </td>
+                    <td align="right">
+                        106680
+                    </td>
+                    <td align="right">
+                        7167299
+                    </td>
+                    <td align="right">
+                        15130103
+                    </td>
+                    <td align="right">
+                        9565943
+                    </td>
+                    <td align="right">
+                        4526
+                    </td>
+                    <td align="right">
+                        18
+                    </td>
+                    <td align="right">
+                        4217
+                    </td>
+                    <td align="right">
+                        8761
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        5
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=DAKSHIN+DINAJPUR&district_code=3217&fin_year=2019-2020&source=national&typediv=0&Digest=7wgqx2VDEH6kXZE2lBftSw'>DAKSHIN DINAJPUR</a>
+                    </td>
+                    <td align="right">
+                        76928
+                    </td>
+                    <td align="right">
+                        43822
+                    </td>
+                    <td align="right">
+                        157482
+                    </td>
+                    <td align="right">
+                        278232
+                    </td>
+                    <td align="right">
+                        21191
+                    </td>
+                    <td align="right">
+                        14084
+                    </td>
+                    <td align="right">
+                        47202
+                    </td>
+                    <td align="right">
+                        82477
+                    </td>
+                    
+                    <td align="right">
+                        62156
+                    </td>
+                    <td align="right">
+                        32891
+                    </td>
+                    <td align="right">
+                        21244
+                    </td>
+                    <td align="right">
+                        78102
+                    </td>
+                    <td align="right">
+                        132237
+                    </td>
+                    <td align="right">
+                        1146558
+                    </td>
+                    <td align="right">
+                        690044
+                    </td>
+                    <td align="right">
+                        2498848
+                    </td>
+                    <td align="right">
+                        4335450
+                    </td>
+                    <td align="right">
+                        2130130
+                    </td>
+                    <td align="right">
+                        2787
+                    </td>
+                    <td align="right">
+                        1061
+                    </td>
+                    <td align="right">
+                        5305
+                    </td>
+                    <td align="right">
+                        9153
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        6
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=GORKHALAND+TERRITORIAL+ADMINISTRATION+(GTA)&district_code=3219&fin_year=2019-2020&source=national&typediv=0&Digest=BMRMJkm9dFvvPlHhqfJHwg'>GORKHALAND TERRITORIAL ADMINISTRATION (GTA)</a>
+                    </td>
+                    <td align="right">
+                        10312
+                    </td>
+                    <td align="right">
+                        43322
+                    </td>
+                    <td align="right">
+                        77782
+                    </td>
+                    <td align="right">
+                        131416
+                    </td>
+                    <td align="right">
+                        6895
+                    </td>
+                    <td align="right">
+                        29788
+                    </td>
+                    <td align="right">
+                        52979
+                    </td>
+                    <td align="right">
+                        89662
+                    </td>
+                    
+                    <td align="right">
+                        57655
+                    </td>
+                    <td align="right">
+                        8532
+                    </td>
+                    <td align="right">
+                        37836
+                    </td>
+                    <td align="right">
+                        67353
+                    </td>
+                    <td align="right">
+                        113721
+                    </td>
+                    <td align="right">
+                        414259
+                    </td>
+                    <td align="right">
+                        1898074
+                    </td>
+                    <td align="right">
+                        3384914
+                    </td>
+                    <td align="right">
+                        5697247
+                    </td>
+                    <td align="right">
+                        2928097
+                    </td>
+                    <td align="right">
+                        444
+                    </td>
+                    <td align="right">
+                        2555
+                    </td>
+                    <td align="right">
+                        4356
+                    </td>
+                    <td align="right">
+                        7355
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        7
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=HOOGHLY&district_code=3206&fin_year=2019-2020&source=national&typediv=0&Digest=cCSQAXHgyhtwrgR4kSGA6A'>HOOGHLY</a>
+                    </td>
+                    <td align="right">
+                        296267
+                    </td>
+                    <td align="right">
+                        58692
+                    </td>
+                    <td align="right">
+                        392330
+                    </td>
+                    <td align="right">
+                        747289
+                    </td>
+                    <td align="right">
+                        201122
+                    </td>
+                    <td align="right">
+                        38947
+                    </td>
+                    <td align="right">
+                        199918
+                    </td>
+                    <td align="right">
+                        439987
+                    </td>
+                    
+                    <td align="right">
+                        262770
+                    </td>
+                    <td align="right">
+                        299014
+                    </td>
+                    <td align="right">
+                        56741
+                    </td>
+                    <td align="right">
+                        258001
+                    </td>
+                    <td align="right">
+                        613756
+                    </td>
+                    <td align="right">
+                        8572302
+                    </td>
+                    <td align="right">
+                        1523857
+                    </td>
+                    <td align="right">
+                        7654583
+                    </td>
+                    <td align="right">
+                        17750742
+                    </td>
+                    <td align="right">
+                        7865585
+                    </td>
+                    <td align="right">
+                        8941
+                    </td>
+                    <td align="right">
+                        1490
+                    </td>
+                    <td align="right">
+                        7242
+                    </td>
+                    <td align="right">
+                        17673
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        8
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=HOWRAH&district_code=3205&fin_year=2019-2020&source=national&typediv=0&Digest=EaHQLefU24BIGjEp2993Mg'>HOWRAH</a>
+                    </td>
+                    <td align="right">
+                        58875
+                    </td>
+                    <td align="right">
+                        753
+                    </td>
+                    <td align="right">
+                        226225
+                    </td>
+                    <td align="right">
+                        285853
+                    </td>
+                    <td align="right">
+                        22391
+                    </td>
+                    <td align="right">
+                        328
+                    </td>
+                    <td align="right">
+                        82281
+                    </td>
+                    <td align="right">
+                        105000
+                    </td>
+                    
+                    <td align="right">
+                        62499
+                    </td>
+                    <td align="right">
+                        28511
+                    </td>
+                    <td align="right">
+                        423
+                    </td>
+                    <td align="right">
+                        97425
+                    </td>
+                    <td align="right">
+                        126359
+                    </td>
+                    <td align="right">
+                        1069530
+                    </td>
+                    <td align="right">
+                        15189
+                    </td>
+                    <td align="right">
+                        4266714
+                    </td>
+                    <td align="right">
+                        5351433
+                    </td>
+                    <td align="right">
+                        2939220
+                    </td>
+                    <td align="right">
+                        1690
+                    </td>
+                    <td align="right">
+                        21
+                    </td>
+                    <td align="right">
+                        5897
+                    </td>
+                    <td align="right">
+                        7608
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        9
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=JALPAIGURI&district_code=3207&fin_year=2019-2020&source=national&typediv=0&Digest=fIRpcqegNO40lrCmwIAvwQ'>JALPAIGURI</a>
+                    </td>
+                    <td align="right">
+                        168660
+                    </td>
+                    <td align="right">
+                        62001
+                    </td>
+                    <td align="right">
+                        204941
+                    </td>
+                    <td align="right">
+                        435602
+                    </td>
+                    <td align="right">
+                        112048
+                    </td>
+                    <td align="right">
+                        42916
+                    </td>
+                    <td align="right">
+                        132659
+                    </td>
+                    <td align="right">
+                        287623
+                    </td>
+                    
+                    <td align="right">
+                        186011
+                    </td>
+                    <td align="right">
+                        151959
+                    </td>
+                    <td align="right">
+                        58710
+                    </td>
+                    <td align="right">
+                        181612
+                    </td>
+                    <td align="right">
+                        392281
+                    </td>
+                    <td align="right">
+                        4882467
+                    </td>
+                    <td align="right">
+                        2035114
+                    </td>
+                    <td align="right">
+                        6015667
+                    </td>
+                    <td align="right">
+                        12933248
+                    </td>
+                    <td align="right">
+                        6131284
+                    </td>
+                    <td align="right">
+                        3788
+                    </td>
+                    <td align="right">
+                        1771
+                    </td>
+                    <td align="right">
+                        4247
+                    </td>
+                    <td align="right">
+                        9806
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        10
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=JHARGRAM&district_code=3222&fin_year=2019-2020&source=national&typediv=0&Digest=Wr4zEi4J2gPhwg5OOq+aIg'>JHARGRAM</a>
+                    </td>
+                    <td align="right">
+                        52802
+                    </td>
+                    <td align="right">
+                        75328
+                    </td>
+                    <td align="right">
+                        119399
+                    </td>
+                    <td align="right">
+                        247529
+                    </td>
+                    <td align="right">
+                        27289
+                    </td>
+                    <td align="right">
+                        41349
+                    </td>
+                    <td align="right">
+                        57051
+                    </td>
+                    <td align="right">
+                        125689
+                    </td>
+                    
+                    <td align="right">
+                        81654
+                    </td>
+                    <td align="right">
+                        40983
+                    </td>
+                    <td align="right">
+                        65200
+                    </td>
+                    <td align="right">
+                        85023
+                    </td>
+                    <td align="right">
+                        191206
+                    </td>
+                    <td align="right">
+                        1191472
+                    </td>
+                    <td align="right">
+                        1983314
+                    </td>
+                    <td align="right">
+                        2481809
+                    </td>
+                    <td align="right">
+                        5656595
+                    </td>
+                    <td align="right">
+                        2306893
+                    </td>
+                    <td align="right">
+                        1371
+                    </td>
+                    <td align="right">
+                        3112
+                    </td>
+                    <td align="right">
+                        3505
+                    </td>
+                    <td align="right">
+                        7988
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        11
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=KALIMPONG&district_code=3221&fin_year=2019-2020&source=national&typediv=0&Digest=rLEQ3WiXMSutianXwI9s8A'>KALIMPONG</a>
+                    </td>
+                    <td align="right">
+                        4096
+                    </td>
+                    <td align="right">
+                        18505
+                    </td>
+                    <td align="right">
+                        34593
+                    </td>
+                    <td align="right">
+                        57194
+                    </td>
+                    <td align="right">
+                        3106
+                    </td>
+                    <td align="right">
+                        14869
+                    </td>
+                    <td align="right">
+                        27106
+                    </td>
+                    <td align="right">
+                        45081
+                    </td>
+                    
+                    <td align="right">
+                        34192
+                    </td>
+                    <td align="right">
+                        4347
+                    </td>
+                    <td align="right">
+                        22104
+                    </td>
+                    <td align="right">
+                        40103
+                    </td>
+                    <td align="right">
+                        66554
+                    </td>
+                    <td align="right">
+                        261941
+                    </td>
+                    <td align="right">
+                        1309340
+                    </td>
+                    <td align="right">
+                        2371409
+                    </td>
+                    <td align="right">
+                        3942690
+                    </td>
+                    <td align="right">
+                        2058890
+                    </td>
+                    <td align="right">
+                        877
+                    </td>
+                    <td align="right">
+                        5138
+                    </td>
+                    <td align="right">
+                        8852
+                    </td>
+                    <td align="right">
+                        14867
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        12
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=MALDAH&district_code=3209&fin_year=2019-2020&source=national&typediv=0&Digest=uVFxNl6AFvg0DyFe5UJw2A'>MALDAH</a>
+                    </td>
+                    <td align="right">
+                        137756
+                    </td>
+                    <td align="right">
+                        48551
+                    </td>
+                    <td align="right">
+                        602525
+                    </td>
+                    <td align="right">
+                        788832
+                    </td>
+                    <td align="right">
+                        63784
+                    </td>
+                    <td align="right">
+                        22221
+                    </td>
+                    <td align="right">
+                        228134
+                    </td>
+                    <td align="right">
+                        314139
+                    </td>
+                    
+                    <td align="right">
+                        231273
+                    </td>
+                    <td align="right">
+                        94092
+                    </td>
+                    <td align="right">
+                        32581
+                    </td>
+                    <td align="right">
+                        306486
+                    </td>
+                    <td align="right">
+                        433159
+                    </td>
+                    <td align="right">
+                        3391759
+                    </td>
+                    <td align="right">
+                        1186572
+                    </td>
+                    <td align="right">
+                        11942112
+                    </td>
+                    <td align="right">
+                        16520443
+                    </td>
+                    <td align="right">
+                        9821572
+                    </td>
+                    <td align="right">
+                        4270
+                    </td>
+                    <td align="right">
+                        1618
+                    </td>
+                    <td align="right">
+                        7894
+                    </td>
+                    <td align="right">
+                        13782
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        13
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=MURSHIDABAD&district_code=3212&fin_year=2019-2020&source=national&typediv=0&Digest=h4rtZ2Yl50w/A1wEIg9fDQ'>MURSHIDABAD</a>
+                    </td>
+                    <td align="right">
+                        147211
+                    </td>
+                    <td align="right">
+                        20315
+                    </td>
+                    <td align="right">
+                        1086016
+                    </td>
+                    <td align="right">
+                        1253542
+                    </td>
+                    <td align="right">
+                        46943
+                    </td>
+                    <td align="right">
+                        7249
+                    </td>
+                    <td align="right">
+                        228449
+                    </td>
+                    <td align="right">
+                        282641
+                    </td>
+                    
+                    <td align="right">
+                        126743
+                    </td>
+                    <td align="right">
+                        56948
+                    </td>
+                    <td align="right">
+                        8613
+                    </td>
+                    <td align="right">
+                        292184
+                    </td>
+                    <td align="right">
+                        357745
+                    </td>
+                    <td align="right">
+                        2858934
+                    </td>
+                    <td align="right">
+                        469484
+                    </td>
+                    <td align="right">
+                        12682685
+                    </td>
+                    <td align="right">
+                        16011103
+                    </td>
+                    <td align="right">
+                        5246035
+                    </td>
+                    <td align="right">
+                        1237
+                    </td>
+                    <td align="right">
+                        238
+                    </td>
+                    <td align="right">
+                        8873
+                    </td>
+                    <td align="right">
+                        10348
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        14
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=NADIA&district_code=3201&fin_year=2019-2020&source=national&typediv=0&Digest=1oydVubayiROqfRuZ2bzrQ'>NADIA</a>
+                    </td>
+                    <td align="right">
+                        159335
+                    </td>
+                    <td align="right">
+                        15743
+                    </td>
+                    <td align="right">
+                        552693
+                    </td>
+                    <td align="right">
+                        727771
+                    </td>
+                    <td align="right">
+                        39146
+                    </td>
+                    <td align="right">
+                        5029
+                    </td>
+                    <td align="right">
+                        121382
+                    </td>
+                    <td align="right">
+                        165557
+                    </td>
+                    
+                    <td align="right">
+                        100500
+                    </td>
+                    <td align="right">
+                        51788
+                    </td>
+                    <td align="right">
+                        6853
+                    </td>
+                    <td align="right">
+                        170052
+                    </td>
+                    <td align="right">
+                        228693
+                    </td>
+                    <td align="right">
+                        1695712
+                    </td>
+                    <td align="right">
+                        229504
+                    </td>
+                    <td align="right">
+                        5431795
+                    </td>
+                    <td align="right">
+                        7357011
+                    </td>
+                    <td align="right">
+                        3286371
+                    </td>
+                    <td align="right">
+                        1519
+                    </td>
+                    <td align="right">
+                        150
+                    </td>
+                    <td align="right">
+                        5360
+                    </td>
+                    <td align="right">
+                        7029
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        15
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=NORTH+24+PARGANAS&district_code=3215&fin_year=2019-2020&source=national&typediv=0&Digest=iSk3l1EcRXDyIEfAyo0kEg'>NORTH 24 PARGANAS</a>
+                    </td>
+                    <td align="right">
+                        228471
+                    </td>
+                    <td align="right">
+                        37341
+                    </td>
+                    <td align="right">
+                        493488
+                    </td>
+                    <td align="right">
+                        759300
+                    </td>
+                    <td align="right">
+                        76323
+                    </td>
+                    <td align="right">
+                        14150
+                    </td>
+                    <td align="right">
+                        152035
+                    </td>
+                    <td align="right">
+                        242508
+                    </td>
+                    
+                    <td align="right">
+                        178105
+                    </td>
+                    <td align="right">
+                        105026
+                    </td>
+                    <td align="right">
+                        19591
+                    </td>
+                    <td align="right">
+                        200546
+                    </td>
+                    <td align="right">
+                        325163
+                    </td>
+                    <td align="right">
+                        4633607
+                    </td>
+                    <td align="right">
+                        837872
+                    </td>
+                    <td align="right">
+                        8940158
+                    </td>
+                    <td align="right">
+                        14411637
+                    </td>
+                    <td align="right">
+                        8794586
+                    </td>
+                    <td align="right">
+                        11842
+                    </td>
+                    <td align="right">
+                        1970
+                    </td>
+                    <td align="right">
+                        24205
+                    </td>
+                    <td align="right">
+                        38017
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        16
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=PASCHIM+BARDHAMAN&district_code=3202&fin_year=2019-2020&source=national&typediv=0&Digest=fo/9RHxyDyngXH6tLlBL5w'>PASCHIM BARDHAMAN</a>
+                    </td>
+                    <td align="right">
+                        59274
+                    </td>
+                    <td align="right">
+                        16415
+                    </td>
+                    <td align="right">
+                        61434
+                    </td>
+                    <td align="right">
+                        137123
+                    </td>
+                    <td align="right">
+                        32471
+                    </td>
+                    <td align="right">
+                        8530
+                    </td>
+                    <td align="right">
+                        18466
+                    </td>
+                    <td align="right">
+                        59467
+                    </td>
+                    
+                    <td align="right">
+                        42484
+                    </td>
+                    <td align="right">
+                        49201
+                    </td>
+                    <td align="right">
+                        12467
+                    </td>
+                    <td align="right">
+                        24942
+                    </td>
+                    <td align="right">
+                        86610
+                    </td>
+                    <td align="right">
+                        1731314
+                    </td>
+                    <td align="right">
+                        486122
+                    </td>
+                    <td align="right">
+                        793574
+                    </td>
+                    <td align="right">
+                        3011010
+                    </td>
+                    <td align="right">
+                        1541476
+                    </td>
+                    <td align="right">
+                        2964
+                    </td>
+                    <td align="right">
+                        951
+                    </td>
+                    <td align="right">
+                        704
+                    </td>
+                    <td align="right">
+                        4619
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        17
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=PASCHIM+MEDINIPUR&district_code=3210&fin_year=2019-2020&source=national&typediv=0&Digest=+kqd/S0rdVW6K6wACxxGYQ'>PASCHIM MEDINIPUR</a>
+                    </td>
+                    <td align="right">
+                        164675
+                    </td>
+                    <td align="right">
+                        101640
+                    </td>
+                    <td align="right">
+                        498146
+                    </td>
+                    <td align="right">
+                        764461
+                    </td>
+                    <td align="right">
+                        95508
+                    </td>
+                    <td align="right">
+                        51237
+                    </td>
+                    <td align="right">
+                        244671
+                    </td>
+                    <td align="right">
+                        391416
+                    </td>
+                    
+                    <td align="right">
+                        277967
+                    </td>
+                    <td align="right">
+                        167312
+                    </td>
+                    <td align="right">
+                        86980
+                    </td>
+                    <td align="right">
+                        388711
+                    </td>
+                    <td align="right">
+                        643003
+                    </td>
+                    <td align="right">
+                        5172819
+                    </td>
+                    <td align="right">
+                        2446805
+                    </td>
+                    <td align="right">
+                        12474130
+                    </td>
+                    <td align="right">
+                        20093754
+                    </td>
+                    <td align="right">
+                        8982549
+                    </td>
+                    <td align="right">
+                        12943
+                    </td>
+                    <td align="right">
+                        3925
+                    </td>
+                    <td align="right">
+                        27211
+                    </td>
+                    <td align="right">
+                        44079
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        18
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=PURBA+BARDHAMAN&district_code=3225&fin_year=2019-2020&source=national&typediv=0&Digest=KerDx0JZb7UlHrdBWbcrQQ'>PURBA BARDHAMAN</a>
+                    </td>
+                    <td align="right">
+                        312292
+                    </td>
+                    <td align="right">
+                        66387
+                    </td>
+                    <td align="right">
+                        537692
+                    </td>
+                    <td align="right">
+                        916371
+                    </td>
+                    <td align="right">
+                        208763
+                    </td>
+                    <td align="right">
+                        40690
+                    </td>
+                    <td align="right">
+                        285028
+                    </td>
+                    <td align="right">
+                        534481
+                    </td>
+                    
+                    <td align="right">
+                        295248
+                    </td>
+                    <td align="right">
+                        288649
+                    </td>
+                    <td align="right">
+                        57934
+                    </td>
+                    <td align="right">
+                        380593
+                    </td>
+                    <td align="right">
+                        727176
+                    </td>
+                    <td align="right">
+                        8103441
+                    </td>
+                    <td align="right">
+                        1671025
+                    </td>
+                    <td align="right">
+                        10371319
+                    </td>
+                    <td align="right">
+                        20145785
+                    </td>
+                    <td align="right">
+                        8332772
+                    </td>
+                    <td align="right">
+                        6797
+                    </td>
+                    <td align="right">
+                        1691
+                    </td>
+                    <td align="right">
+                        8023
+                    </td>
+                    <td align="right">
+                        16511
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        19
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=PURBA+MEDINIPUR&district_code=3211&fin_year=2019-2020&source=national&typediv=0&Digest=w/KCZSRBqdJmEJaNlikaXw'>PURBA MEDINIPUR</a>
+                    </td>
+                    <td align="right">
+                        111991
+                    </td>
+                    <td align="right">
+                        4849
+                    </td>
+                    <td align="right">
+                        699676
+                    </td>
+                    <td align="right">
+                        816516
+                    </td>
+                    <td align="right">
+                        47373
+                    </td>
+                    <td align="right">
+                        1395
+                    </td>
+                    <td align="right">
+                        270916
+                    </td>
+                    <td align="right">
+                        319684
+                    </td>
+                    
+                    <td align="right">
+                        258394
+                    </td>
+                    <td align="right">
+                        76232
+                    </td>
+                    <td align="right">
+                        2090
+                    </td>
+                    <td align="right">
+                        422749
+                    </td>
+                    <td align="right">
+                        501071
+                    </td>
+                    <td align="right">
+                        2557537
+                    </td>
+                    <td align="right">
+                        70443
+                    </td>
+                    <td align="right">
+                        14184743
+                    </td>
+                    <td align="right">
+                        16812723
+                    </td>
+                    <td align="right">
+                        8650190
+                    </td>
+                    <td align="right">
+                        3607
+                    </td>
+                    <td align="right">
+                        85
+                    </td>
+                    <td align="right">
+                        22536
+                    </td>
+                    <td align="right">
+                        26228
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        20
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=PURULIA&district_code=3214&fin_year=2019-2020&source=national&typediv=0&Digest=MC3wSkeCG3jyjWuOND5KlQ'>PURULIA</a>
+                    </td>
+                    <td align="right">
+                        109319
+                    </td>
+                    <td align="right">
+                        115384
+                    </td>
+                    <td align="right">
+                        302888
+                    </td>
+                    <td align="right">
+                        527591
+                    </td>
+                    <td align="right">
+                        43789
+                    </td>
+                    <td align="right">
+                        50738
+                    </td>
+                    <td align="right">
+                        108926
+                    </td>
+                    <td align="right">
+                        203453
+                    </td>
+                    
+                    <td align="right">
+                        160851
+                    </td>
+                    <td align="right">
+                        72634
+                    </td>
+                    <td align="right">
+                        82821
+                    </td>
+                    <td align="right">
+                        187404
+                    </td>
+                    <td align="right">
+                        342859
+                    </td>
+                    <td align="right">
+                        2513352
+                    </td>
+                    <td align="right">
+                        2863134
+                    </td>
+                    <td align="right">
+                        6352264
+                    </td>
+                    <td align="right">
+                        11728750
+                    </td>
+                    <td align="right">
+                        5528320
+                    </td>
+                    <td align="right">
+                        3937
+                    </td>
+                    <td align="right">
+                        4112
+                    </td>
+                    <td align="right">
+                        10179
+                    </td>
+                    <td align="right">
+                        18228
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        21
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=SILIGURI+MAHAKUMA+PARISAD&district_code=3204&fin_year=2019-2020&source=national&typediv=0&Digest=NsisahyBSDE+qWZAqpQ/4Q'>SILIGURI MAHAKUMA PARISAD</a>
+                    </td>
+                    <td align="right">
+                        45464
+                    </td>
+                    <td align="right">
+                        26947
+                    </td>
+                    <td align="right">
+                        27079
+                    </td>
+                    <td align="right">
+                        99490
+                    </td>
+                    <td align="right">
+                        12150
+                    </td>
+                    <td align="right">
+                        8659
+                    </td>
+                    <td align="right">
+                        7953
+                    </td>
+                    <td align="right">
+                        28762
+                    </td>
+                    
+                    <td align="right">
+                        20988
+                    </td>
+                    <td align="right">
+                        15010
+                    </td>
+                    <td align="right">
+                        10957
+                    </td>
+                    <td align="right">
+                        9709
+                    </td>
+                    <td align="right">
+                        35676
+                    </td>
+                    <td align="right">
+                        618278
+                    </td>
+                    <td align="right">
+                        424924
+                    </td>
+                    <td align="right">
+                        341960
+                    </td>
+                    <td align="right">
+                        1385162
+                    </td>
+                    <td align="right">
+                        872409
+                    </td>
+                    <td align="right">
+                        1734
+                    </td>
+                    <td align="right">
+                        929
+                    </td>
+                    <td align="right">
+                        681
+                    </td>
+                    <td align="right">
+                        3344
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        22
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=SOUTH+24+PARGANAS&district_code=3216&fin_year=2019-2020&source=national&typediv=0&Digest=h8mdAFypGetgyTtI50sbbg'>SOUTH 24 PARGANAS</a>
+                    </td>
+                    <td align="right">
+                        221338
+                    </td>
+                    <td align="right">
+                        9961
+                    </td>
+                    <td align="right">
+                        946566
+                    </td>
+                    <td align="right">
+                        1177865
+                    </td>
+                    <td align="right">
+                        79023
+                    </td>
+                    <td align="right">
+                        4266
+                    </td>
+                    <td align="right">
+                        271490
+                    </td>
+                    <td align="right">
+                        354779
+                    </td>
+                    
+                    <td align="right">
+                        226266
+                    </td>
+                    <td align="right">
+                        120466
+                    </td>
+                    <td align="right">
+                        6542
+                    </td>
+                    <td align="right">
+                        399222
+                    </td>
+                    <td align="right">
+                        526230
+                    </td>
+                    <td align="right">
+                        5489422
+                    </td>
+                    <td align="right">
+                        310662
+                    </td>
+                    <td align="right">
+                        18578234
+                    </td>
+                    <td align="right">
+                        24378318
+                    </td>
+                    <td align="right">
+                        10130771
+                    </td>
+                    <td align="right">
+                        10284
+                    </td>
+                    <td align="right">
+                        624
+                    </td>
+                    <td align="right">
+                        27427
+                    </td>
+                    <td align="right">
+                        38335
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        23
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=WEST+BENGAL&state_code=32&district_name=UTTAR+DINAJPUR&district_code=3218&fin_year=2019-2020&source=national&typediv=0&Digest=1bxC1IDSbqahfkHYRFPnJQ'>UTTAR DINAJPUR</a>
+                    </td>
+                    <td align="right">
+                        138703
+                    </td>
+                    <td align="right">
+                        23119
+                    </td>
+                    <td align="right">
+                        341526
+                    </td>
+                    <td align="right">
+                        503348
+                    </td>
+                    <td align="right">
+                        34209
+                    </td>
+                    <td align="right">
+                        4481
+                    </td>
+                    <td align="right">
+                        93835
+                    </td>
+                    <td align="right">
+                        132525
+                    </td>
+                    
+                    <td align="right">
+                        102599
+                    </td>
+                    <td align="right">
+                        54748
+                    </td>
+                    <td align="right">
+                        6887
+                    </td>
+                    <td align="right">
+                        150605
+                    </td>
+                    <td align="right">
+                        212240
+                    </td>
+                    <td align="right">
+                        1989627
+                    </td>
+                    <td align="right">
+                        247591
+                    </td>
+                    <td align="right">
+                        5369707
+                    </td>
+                    <td align="right">
+                        7606925
+                    </td>
+                    <td align="right">
+                        3889315
+                    </td>
+                    <td align="right">
+                        4426
+                    </td>
+                    <td align="right">
+                        445
+                    </td>
+                    <td align="right">
+                        8586
+                    </td>
+                    <td align="right">
+                        13457
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        3435705
+                    </td>
+                    <td align="right">
+                        992802
+                    </td>
+                    <td align="right">
+                        8533899
+                    </td>
+                    <td align="right">
+                        12962406
+                    </td>
+                    <td align="right">
+                        1706284
+                    </td>
+                    <td align="right">
+                        527389
+                    </td>
+                    <td align="right">
+                        3223643
+                    </td>
+                    <td align="right">
+                        5457316
+                    </td>
+                    
+                    <td align="right">
+                        3688126
+                    </td>
+                    <td align="right">
+                        2537174
+                    </td>
+                    <td align="right">
+                        795276
+                    </td>
+                    <td align="right">
+                        4635718
+                    </td>
+                    <td align="right">
+                        7968168
+                    </td>
+                    <td align="right">
+                        82927122
+                    </td>
+                    <td align="right">
+                        26730215
+                    </td>
+                    <td align="right">
+                        162623831
+                    </td>
+                    <td align="right">
+                        272281168
+                    </td>
+                    <td align="right">
+                        130511614
+                    </td>
+                    <td align="right">
+                        109928
+                    </td>
+                    <td align="right">
+                        39249
+                    </td>
+                    <td align="right">
+                        216506
+                    </td>
+                    <td align="right">
+                        365683
+                    </td>
+                </tr>
+            
+                </table>
+            

@@ -1,0 +1,2552 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=ANGUL&district_code=2421&fin_year=2019-2020&source=national&typediv=0&Digest=LR/Yc6CHNulsplPnQ9K4lw'>ANGUL</a>
+                    </td>
+                    <td align="right">
+                        34133
+                    </td>
+                    <td align="right">
+                        29073
+                    </td>
+                    <td align="right">
+                        126092
+                    </td>
+                    <td align="right">
+                        189298
+                    </td>
+                    <td align="right">
+                        6748
+                    </td>
+                    <td align="right">
+                        8738
+                    </td>
+                    <td align="right">
+                        26987
+                    </td>
+                    <td align="right">
+                        42473
+                    </td>
+                    
+                    <td align="right">
+                        33818
+                    </td>
+                    <td align="right">
+                        11328
+                    </td>
+                    <td align="right">
+                        13642
+                    </td>
+                    <td align="right">
+                        46315
+                    </td>
+                    <td align="right">
+                        71285
+                    </td>
+                    <td align="right">
+                        291916
+                    </td>
+                    <td align="right">
+                        362561
+                    </td>
+                    <td align="right">
+                        1233701
+                    </td>
+                    <td align="right">
+                        1888178
+                    </td>
+                    <td align="right">
+                        869507
+                    </td>
+                    <td align="right">
+                        322
+                    </td>
+                    <td align="right">
+                        356
+                    </td>
+                    <td align="right">
+                        1680
+                    </td>
+                    <td align="right">
+                        2358
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=BALESHWAR&district_code=2405&fin_year=2019-2020&source=national&typediv=0&Digest=ArRkxJ1fQ7mjvu0gEmECag'>BALESHWAR</a>
+                    </td>
+                    <td align="right">
+                        63627
+                    </td>
+                    <td align="right">
+                        39107
+                    </td>
+                    <td align="right">
+                        252152
+                    </td>
+                    <td align="right">
+                        354886
+                    </td>
+                    <td align="right">
+                        16553
+                    </td>
+                    <td align="right">
+                        10759
+                    </td>
+                    <td align="right">
+                        57056
+                    </td>
+                    <td align="right">
+                        84368
+                    </td>
+                    
+                    <td align="right">
+                        57075
+                    </td>
+                    <td align="right">
+                        26432
+                    </td>
+                    <td align="right">
+                        14411
+                    </td>
+                    <td align="right">
+                        90817
+                    </td>
+                    <td align="right">
+                        131660
+                    </td>
+                    <td align="right">
+                        696326
+                    </td>
+                    <td align="right">
+                        551809
+                    </td>
+                    <td align="right">
+                        2249114
+                    </td>
+                    <td align="right">
+                        3497249
+                    </td>
+                    <td align="right">
+                        1513270
+                    </td>
+                    <td align="right">
+                        436
+                    </td>
+                    <td align="right">
+                        353
+                    </td>
+                    <td align="right">
+                        1515
+                    </td>
+                    <td align="right">
+                        2304
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=BARGARH&district_code=2414&fin_year=2019-2020&source=national&typediv=0&Digest=1LfFTp3kfCMreXvYM8msGQ'>BARGARH</a>
+                    </td>
+                    <td align="right">
+                        51490
+                    </td>
+                    <td align="right">
+                        57267
+                    </td>
+                    <td align="right">
+                        142872
+                    </td>
+                    <td align="right">
+                        251629
+                    </td>
+                    <td align="right">
+                        16631
+                    </td>
+                    <td align="right">
+                        21903
+                    </td>
+                    <td align="right">
+                        41468
+                    </td>
+                    <td align="right">
+                        80002
+                    </td>
+                    
+                    <td align="right">
+                        47297
+                    </td>
+                    <td align="right">
+                        25797
+                    </td>
+                    <td align="right">
+                        33264
+                    </td>
+                    <td align="right">
+                        64657
+                    </td>
+                    <td align="right">
+                        123718
+                    </td>
+                    <td align="right">
+                        688454
+                    </td>
+                    <td align="right">
+                        953895
+                    </td>
+                    <td align="right">
+                        1671209
+                    </td>
+                    <td align="right">
+                        3313558
+                    </td>
+                    <td align="right">
+                        1166661
+                    </td>
+                    <td align="right">
+                        455
+                    </td>
+                    <td align="right">
+                        758
+                    </td>
+                    <td align="right">
+                        1125
+                    </td>
+                    <td align="right">
+                        2338
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        4
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=BHADRAK&district_code=2417&fin_year=2019-2020&source=national&typediv=0&Digest=8YKdtRNIjv8Jq/BDK9wnGw'>BHADRAK</a>
+                    </td>
+                    <td align="right">
+                        42174
+                    </td>
+                    <td align="right">
+                        3623
+                    </td>
+                    <td align="right">
+                        221455
+                    </td>
+                    <td align="right">
+                        267252
+                    </td>
+                    <td align="right">
+                        7896
+                    </td>
+                    <td align="right">
+                        651
+                    </td>
+                    <td align="right">
+                        48239
+                    </td>
+                    <td align="right">
+                        56786
+                    </td>
+                    
+                    <td align="right">
+                        34812
+                    </td>
+                    <td align="right">
+                        11711
+                    </td>
+                    <td align="right">
+                        848
+                    </td>
+                    <td align="right">
+                        74209
+                    </td>
+                    <td align="right">
+                        86768
+                    </td>
+                    <td align="right">
+                        272804
+                    </td>
+                    <td align="right">
+                        27963
+                    </td>
+                    <td align="right">
+                        1817916
+                    </td>
+                    <td align="right">
+                        2118683
+                    </td>
+                    <td align="right">
+                        843364
+                    </td>
+                    <td align="right">
+                        39
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        537
+                    </td>
+                    <td align="right">
+                        581
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        5
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=BOLANGIR&district_code=2409&fin_year=2019-2020&source=national&typediv=0&Digest=bn21gF8mpvUqDH57pmcW/A'>BOLANGIR</a>
+                    </td>
+                    <td align="right">
+                        54356
+                    </td>
+                    <td align="right">
+                        71580
+                    </td>
+                    <td align="right">
+                        192576
+                    </td>
+                    <td align="right">
+                        318512
+                    </td>
+                    <td align="right">
+                        20246
+                    </td>
+                    <td align="right">
+                        30320
+                    </td>
+                    <td align="right">
+                        69000
+                    </td>
+                    <td align="right">
+                        119566
+                    </td>
+                    
+                    <td align="right">
+                        89248
+                    </td>
+                    <td align="right">
+                        34728
+                    </td>
+                    <td align="right">
+                        51449
+                    </td>
+                    <td align="right">
+                        118600
+                    </td>
+                    <td align="right">
+                        204777
+                    </td>
+                    <td align="right">
+                        1010370
+                    </td>
+                    <td align="right">
+                        1600841
+                    </td>
+                    <td align="right">
+                        3336540
+                    </td>
+                    <td align="right">
+                        5947751
+                    </td>
+                    <td align="right">
+                        2414462
+                    </td>
+                    <td align="right">
+                        1421
+                    </td>
+                    <td align="right">
+                        2715
+                    </td>
+                    <td align="right">
+                        5015
+                    </td>
+                    <td align="right">
+                        9151
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        6
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=BOUDH&district_code=2426&fin_year=2019-2020&source=national&typediv=0&Digest=av07o1u19weAnE+n3e1G+w'>BOUDH</a>
+                    </td>
+                    <td align="right">
+                        22714
+                    </td>
+                    <td align="right">
+                        11985
+                    </td>
+                    <td align="right">
+                        66139
+                    </td>
+                    <td align="right">
+                        100838
+                    </td>
+                    <td align="right">
+                        8710
+                    </td>
+                    <td align="right">
+                        5274
+                    </td>
+                    <td align="right">
+                        25796
+                    </td>
+                    <td align="right">
+                        39780
+                    </td>
+                    
+                    <td align="right">
+                        28732
+                    </td>
+                    <td align="right">
+                        14583
+                    </td>
+                    <td align="right">
+                        8087
+                    </td>
+                    <td align="right">
+                        42811
+                    </td>
+                    <td align="right">
+                        65481
+                    </td>
+                    <td align="right">
+                        373112
+                    </td>
+                    <td align="right">
+                        221984
+                    </td>
+                    <td align="right">
+                        1113166
+                    </td>
+                    <td align="right">
+                        1708262
+                    </td>
+                    <td align="right">
+                        711201
+                    </td>
+                    <td align="right">
+                        12
+                    </td>
+                    <td align="right">
+                        30
+                    </td>
+                    <td align="right">
+                        46
+                    </td>
+                    <td align="right">
+                        88
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        7
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=CUTTACK&district_code=2406&fin_year=2019-2020&source=national&typediv=0&Digest=fJQRFBMjLU41q2wEYPbmAA'>CUTTACK</a>
+                    </td>
+                    <td align="right">
+                        64318
+                    </td>
+                    <td align="right">
+                        15388
+                    </td>
+                    <td align="right">
+                        207375
+                    </td>
+                    <td align="right">
+                        287081
+                    </td>
+                    <td align="right">
+                        9449
+                    </td>
+                    <td align="right">
+                        2613
+                    </td>
+                    <td align="right">
+                        43341
+                    </td>
+                    <td align="right">
+                        55403
+                    </td>
+                    
+                    <td align="right">
+                        38017
+                    </td>
+                    <td align="right">
+                        14886
+                    </td>
+                    <td align="right">
+                        3861
+                    </td>
+                    <td align="right">
+                        77430
+                    </td>
+                    <td align="right">
+                        96177
+                    </td>
+                    <td align="right">
+                        273374
+                    </td>
+                    <td align="right">
+                        91551
+                    </td>
+                    <td align="right">
+                        1747042
+                    </td>
+                    <td align="right">
+                        2111967
+                    </td>
+                    <td align="right">
+                        832241
+                    </td>
+                    <td align="right">
+                        190
+                    </td>
+                    <td align="right">
+                        84
+                    </td>
+                    <td align="right">
+                        1191
+                    </td>
+                    <td align="right">
+                        1465
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        8
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=DEOGARH&district_code=2416&fin_year=2019-2020&source=national&typediv=0&Digest=hJA4atF4FrWZRRNiZmDREQ'>DEOGARH</a>
+                    </td>
+                    <td align="right">
+                        11649
+                    </td>
+                    <td align="right">
+                        23217
+                    </td>
+                    <td align="right">
+                        34068
+                    </td>
+                    <td align="right">
+                        68934
+                    </td>
+                    <td align="right">
+                        4244
+                    </td>
+                    <td align="right">
+                        9461
+                    </td>
+                    <td align="right">
+                        14766
+                    </td>
+                    <td align="right">
+                        28471
+                    </td>
+                    
+                    <td align="right">
+                        23575
+                    </td>
+                    <td align="right">
+                        6916
+                    </td>
+                    <td align="right">
+                        15868
+                    </td>
+                    <td align="right">
+                        25358
+                    </td>
+                    <td align="right">
+                        48142
+                    </td>
+                    <td align="right">
+                        156682
+                    </td>
+                    <td align="right">
+                        391003
+                    </td>
+                    <td align="right">
+                        628092
+                    </td>
+                    <td align="right">
+                        1175777
+                    </td>
+                    <td align="right">
+                        568345
+                    </td>
+                    <td align="right">
+                        77
+                    </td>
+                    <td align="right">
+                        252
+                    </td>
+                    <td align="right">
+                        348
+                    </td>
+                    <td align="right">
+                        677
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        9
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=DHENKANAL&district_code=2407&fin_year=2019-2020&source=national&typediv=0&Digest=xU7wHIpbNtOMwv56r/H/QQ'>DHENKANAL</a>
+                    </td>
+                    <td align="right">
+                        37529
+                    </td>
+                    <td align="right">
+                        29720
+                    </td>
+                    <td align="right">
+                        126406
+                    </td>
+                    <td align="right">
+                        193655
+                    </td>
+                    <td align="right">
+                        11522
+                    </td>
+                    <td align="right">
+                        9476
+                    </td>
+                    <td align="right">
+                        42792
+                    </td>
+                    <td align="right">
+                        63790
+                    </td>
+                    
+                    <td align="right">
+                        51651
+                    </td>
+                    <td align="right">
+                        19536
+                    </td>
+                    <td align="right">
+                        15036
+                    </td>
+                    <td align="right">
+                        76241
+                    </td>
+                    <td align="right">
+                        110813
+                    </td>
+                    <td align="right">
+                        621238
+                    </td>
+                    <td align="right">
+                        534764
+                    </td>
+                    <td align="right">
+                        2374462
+                    </td>
+                    <td align="right">
+                        3530464
+                    </td>
+                    <td align="right">
+                        1630050
+                    </td>
+                    <td align="right">
+                        1131
+                    </td>
+                    <td align="right">
+                        1268
+                    </td>
+                    <td align="right">
+                        5859
+                    </td>
+                    <td align="right">
+                        8258
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        10
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=GAJAPATI&district_code=2424&fin_year=2019-2020&source=national&typediv=0&Digest=IajbJax1dY8VJojIeGkuLg'>GAJAPATI</a>
+                    </td>
+                    <td align="right">
+                        10217
+                    </td>
+                    <td align="right">
+                        71987
+                    </td>
+                    <td align="right">
+                        45552
+                    </td>
+                    <td align="right">
+                        127756
+                    </td>
+                    <td align="right">
+                        3795
+                    </td>
+                    <td align="right">
+                        33208
+                    </td>
+                    <td align="right">
+                        14648
+                    </td>
+                    <td align="right">
+                        51651
+                    </td>
+                    
+                    <td align="right">
+                        38976
+                    </td>
+                    <td align="right">
+                        5937
+                    </td>
+                    <td align="right">
+                        53718
+                    </td>
+                    <td align="right">
+                        22882
+                    </td>
+                    <td align="right">
+                        82537
+                    </td>
+                    <td align="right">
+                        172866
+                    </td>
+                    <td align="right">
+                        1497027
+                    </td>
+                    <td align="right">
+                        628943
+                    </td>
+                    <td align="right">
+                        2298836
+                    </td>
+                    <td align="right">
+                        1052340
+                    </td>
+                    <td align="right">
+                        105
+                    </td>
+                    <td align="right">
+                        1181
+                    </td>
+                    <td align="right">
+                        241
+                    </td>
+                    <td align="right">
+                        1527
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        11
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=GANJAM&district_code=2412&fin_year=2019-2020&source=national&typediv=0&Digest=9wVMdw4EZCiC9an7MQym/w'>GANJAM</a>
+                    </td>
+                    <td align="right">
+                        111296
+                    </td>
+                    <td align="right">
+                        28423
+                    </td>
+                    <td align="right">
+                        393254
+                    </td>
+                    <td align="right">
+                        532973
+                    </td>
+                    <td align="right">
+                        41087
+                    </td>
+                    <td align="right">
+                        13002
+                    </td>
+                    <td align="right">
+                        154470
+                    </td>
+                    <td align="right">
+                        208559
+                    </td>
+                    
+                    <td align="right">
+                        151813
+                    </td>
+                    <td align="right">
+                        56551
+                    </td>
+                    <td align="right">
+                        18318
+                    </td>
+                    <td align="right">
+                        215629
+                    </td>
+                    <td align="right">
+                        290498
+                    </td>
+                    <td align="right">
+                        2590830
+                    </td>
+                    <td align="right">
+                        830706
+                    </td>
+                    <td align="right">
+                        10011838
+                    </td>
+                    <td align="right">
+                        13433374
+                    </td>
+                    <td align="right">
+                        7179249
+                    </td>
+                    <td align="right">
+                        9120
+                    </td>
+                    <td align="right">
+                        2725
+                    </td>
+                    <td align="right">
+                        34268
+                    </td>
+                    <td align="right">
+                        46113
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        12
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=JAGATSINGHAPUR&district_code=2419&fin_year=2019-2020&source=national&typediv=0&Digest=SKluVD0cSmpn3+rsfHo4iw'>JAGATSINGHAPUR</a>
+                    </td>
+                    <td align="right">
+                        30816
+                    </td>
+                    <td align="right">
+                        936
+                    </td>
+                    <td align="right">
+                        110554
+                    </td>
+                    <td align="right">
+                        142306
+                    </td>
+                    <td align="right">
+                        4576
+                    </td>
+                    <td align="right">
+                        94
+                    </td>
+                    <td align="right">
+                        21227
+                    </td>
+                    <td align="right">
+                        25897
+                    </td>
+                    
+                    <td align="right">
+                        16996
+                    </td>
+                    <td align="right">
+                        7305
+                    </td>
+                    <td align="right">
+                        139
+                    </td>
+                    <td align="right">
+                        36574
+                    </td>
+                    <td align="right">
+                        44018
+                    </td>
+                    <td align="right">
+                        111882
+                    </td>
+                    <td align="right">
+                        2217
+                    </td>
+                    <td align="right">
+                        645423
+                    </td>
+                    <td align="right">
+                        759522
+                    </td>
+                    <td align="right">
+                        289250
+                    </td>
+                    <td align="right">
+                        62
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        347
+                    </td>
+                    <td align="right">
+                        411
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        13
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=JAJPUR&district_code=2420&fin_year=2019-2020&source=national&typediv=0&Digest=8IpxA3twfICJ/8xV4BPFsQ'>JAJPUR</a>
+                    </td>
+                    <td align="right">
+                        73331
+                    </td>
+                    <td align="right">
+                        23318
+                    </td>
+                    <td align="right">
+                        200649
+                    </td>
+                    <td align="right">
+                        297298
+                    </td>
+                    <td align="right">
+                        13923
+                    </td>
+                    <td align="right">
+                        3945
+                    </td>
+                    <td align="right">
+                        35291
+                    </td>
+                    <td align="right">
+                        53159
+                    </td>
+                    
+                    <td align="right">
+                        32018
+                    </td>
+                    <td align="right">
+                        22618
+                    </td>
+                    <td align="right">
+                        6090
+                    </td>
+                    <td align="right">
+                        58857
+                    </td>
+                    <td align="right">
+                        87565
+                    </td>
+                    <td align="right">
+                        560241
+                    </td>
+                    <td align="right">
+                        167804
+                    </td>
+                    <td align="right">
+                        1515070
+                    </td>
+                    <td align="right">
+                        2243115
+                    </td>
+                    <td align="right">
+                        790874
+                    </td>
+                    <td align="right">
+                        596
+                    </td>
+                    <td align="right">
+                        177
+                    </td>
+                    <td align="right">
+                        1556
+                    </td>
+                    <td align="right">
+                        2329
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        14
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=JHARSUGUDA&district_code=2415&fin_year=2019-2020&source=national&typediv=0&Digest=V/RyHaFJ5Oeg5CY9yI9cag'>JHARSUGUDA</a>
+                    </td>
+                    <td align="right">
+                        15520
+                    </td>
+                    <td align="right">
+                        30021
+                    </td>
+                    <td align="right">
+                        26178
+                    </td>
+                    <td align="right">
+                        71719
+                    </td>
+                    <td align="right">
+                        6007
+                    </td>
+                    <td align="right">
+                        12781
+                    </td>
+                    <td align="right">
+                        10237
+                    </td>
+                    <td align="right">
+                        29025
+                    </td>
+                    
+                    <td align="right">
+                        20920
+                    </td>
+                    <td align="right">
+                        9706
+                    </td>
+                    <td align="right">
+                        20312
+                    </td>
+                    <td align="right">
+                        17234
+                    </td>
+                    <td align="right">
+                        47252
+                    </td>
+                    <td align="right">
+                        275172
+                    </td>
+                    <td align="right">
+                        596357
+                    </td>
+                    <td align="right">
+                        507927
+                    </td>
+                    <td align="right">
+                        1379456
+                    </td>
+                    <td align="right">
+                        586344
+                    </td>
+                    <td align="right">
+                        40
+                    </td>
+                    <td align="right">
+                        156
+                    </td>
+                    <td align="right">
+                        111
+                    </td>
+                    <td align="right">
+                        307
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        15
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=KALAHANDI&district_code=2410&fin_year=2019-2020&source=national&typediv=0&Digest=C7zYvSOnft2hq5vM6Xjf1w'>KALAHANDI</a>
+                    </td>
+                    <td align="right">
+                        57631
+                    </td>
+                    <td align="right">
+                        96607
+                    </td>
+                    <td align="right">
+                        156212
+                    </td>
+                    <td align="right">
+                        310450
+                    </td>
+                    <td align="right">
+                        19665
+                    </td>
+                    <td align="right">
+                        40738
+                    </td>
+                    <td align="right">
+                        50870
+                    </td>
+                    <td align="right">
+                        111273
+                    </td>
+                    
+                    <td align="right">
+                        72701
+                    </td>
+                    <td align="right">
+                        30461
+                    </td>
+                    <td align="right">
+                        60203
+                    </td>
+                    <td align="right">
+                        78633
+                    </td>
+                    <td align="right">
+                        169297
+                    </td>
+                    <td align="right">
+                        854531
+                    </td>
+                    <td align="right">
+                        1747566
+                    </td>
+                    <td align="right">
+                        2149379
+                    </td>
+                    <td align="right">
+                        4751476
+                    </td>
+                    <td align="right">
+                        1892560
+                    </td>
+                    <td align="right">
+                        680
+                    </td>
+                    <td align="right">
+                        1444
+                    </td>
+                    <td align="right">
+                        1548
+                    </td>
+                    <td align="right">
+                        3672
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        16
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=KANDHAMAL&district_code=2408&fin_year=2019-2020&source=national&typediv=0&Digest=XR6OUMvU2W7Y2E50OKZM1A'>KANDHAMAL</a>
+                    </td>
+                    <td align="right">
+                        32354
+                    </td>
+                    <td align="right">
+                        80415
+                    </td>
+                    <td align="right">
+                        40950
+                    </td>
+                    <td align="right">
+                        153719
+                    </td>
+                    <td align="right">
+                        16723
+                    </td>
+                    <td align="right">
+                        43757
+                    </td>
+                    <td align="right">
+                        21733
+                    </td>
+                    <td align="right">
+                        82213
+                    </td>
+                    
+                    <td align="right">
+                        60997
+                    </td>
+                    <td align="right">
+                        27282
+                    </td>
+                    <td align="right">
+                        69191
+                    </td>
+                    <td align="right">
+                        34972
+                    </td>
+                    <td align="right">
+                        131445
+                    </td>
+                    <td align="right">
+                        814432
+                    </td>
+                    <td align="right">
+                        2153339
+                    </td>
+                    <td align="right">
+                        1086748
+                    </td>
+                    <td align="right">
+                        4054519
+                    </td>
+                    <td align="right">
+                        1790570
+                    </td>
+                    <td align="right">
+                        533
+                    </td>
+                    <td align="right">
+                        3029
+                    </td>
+                    <td align="right">
+                        751
+                    </td>
+                    <td align="right">
+                        4313
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        17
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=KENDRAPARA&district_code=2418&fin_year=2019-2020&source=national&typediv=0&Digest=r1UKvOcQ5aEsRUcwdPrAcw'>KENDRAPARA</a>
+                    </td>
+                    <td align="right">
+                        43533
+                    </td>
+                    <td align="right">
+                        1641
+                    </td>
+                    <td align="right">
+                        186013
+                    </td>
+                    <td align="right">
+                        231187
+                    </td>
+                    <td align="right">
+                        8865
+                    </td>
+                    <td align="right">
+                        266
+                    </td>
+                    <td align="right">
+                        43897
+                    </td>
+                    <td align="right">
+                        53028
+                    </td>
+                    
+                    <td align="right">
+                        34683
+                    </td>
+                    <td align="right">
+                        14127
+                    </td>
+                    <td align="right">
+                        454
+                    </td>
+                    <td align="right">
+                        73030
+                    </td>
+                    <td align="right">
+                        87611
+                    </td>
+                    <td align="right">
+                        297342
+                    </td>
+                    <td align="right">
+                        10215
+                    </td>
+                    <td align="right">
+                        1793250
+                    </td>
+                    <td align="right">
+                        2100807
+                    </td>
+                    <td align="right">
+                        835740
+                    </td>
+                    <td align="right">
+                        158
+                    </td>
+                    <td align="right">
+                        7
+                    </td>
+                    <td align="right">
+                        943
+                    </td>
+                    <td align="right">
+                        1108
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        18
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=KENDUJHAR&district_code=2403&fin_year=2019-2020&source=national&typediv=0&Digest=P7esDPcJOIQUJa24HMALNQ'>KENDUJHAR</a>
+                    </td>
+                    <td align="right">
+                        44108
+                    </td>
+                    <td align="right">
+                        145956
+                    </td>
+                    <td align="right">
+                        143804
+                    </td>
+                    <td align="right">
+                        333868
+                    </td>
+                    <td align="right">
+                        18136
+                    </td>
+                    <td align="right">
+                        62596
+                    </td>
+                    <td align="right">
+                        54380
+                    </td>
+                    <td align="right">
+                        135112
+                    </td>
+                    
+                    <td align="right">
+                        100893
+                    </td>
+                    <td align="right">
+                        28368
+                    </td>
+                    <td align="right">
+                        101178
+                    </td>
+                    <td align="right">
+                        88873
+                    </td>
+                    <td align="right">
+                        218419
+                    </td>
+                    <td align="right">
+                        700508
+                    </td>
+                    <td align="right">
+                        2807014
+                    </td>
+                    <td align="right">
+                        2308091
+                    </td>
+                    <td align="right">
+                        5815613
+                    </td>
+                    <td align="right">
+                        2636276
+                    </td>
+                    <td align="right">
+                        862
+                    </td>
+                    <td align="right">
+                        4547
+                    </td>
+                    <td align="right">
+                        3821
+                    </td>
+                    <td align="right">
+                        9230
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        19
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=KHORDHA&district_code=2423&fin_year=2019-2020&source=national&typediv=0&Digest=W82rSOpGTxbdC5l093LVnQ'>KHORDHA</a>
+                    </td>
+                    <td align="right">
+                        25880
+                    </td>
+                    <td align="right">
+                        10690
+                    </td>
+                    <td align="right">
+                        108958
+                    </td>
+                    <td align="right">
+                        145528
+                    </td>
+                    <td align="right">
+                        2770
+                    </td>
+                    <td align="right">
+                        1641
+                    </td>
+                    <td align="right">
+                        19675
+                    </td>
+                    <td align="right">
+                        24086
+                    </td>
+                    
+                    <td align="right">
+                        17387
+                    </td>
+                    <td align="right">
+                        4219
+                    </td>
+                    <td align="right">
+                        2250
+                    </td>
+                    <td align="right">
+                        33930
+                    </td>
+                    <td align="right">
+                        40399
+                    </td>
+                    <td align="right">
+                        99976
+                    </td>
+                    <td align="right">
+                        60698
+                    </td>
+                    <td align="right">
+                        868206
+                    </td>
+                    <td align="right">
+                        1028880
+                    </td>
+                    <td align="right">
+                        419791
+                    </td>
+                    <td align="right">
+                        240
+                    </td>
+                    <td align="right">
+                        100
+                    </td>
+                    <td align="right">
+                        1900
+                    </td>
+                    <td align="right">
+                        2240
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        20
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=KORAPUT&district_code=2411&fin_year=2019-2020&source=national&typediv=0&Digest=EcoTI7Yr4zaQMvBiB/Andg'>KORAPUT</a>
+                    </td>
+                    <td align="right">
+                        45167
+                    </td>
+                    <td align="right">
+                        163681
+                    </td>
+                    <td align="right">
+                        87364
+                    </td>
+                    <td align="right">
+                        296212
+                    </td>
+                    <td align="right">
+                        14267
+                    </td>
+                    <td align="right">
+                        65898
+                    </td>
+                    <td align="right">
+                        30810
+                    </td>
+                    <td align="right">
+                        110975
+                    </td>
+                    
+                    <td align="right">
+                        77254
+                    </td>
+                    <td align="right">
+                        24177
+                    </td>
+                    <td align="right">
+                        107320
+                    </td>
+                    <td align="right">
+                        53257
+                    </td>
+                    <td align="right">
+                        184754
+                    </td>
+                    <td align="right">
+                        759226
+                    </td>
+                    <td align="right">
+                        3532549
+                    </td>
+                    <td align="right">
+                        1626501
+                    </td>
+                    <td align="right">
+                        5918276
+                    </td>
+                    <td align="right">
+                        2262422
+                    </td>
+                    <td align="right">
+                        650
+                    </td>
+                    <td align="right">
+                        3931
+                    </td>
+                    <td align="right">
+                        1184
+                    </td>
+                    <td align="right">
+                        5765
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        21
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=MALKANGIRI&district_code=2431&fin_year=2019-2020&source=national&typediv=0&Digest=ZGYZvLyB4Mr+ZDZviCNZSA'>MALKANGIRI</a>
+                    </td>
+                    <td align="right">
+                        23676
+                    </td>
+                    <td align="right">
+                        70427
+                    </td>
+                    <td align="right">
+                        17706
+                    </td>
+                    <td align="right">
+                        111809
+                    </td>
+                    <td align="right">
+                        7344
+                    </td>
+                    <td align="right">
+                        27177
+                    </td>
+                    <td align="right">
+                        6634
+                    </td>
+                    <td align="right">
+                        41155
+                    </td>
+                    
+                    <td align="right">
+                        25695
+                    </td>
+                    <td align="right">
+                        11402
+                    </td>
+                    <td align="right">
+                        41383
+                    </td>
+                    <td align="right">
+                        11029
+                    </td>
+                    <td align="right">
+                        63814
+                    </td>
+                    <td align="right">
+                        335322
+                    </td>
+                    <td align="right">
+                        1226942
+                    </td>
+                    <td align="right">
+                        313913
+                    </td>
+                    <td align="right">
+                        1876177
+                    </td>
+                    <td align="right">
+                        703558
+                    </td>
+                    <td align="right">
+                        279
+                    </td>
+                    <td align="right">
+                        1423
+                    </td>
+                    <td align="right">
+                        291
+                    </td>
+                    <td align="right">
+                        1993
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        22
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=MAYURBHANJ&district_code=2404&fin_year=2019-2020&source=national&typediv=0&Digest=pCRAe9OhoBQc5K35Mdfo8g'>MAYURBHANJ</a>
+                    </td>
+                    <td align="right">
+                        51933
+                    </td>
+                    <td align="right">
+                        273130
+                    </td>
+                    <td align="right">
+                        158520
+                    </td>
+                    <td align="right">
+                        483583
+                    </td>
+                    <td align="right">
+                        25724
+                    </td>
+                    <td align="right">
+                        138355
+                    </td>
+                    <td align="right">
+                        73471
+                    </td>
+                    <td align="right">
+                        237550
+                    </td>
+                    
+                    <td align="right">
+                        170718
+                    </td>
+                    <td align="right">
+                        41570
+                    </td>
+                    <td align="right">
+                        215020
+                    </td>
+                    <td align="right">
+                        116661
+                    </td>
+                    <td align="right">
+                        373251
+                    </td>
+                    <td align="right">
+                        1458853
+                    </td>
+                    <td align="right">
+                        7603853
+                    </td>
+                    <td align="right">
+                        4018626
+                    </td>
+                    <td align="right">
+                        13081332
+                    </td>
+                    <td align="right">
+                        5688725
+                    </td>
+                    <td align="right">
+                        3456
+                    </td>
+                    <td align="right">
+                        17157
+                    </td>
+                    <td align="right">
+                        9139
+                    </td>
+                    <td align="right">
+                        29752
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        23
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=NABARANGAPUR&district_code=2430&fin_year=2019-2020&source=national&typediv=0&Digest=OarKBM17f+WgkvYvooO/cQ'>NABARANGAPUR</a>
+                    </td>
+                    <td align="right">
+                        41650
+                    </td>
+                    <td align="right">
+                        150473
+                    </td>
+                    <td align="right">
+                        74648
+                    </td>
+                    <td align="right">
+                        266771
+                    </td>
+                    <td align="right">
+                        17062
+                    </td>
+                    <td align="right">
+                        67748
+                    </td>
+                    <td align="right">
+                        31918
+                    </td>
+                    <td align="right">
+                        116728
+                    </td>
+                    
+                    <td align="right">
+                        86383
+                    </td>
+                    <td align="right">
+                        28787
+                    </td>
+                    <td align="right">
+                        111246
+                    </td>
+                    <td align="right">
+                        52594
+                    </td>
+                    <td align="right">
+                        192627
+                    </td>
+                    <td align="right">
+                        820800
+                    </td>
+                    <td align="right">
+                        3465970
+                    </td>
+                    <td align="right">
+                        1573130
+                    </td>
+                    <td align="right">
+                        5859900
+                    </td>
+                    <td align="right">
+                        2408172
+                    </td>
+                    <td align="right">
+                        316
+                    </td>
+                    <td align="right">
+                        2480
+                    </td>
+                    <td align="right">
+                        552
+                    </td>
+                    <td align="right">
+                        3348
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        24
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=NAYAGARH&district_code=2422&fin_year=2019-2020&source=national&typediv=0&Digest=tkR9zix8LazXHXHXzzqqTg'>NAYAGARH</a>
+                    </td>
+                    <td align="right">
+                        22471
+                    </td>
+                    <td align="right">
+                        12621
+                    </td>
+                    <td align="right">
+                        134311
+                    </td>
+                    <td align="right">
+                        169403
+                    </td>
+                    <td align="right">
+                        5585
+                    </td>
+                    <td align="right">
+                        4540
+                    </td>
+                    <td align="right">
+                        42023
+                    </td>
+                    <td align="right">
+                        52148
+                    </td>
+                    
+                    <td align="right">
+                        38087
+                    </td>
+                    <td align="right">
+                        9367
+                    </td>
+                    <td align="right">
+                        7096
+                    </td>
+                    <td align="right">
+                        74607
+                    </td>
+                    <td align="right">
+                        91070
+                    </td>
+                    <td align="right">
+                        203011
+                    </td>
+                    <td align="right">
+                        191240
+                    </td>
+                    <td align="right">
+                        1693825
+                    </td>
+                    <td align="right">
+                        2088076
+                    </td>
+                    <td align="right">
+                        864555
+                    </td>
+                    <td align="right">
+                        216
+                    </td>
+                    <td align="right">
+                        224
+                    </td>
+                    <td align="right">
+                        2053
+                    </td>
+                    <td align="right">
+                        2493
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        25
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=NUAPADA&district_code=2428&fin_year=2019-2020&source=national&typediv=0&Digest=EfR2NxrBmHCCCYJYoYFvkg'>NUAPADA</a>
+                    </td>
+                    <td align="right">
+                        19422
+                    </td>
+                    <td align="right">
+                        49290
+                    </td>
+                    <td align="right">
+                        64452
+                    </td>
+                    <td align="right">
+                        133164
+                    </td>
+                    <td align="right">
+                        7346
+                    </td>
+                    <td align="right">
+                        22461
+                    </td>
+                    <td align="right">
+                        23575
+                    </td>
+                    <td align="right">
+                        53382
+                    </td>
+                    
+                    <td align="right">
+                        45125
+                    </td>
+                    <td align="right">
+                        14077
+                    </td>
+                    <td align="right">
+                        42729
+                    </td>
+                    <td align="right">
+                        45747
+                    </td>
+                    <td align="right">
+                        102553
+                    </td>
+                    <td align="right">
+                        343230
+                    </td>
+                    <td align="right">
+                        1045080
+                    </td>
+                    <td align="right">
+                        1107171
+                    </td>
+                    <td align="right">
+                        2495481
+                    </td>
+                    <td align="right">
+                        1049358
+                    </td>
+                    <td align="right">
+                        558
+                    </td>
+                    <td align="right">
+                        1825
+                    </td>
+                    <td align="right">
+                        2067
+                    </td>
+                    <td align="right">
+                        4450
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        26
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=PURI&district_code=2413&fin_year=2019-2020&source=national&typediv=0&Digest=676Si/AGaX0mT7B33PKMGg'>PURI</a>
+                    </td>
+                    <td align="right">
+                        47095
+                    </td>
+                    <td align="right">
+                        1700
+                    </td>
+                    <td align="right">
+                        197817
+                    </td>
+                    <td align="right">
+                        246612
+                    </td>
+                    <td align="right">
+                        9198
+                    </td>
+                    <td align="right">
+                        291
+                    </td>
+                    <td align="right">
+                        46279
+                    </td>
+                    <td align="right">
+                        55768
+                    </td>
+                    
+                    <td align="right">
+                        37316
+                    </td>
+                    <td align="right">
+                        15112
+                    </td>
+                    <td align="right">
+                        451
+                    </td>
+                    <td align="right">
+                        80573
+                    </td>
+                    <td align="right">
+                        96136
+                    </td>
+                    <td align="right">
+                        311630
+                    </td>
+                    <td align="right">
+                        10464
+                    </td>
+                    <td align="right">
+                        1857102
+                    </td>
+                    <td align="right">
+                        2179196
+                    </td>
+                    <td align="right">
+                        828617
+                    </td>
+                    <td align="right">
+                        332
+                    </td>
+                    <td align="right">
+                        14
+                    </td>
+                    <td align="right">
+                        2386
+                    </td>
+                    <td align="right">
+                        2732
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        27
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=RAYAGADA&district_code=2429&fin_year=2019-2020&source=national&typediv=0&Digest=FEkRLw/UGpEUx5BqQicXnA'>RAYAGADA</a>
+                    </td>
+                    <td align="right">
+                        35572
+                    </td>
+                    <td align="right">
+                        122703
+                    </td>
+                    <td align="right">
+                        50099
+                    </td>
+                    <td align="right">
+                        208374
+                    </td>
+                    <td align="right">
+                        15812
+                    </td>
+                    <td align="right">
+                        56139
+                    </td>
+                    <td align="right">
+                        20851
+                    </td>
+                    <td align="right">
+                        92802
+                    </td>
+                    
+                    <td align="right">
+                        70468
+                    </td>
+                    <td align="right">
+                        26200
+                    </td>
+                    <td align="right">
+                        90108
+                    </td>
+                    <td align="right">
+                        33948
+                    </td>
+                    <td align="right">
+                        150256
+                    </td>
+                    <td align="right">
+                        687563
+                    </td>
+                    <td align="right">
+                        2446153
+                    </td>
+                    <td align="right">
+                        917933
+                    </td>
+                    <td align="right">
+                        4051649
+                    </td>
+                    <td align="right">
+                        1796115
+                    </td>
+                    <td align="right">
+                        371
+                    </td>
+                    <td align="right">
+                        1915
+                    </td>
+                    <td align="right">
+                        633
+                    </td>
+                    <td align="right">
+                        2919
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        28
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=SAMBALPUR&district_code=2401&fin_year=2019-2020&source=national&typediv=0&Digest=O12h94ZJK9enwwdUTWOtjw'>SAMBALPUR</a>
+                    </td>
+                    <td align="right">
+                        23411
+                    </td>
+                    <td align="right">
+                        55545
+                    </td>
+                    <td align="right">
+                        47243
+                    </td>
+                    <td align="right">
+                        126199
+                    </td>
+                    <td align="right">
+                        7094
+                    </td>
+                    <td align="right">
+                        19357
+                    </td>
+                    <td align="right">
+                        16739
+                    </td>
+                    <td align="right">
+                        43190
+                    </td>
+                    
+                    <td align="right">
+                        30034
+                    </td>
+                    <td align="right">
+                        11278
+                    </td>
+                    <td align="right">
+                        30985
+                    </td>
+                    <td align="right">
+                        26917
+                    </td>
+                    <td align="right">
+                        69180
+                    </td>
+                    <td align="right">
+                        284058
+                    </td>
+                    <td align="right">
+                        795208
+                    </td>
+                    <td align="right">
+                        755677
+                    </td>
+                    <td align="right">
+                        1834943
+                    </td>
+                    <td align="right">
+                        765342
+                    </td>
+                    <td align="right">
+                        225
+                    </td>
+                    <td align="right">
+                        748
+                    </td>
+                    <td align="right">
+                        635
+                    </td>
+                    <td align="right">
+                        1608
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        29
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=SONEPUR&district_code=2427&fin_year=2019-2020&source=national&typediv=0&Digest=YiwGKvmd4NexzbTq7hoEXg'>SONEPUR</a>
+                    </td>
+                    <td align="right">
+                        27310
+                    </td>
+                    <td align="right">
+                        11531
+                    </td>
+                    <td align="right">
+                        85754
+                    </td>
+                    <td align="right">
+                        124595
+                    </td>
+                    <td align="right">
+                        9766
+                    </td>
+                    <td align="right">
+                        4128
+                    </td>
+                    <td align="right">
+                        27926
+                    </td>
+                    <td align="right">
+                        41820
+                    </td>
+                    
+                    <td align="right">
+                        28299
+                    </td>
+                    <td align="right">
+                        16711
+                    </td>
+                    <td align="right">
+                        6588
+                    </td>
+                    <td align="right">
+                        46465
+                    </td>
+                    <td align="right">
+                        69764
+                    </td>
+                    <td align="right">
+                        440412
+                    </td>
+                    <td align="right">
+                        186354
+                    </td>
+                    <td align="right">
+                        1246454
+                    </td>
+                    <td align="right">
+                        1873220
+                    </td>
+                    <td align="right">
+                        739995
+                    </td>
+                    <td align="right">
+                        122
+                    </td>
+                    <td align="right">
+                        77
+                    </td>
+                    <td align="right">
+                        413
+                    </td>
+                    <td align="right">
+                        612
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        30
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=ODISHA&state_code=24&district_name=SUNDARGARH&district_code=2402&fin_year=2019-2020&source=national&typediv=0&Digest=94RUYKr3lwuYLvqB5MdmMQ'>SUNDARGARH</a>
+                    </td>
+                    <td align="right">
+                        29848
+                    </td>
+                    <td align="right">
+                        213494
+                    </td>
+                    <td align="right">
+                        69983
+                    </td>
+                    <td align="right">
+                        313325
+                    </td>
+                    <td align="right">
+                        12579
+                    </td>
+                    <td align="right">
+                        91697
+                    </td>
+                    <td align="right">
+                        30833
+                    </td>
+                    <td align="right">
+                        135109
+                    </td>
+                    
+                    <td align="right">
+                        93529
+                    </td>
+                    <td align="right">
+                        18779
+                    </td>
+                    <td align="right">
+                        136203
+                    </td>
+                    <td align="right">
+                        45353
+                    </td>
+                    <td align="right">
+                        200335
+                    </td>
+                    <td align="right">
+                        663545
+                    </td>
+                    <td align="right">
+                        4677630
+                    </td>
+                    <td align="right">
+                        1632232
+                    </td>
+                    <td align="right">
+                        6973407
+                    </td>
+                    <td align="right">
+                        3105215
+                    </td>
+                    <td align="right">
+                        657
+                    </td>
+                    <td align="right">
+                        4466
+                    </td>
+                    <td align="right">
+                        1464
+                    </td>
+                    <td align="right">
+                        6587
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        1194231
+                    </td>
+                    <td align="right">
+                        1895549
+                    </td>
+                    <td align="right">
+                        3769156
+                    </td>
+                    <td align="right">
+                        6858936
+                    </td>
+                    <td align="right">
+                        369323
+                    </td>
+                    <td align="right">
+                        809014
+                    </td>
+                    <td align="right">
+                        1146932
+                    </td>
+                    <td align="right">
+                        2325269
+                    </td>
+                    
+                    <td align="right">
+                        1654517
+                    </td>
+                    <td align="right">
+                        589951
+                    </td>
+                    <td align="right">
+                        1277448
+                    </td>
+                    <td align="right">
+                        1864203
+                    </td>
+                    <td align="right">
+                        3731602
+                    </td>
+                    <td align="right">
+                        17169706
+                    </td>
+                    <td align="right">
+                        39790757
+                    </td>
+                    <td align="right">
+                        54428681
+                    </td>
+                    <td align="right">
+                        111389144
+                    </td>
+                    <td align="right">
+                        48234169
+                    </td>
+                    <td align="right">
+                        23661
+                    </td>
+                    <td align="right">
+                        53449
+                    </td>
+                    <td align="right">
+                        83619
+                    </td>
+                    <td align="right">
+                        160729
+                    </td>
+                </tr>
+            
+                </table>
+            

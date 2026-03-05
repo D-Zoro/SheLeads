@@ -1,0 +1,445 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl37$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl37$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl37$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl37$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl37$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">1210571</td>
+                <td align="right">3034676</td>
+                <td align="right">2628909</td>
+                 <td align="right">1162492</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=AHMADABAD&district_code=1112&fin_year=2019-2020&source=national&Digest=9cHVv9/cA3SBR/wzh5bFOw'>AHMADABAD</a></td>
+                <td align="right">50937</td>
+                <td align="right">59465</td>
+                <td align="right">29006</td>
+                 <td align="right">8685</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=AMRELI&district_code=1105&fin_year=2019-2020&source=national&Digest=nE9gaDmPReoMa2CmsHLuVQ'>AMRELI</a></td>
+                <td align="right">68756</td>
+                <td align="right">99849</td>
+                <td align="right">84176</td>
+                 <td align="right">20854</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=ANAND&district_code=1122&fin_year=2019-2020&source=national&Digest=cYcd3j7Q+wWQE9y8S3yx4g'>ANAND</a></td>
+                <td align="right">24031</td>
+                <td align="right">53783</td>
+                <td align="right">28920</td>
+                 <td align="right">15513</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=ARVALLI&district_code=1130&fin_year=2019-2020&source=national&Digest=tDtcHKVk1jZwxltvFhC8jQ'>ARVALLI</a></td>
+                <td align="right">22619</td>
+                <td align="right">91877</td>
+                <td align="right">97018</td>
+                 <td align="right">55542</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=BANAS+KANTHA&district_code=1108&fin_year=2019-2020&source=national&Digest=IIKd0EIlsg8IVitS6nYI8Q'>BANAS KANTHA</a></td>
+                <td align="right">41994</td>
+                <td align="right">136261</td>
+                <td align="right">110184</td>
+                 <td align="right">57396</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=BHARUCH&district_code=1116&fin_year=2019-2020&source=national&Digest=WEeqvD3YOjUuF5YSoBCK6Q'>BHARUCH</a></td>
+                <td align="right">33482</td>
+                <td align="right">54018</td>
+                <td align="right">53675</td>
+                 <td align="right">14319</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=BHAVNAGAR&district_code=1104&fin_year=2019-2020&source=national&Digest=sFfzl+m1TPF1TJCKxqGEbQ'>BHAVNAGAR</a></td>
+                <td align="right">86647</td>
+                <td align="right">116826</td>
+                <td align="right">74868</td>
+                 <td align="right">29016</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=Botad&district_code=1128&fin_year=2019-2020&source=national&Digest=ZpqpWGimOpwrI169Yb5STg'>Botad</a></td>
+                <td align="right">26346</td>
+                <td align="right">51792</td>
+                <td align="right">36814</td>
+                 <td align="right">12931</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">9</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=Chhotaudepur&district_code=1129&fin_year=2019-2020&source=national&Digest=C7X43OusJI+BSuyg70ieEg'>Chhotaudepur</a></td>
+                <td align="right">46401</td>
+                <td align="right">124092</td>
+                <td align="right">106450</td>
+                 <td align="right">39172</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">10</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=DANG&district_code=1119&fin_year=2019-2020&source=national&Digest=u0dDPXd3oOltuHOpOP7qag'>DANG</a></td>
+                <td align="right">12091</td>
+                <td align="right">43594</td>
+                <td align="right">42147</td>
+                 <td align="right">24798</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">11</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=DEVBHUMI+DWARKA&district_code=1132&fin_year=2019-2020&source=national&Digest=bN/2qdGkYQA/Bwl85dGDaA'>DEVBHUMI DWARKA</a></td>
+                <td align="right">24191</td>
+                <td align="right">42872</td>
+                <td align="right">31771</td>
+                 <td align="right">7152</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">12</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=DOHAD&district_code=1123&fin_year=2019-2020&source=national&Digest=hufirdlUveSORXoMekdfvw'>DOHAD</a></td>
+                <td align="right">77581</td>
+                <td align="right">407258</td>
+                <td align="right">372432</td>
+                 <td align="right">195837</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">13</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=GANDHINAGAR&district_code=1111&fin_year=2019-2020&source=national&Digest=QTQYM007JeEP7gd8X58psA'>GANDHINAGAR</a></td>
+                <td align="right">12956</td>
+                <td align="right">26502</td>
+                <td align="right">15631</td>
+                 <td align="right">6065</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">14</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=GIR+SOMNATH&district_code=1131&fin_year=2019-2020&source=national&Digest=D8aRbTHig7g2kVAfbCtynQ'>GIR SOMNATH</a></td>
+                <td align="right">77883</td>
+                <td align="right">93959</td>
+                <td align="right">45212</td>
+                 <td align="right">20883</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">15</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=JAMNAGAR&district_code=1101&fin_year=2019-2020&source=national&Digest=/QP74S+sYiAwQiu+cDtSfQ'>JAMNAGAR</a></td>
+                <td align="right">11680</td>
+                <td align="right">38082</td>
+                <td align="right">27604</td>
+                 <td align="right">9946</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">16</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=JUNAGADH&district_code=1106&fin_year=2019-2020&source=national&Digest=K/6NM/FWuhPbgEGSxoJudQ'>JUNAGADH</a></td>
+                <td align="right">71104</td>
+                <td align="right">106229</td>
+                <td align="right">96037</td>
+                 <td align="right">20910</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">17</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=KACHCHH&district_code=1107&fin_year=2019-2020&source=national&Digest=y8WLZi8Ko7R5aTcRskSnGA'>KACHCHH</a></td>
+                <td align="right">46528</td>
+                <td align="right">93481</td>
+                <td align="right">53728</td>
+                 <td align="right">21158</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">18</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=KHEDA&district_code=1113&fin_year=2019-2020&source=national&Digest=HQxb2howcqHFLoHWs/9eHg'>KHEDA</a></td>
+                <td align="right">66844</td>
+                <td align="right">119423</td>
+                <td align="right">80687</td>
+                 <td align="right">17724</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">19</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=MAHESANA&district_code=1110&fin_year=2019-2020&source=national&Digest=Oi82WKRxOSQNm9wK1zoAwg'>MAHESANA</a></td>
+                <td align="right">7330</td>
+                <td align="right">38984</td>
+                <td align="right">39504</td>
+                 <td align="right">14918</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">20</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=MAHISAGAR&district_code=1133&fin_year=2019-2020&source=national&Digest=GgKdx/y0pHdFDvF71DN3aw'>MAHISAGAR</a></td>
+                <td align="right">54020</td>
+                <td align="right">115072</td>
+                <td align="right">114614</td>
+                 <td align="right">55753</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">21</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=Morbi&district_code=1127&fin_year=2019-2020&source=national&Digest=9ekIrMXzfh75vgEl030yIQ'>Morbi</a></td>
+                <td align="right">19582</td>
+                <td align="right">24060</td>
+                <td align="right">15625</td>
+                 <td align="right">4802</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">22</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=NARMADA&district_code=1124&fin_year=2019-2020&source=national&Digest=4X9SgmN2CnAjIuAKZC3Srw'>NARMADA</a></td>
+                <td align="right">16290</td>
+                <td align="right">110249</td>
+                <td align="right">100444</td>
+                 <td align="right">81188</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">23</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=NAVSARI++&district_code=1125&fin_year=2019-2020&source=national&Digest=yZCRJQnN4KcmEtEYFraKgw'>NAVSARI  </a></td>
+                <td align="right">2078</td>
+                <td align="right">78106</td>
+                <td align="right">89191</td>
+                 <td align="right">53216</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">24</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=PANCH+MAHALS&district_code=1114&fin_year=2019-2020&source=national&Digest=LHBLpfk6Ug2QBgH93DVP9A'>PANCH MAHALS</a></td>
+                <td align="right">42465</td>
+                <td align="right">142903</td>
+                <td align="right">155955</td>
+                 <td align="right">93722</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">25</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=PATAN&district_code=1120&fin_year=2019-2020&source=national&Digest=stK1YnfAFlYXqy43iR4yZQ'>PATAN</a></td>
+                <td align="right">17542</td>
+                <td align="right">68903</td>
+                <td align="right">72083</td>
+                 <td align="right">22610</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">26</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=PORBANDAR&district_code=1121&fin_year=2019-2020&source=national&Digest=pWs6qsCSDppoS5BJKnu1wA'>PORBANDAR</a></td>
+                <td align="right">12973</td>
+                <td align="right">28989</td>
+                <td align="right">25597</td>
+                 <td align="right">6235</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">27</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=RAJKOT&district_code=1102&fin_year=2019-2020&source=national&Digest=4TzLxRYE5/0aB+1hLQjrpQ'>RAJKOT</a></td>
+                <td align="right">72289</td>
+                <td align="right">91853</td>
+                <td align="right">70719</td>
+                 <td align="right">10497</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">28</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=SABAR+KANTHA&district_code=1109&fin_year=2019-2020&source=national&Digest=csLU5595qaByFqdgJqpZqw'>SABAR KANTHA</a></td>
+                <td align="right">45338</td>
+                <td align="right">115963</td>
+                <td align="right">106941</td>
+                 <td align="right">53876</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">29</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=SURAT&district_code=1117&fin_year=2019-2020&source=national&Digest=+hcGcn7gKZ5sJrxKrc78Gw'>SURAT</a></td>
+                <td align="right">2707</td>
+                <td align="right">93608</td>
+                <td align="right">111009</td>
+                 <td align="right">45758</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">30</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=SURENDRANAGAR&district_code=1103&fin_year=2019-2020&source=national&Digest=U7i1q9FYyRwqildC8URhcA'>SURENDRANAGAR</a></td>
+                <td align="right">49382</td>
+                <td align="right">105436</td>
+                <td align="right">58701</td>
+                 <td align="right">18132</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">31</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=TAPI&district_code=1126&fin_year=2019-2020&source=national&Digest=LCvEZusJdlkbSlzv2iGAUw'>TAPI</a></td>
+                <td align="right">42425</td>
+                <td align="right">150729</td>
+                <td align="right">146665</td>
+                 <td align="right">70693</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">32</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=VADODARA&district_code=1115&fin_year=2019-2020&source=national&Digest=zwJAiCYIyBLTbixOvRnLlg'>VADODARA</a></td>
+                <td align="right">21515</td>
+                <td align="right">38373</td>
+                <td align="right">40440</td>
+                 <td align="right">10297</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">33</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=GUJARAT&state_code=11&district_name=VALSAD&district_code=1118&fin_year=2019-2020&source=national&Digest=aSGlT5nuP96v2LeNKm4CPQ'>VALSAD</a></td>
+                <td align="right">2564</td>
+                <td align="right">72085</td>
+                <td align="right">95061</td>
+                 <td align="right">42894</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">1210571</td>
+                <td align="right">3034676</td>
+                <td align="right">2628909</td>
+                 <td align="right">1162492</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

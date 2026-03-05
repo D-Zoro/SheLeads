@@ -1,0 +1,170 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl12$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl12$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl12$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl12$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl12$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">87060</td>
+                <td align="right">605047</td>
+                <td align="right">582602</td>
+                 <td align="right">509935</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=TRIPURA&state_code=30&district_name=DHALAI&district_code=3004&fin_year=2019-2020&source=national&Digest=j1aOs8KQe0vMcucg4Iaj0Q'>DHALAI</a></td>
+                <td align="right">15790</td>
+                <td align="right">87911</td>
+                <td align="right">83994</td>
+                 <td align="right">79024</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=TRIPURA&state_code=30&district_name=Gomati&district_code=3008&fin_year=2019-2020&source=national&Digest=2DVKGa1NQqnqy72f4Wyzyw'>Gomati</a></td>
+                <td align="right">5532</td>
+                <td align="right">84961</td>
+                <td align="right">89474</td>
+                 <td align="right">78267</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=TRIPURA&state_code=30&district_name=Khowai&district_code=3006&fin_year=2019-2020&source=national&Digest=F2kRhOjL+MugG1l5nhkwDA'>Khowai</a></td>
+                <td align="right">8939</td>
+                <td align="right">59848</td>
+                <td align="right">59192</td>
+                 <td align="right">50442</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=TRIPURA&state_code=30&district_name=NORTH+TRIPURA&district_code=3003&fin_year=2019-2020&source=national&Digest=52Jv69X1wcf0oyhQ/OoclA'>NORTH TRIPURA</a></td>
+                <td align="right">3979</td>
+                <td align="right">58019</td>
+                <td align="right">66074</td>
+                 <td align="right">59739</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=TRIPURA&state_code=30&district_name=Sepahijala&district_code=3007&fin_year=2019-2020&source=national&Digest=thrCPOxEns1y1OUn56q5sg'>Sepahijala</a></td>
+                <td align="right">23647</td>
+                <td align="right">92227</td>
+                <td align="right">69680</td>
+                 <td align="right">60640</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=TRIPURA&state_code=30&district_name=SOUTH+TRIPURA&district_code=3002&fin_year=2019-2020&source=national&Digest=B3musGPyFWvR7nGsvTHQxw'>SOUTH TRIPURA</a></td>
+                <td align="right">8229</td>
+                <td align="right">88379</td>
+                <td align="right">89892</td>
+                 <td align="right">74350</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=TRIPURA&state_code=30&district_name=Unakoti&district_code=3005&fin_year=2019-2020&source=national&Digest=J4dLmS6V3+Dx65GGAYUq0w'>Unakoti</a></td>
+                <td align="right">1242</td>
+                <td align="right">42993</td>
+                <td align="right">49339</td>
+                 <td align="right">43909</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=TRIPURA&state_code=30&district_name=WEST+TRIPURA&district_code=3001&fin_year=2019-2020&source=national&Digest=YkN9ghJeZ7rurXTpkoFxfg'>WEST TRIPURA</a></td>
+                <td align="right">19702</td>
+                <td align="right">90709</td>
+                <td align="right">74957</td>
+                 <td align="right">63564</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">87060</td>
+                <td align="right">605047</td>
+                <td align="right">582602</td>
+                 <td align="right">509935</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

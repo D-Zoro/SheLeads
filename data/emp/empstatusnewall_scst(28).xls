@@ -1,0 +1,1260 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=UTTARAKHAND&state_code=35&district_name=ALMORA&district_code=3507&fin_year=2019-2020&source=national&typediv=0&Digest=mVvpuDpP0iTDW3aedTG/vQ'>ALMORA</a>
+                    </td>
+                    <td align="right">
+                        19769
+                    </td>
+                    <td align="right">
+                        53
+                    </td>
+                    <td align="right">
+                        80800
+                    </td>
+                    <td align="right">
+                        100622
+                    </td>
+                    <td align="right">
+                        6234
+                    </td>
+                    <td align="right">
+                        26
+                    </td>
+                    <td align="right">
+                        24781
+                    </td>
+                    <td align="right">
+                        31041
+                    </td>
+                    
+                    <td align="right">
+                        23918
+                    </td>
+                    <td align="right">
+                        8496
+                    </td>
+                    <td align="right">
+                        52
+                    </td>
+                    <td align="right">
+                        32529
+                    </td>
+                    <td align="right">
+                        41077
+                    </td>
+                    <td align="right">
+                        225109
+                    </td>
+                    <td align="right">
+                        1125
+                    </td>
+                    <td align="right">
+                        829392
+                    </td>
+                    <td align="right">
+                        1055626
+                    </td>
+                    <td align="right">
+                        596812
+                    </td>
+                    <td align="right">
+                        261
+                    </td>
+                    <td align="right">
+                        4
+                    </td>
+                    <td align="right">
+                        730
+                    </td>
+                    <td align="right">
+                        995
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=UTTARAKHAND&state_code=35&district_name=BAGESHWAR&district_code=3512&fin_year=2019-2020&source=national&typediv=0&Digest=l2anw+OY0LJfxdyVSb4Ohg'>BAGESHWAR</a>
+                    </td>
+                    <td align="right">
+                        11070
+                    </td>
+                    <td align="right">
+                        305
+                    </td>
+                    <td align="right">
+                        33728
+                    </td>
+                    <td align="right">
+                        45103
+                    </td>
+                    <td align="right">
+                        4642
+                    </td>
+                    <td align="right">
+                        90
+                    </td>
+                    <td align="right">
+                        13757
+                    </td>
+                    <td align="right">
+                        18489
+                    </td>
+                    
+                    <td align="right">
+                        13452
+                    </td>
+                    <td align="right">
+                        6425
+                    </td>
+                    <td align="right">
+                        127
+                    </td>
+                    <td align="right">
+                        18349
+                    </td>
+                    <td align="right">
+                        24901
+                    </td>
+                    <td align="right">
+                        201725
+                    </td>
+                    <td align="right">
+                        3802
+                    </td>
+                    <td align="right">
+                        601428
+                    </td>
+                    <td align="right">
+                        806955
+                    </td>
+                    <td align="right">
+                        439857
+                    </td>
+                    <td align="right">
+                        252
+                    </td>
+                    <td align="right">
+                        7
+                    </td>
+                    <td align="right">
+                        858
+                    </td>
+                    <td align="right">
+                        1117
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=UTTARAKHAND&state_code=35&district_name=CHAMOLI&district_code=3504&fin_year=2019-2020&source=national&typediv=0&Digest=fNu15yAJlf53gA6DhdNbQA'>CHAMOLI</a>
+                    </td>
+                    <td align="right">
+                        11434
+                    </td>
+                    <td align="right">
+                        1312
+                    </td>
+                    <td align="right">
+                        59906
+                    </td>
+                    <td align="right">
+                        72652
+                    </td>
+                    <td align="right">
+                        9451
+                    </td>
+                    <td align="right">
+                        764
+                    </td>
+                    <td align="right">
+                        47441
+                    </td>
+                    <td align="right">
+                        57656
+                    </td>
+                    
+                    <td align="right">
+                        45437
+                    </td>
+                    <td align="right">
+                        12466
+                    </td>
+                    <td align="right">
+                        956
+                    </td>
+                    <td align="right">
+                        59314
+                    </td>
+                    <td align="right">
+                        72736
+                    </td>
+                    <td align="right">
+                        426913
+                    </td>
+                    <td align="right">
+                        34269
+                    </td>
+                    <td align="right">
+                        2134458
+                    </td>
+                    <td align="right">
+                        2595640
+                    </td>
+                    <td align="right">
+                        1660244
+                    </td>
+                    <td align="right">
+                        379
+                    </td>
+                    <td align="right">
+                        53
+                    </td>
+                    <td align="right">
+                        1761
+                    </td>
+                    <td align="right">
+                        2193
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        4
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=UTTARAKHAND&state_code=35&district_name=CHAMPAWAT&district_code=3510&fin_year=2019-2020&source=national&typediv=0&Digest=xLSDCDbpKHa5fvDHNnnk/Q'>CHAMPAWAT</a>
+                    </td>
+                    <td align="right">
+                        5311
+                    </td>
+                    <td align="right">
+                        74
+                    </td>
+                    <td align="right">
+                        26757
+                    </td>
+                    <td align="right">
+                        32142
+                    </td>
+                    <td align="right">
+                        2455
+                    </td>
+                    <td align="right">
+                        24
+                    </td>
+                    <td align="right">
+                        12986
+                    </td>
+                    <td align="right">
+                        15465
+                    </td>
+                    
+                    <td align="right">
+                        9225
+                    </td>
+                    <td align="right">
+                        3051
+                    </td>
+                    <td align="right">
+                        32
+                    </td>
+                    <td align="right">
+                        16818
+                    </td>
+                    <td align="right">
+                        19901
+                    </td>
+                    <td align="right">
+                        107843
+                    </td>
+                    <td align="right">
+                        1258
+                    </td>
+                    <td align="right">
+                        575476
+                    </td>
+                    <td align="right">
+                        684577
+                    </td>
+                    <td align="right">
+                        323508
+                    </td>
+                    <td align="right">
+                        151
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        905
+                    </td>
+                    <td align="right">
+                        1056
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        5
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=UTTARAKHAND&state_code=35&district_name=DEHRADUN&district_code=3502&fin_year=2019-2020&source=national&typediv=0&Digest=Fw3++rECaHBA1IVY32X6RQ'>DEHRADUN</a>
+                    </td>
+                    <td align="right">
+                        12264
+                    </td>
+                    <td align="right">
+                        17797
+                    </td>
+                    <td align="right">
+                        29386
+                    </td>
+                    <td align="right">
+                        59447
+                    </td>
+                    <td align="right">
+                        5138
+                    </td>
+                    <td align="right">
+                        8731
+                    </td>
+                    <td align="right">
+                        8928
+                    </td>
+                    <td align="right">
+                        22797
+                    </td>
+                    
+                    <td align="right">
+                        9726
+                    </td>
+                    <td align="right">
+                        6246
+                    </td>
+                    <td align="right">
+                        10533
+                    </td>
+                    <td align="right">
+                        11954
+                    </td>
+                    <td align="right">
+                        28733
+                    </td>
+                    <td align="right">
+                        192199
+                    </td>
+                    <td align="right">
+                        348359
+                    </td>
+                    <td align="right">
+                        419530
+                    </td>
+                    <td align="right">
+                        960088
+                    </td>
+                    <td align="right">
+                        325092
+                    </td>
+                    <td align="right">
+                        210
+                    </td>
+                    <td align="right">
+                        285
+                    </td>
+                    <td align="right">
+                        630
+                    </td>
+                    <td align="right">
+                        1125
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        6
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=UTTARAKHAND&state_code=35&district_name=HARIDWAR&district_code=3503&fin_year=2019-2020&source=national&typediv=0&Digest=qQx2evS3qGwAK/9ICtC+BA'>HARIDWAR</a>
+                    </td>
+                    <td align="right">
+                        58010
+                    </td>
+                    <td align="right">
+                        639
+                    </td>
+                    <td align="right">
+                        115607
+                    </td>
+                    <td align="right">
+                        174256
+                    </td>
+                    <td align="right">
+                        6963
+                    </td>
+                    <td align="right">
+                        22
+                    </td>
+                    <td align="right">
+                        20729
+                    </td>
+                    <td align="right">
+                        27714
+                    </td>
+                    
+                    <td align="right">
+                        12895
+                    </td>
+                    <td align="right">
+                        8810
+                    </td>
+                    <td align="right">
+                        28
+                    </td>
+                    <td align="right">
+                        25473
+                    </td>
+                    <td align="right">
+                        34311
+                    </td>
+                    <td align="right">
+                        337124
+                    </td>
+                    <td align="right">
+                        1035
+                    </td>
+                    <td align="right">
+                        935576
+                    </td>
+                    <td align="right">
+                        1273735
+                    </td>
+                    <td align="right">
+                        460717
+                    </td>
+                    <td align="right">
+                        280
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        610
+                    </td>
+                    <td align="right">
+                        890
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        7
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=UTTARAKHAND&state_code=35&district_name=NAINITAL&district_code=3508&fin_year=2019-2020&source=national&typediv=0&Digest=yWiTzIu3NqjAL/osHZwRSA'>NAINITAL</a>
+                    </td>
+                    <td align="right">
+                        12020
+                    </td>
+                    <td align="right">
+                        318
+                    </td>
+                    <td align="right">
+                        43271
+                    </td>
+                    <td align="right">
+                        55609
+                    </td>
+                    <td align="right">
+                        3783
+                    </td>
+                    <td align="right">
+                        67
+                    </td>
+                    <td align="right">
+                        16109
+                    </td>
+                    <td align="right">
+                        19959
+                    </td>
+                    
+                    <td align="right">
+                        14043
+                    </td>
+                    <td align="right">
+                        6194
+                    </td>
+                    <td align="right">
+                        101
+                    </td>
+                    <td align="right">
+                        25696
+                    </td>
+                    <td align="right">
+                        31991
+                    </td>
+                    <td align="right">
+                        158441
+                    </td>
+                    <td align="right">
+                        1889
+                    </td>
+                    <td align="right">
+                        696706
+                    </td>
+                    <td align="right">
+                        857036
+                    </td>
+                    <td align="right">
+                        366154
+                    </td>
+                    <td align="right">
+                        141
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        802
+                    </td>
+                    <td align="right">
+                        944
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        8
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=UTTARAKHAND&state_code=35&district_name=PAURI+GARHWAL&district_code=3505&fin_year=2019-2020&source=national&typediv=0&Digest=92WIOD4Fij+ttyfQdOStKw'>PAURI GARHWAL</a>
+                    </td>
+                    <td align="right">
+                        11814
+                    </td>
+                    <td align="right">
+                        65
+                    </td>
+                    <td align="right">
+                        86099
+                    </td>
+                    <td align="right">
+                        97978
+                    </td>
+                    <td align="right">
+                        8088
+                    </td>
+                    <td align="right">
+                        37
+                    </td>
+                    <td align="right">
+                        55334
+                    </td>
+                    <td align="right">
+                        63459
+                    </td>
+                    
+                    <td align="right">
+                        52850
+                    </td>
+                    <td align="right">
+                        10287
+                    </td>
+                    <td align="right">
+                        49
+                    </td>
+                    <td align="right">
+                        67414
+                    </td>
+                    <td align="right">
+                        77750
+                    </td>
+                    <td align="right">
+                        298709
+                    </td>
+                    <td align="right">
+                        1229
+                    </td>
+                    <td align="right">
+                        2055660
+                    </td>
+                    <td align="right">
+                        2355598
+                    </td>
+                    <td align="right">
+                        1647884
+                    </td>
+                    <td align="right">
+                        156
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1309
+                    </td>
+                    <td align="right">
+                        1465
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        9
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=UTTARAKHAND&state_code=35&district_name=PITHORAGARH&district_code=3511&fin_year=2019-2020&source=national&typediv=0&Digest=vQXHk4cC+upawAYOTJMxKA'>PITHORAGARH</a>
+                    </td>
+                    <td align="right">
+                        13588
+                    </td>
+                    <td align="right">
+                        2103
+                    </td>
+                    <td align="right">
+                        50721
+                    </td>
+                    <td align="right">
+                        66412
+                    </td>
+                    <td align="right">
+                        7981
+                    </td>
+                    <td align="right">
+                        1211
+                    </td>
+                    <td align="right">
+                        30186
+                    </td>
+                    <td align="right">
+                        39378
+                    </td>
+                    
+                    <td align="right">
+                        32083
+                    </td>
+                    <td align="right">
+                        13293
+                    </td>
+                    <td align="right">
+                        1932
+                    </td>
+                    <td align="right">
+                        48497
+                    </td>
+                    <td align="right">
+                        63722
+                    </td>
+                    <td align="right">
+                        388571
+                    </td>
+                    <td align="right">
+                        44987
+                    </td>
+                    <td align="right">
+                        1467739
+                    </td>
+                    <td align="right">
+                        1901297
+                    </td>
+                    <td align="right">
+                        946542
+                    </td>
+                    <td align="right">
+                        678
+                    </td>
+                    <td align="right">
+                        57
+                    </td>
+                    <td align="right">
+                        2723
+                    </td>
+                    <td align="right">
+                        3458
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        10
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=UTTARAKHAND&state_code=35&district_name=RUDRA+PRAYAG&district_code=3506&fin_year=2019-2020&source=national&typediv=0&Digest=Y6yhoQLUFEy/tmCnYcQm+w'>RUDRA PRAYAG</a>
+                    </td>
+                    <td align="right">
+                        7842
+                    </td>
+                    <td align="right">
+                        9
+                    </td>
+                    <td align="right">
+                        40855
+                    </td>
+                    <td align="right">
+                        48706
+                    </td>
+                    <td align="right">
+                        4284
+                    </td>
+                    <td align="right">
+                        6
+                    </td>
+                    <td align="right">
+                        21001
+                    </td>
+                    <td align="right">
+                        25291
+                    </td>
+                    
+                    <td align="right">
+                        20652
+                    </td>
+                    <td align="right">
+                        6432
+                    </td>
+                    <td align="right">
+                        9
+                    </td>
+                    <td align="right">
+                        26969
+                    </td>
+                    <td align="right">
+                        33410
+                    </td>
+                    <td align="right">
+                        232564
+                    </td>
+                    <td align="right">
+                        394
+                    </td>
+                    <td align="right">
+                        1076161
+                    </td>
+                    <td align="right">
+                        1309119
+                    </td>
+                    <td align="right">
+                        820482
+                    </td>
+                    <td align="right">
+                        523
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        2099
+                    </td>
+                    <td align="right">
+                        2624
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        11
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=UTTARAKHAND&state_code=35&district_name=TEHRI+GARHWAL&district_code=3513&fin_year=2019-2020&source=national&typediv=0&Digest=7Mrqrm3p9MbvSGOCJqjlvg'>TEHRI GARHWAL</a>
+                    </td>
+                    <td align="right">
+                        14683
+                    </td>
+                    <td align="right">
+                        168
+                    </td>
+                    <td align="right">
+                        138696
+                    </td>
+                    <td align="right">
+                        153547
+                    </td>
+                    <td align="right">
+                        10097
+                    </td>
+                    <td align="right">
+                        83
+                    </td>
+                    <td align="right">
+                        84334
+                    </td>
+                    <td align="right">
+                        94514
+                    </td>
+                    
+                    <td align="right">
+                        78351
+                    </td>
+                    <td align="right">
+                        11811
+                    </td>
+                    <td align="right">
+                        106
+                    </td>
+                    <td align="right">
+                        95331
+                    </td>
+                    <td align="right">
+                        107248
+                    </td>
+                    <td align="right">
+                        300678
+                    </td>
+                    <td align="right">
+                        2958
+                    </td>
+                    <td align="right">
+                        2545773
+                    </td>
+                    <td align="right">
+                        2849409
+                    </td>
+                    <td align="right">
+                        2086727
+                    </td>
+                    <td align="right">
+                        72
+                    </td>
+                    <td align="right">
+                        6
+                    </td>
+                    <td align="right">
+                        632
+                    </td>
+                    <td align="right">
+                        710
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        12
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=UTTARAKHAND&state_code=35&district_name=UDAM+SINGH+NAGAR&district_code=3509&fin_year=2019-2020&source=national&typediv=0&Digest=+c19RCFtj32rV7RsaXLiTg'>UDAM SINGH NAGAR</a>
+                    </td>
+                    <td align="right">
+                        17155
+                    </td>
+                    <td align="right">
+                        17954
+                    </td>
+                    <td align="right">
+                        68561
+                    </td>
+                    <td align="right">
+                        103670
+                    </td>
+                    <td align="right">
+                        4698
+                    </td>
+                    <td align="right">
+                        7558
+                    </td>
+                    <td align="right">
+                        19816
+                    </td>
+                    <td align="right">
+                        32072
+                    </td>
+                    
+                    <td align="right">
+                        22034
+                    </td>
+                    <td align="right">
+                        6650
+                    </td>
+                    <td align="right">
+                        10448
+                    </td>
+                    <td align="right">
+                        27052
+                    </td>
+                    <td align="right">
+                        44150
+                    </td>
+                    <td align="right">
+                        182245
+                    </td>
+                    <td align="right">
+                        225364
+                    </td>
+                    <td align="right">
+                        831367
+                    </td>
+                    <td align="right">
+                        1238976
+                    </td>
+                    <td align="right">
+                        574846
+                    </td>
+                    <td align="right">
+                        199
+                    </td>
+                    <td align="right">
+                        237
+                    </td>
+                    <td align="right">
+                        925
+                    </td>
+                    <td align="right">
+                        1361
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        13
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=UTTARAKHAND&state_code=35&district_name=UTTAR+KASHI&district_code=3501&fin_year=2019-2020&source=national&typediv=0&Digest=vMc8+T9GJzFCPi3pUii7Aw'>UTTAR KASHI</a>
+                    </td>
+                    <td align="right">
+                        14330
+                    </td>
+                    <td align="right">
+                        576
+                    </td>
+                    <td align="right">
+                        68392
+                    </td>
+                    <td align="right">
+                        83298
+                    </td>
+                    <td align="right">
+                        9892
+                    </td>
+                    <td align="right">
+                        260
+                    </td>
+                    <td align="right">
+                        45909
+                    </td>
+                    <td align="right">
+                        56061
+                    </td>
+                    
+                    <td align="right">
+                        43048
+                    </td>
+                    <td align="right">
+                        14353
+                    </td>
+                    <td align="right">
+                        384
+                    </td>
+                    <td align="right">
+                        66116
+                    </td>
+                    <td align="right">
+                        80853
+                    </td>
+                    <td align="right">
+                        470311
+                    </td>
+                    <td align="right">
+                        11245
+                    </td>
+                    <td align="right">
+                        2240584
+                    </td>
+                    <td align="right">
+                        2722140
+                    </td>
+                    <td align="right">
+                        1421833
+                    </td>
+                    <td align="right">
+                        615
+                    </td>
+                    <td align="right">
+                        4
+                    </td>
+                    <td align="right">
+                        3345
+                    </td>
+                    <td align="right">
+                        3964
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        209290
+                    </td>
+                    <td align="right">
+                        41373
+                    </td>
+                    <td align="right">
+                        842779
+                    </td>
+                    <td align="right">
+                        1093442
+                    </td>
+                    <td align="right">
+                        83706
+                    </td>
+                    <td align="right">
+                        18879
+                    </td>
+                    <td align="right">
+                        401311
+                    </td>
+                    <td align="right">
+                        503896
+                    </td>
+                    
+                    <td align="right">
+                        377714
+                    </td>
+                    <td align="right">
+                        114514
+                    </td>
+                    <td align="right">
+                        24757
+                    </td>
+                    <td align="right">
+                        521512
+                    </td>
+                    <td align="right">
+                        660783
+                    </td>
+                    <td align="right">
+                        3522432
+                    </td>
+                    <td align="right">
+                        677914
+                    </td>
+                    <td align="right">
+                        16409850
+                    </td>
+                    <td align="right">
+                        20610196
+                    </td>
+                    <td align="right">
+                        11670698
+                    </td>
+                    <td align="right">
+                        3917
+                    </td>
+                    <td align="right">
+                        656
+                    </td>
+                    <td align="right">
+                        17329
+                    </td>
+                    <td align="right">
+                        21902
+                    </td>
+                </tr>
+            
+                </table>
+            

@@ -1,0 +1,225 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl17$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl17$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl17$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl17$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl17$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">678</td>
+                <td align="right">6288837</td>
+                <td align="right">5896760</td>
+                 <td align="right">5070241</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ANDHRA+PRADESH&state_code=02&district_name=ANANTAPUR&district_code=0212&fin_year=2019-2020&source=national&Digest=sw9f21lfbMYIUd2kHfhcmg'>ANANTAPUR</a></td>
+                <td align="right">60</td>
+                <td align="right">563683</td>
+                <td align="right">497035</td>
+                 <td align="right">429989</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ANDHRA+PRADESH&state_code=02&district_name=CHITTOOR&district_code=0210&fin_year=2019-2020&source=national&Digest=QUjKPGg5gpVLnJcDAMfJUA'>CHITTOOR</a></td>
+                <td align="right">57</td>
+                <td align="right">465948</td>
+                <td align="right">416727</td>
+                 <td align="right">346653</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ANDHRA+PRADESH&state_code=02&district_name=EAST+GODAVARI&district_code=0204&fin_year=2019-2020&source=national&Digest=0IyIzjCIaLEGJTIEZttFBA'>EAST GODAVARI</a></td>
+                <td align="right">49</td>
+                <td align="right">541687</td>
+                <td align="right">475674</td>
+                 <td align="right">373507</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ANDHRA+PRADESH&state_code=02&district_name=GUNTUR&district_code=0207&fin_year=2019-2020&source=national&Digest=/IusGrJiNpi7HcsZiL8nvw'>GUNTUR</a></td>
+                <td align="right">40</td>
+                <td align="right">462440</td>
+                <td align="right">495364</td>
+                 <td align="right">415080</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ANDHRA+PRADESH&state_code=02&district_name=KRISHNA&district_code=0206&fin_year=2019-2020&source=national&Digest=ToYdes7VZaDoL3RD+WW9RQ'>KRISHNA</a></td>
+                <td align="right">24</td>
+                <td align="right">392021</td>
+                <td align="right">478551</td>
+                 <td align="right">401057</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ANDHRA+PRADESH&state_code=02&district_name=KURNOOL&district_code=0213&fin_year=2019-2020&source=national&Digest=2woa0AqzD93Y4O7jk5qJzQ'>KURNOOL</a></td>
+                <td align="right">53</td>
+                <td align="right">540899</td>
+                <td align="right">531511</td>
+                 <td align="right">457120</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ANDHRA+PRADESH&state_code=02&district_name=NELLORE&district_code=0209&fin_year=2019-2020&source=national&Digest=3dsSGj6894irlNQ4/wP+EQ'>NELLORE</a></td>
+                <td align="right">31</td>
+                <td align="right">346815</td>
+                <td align="right">320011</td>
+                 <td align="right">275524</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ANDHRA+PRADESH&state_code=02&district_name=PRAKASAM&district_code=0208&fin_year=2019-2020&source=national&Digest=g8Cq4QlALOA3avnkkV0OiQ'>PRAKASAM</a></td>
+                <td align="right">106</td>
+                <td align="right">576407</td>
+                <td align="right">551487</td>
+                 <td align="right">490064</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">9</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ANDHRA+PRADESH&state_code=02&district_name=SRIKAKULAM&district_code=0201&fin_year=2019-2020&source=national&Digest=NzqhO1WrYwqA7u9Fupwcfw'>SRIKAKULAM</a></td>
+                <td align="right">34</td>
+                <td align="right">587875</td>
+                <td align="right">509207</td>
+                 <td align="right">450961</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">10</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ANDHRA+PRADESH&state_code=02&district_name=VISAKHAPATANAM&district_code=0203&fin_year=2019-2020&source=national&Digest=FEwFexXZDLpyFN2ySNCQnQ'>VISAKHAPATANAM</a></td>
+                <td align="right">59</td>
+                <td align="right">512667</td>
+                <td align="right">432410</td>
+                 <td align="right">392425</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">11</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ANDHRA+PRADESH&state_code=02&district_name=VIZIANAGARAM&district_code=0202&fin_year=2019-2020&source=national&Digest=Xz9/zaonjsP0xqmHi3T5cA'>VIZIANAGARAM</a></td>
+                <td align="right">54</td>
+                <td align="right">499372</td>
+                <td align="right">447546</td>
+                 <td align="right">411198</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">12</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ANDHRA+PRADESH&state_code=02&district_name=WEST+GODAVARI&district_code=0205&fin_year=2019-2020&source=national&Digest=JmVW/CMslN7kallL/REJhw'>WEST GODAVARI</a></td>
+                <td align="right">83</td>
+                <td align="right">427956</td>
+                <td align="right">424442</td>
+                 <td align="right">360475</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">13</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ANDHRA+PRADESH&state_code=02&district_name=Y.S.R&district_code=0211&fin_year=2019-2020&source=national&Digest=yZrXcx4uyVdT1nV8nYfbiA'>Y.S.R</a></td>
+                <td align="right">28</td>
+                <td align="right">371067</td>
+                <td align="right">316795</td>
+                 <td align="right">266188</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">678</td>
+                <td align="right">6288837</td>
+                <td align="right">5896760</td>
+                 <td align="right">5070241</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

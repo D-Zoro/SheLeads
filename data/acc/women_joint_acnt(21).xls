@@ -1,0 +1,170 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl12$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl12$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl12$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl12$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl12$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">40096</td>
+                <td align="right">169438</td>
+                <td align="right">112597</td>
+                 <td align="right">105404</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MIZORAM&state_code=22&district_name=AIZAWL&district_code=2201&fin_year=2019-2020&source=national&Digest=VkgdWBrcqaEyN/g0Qjvq8w'>AIZAWL</a></td>
+                <td align="right">6558</td>
+                <td align="right">25783</td>
+                <td align="right">15881</td>
+                 <td align="right">14944</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MIZORAM&state_code=22&district_name=CHAMPHAI+&district_code=2206&fin_year=2019-2020&source=national&Digest=FwOD5FQQTkuIChmzmexg4g'>CHAMPHAI </a></td>
+                <td align="right">11313</td>
+                <td align="right">29577</td>
+                <td align="right">14851</td>
+                 <td align="right">14204</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MIZORAM&state_code=22&district_name=KOLASIB&district_code=2205&fin_year=2019-2020&source=national&Digest=4+qF9sBv87WNa3PKJNO1Pg'>KOLASIB</a></td>
+                <td align="right">40</td>
+                <td align="right">11799</td>
+                <td align="right">13795</td>
+                 <td align="right">13667</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MIZORAM&state_code=22&district_name=LAWNGTLAI&district_code=2208&fin_year=2019-2020&source=national&Digest=DEbZZmRUasjzo1/HcTZfUw'>LAWNGTLAI</a></td>
+                <td align="right">13906</td>
+                <td align="right">30450</td>
+                <td align="right">22859</td>
+                 <td align="right">22079</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MIZORAM&state_code=22&district_name=LUNGLEI&district_code=2202&fin_year=2019-2020&source=national&Digest=abuusRG2vuc4nl0xU9Jn7Q'>LUNGLEI</a></td>
+                <td align="right">2136</td>
+                <td align="right">29832</td>
+                <td align="right">12909</td>
+                 <td align="right">10875</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MIZORAM&state_code=22&district_name=MAMIT&district_code=2204&fin_year=2019-2020&source=national&Digest=DqGflzK30fDp1NQgEgqzbA'>MAMIT</a></td>
+                <td align="right">799</td>
+                <td align="right">18664</td>
+                <td align="right">10650</td>
+                 <td align="right">10056</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MIZORAM&state_code=22&district_name=SERCHHIP&district_code=2207&fin_year=2019-2020&source=national&Digest=+XvKinDmBy0Co/iidFJN4A'>SERCHHIP</a></td>
+                <td align="right">764</td>
+                <td align="right">11257</td>
+                <td align="right">10124</td>
+                 <td align="right">8846</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=MIZORAM&state_code=22&district_name=Siaha&district_code=2203&fin_year=2019-2020&source=national&Digest=hRHMBF9L4fmbSR1cAd+Nag'>Siaha</a></td>
+                <td align="right">4580</td>
+                <td align="right">12076</td>
+                <td align="right">11528</td>
+                 <td align="right">10733</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">40096</td>
+                <td align="right">169438</td>
+                <td align="right">112597</td>
+                 <td align="right">105404</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

@@ -1,0 +1,335 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl27$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl27$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl27$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl27$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl27$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">1552411</td>
+                <td align="right">10484753</td>
+                <td align="right">9543101</td>
+                 <td align="right">902785</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=ALIPURDUAR&district_code=3220&fin_year=2019-2020&source=national&Digest=rtmJOExP2ZT+BZk1aJ+sQA'>ALIPURDUAR</a></td>
+                <td align="right">25333</td>
+                <td align="right">300588</td>
+                <td align="right">275321</td>
+                 <td align="right">84808</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=BANKURA&district_code=3213&fin_year=2019-2020&source=national&Digest=lbLu1U0B6GCTxQlylstuFQ'>BANKURA</a></td>
+                <td align="right">55356</td>
+                <td align="right">610884</td>
+                <td align="right">586229</td>
+                 <td align="right">35828</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=BIRBHUM&district_code=3203&fin_year=2019-2020&source=national&Digest=ESBiu6DkjxxXl9c4z3es/w'>BIRBHUM</a></td>
+                <td align="right">183972</td>
+                <td align="right">640394</td>
+                <td align="right">553729</td>
+                 <td align="right">66287</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=COOCHBEHAR&district_code=3208&fin_year=2019-2020&source=national&Digest=Jn4gpV1nVtazoBGJC0bY+A'>COOCHBEHAR</a></td>
+                <td align="right">65910</td>
+                <td align="right">603813</td>
+                <td align="right">571737</td>
+                 <td align="right">28468</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=DAKSHIN+DINAJPUR&district_code=3217&fin_year=2019-2020&source=national&Digest=tqpMif/Fw6/QdYqiN/7ywA'>DAKSHIN DINAJPUR</a></td>
+                <td align="right">33211</td>
+                <td align="right">220468</td>
+                <td align="right">202278</td>
+                 <td align="right">17191</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=GORKHALAND+TERRITORIAL+ADMINISTRATION+(GTA)&district_code=3219&fin_year=2019-2020&source=national&Digest=XgBPCT3t5mUH44oDJIrXvA'>GORKHALAND TERRITORIAL ADMINISTRATION (GTA)</a></td>
+                <td align="right">6240</td>
+                <td align="right">116867</td>
+                <td align="right">95184</td>
+                 <td align="right">3226</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=HOOGHLY&district_code=3206&fin_year=2019-2020&source=national&Digest=52YJ0ON/g3aUtMEUq2EuYQ'>HOOGHLY</a></td>
+                <td align="right">40783</td>
+                <td align="right">561008</td>
+                <td align="right">565232</td>
+                 <td align="right">48250</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=HOWRAH&district_code=3205&fin_year=2019-2020&source=national&Digest=sDIL8nOgqDQtKyL2XC9zdg'>HOWRAH</a></td>
+                <td align="right">10893</td>
+                <td align="right">189751</td>
+                <td align="right">197422</td>
+                 <td align="right">34944</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">9</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=JALPAIGURI&district_code=3207&fin_year=2019-2020&source=national&Digest=0YE6ZU6582dTW0gB3KozEA'>JALPAIGURI</a></td>
+                <td align="right">14130</td>
+                <td align="right">367401</td>
+                <td align="right">326443</td>
+                 <td align="right">49197</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">10</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=JHARGRAM&district_code=3222&fin_year=2019-2020&source=national&Digest=jI1l3hUbchK3kmAPau9cIQ'>JHARGRAM</a></td>
+                <td align="right">49272</td>
+                <td align="right">207423</td>
+                <td align="right">183898</td>
+                 <td align="right">15879</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">11</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=KALIMPONG&district_code=3221&fin_year=2019-2020&source=national&Digest=2yKiCEnRvRQamGybQpxIBQ'>KALIMPONG</a></td>
+                <td align="right">4057</td>
+                <td align="right">55058</td>
+                <td align="right">42581</td>
+                 <td align="right">7689</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">12</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=MALDAH&district_code=3209&fin_year=2019-2020&source=national&Digest=Mkj423RiCRUq9xrfxeTsfA'>MALDAH</a></td>
+                <td align="right">69951</td>
+                <td align="right">566611</td>
+                <td align="right">474211</td>
+                 <td align="right">39154</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">13</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=MURSHIDABAD&district_code=3212&fin_year=2019-2020&source=national&Digest=pVUD/ytW0z6D/d7n62z4RA'>MURSHIDABAD</a></td>
+                <td align="right">97755</td>
+                <td align="right">730409</td>
+                <td align="right">605307</td>
+                 <td align="right">27305</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">14</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=NADIA&district_code=3201&fin_year=2019-2020&source=national&Digest=xfgmhzWNPGEtqXkpD4QwdQ'>NADIA</a></td>
+                <td align="right">40749</td>
+                <td align="right">593692</td>
+                <td align="right">497859</td>
+                 <td align="right">40892</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">15</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=NORTH+24+PARGANAS&district_code=3215&fin_year=2019-2020&source=national&Digest=oIiq1Q1MrHR/+GzfHu/IGg'>NORTH 24 PARGANAS</a></td>
+                <td align="right">71579</td>
+                <td align="right">560749</td>
+                <td align="right">505868</td>
+                 <td align="right">51697</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">16</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=PASCHIM+BARDHAMAN&district_code=3202&fin_year=2019-2020&source=national&Digest=+BQfZ5iMovuz6GtF2kx/zg'>PASCHIM BARDHAMAN</a></td>
+                <td align="right">24415</td>
+                <td align="right">104621</td>
+                <td align="right">99157</td>
+                 <td align="right">8956</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">17</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=PASCHIM+MEDINIPUR&district_code=3210&fin_year=2019-2020&source=national&Digest=Ch0nVwm1zlwq9IV6OTFFIA'>PASCHIM MEDINIPUR</a></td>
+                <td align="right">59400</td>
+                <td align="right">677460</td>
+                <td align="right">658552</td>
+                 <td align="right">126887</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">18</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=PURBA+BARDHAMAN&district_code=3225&fin_year=2019-2020&source=national&Digest=OR00iNG7atnrGZBymJ3cNA'>PURBA BARDHAMAN</a></td>
+                <td align="right">339056</td>
+                <td align="right">834747</td>
+                <td align="right">727796</td>
+                 <td align="right">40958</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">19</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=PURBA+MEDINIPUR&district_code=3211&fin_year=2019-2020&source=national&Digest=KugPapt8YmXMX0Oqr1AHCA'>PURBA MEDINIPUR</a></td>
+                <td align="right">42165</td>
+                <td align="right">740344</td>
+                <td align="right">720385</td>
+                 <td align="right">49989</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">20</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=PURULIA&district_code=3214&fin_year=2019-2020&source=national&Digest=JPLZSwz3gg+cHjXzyT6buQ'>PURULIA</a></td>
+                <td align="right">38340</td>
+                <td align="right">453450</td>
+                <td align="right">395594</td>
+                 <td align="right">35155</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">21</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=SILIGURI+MAHAKUMA+PARISAD&district_code=3204&fin_year=2019-2020&source=national&Digest=3r29MzVBfnz4NYDgH0/tpw'>SILIGURI MAHAKUMA PARISAD</a></td>
+                <td align="right">2227</td>
+                <td align="right">78735</td>
+                <td align="right">83320</td>
+                 <td align="right">5335</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">22</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=SOUTH+24+PARGANAS&district_code=3216&fin_year=2019-2020&source=national&Digest=eAx0jrZbVdVs+dGlFeA7XQ'>SOUTH 24 PARGANAS</a></td>
+                <td align="right">225463</td>
+                <td align="right">904223</td>
+                <td align="right">859727</td>
+                 <td align="right">78060</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">23</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=WEST+BENGAL&state_code=32&district_name=UTTAR+DINAJPUR&district_code=3218&fin_year=2019-2020&source=national&Digest=6Y0tK6XNLJqurkMfXtPRDA'>UTTAR DINAJPUR</a></td>
+                <td align="right">52154</td>
+                <td align="right">366057</td>
+                <td align="right">315271</td>
+                 <td align="right">6630</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">1552411</td>
+                <td align="right">10484753</td>
+                <td align="right">9543101</td>
+                 <td align="right">902785</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

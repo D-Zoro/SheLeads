@@ -1,0 +1,1488 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MANIPUR&state_code=20&district_name=BISHNUPUR&district_code=2006&fin_year=2019-2020&source=national&typediv=0&Digest=n4Sy4hB68tB0hm40J4kSjQ'>BISHNUPUR</a>
+                    </td>
+                    <td align="right">
+                        7947
+                    </td>
+                    <td align="right">
+                        136
+                    </td>
+                    <td align="right">
+                        42635
+                    </td>
+                    <td align="right">
+                        50718
+                    </td>
+                    <td align="right">
+                        7843
+                    </td>
+                    <td align="right">
+                        135
+                    </td>
+                    <td align="right">
+                        42196
+                    </td>
+                    <td align="right">
+                        50174
+                    </td>
+                    
+                    <td align="right">
+                        28092
+                    </td>
+                    <td align="right">
+                        8386
+                    </td>
+                    <td align="right">
+                        198
+                    </td>
+                    <td align="right">
+                        46307
+                    </td>
+                    <td align="right">
+                        54891
+                    </td>
+                    <td align="right">
+                        374174
+                    </td>
+                    <td align="right">
+                        6312
+                    </td>
+                    <td align="right">
+                        1790881
+                    </td>
+                    <td align="right">
+                        2171367
+                    </td>
+                    <td align="right">
+                        1107634
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MANIPUR&state_code=20&district_name=CHANDEL&district_code=2004&fin_year=2019-2020&source=national&typediv=0&Digest=mXzFF9sH1SppkHELxBBsfg'>CHANDEL</a>
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        20133
+                    </td>
+                    <td align="right">
+                        160
+                    </td>
+                    <td align="right">
+                        20298
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        19439
+                    </td>
+                    <td align="right">
+                        144
+                    </td>
+                    <td align="right">
+                        19588
+                    </td>
+                    
+                    <td align="right">
+                        8143
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        19785
+                    </td>
+                    <td align="right">
+                        144
+                    </td>
+                    <td align="right">
+                        19934
+                    </td>
+                    <td align="right">
+                        210
+                    </td>
+                    <td align="right">
+                        950148
+                    </td>
+                    <td align="right">
+                        7382
+                    </td>
+                    <td align="right">
+                        957740
+                    </td>
+                    <td align="right">
+                        385956
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MANIPUR&state_code=20&district_name=CHURACHANDPUR&district_code=2003&fin_year=2019-2020&source=national&typediv=0&Digest=SrQZMZIPSLU64zMkAMPpVw'>CHURACHANDPUR</a>
+                    </td>
+                    <td align="right">
+                        49
+                    </td>
+                    <td align="right">
+                        53538
+                    </td>
+                    <td align="right">
+                        1161
+                    </td>
+                    <td align="right">
+                        54748
+                    </td>
+                    <td align="right">
+                        36
+                    </td>
+                    <td align="right">
+                        52041
+                    </td>
+                    <td align="right">
+                        1146
+                    </td>
+                    <td align="right">
+                        53223
+                    </td>
+                    
+                    <td align="right">
+                        22406
+                    </td>
+                    <td align="right">
+                        36
+                    </td>
+                    <td align="right">
+                        53171
+                    </td>
+                    <td align="right">
+                        1147
+                    </td>
+                    <td align="right">
+                        54354
+                    </td>
+                    <td align="right">
+                        1256
+                    </td>
+                    <td align="right">
+                        1927764
+                    </td>
+                    <td align="right">
+                        39426
+                    </td>
+                    <td align="right">
+                        1968446
+                    </td>
+                    <td align="right">
+                        805667
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        4
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MANIPUR&state_code=20&district_name=IMPHAL+EAST&district_code=2009&fin_year=2019-2020&source=national&typediv=0&Digest=3ktdFsgrWrQoRXke1TjF1w'>IMPHAL EAST</a>
+                    </td>
+                    <td align="right">
+                        309
+                    </td>
+                    <td align="right">
+                        1314
+                    </td>
+                    <td align="right">
+                        107434
+                    </td>
+                    <td align="right">
+                        109057
+                    </td>
+                    <td align="right">
+                        294
+                    </td>
+                    <td align="right">
+                        1206
+                    </td>
+                    <td align="right">
+                        102225
+                    </td>
+                    <td align="right">
+                        103725
+                    </td>
+                    
+                    <td align="right">
+                        64190
+                    </td>
+                    <td align="right">
+                        330
+                    </td>
+                    <td align="right">
+                        1231
+                    </td>
+                    <td align="right">
+                        108081
+                    </td>
+                    <td align="right">
+                        109642
+                    </td>
+                    <td align="right">
+                        14463
+                    </td>
+                    <td align="right">
+                        58247
+                    </td>
+                    <td align="right">
+                        4770665
+                    </td>
+                    <td align="right">
+                        4843375
+                    </td>
+                    <td align="right">
+                        2853357
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        6
+                    </td>
+                    <td align="right">
+                        518
+                    </td>
+                    <td align="right">
+                        525
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        5
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MANIPUR&state_code=20&district_name=IMPHAL+WEST&district_code=2007&fin_year=2019-2020&source=national&typediv=0&Digest=TwPezq6mYgVIaW9wuXQytA'>IMPHAL WEST</a>
+                    </td>
+                    <td align="right">
+                        2950
+                    </td>
+                    <td align="right">
+                        1092
+                    </td>
+                    <td align="right">
+                        57539
+                    </td>
+                    <td align="right">
+                        61581
+                    </td>
+                    <td align="right">
+                        2744
+                    </td>
+                    <td align="right">
+                        1049
+                    </td>
+                    <td align="right">
+                        55158
+                    </td>
+                    <td align="right">
+                        58951
+                    </td>
+                    
+                    <td align="right">
+                        40870
+                    </td>
+                    <td align="right">
+                        3079
+                    </td>
+                    <td align="right">
+                        1172
+                    </td>
+                    <td align="right">
+                        64092
+                    </td>
+                    <td align="right">
+                        68343
+                    </td>
+                    <td align="right">
+                        138446
+                    </td>
+                    <td align="right">
+                        53337
+                    </td>
+                    <td align="right">
+                        2780951
+                    </td>
+                    <td align="right">
+                        2972734
+                    </td>
+                    <td align="right">
+                        1826357
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        96
+                    </td>
+                    <td align="right">
+                        98
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        6
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MANIPUR&state_code=20&district_name=JIRIBAM&district_code=2010&fin_year=2019-2020&source=national&typediv=0&Digest=4JYZYy7k75Jdg9OChMkkgQ'>JIRIBAM</a>
+                    </td>
+                    <td align="right">
+                        1360
+                    </td>
+                    <td align="right">
+                        751
+                    </td>
+                    <td align="right">
+                        6333
+                    </td>
+                    <td align="right">
+                        8444
+                    </td>
+                    <td align="right">
+                        1284
+                    </td>
+                    <td align="right">
+                        651
+                    </td>
+                    <td align="right">
+                        5845
+                    </td>
+                    <td align="right">
+                        7780
+                    </td>
+                    
+                    <td align="right">
+                        3320
+                    </td>
+                    <td align="right">
+                        1351
+                    </td>
+                    <td align="right">
+                        682
+                    </td>
+                    <td align="right">
+                        6098
+                    </td>
+                    <td align="right">
+                        8131
+                    </td>
+                    <td align="right">
+                        57405
+                    </td>
+                    <td align="right">
+                        29453
+                    </td>
+                    <td align="right">
+                        289095
+                    </td>
+                    <td align="right">
+                        375953
+                    </td>
+                    <td align="right">
+                        158256
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        7
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MANIPUR&state_code=20&district_name=KAKCHING&district_code=2012&fin_year=2019-2020&source=national&typediv=0&Digest=MRSTa3gKixI3RZHV95+6FQ'>KAKCHING</a>
+                    </td>
+                    <td align="right">
+                        2291
+                    </td>
+                    <td align="right">
+                        336
+                    </td>
+                    <td align="right">
+                        33734
+                    </td>
+                    <td align="right">
+                        36361
+                    </td>
+                    <td align="right">
+                        2158
+                    </td>
+                    <td align="right">
+                        19
+                    </td>
+                    <td align="right">
+                        30960
+                    </td>
+                    <td align="right">
+                        33137
+                    </td>
+                    
+                    <td align="right">
+                        22735
+                    </td>
+                    <td align="right">
+                        2559
+                    </td>
+                    <td align="right">
+                        19
+                    </td>
+                    <td align="right">
+                        39163
+                    </td>
+                    <td align="right">
+                        41741
+                    </td>
+                    <td align="right">
+                        83304
+                    </td>
+                    <td align="right">
+                        718
+                    </td>
+                    <td align="right">
+                        1353138
+                    </td>
+                    <td align="right">
+                        1437160
+                    </td>
+                    <td align="right">
+                        810165
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        90
+                    </td>
+                    <td align="right">
+                        91
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        8
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MANIPUR&state_code=20&district_name=KAMJONG&district_code=2013&fin_year=2019-2020&source=national&typediv=0&Digest=0iTvXLXsJV+aiSTVvy6QNA'>KAMJONG</a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        14712
+                    </td>
+                    <td align="right">
+                        7
+                    </td>
+                    <td align="right">
+                        14719
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        12799
+                    </td>
+                    <td align="right">
+                        7
+                    </td>
+                    <td align="right">
+                        12806
+                    </td>
+                    
+                    <td align="right">
+                        4424
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        13015
+                    </td>
+                    <td align="right">
+                        9
+                    </td>
+                    <td align="right">
+                        13024
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        527092
+                    </td>
+                    <td align="right">
+                        365
+                    </td>
+                    <td align="right">
+                        527457
+                    </td>
+                    <td align="right">
+                        182601
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        9
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MANIPUR&state_code=20&district_name=KANGPOKPI&district_code=2011&fin_year=2019-2020&source=national&typediv=0&Digest=Rnt0OdVylyseuzqvsw2RHw'>KANGPOKPI</a>
+                    </td>
+                    <td align="right">
+                        130
+                    </td>
+                    <td align="right">
+                        33263
+                    </td>
+                    <td align="right">
+                        5365
+                    </td>
+                    <td align="right">
+                        38758
+                    </td>
+                    <td align="right">
+                        111
+                    </td>
+                    <td align="right">
+                        31461
+                    </td>
+                    <td align="right">
+                        5036
+                    </td>
+                    <td align="right">
+                        36608
+                    </td>
+                    
+                    <td align="right">
+                        9838
+                    </td>
+                    <td align="right">
+                        111
+                    </td>
+                    <td align="right">
+                        32584
+                    </td>
+                    <td align="right">
+                        5056
+                    </td>
+                    <td align="right">
+                        37751
+                    </td>
+                    <td align="right">
+                        5174
+                    </td>
+                    <td align="right">
+                        1281303
+                    </td>
+                    <td align="right">
+                        196287
+                    </td>
+                    <td align="right">
+                        1482764
+                    </td>
+                    <td align="right">
+                        376342
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        10
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MANIPUR&state_code=20&district_name=NONEY&district_code=2014&fin_year=2019-2020&source=national&typediv=0&Digest=XFsJDtLHgc9iiJBVAedSRg'>NONEY</a>
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        10851
+                    </td>
+                    <td align="right">
+                        875
+                    </td>
+                    <td align="right">
+                        11727
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        10566
+                    </td>
+                    <td align="right">
+                        843
+                    </td>
+                    <td align="right">
+                        11410
+                    </td>
+                    
+                    <td align="right">
+                        3322
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        10655
+                    </td>
+                    <td align="right">
+                        848
+                    </td>
+                    <td align="right">
+                        11504
+                    </td>
+                    <td align="right">
+                        41
+                    </td>
+                    <td align="right">
+                        331977
+                    </td>
+                    <td align="right">
+                        27944
+                    </td>
+                    <td align="right">
+                        359962
+                    </td>
+                    <td align="right">
+                        104205
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        11
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MANIPUR&state_code=20&district_name=PHERZAWL&district_code=2015&fin_year=2019-2020&source=national&typediv=0&Digest=oE/mn5WTX4ywSijWubl8tw'>PHERZAWL</a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        7770
+                    </td>
+                    <td align="right">
+                        131
+                    </td>
+                    <td align="right">
+                        7901
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        7761
+                    </td>
+                    <td align="right">
+                        131
+                    </td>
+                    <td align="right">
+                        7892
+                    </td>
+                    
+                    <td align="right">
+                        1688
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        7782
+                    </td>
+                    <td align="right">
+                        142
+                    </td>
+                    <td align="right">
+                        7924
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        279255
+                    </td>
+                    <td align="right">
+                        4913
+                    </td>
+                    <td align="right">
+                        284168
+                    </td>
+                    <td align="right">
+                        60553
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        12
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MANIPUR&state_code=20&district_name=SENAPATI&district_code=2001&fin_year=2019-2020&source=national&typediv=0&Digest=27z/Eqg/ErXiyDPu5QxQiQ'>SENAPATI</a>
+                    </td>
+                    <td align="right">
+                        35
+                    </td>
+                    <td align="right">
+                        39346
+                    </td>
+                    <td align="right">
+                        1185
+                    </td>
+                    <td align="right">
+                        40566
+                    </td>
+                    <td align="right">
+                        24
+                    </td>
+                    <td align="right">
+                        35562
+                    </td>
+                    <td align="right">
+                        946
+                    </td>
+                    <td align="right">
+                        36532
+                    </td>
+                    
+                    <td align="right">
+                        14155
+                    </td>
+                    <td align="right">
+                        28
+                    </td>
+                    <td align="right">
+                        36007
+                    </td>
+                    <td align="right">
+                        981
+                    </td>
+                    <td align="right">
+                        37016
+                    </td>
+                    <td align="right">
+                        799
+                    </td>
+                    <td align="right">
+                        1327841
+                    </td>
+                    <td align="right">
+                        29694
+                    </td>
+                    <td align="right">
+                        1358334
+                    </td>
+                    <td align="right">
+                        500836
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        13
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MANIPUR&state_code=20&district_name=TAMENGLONG&district_code=2002&fin_year=2019-2020&source=national&typediv=0&Digest=/P2e6ba9Fh/mZONnvG37bw'>TAMENGLONG</a>
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        18758
+                    </td>
+                    <td align="right">
+                        1709
+                    </td>
+                    <td align="right">
+                        20472
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        19089
+                    </td>
+                    <td align="right">
+                        1809
+                    </td>
+                    <td align="right">
+                        20903
+                    </td>
+                    
+                    <td align="right">
+                        7647
+                    </td>
+                    <td align="right">
+                        5
+                    </td>
+                    <td align="right">
+                        19430
+                    </td>
+                    <td align="right">
+                        1847
+                    </td>
+                    <td align="right">
+                        21282
+                    </td>
+                    <td align="right">
+                        220
+                    </td>
+                    <td align="right">
+                        741680
+                    </td>
+                    <td align="right">
+                        71451
+                    </td>
+                    <td align="right">
+                        813351
+                    </td>
+                    <td align="right">
+                        286750
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        14
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MANIPUR&state_code=20&district_name=TENGNOUPAL&district_code=2016&fin_year=2019-2020&source=national&typediv=0&Digest=hu5930k6uDL7ojhyuHM5rQ'>TENGNOUPAL</a>
+                    </td>
+                    <td align="right">
+                        87
+                    </td>
+                    <td align="right">
+                        13873
+                    </td>
+                    <td align="right">
+                        1483
+                    </td>
+                    <td align="right">
+                        15443
+                    </td>
+                    <td align="right">
+                        81
+                    </td>
+                    <td align="right">
+                        12657
+                    </td>
+                    <td align="right">
+                        1159
+                    </td>
+                    <td align="right">
+                        13897
+                    </td>
+                    
+                    <td align="right">
+                        6744
+                    </td>
+                    <td align="right">
+                        81
+                    </td>
+                    <td align="right">
+                        13141
+                    </td>
+                    <td align="right">
+                        1200
+                    </td>
+                    <td align="right">
+                        14422
+                    </td>
+                    <td align="right">
+                        3263
+                    </td>
+                    <td align="right">
+                        543513
+                    </td>
+                    <td align="right">
+                        55212
+                    </td>
+                    <td align="right">
+                        601988
+                    </td>
+                    <td align="right">
+                        279207
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        15
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MANIPUR&state_code=20&district_name=THOUBAL&district_code=2005&fin_year=2019-2020&source=national&typediv=0&Digest=eiLcpOYqMcShBq0PLprNVA'>THOUBAL</a>
+                    </td>
+                    <td align="right">
+                        40
+                    </td>
+                    <td align="right">
+                        279
+                    </td>
+                    <td align="right">
+                        47461
+                    </td>
+                    <td align="right">
+                        47780
+                    </td>
+                    <td align="right">
+                        39
+                    </td>
+                    <td align="right">
+                        98
+                    </td>
+                    <td align="right">
+                        43827
+                    </td>
+                    <td align="right">
+                        43964
+                    </td>
+                    
+                    <td align="right">
+                        33009
+                    </td>
+                    <td align="right">
+                        46
+                    </td>
+                    <td align="right">
+                        133
+                    </td>
+                    <td align="right">
+                        57946
+                    </td>
+                    <td align="right">
+                        58125
+                    </td>
+                    <td align="right">
+                        1808
+                    </td>
+                    <td align="right">
+                        4011
+                    </td>
+                    <td align="right">
+                        1834038
+                    </td>
+                    <td align="right">
+                        1839857
+                    </td>
+                    <td align="right">
+                        1115645
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        128
+                    </td>
+                    <td align="right">
+                        128
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        16
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MANIPUR&state_code=20&district_name=UKHRUL&district_code=2008&fin_year=2019-2020&source=national&typediv=0&Digest=mG/IohT1RRarQ8m/Z30SQA'>UKHRUL</a>
+                    </td>
+                    <td align="right">
+                        47
+                    </td>
+                    <td align="right">
+                        33440
+                    </td>
+                    <td align="right">
+                        131
+                    </td>
+                    <td align="right">
+                        33618
+                    </td>
+                    <td align="right">
+                        42
+                    </td>
+                    <td align="right">
+                        30708
+                    </td>
+                    <td align="right">
+                        87
+                    </td>
+                    <td align="right">
+                        30837
+                    </td>
+                    
+                    <td align="right">
+                        13770
+                    </td>
+                    <td align="right">
+                        42
+                    </td>
+                    <td align="right">
+                        31972
+                    </td>
+                    <td align="right">
+                        87
+                    </td>
+                    <td align="right">
+                        32101
+                    </td>
+                    <td align="right">
+                        1856
+                    </td>
+                    <td align="right">
+                        1406161
+                    </td>
+                    <td align="right">
+                        4529
+                    </td>
+                    <td align="right">
+                        1412546
+                    </td>
+                    <td align="right">
+                        612731
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        9
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        9
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        15256
+                    </td>
+                    <td align="right">
+                        249592
+                    </td>
+                    <td align="right">
+                        307343
+                    </td>
+                    <td align="right">
+                        572191
+                    </td>
+                    <td align="right">
+                        14667
+                    </td>
+                    <td align="right">
+                        235241
+                    </td>
+                    <td align="right">
+                        291519
+                    </td>
+                    <td align="right">
+                        541427
+                    </td>
+                    
+                    <td align="right">
+                        284353
+                    </td>
+                    <td align="right">
+                        16060
+                    </td>
+                    <td align="right">
+                        240977
+                    </td>
+                    <td align="right">
+                        333148
+                    </td>
+                    <td align="right">
+                        590185
+                    </td>
+                    <td align="right">
+                        682419
+                    </td>
+                    <td align="right">
+                        9468812
+                    </td>
+                    <td align="right">
+                        13255971
+                    </td>
+                    <td align="right">
+                        23407202
+                    </td>
+                    <td align="right">
+                        11466262
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        17
+                    </td>
+                    <td align="right">
+                        837
+                    </td>
+                    <td align="right">
+                        856
+                    </td>
+                </tr>
+            
+                </table>
+            

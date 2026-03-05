@@ -1,0 +1,1108 @@
+
+                <table border="1" width="80%" bordercolor="black" cellspacing="0" style="border-collapse: collapse">
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            1
+                        </td>
+                        <td align="center" rowspan="2">
+                            2
+                        </td>
+                        <td align="center" colspan="4">
+                            3
+                        </td>
+                                             
+                        <td align="center" colspan="9">
+                            4
+                        </td>
+                        
+                        <td align="center" colspan="5">
+                            5
+                        </td>
+                        <td align="center" colspan="4">
+                            6
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            f
+                        </td>
+
+                         <td align="center">
+                            g
+                        </td>
+
+                         <td align="center">
+                            h
+                        </td>
+                         <td align="center">
+                            i
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                        <td align="center">
+                            e
+                        </td>
+                        <td align="center">
+                            a
+                        </td>
+                        <td align="center">
+                            b
+                        </td>
+                        <td align="center">
+                            c
+                        </td>
+                        <td align="center">
+                            d
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center" rowspan="2">
+                            S.No
+                        </td>
+                        
+                        <td align="center" rowspan="2">
+                            District
+                        </td>
+                        
+                        <td align="center" colspan="4">
+                            HH issued jobcards
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of HH Provided Employment
+                        </td>
+                        
+                        <td align="center">
+                            EMP. Provided
+                        </td>
+                        <td align="center" colspan="4">
+                            No. of Workers Provided
+                                  Employment
+                        </td>
+                        <td align="center" colspan="5">
+                            No. of Persondays generated
+                        </td>
+                        <td align="center" colspan="4">
+                            Families Completed 100 Days
+                        </td>
+                    </tr>
+                    <tr bgcolor="silver">
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            No. of Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                          <td align="center">
+                            STs
+                        </td>
+                          <td align="center">
+                           Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                        <td align="center">
+                            Women
+                        </td>
+                        <td align="center">
+                            SCs
+                        </td>
+                        <td align="center">
+                            STs
+                        </td>
+                        <td align="center">
+                            Others
+                        </td>
+                        <td align="center">
+                            Total
+                        </td>
+                    </tr>
+            
+                <tr>
+                    <td align="center">
+                        1
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MEGHALAYA&state_code=21&district_name=EAST+GARO+HILLS&district_code=2104&fin_year=2019-2020&source=national&typediv=0&Digest=ap9h+gLI7vId2dpDBnBX/g'>EAST GARO HILLS</a>
+                    </td>
+                    <td align="right">
+                        23
+                    </td>
+                    <td align="right">
+                        30335
+                    </td>
+                    <td align="right">
+                        473
+                    </td>
+                    <td align="right">
+                        30831
+                    </td>
+                    <td align="right">
+                        23
+                    </td>
+                    <td align="right">
+                        28763
+                    </td>
+                    <td align="right">
+                        446
+                    </td>
+                    <td align="right">
+                        29232
+                    </td>
+                    
+                    <td align="right">
+                        30635
+                    </td>
+                    <td align="right">
+                        49
+                    </td>
+                    <td align="right">
+                        60353
+                    </td>
+                    <td align="right">
+                        966
+                    </td>
+                    <td align="right">
+                        61368
+                    </td>
+                    <td align="right">
+                        2143
+                    </td>
+                    <td align="right">
+                        2759791
+                    </td>
+                    <td align="right">
+                        42960
+                    </td>
+                    <td align="right">
+                        2804894
+                    </td>
+                    <td align="right">
+                        1258710
+                    </td>
+                    <td align="right">
+                        17
+                    </td>
+                    <td align="right">
+                        22165
+                    </td>
+                    <td align="right">
+                        343
+                    </td>
+                    <td align="right">
+                        22525
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        2
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MEGHALAYA&state_code=21&district_name=East+Jaintia+Hills&district_code=2108&fin_year=2019-2020&source=national&typediv=0&Digest=lHzf4UdrInobJ7tncn/Q1Q'>East Jaintia Hills</a>
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        31235
+                    </td>
+                    <td align="right">
+                        54
+                    </td>
+                    <td align="right">
+                        31291
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        23362
+                    </td>
+                    <td align="right">
+                        45
+                    </td>
+                    <td align="right">
+                        23409
+                    </td>
+                    
+                    <td align="right">
+                        17401
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        24432
+                    </td>
+                    <td align="right">
+                        46
+                    </td>
+                    <td align="right">
+                        24480
+                    </td>
+                    <td align="right">
+                        32
+                    </td>
+                    <td align="right">
+                        1308188
+                    </td>
+                    <td align="right">
+                        2542
+                    </td>
+                    <td align="right">
+                        1310762
+                    </td>
+                    <td align="right">
+                        938618
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1114
+                    </td>
+                    <td align="right">
+                        2
+                    </td>
+                    <td align="right">
+                        1116
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        3
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MEGHALAYA&state_code=21&district_name=EAST+KHASI+HILLS&district_code=2102&fin_year=2019-2020&source=national&typediv=0&Digest=QvExWdIxkj6ZF/XjdgrPCg'>EAST KHASI HILLS</a>
+                    </td>
+                    <td align="right">
+                        229
+                    </td>
+                    <td align="right">
+                        97931
+                    </td>
+                    <td align="right">
+                        1370
+                    </td>
+                    <td align="right">
+                        99530
+                    </td>
+                    <td align="right">
+                        188
+                    </td>
+                    <td align="right">
+                        78642
+                    </td>
+                    <td align="right">
+                        988
+                    </td>
+                    <td align="right">
+                        79818
+                    </td>
+                    
+                    <td align="right">
+                        61490
+                    </td>
+                    <td align="right">
+                        200
+                    </td>
+                    <td align="right">
+                        87348
+                    </td>
+                    <td align="right">
+                        1061
+                    </td>
+                    <td align="right">
+                        88609
+                    </td>
+                    <td align="right">
+                        15140
+                    </td>
+                    <td align="right">
+                        5854651
+                    </td>
+                    <td align="right">
+                        78158
+                    </td>
+                    <td align="right">
+                        5947949
+                    </td>
+                    <td align="right">
+                        4204478
+                    </td>
+                    <td align="right">
+                        51
+                    </td>
+                    <td align="right">
+                        25014
+                    </td>
+                    <td align="right">
+                        293
+                    </td>
+                    <td align="right">
+                        25358
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        4
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MEGHALAYA&state_code=21&district_name=NORTH+GARO+HILLS&district_code=2109&fin_year=2019-2020&source=national&typediv=0&Digest=Jb8X735yuVWzqf5N2MZSag'>NORTH GARO HILLS</a>
+                    </td>
+                    <td align="right">
+                        23
+                    </td>
+                    <td align="right">
+                        39468
+                    </td>
+                    <td align="right">
+                        521
+                    </td>
+                    <td align="right">
+                        40012
+                    </td>
+                    <td align="right">
+                        23
+                    </td>
+                    <td align="right">
+                        38374
+                    </td>
+                    <td align="right">
+                        500
+                    </td>
+                    <td align="right">
+                        38897
+                    </td>
+                    
+                    <td align="right">
+                        39180
+                    </td>
+                    <td align="right">
+                        46
+                    </td>
+                    <td align="right">
+                        77195
+                    </td>
+                    <td align="right">
+                        1018
+                    </td>
+                    <td align="right">
+                        78259
+                    </td>
+                    <td align="right">
+                        2252
+                    </td>
+                    <td align="right">
+                        3751256
+                    </td>
+                    <td align="right">
+                        48664
+                    </td>
+                    <td align="right">
+                        3802172
+                    </td>
+                    <td align="right">
+                        1740491
+                    </td>
+                    <td align="right">
+                        19
+                    </td>
+                    <td align="right">
+                        33107
+                    </td>
+                    <td align="right">
+                        435
+                    </td>
+                    <td align="right">
+                        33561
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        5
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MEGHALAYA&state_code=21&district_name=RI+BHOI++&district_code=2107&fin_year=2019-2020&source=national&typediv=0&Digest=MdBYevvGqvEegESYZ+g+Yg'>RI BHOI  </a>
+                    </td>
+                    <td align="right">
+                        460
+                    </td>
+                    <td align="right">
+                        55700
+                    </td>
+                    <td align="right">
+                        1946
+                    </td>
+                    <td align="right">
+                        58106
+                    </td>
+                    <td align="right">
+                        198
+                    </td>
+                    <td align="right">
+                        42607
+                    </td>
+                    <td align="right">
+                        1149
+                    </td>
+                    <td align="right">
+                        43954
+                    </td>
+                    
+                    <td align="right">
+                        37396
+                    </td>
+                    <td align="right">
+                        306
+                    </td>
+                    <td align="right">
+                        69503
+                    </td>
+                    <td align="right">
+                        1815
+                    </td>
+                    <td align="right">
+                        71624
+                    </td>
+                    <td align="right">
+                        11283
+                    </td>
+                    <td align="right">
+                        2312440
+                    </td>
+                    <td align="right">
+                        61293
+                    </td>
+                    <td align="right">
+                        2385016
+                    </td>
+                    <td align="right">
+                        1193105
+                    </td>
+                    <td align="right">
+                        37
+                    </td>
+                    <td align="right">
+                        4946
+                    </td>
+                    <td align="right">
+                        127
+                    </td>
+                    <td align="right">
+                        5110
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        6
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MEGHALAYA&state_code=21&district_name=SOUTH+GARO+HILLS&district_code=2106&fin_year=2019-2020&source=national&typediv=0&Digest=O7ig0OP46eG3dp9yFP2G2A'>SOUTH GARO HILLS</a>
+                    </td>
+                    <td align="right">
+                        215
+                    </td>
+                    <td align="right">
+                        37981
+                    </td>
+                    <td align="right">
+                        1232
+                    </td>
+                    <td align="right">
+                        39428
+                    </td>
+                    <td align="right">
+                        189
+                    </td>
+                    <td align="right">
+                        33293
+                    </td>
+                    <td align="right">
+                        1014
+                    </td>
+                    <td align="right">
+                        34496
+                    </td>
+                    
+                    <td align="right">
+                        9772
+                    </td>
+                    <td align="right">
+                        191
+                    </td>
+                    <td align="right">
+                        34452
+                    </td>
+                    <td align="right">
+                        1048
+                    </td>
+                    <td align="right">
+                        35691
+                    </td>
+                    <td align="right">
+                        18385
+                    </td>
+                    <td align="right">
+                        3164693
+                    </td>
+                    <td align="right">
+                        95843
+                    </td>
+                    <td align="right">
+                        3278921
+                    </td>
+                    <td align="right">
+                        878094
+                    </td>
+                    <td align="right">
+                        146
+                    </td>
+                    <td align="right">
+                        26936
+                    </td>
+                    <td align="right">
+                        814
+                    </td>
+                    <td align="right">
+                        27896
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        7
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MEGHALAYA&state_code=21&district_name=SOUTH+WEST+GARO+HILLS&district_code=2110&fin_year=2019-2020&source=national&typediv=0&Digest=gj1C8EzL4HQlF6kArlxkyw'>SOUTH WEST GARO HILLS</a>
+                    </td>
+                    <td align="right">
+                        773
+                    </td>
+                    <td align="right">
+                        33363
+                    </td>
+                    <td align="right">
+                        8691
+                    </td>
+                    <td align="right">
+                        42827
+                    </td>
+                    <td align="right">
+                        740
+                    </td>
+                    <td align="right">
+                        32319
+                    </td>
+                    <td align="right">
+                        8329
+                    </td>
+                    <td align="right">
+                        41388
+                    </td>
+                    
+                    <td align="right">
+                        24564
+                    </td>
+                    <td align="right">
+                        773
+                    </td>
+                    <td align="right">
+                        46381
+                    </td>
+                    <td align="right">
+                        9200
+                    </td>
+                    <td align="right">
+                        56354
+                    </td>
+                    <td align="right">
+                        24418
+                    </td>
+                    <td align="right">
+                        1933749
+                    </td>
+                    <td align="right">
+                        265014
+                    </td>
+                    <td align="right">
+                        2223181
+                    </td>
+                    <td align="right">
+                        873436
+                    </td>
+                    <td align="right">
+                        1
+                    </td>
+                    <td align="right">
+                        3062
+                    </td>
+                    <td align="right">
+                        130
+                    </td>
+                    <td align="right">
+                        3193
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        8
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MEGHALAYA&state_code=21&district_name=SOUTH+WEST+KHASI+HILLS&district_code=2111&fin_year=2019-2020&source=national&typediv=0&Digest=nsq1mA1HLaqUavCEl4njNw'>SOUTH WEST KHASI HILLS</a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        23128
+                    </td>
+                    <td align="right">
+                        77
+                    </td>
+                    <td align="right">
+                        23205
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        21062
+                    </td>
+                    <td align="right">
+                        74
+                    </td>
+                    <td align="right">
+                        21136
+                    </td>
+                    
+                    <td align="right">
+                        15020
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        29305
+                    </td>
+                    <td align="right">
+                        74
+                    </td>
+                    <td align="right">
+                        29379
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        1586027
+                    </td>
+                    <td align="right">
+                        4431
+                    </td>
+                    <td align="right">
+                        1590458
+                    </td>
+                    <td align="right">
+                        840525
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        5541
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        5541
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        9
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MEGHALAYA&state_code=21&district_name=WEST+GARO+HILLS&district_code=2105&fin_year=2019-2020&source=national&typediv=0&Digest=iTGpyeWuT0RQLjOzRLjOSw'>WEST GARO HILLS</a>
+                    </td>
+                    <td align="right">
+                        2166
+                    </td>
+                    <td align="right">
+                        75203
+                    </td>
+                    <td align="right">
+                        28821
+                    </td>
+                    <td align="right">
+                        106190
+                    </td>
+                    <td align="right">
+                        2027
+                    </td>
+                    <td align="right">
+                        69748
+                    </td>
+                    <td align="right">
+                        27458
+                    </td>
+                    <td align="right">
+                        99233
+                    </td>
+                    
+                    <td align="right">
+                        60552
+                    </td>
+                    <td align="right">
+                        2669
+                    </td>
+                    <td align="right">
+                        94161
+                    </td>
+                    <td align="right">
+                        42299
+                    </td>
+                    <td align="right">
+                        139129
+                    </td>
+                    <td align="right">
+                        125673
+                    </td>
+                    <td align="right">
+                        5626739
+                    </td>
+                    <td align="right">
+                        1942088
+                    </td>
+                    <td align="right">
+                        7694500
+                    </td>
+                    <td align="right">
+                        2912690
+                    </td>
+                    <td align="right">
+                        274
+                    </td>
+                    <td align="right">
+                        29639
+                    </td>
+                    <td align="right">
+                        6491
+                    </td>
+                    <td align="right">
+                        36404
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        10
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MEGHALAYA&state_code=21&district_name=WEST+JAINTIA+HILLS&district_code=2101&fin_year=2019-2020&source=national&typediv=0&Digest=+mTXJZUruSwb6Xp6/21h9Q'>WEST JAINTIA HILLS</a>
+                    </td>
+                    <td align="right">
+                        149
+                    </td>
+                    <td align="right">
+                        53428
+                    </td>
+                    <td align="right">
+                        93
+                    </td>
+                    <td align="right">
+                        53670
+                    </td>
+                    <td align="right">
+                        115
+                    </td>
+                    <td align="right">
+                        40606
+                    </td>
+                    <td align="right">
+                        82
+                    </td>
+                    <td align="right">
+                        40803
+                    </td>
+                    
+                    <td align="right">
+                        36723
+                    </td>
+                    <td align="right">
+                        126
+                    </td>
+                    <td align="right">
+                        52318
+                    </td>
+                    <td align="right">
+                        98
+                    </td>
+                    <td align="right">
+                        52542
+                    </td>
+                    <td align="right">
+                        5794
+                    </td>
+                    <td align="right">
+                        2505588
+                    </td>
+                    <td align="right">
+                        6444
+                    </td>
+                    <td align="right">
+                        2517826
+                    </td>
+                    <td align="right">
+                        1837277
+                    </td>
+                    <td align="right">
+                        30
+                    </td>
+                    <td align="right">
+                        9310
+                    </td>
+                    <td align="right">
+                        29
+                    </td>
+                    <td align="right">
+                        9369
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        11
+                    </td>
+                    <td align="left">
+                        <a href='empstatusnewall_scst.aspx?page=D&lflag=eng&state_name=MEGHALAYA&state_code=21&district_name=WEST+KHASI+HILLS&district_code=2103&fin_year=2019-2020&source=national&typediv=0&Digest=bveHyBO69/3m8/DYtTOSxA'>WEST KHASI HILLS</a>
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        65369
+                    </td>
+                    <td align="right">
+                        49
+                    </td>
+                    <td align="right">
+                        65418
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        53164
+                    </td>
+                    <td align="right">
+                        43
+                    </td>
+                    <td align="right">
+                        53207
+                    </td>
+                    
+                    <td align="right">
+                        45641
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        77576
+                    </td>
+                    <td align="right">
+                        45
+                    </td>
+                    <td align="right">
+                        77621
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        3463309
+                    </td>
+                    <td align="right">
+                        3275
+                    </td>
+                    <td align="right">
+                        3466584
+                    </td>
+                    <td align="right">
+                        2023798
+                    </td>
+                    <td align="right">
+                        0
+                    </td>
+                    <td align="right">
+                        10457
+                    </td>
+                    <td align="right">
+                        6
+                    </td>
+                    <td align="right">
+                        10463
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td align="center">
+                        
+                    </td>
+                    <td align="left">
+                        <b>Total</b>
+                    </td>
+                    <td align="right">
+                        4040
+                    </td>
+                    <td align="right">
+                        543141
+                    </td>
+                    <td align="right">
+                        43327
+                    </td>
+                    <td align="right">
+                        590508
+                    </td>
+                    <td align="right">
+                        3505
+                    </td>
+                    <td align="right">
+                        461940
+                    </td>
+                    <td align="right">
+                        40128
+                    </td>
+                    <td align="right">
+                        505573
+                    </td>
+                    
+                    <td align="right">
+                        378374
+                    </td>
+                    <td align="right">
+                        4362
+                    </td>
+                    <td align="right">
+                        653024
+                    </td>
+                    <td align="right">
+                        57670
+                    </td>
+                    <td align="right">
+                        715056
+                    </td>
+                    <td align="right">
+                        205120
+                    </td>
+                    <td align="right">
+                        34266431
+                    </td>
+                    <td align="right">
+                        2550712
+                    </td>
+                    <td align="right">
+                        37022263
+                    </td>
+                    <td align="right">
+                        18701222
+                    </td>
+                    <td align="right">
+                        575
+                    </td>
+                    <td align="right">
+                        171291
+                    </td>
+                    <td align="right">
+                        8670
+                    </td>
+                    <td align="right">
+                        180536
+                    </td>
+                </tr>
+            
+                </table>
+            

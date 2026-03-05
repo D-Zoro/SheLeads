@@ -1,0 +1,445 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl37$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl37$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl37$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl37$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl37$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">486872</td>
+                <td align="right">3388979</td>
+                <td align="right">4260288</td>
+                 <td align="right">2753129</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=BAKSA&district_code=0424&fin_year=2019-2020&source=national&Digest=WxD2nRmHpLpfgzyRQcfX6w'>BAKSA</a></td>
+                <td align="right">9807</td>
+                <td align="right">151579</td>
+                <td align="right">202405</td>
+                 <td align="right">132638</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=BARPETA&district_code=0405&fin_year=2019-2020&source=national&Digest=77GPP31tHMxRcnHupDS/Rg'>BARPETA</a></td>
+                <td align="right">7056</td>
+                <td align="right">185960</td>
+                <td align="right">214112</td>
+                 <td align="right">138329</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=Biswanath&district_code=0428&fin_year=2019-2020&source=national&Digest=Arp6Wy+OvEkNR91y3Jlh3A'>Biswanath</a></td>
+                <td align="right">3495</td>
+                <td align="right">84103</td>
+                <td align="right">105948</td>
+                 <td align="right">79048</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=BONGAIGAON&district_code=0403&fin_year=2019-2020&source=national&Digest=/IXIu9URYjny62LLOP0GkQ'>BONGAIGAON</a></td>
+                <td align="right">18676</td>
+                <td align="right">105801</td>
+                <td align="right">114163</td>
+                 <td align="right">57458</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=CACHAR&district_code=0423&fin_year=2019-2020&source=national&Digest=5n+SBIyi+3+uCIXvUz0X5Q'>CACHAR</a></td>
+                <td align="right">2102</td>
+                <td align="right">80487</td>
+                <td align="right">115650</td>
+                 <td align="right">66772</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=CHARAIDEO&district_code=0430&fin_year=2019-2020&source=national&Digest=2nI0xdU7l3XopBuxCg3KOA'>CHARAIDEO</a></td>
+                <td align="right">7320</td>
+                <td align="right">43820</td>
+                <td align="right">54111</td>
+                 <td align="right">33132</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=CHIRANG&district_code=0425&fin_year=2019-2020&source=national&Digest=Y8TQEwpRnT+a9+uRANDWqg'>CHIRANG</a></td>
+                <td align="right">36067</td>
+                <td align="right">91979</td>
+                <td align="right">109002</td>
+                 <td align="right">66692</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=DARRANG&district_code=0408&fin_year=2019-2020&source=national&Digest=kd9RbhlP6yl2fDQ989DKpA'>DARRANG</a></td>
+                <td align="right">2986</td>
+                <td align="right">110242</td>
+                <td align="right">153672</td>
+                 <td align="right">111544</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">9</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=DHEMAJI&district_code=0411&fin_year=2019-2020&source=national&Digest=Sp9MV8HKpzF02XJ7xrXyZw'>DHEMAJI</a></td>
+                <td align="right">4864</td>
+                <td align="right">179870</td>
+                <td align="right">158281</td>
+                 <td align="right">107278</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">10</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=DHUBRI&district_code=0401&fin_year=2019-2020&source=national&Digest=tgD03rf8n8X4jMeyjtRQqg'>DHUBRI</a></td>
+                <td align="right">105049</td>
+                <td align="right">230136</td>
+                <td align="right">249075</td>
+                 <td align="right">141759</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">11</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=DIBRUGARH&district_code=0417&fin_year=2019-2020&source=national&Digest=BjzB6TLx7vSFu1eMzzQ5qA'>DIBRUGARH</a></td>
+                <td align="right">6372</td>
+                <td align="right">133066</td>
+                <td align="right">156624</td>
+                 <td align="right">97267</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">12</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=Dima+Hasao&district_code=0420&fin_year=2019-2020&source=national&Digest=8/ZQ6PQQ/Re+c6O+WSWVvA'>Dima Hasao</a></td>
+                <td align="right">604</td>
+                <td align="right">6981</td>
+                <td align="right">25065</td>
+                 <td align="right">13075</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">13</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=GOALPARA&district_code=0404&fin_year=2019-2020&source=national&Digest=/QP42ZMDujlmYnSy4SOUnQ'>GOALPARA</a></td>
+                <td align="right">1579</td>
+                <td align="right">107659</td>
+                <td align="right">149424</td>
+                 <td align="right">81622</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">14</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=GOLAGHAT&district_code=0414&fin_year=2019-2020&source=national&Digest=PAT7XSjsTZ80sbgL0LMiOQ'>GOLAGHAT</a></td>
+                <td align="right">5235</td>
+                <td align="right">132235</td>
+                <td align="right">162036</td>
+                 <td align="right">98388</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">15</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=HAILAKANDI&district_code=0422&fin_year=2019-2020&source=national&Digest=e8QtSLb1UujWjykGe5Xthg'>HAILAKANDI</a></td>
+                <td align="right">945</td>
+                <td align="right">54627</td>
+                <td align="right">100921</td>
+                 <td align="right">67960</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">16</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=HOJAI&district_code=0429&fin_year=2019-2020&source=national&Digest=KQWyNeLglvtGBV7Z+Lv+vA'>HOJAI</a></td>
+                <td align="right">18878</td>
+                <td align="right">68122</td>
+                <td align="right">100465</td>
+                 <td align="right">67304</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">17</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=JORHAT&district_code=0415&fin_year=2019-2020&source=national&Digest=GvwMgHlHSgY0SHwjvPu2zQ'>JORHAT</a></td>
+                <td align="right">733</td>
+                <td align="right">77736</td>
+                <td align="right">101234</td>
+                 <td align="right">62010</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">18</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=KAMRUP&district_code=0407&fin_year=2019-2020&source=national&Digest=RhzFQWJpe6ReJXrEIdXM5w'>KAMRUP</a></td>
+                <td align="right">5815</td>
+                <td align="right">136441</td>
+                <td align="right">181385</td>
+                 <td align="right">114873</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">19</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=KAMRUP+(METRO)&district_code=0426&fin_year=2019-2020&source=national&Digest=bg9cheZPF9sT8HpBLEVPNg'>KAMRUP (METRO)</a></td>
+                <td align="right">2450</td>
+                <td align="right">20210</td>
+                <td align="right">26833</td>
+                 <td align="right">12147</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">20</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=KARBI+ANGLONG&district_code=0419&fin_year=2019-2020&source=national&Digest=/4fb+agNyVeuqQte4n+UwQ'>KARBI ANGLONG</a></td>
+                <td align="right">3697</td>
+                <td align="right">83317</td>
+                <td align="right">108257</td>
+                 <td align="right">70374</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">21</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=KOKRAJHAR&district_code=0402&fin_year=2019-2020&source=national&Digest=s0KasXmT8nFDhNS+yT6XZw'>KOKRAJHAR</a></td>
+                <td align="right">118134</td>
+                <td align="right">188480</td>
+                <td align="right">199966</td>
+                 <td align="right">129630</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">22</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=LAKHIMPUR&district_code=0410&fin_year=2019-2020&source=national&Digest=5mI5AITqd0kIgXJ3ZHFfkg'>LAKHIMPUR</a></td>
+                <td align="right">714</td>
+                <td align="right">177520</td>
+                <td align="right">187390</td>
+                 <td align="right">120843</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">23</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=MAJULI&district_code=0432&fin_year=2019-2020&source=national&Digest=YF/+owdBRrVHSdykeXImsw'>MAJULI</a></td>
+                <td align="right">106</td>
+                <td align="right">25840</td>
+                <td align="right">25920</td>
+                 <td align="right">20877</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">24</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=Morigaon&district_code=0412&fin_year=2019-2020&source=national&Digest=kZ5lpSzUCeCGO58wrybirA'>Morigaon</a></td>
+                <td align="right">34261</td>
+                <td align="right">131017</td>
+                <td align="right">152435</td>
+                 <td align="right">109911</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">25</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=NAGAON&district_code=0413&fin_year=2019-2020&source=national&Digest=B9y4ErJkILx0SBi1/2ygcQ'>NAGAON</a></td>
+                <td align="right">17761</td>
+                <td align="right">143441</td>
+                <td align="right">221477</td>
+                 <td align="right">160213</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">26</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=NALBARI&district_code=0406&fin_year=2019-2020&source=national&Digest=yxpzk96P1btZW3jqgDeCtg'>NALBARI</a></td>
+                <td align="right">1797</td>
+                <td align="right">75447</td>
+                <td align="right">113349</td>
+                 <td align="right">87076</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">27</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=SIVASAGAR&district_code=0416&fin_year=2019-2020&source=national&Digest=g86+YHWbVVBo4uNFqMKqlQ'>SIVASAGAR</a></td>
+                <td align="right">1631</td>
+                <td align="right">64459</td>
+                <td align="right">93966</td>
+                 <td align="right">69869</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">28</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=SONITPUR&district_code=0409&fin_year=2019-2020&source=national&Digest=qEdYOknqwxdLlE4aIZ8M/g'>SONITPUR</a></td>
+                <td align="right">42654</td>
+                <td align="right">134425</td>
+                <td align="right">140383</td>
+                 <td align="right">87570</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">29</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=SOUTH+SALMARA-MANKACHAR&district_code=0431&fin_year=2019-2020&source=national&Digest=Q9guh+FlSXApjTIiUTqmgg'>SOUTH SALMARA-MANKACHAR</a></td>
+                <td align="right">2911</td>
+                <td align="right">49711</td>
+                <td align="right">75376</td>
+                 <td align="right">49087</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">30</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=Sribhumi&district_code=0421&fin_year=2019-2020&source=national&Digest=DJQ0VBgK0ZTppy+OjX7tow'>Sribhumi</a></td>
+                <td align="right">303</td>
+                <td align="right">83715</td>
+                <td align="right">108713</td>
+                 <td align="right">69762</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">31</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=TINSUKIA&district_code=0418&fin_year=2019-2020&source=national&Digest=vCI2Xq4lvq/kweXBu76qlA'>TINSUKIA</a></td>
+                <td align="right">686</td>
+                <td align="right">90245</td>
+                <td align="right">142522</td>
+                 <td align="right">89191</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">32</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=UDALGURI&district_code=0427&fin_year=2019-2020&source=national&Digest=+isWKGlYNBW7e6JByWZSGw'>UDALGURI</a></td>
+                <td align="right">20671</td>
+                <td align="right">108853</td>
+                <td align="right">165276</td>
+                 <td align="right">117158</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">33</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=ASSAM&state_code=04&district_name=WEST+KARBI+ANGLONG&district_code=0434&fin_year=2019-2020&source=national&Digest=XkQoRKccZkn8KLFTn4Z+Xw'>WEST KARBI ANGLONG</a></td>
+                <td align="right">1513</td>
+                <td align="right">31455</td>
+                <td align="right">44852</td>
+                 <td align="right">22272</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">486872</td>
+                <td align="right">3388979</td>
+                <td align="right">4260288</td>
+                 <td align="right">2753129</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

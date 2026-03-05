@@ -1,0 +1,126 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl08$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl08$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl08$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl08$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl08$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">2562</td>
+                <td align="right">61449</td>
+                <td align="right">57792</td>
+                 <td align="right">45691</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=SIKKIM&state_code=28&district_name=Gangtok+District&district_code=2802&fin_year=2019-2020&source=national&Digest=r+HYHCx6gJdA3biHCZM9Rw'>Gangtok District</a></td>
+                <td align="right">384</td>
+                <td align="right">16550</td>
+                <td align="right">15628</td>
+                 <td align="right">12292</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=SIKKIM&state_code=28&district_name=Gyalshing+District&district_code=2804&fin_year=2019-2020&source=national&Digest=/fyMMVOmHJCwtD8pjY/qjg'>Gyalshing District</a></td>
+                <td align="right">563</td>
+                <td align="right">24054</td>
+                <td align="right">21390</td>
+                 <td align="right">17767</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=SIKKIM&state_code=28&district_name=Mangan+District&district_code=2801&fin_year=2019-2020&source=national&Digest=cKmUOca0p3uzC1GGvbMz6g'>Mangan District</a></td>
+                <td align="right">73</td>
+                <td align="right">4140</td>
+                <td align="right">3665</td>
+                 <td align="right">2990</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=SIKKIM&state_code=28&district_name=Namchi+District&district_code=2803&fin_year=2019-2020&source=national&Digest=uLgb0b6zYsEu8AmOqnlsqA'>Namchi District</a></td>
+                <td align="right">1542</td>
+                <td align="right">16705</td>
+                <td align="right">17109</td>
+                 <td align="right">12642</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">2562</td>
+                <td align="right">61449</td>
+                <td align="right">57792</td>
+                 <td align="right">45691</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

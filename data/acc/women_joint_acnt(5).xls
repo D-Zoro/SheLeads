@@ -1,0 +1,379 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl31$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl31$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl31$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl31$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl31$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">122525</td>
+                <td align="right">4574343</td>
+                <td align="right">3605140</td>
+                 <td align="right">3120676</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=BALOD&district_code=3322&fin_year=2019-2020&source=national&Digest=Vin0Z8HwAGnM9e/4kmZNiA'>BALOD</a></td>
+                <td align="right">2068</td>
+                <td align="right">175259</td>
+                <td align="right">171974</td>
+                 <td align="right">146711</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=BALODA+BAZAR&district_code=3319&fin_year=2019-2020&source=national&Digest=dEMEq7Mu0lYA6wz4Ee9qPA'>BALODA BAZAR</a></td>
+                <td align="right">2126</td>
+                <td align="right">234022</td>
+                <td align="right">199130</td>
+                 <td align="right">178666</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=BALRAMPUR&district_code=3327&fin_year=2019-2020&source=national&Digest=ISJM6hWJORwbGwlkHbKytw'>BALRAMPUR</a></td>
+                <td align="right">3187</td>
+                <td align="right">151790</td>
+                <td align="right">100659</td>
+                 <td align="right">87659</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=BASTAR&district_code=3311&fin_year=2019-2020&source=national&Digest=177oBMfMZwS3LZjwMIPjfA'>BASTAR</a></td>
+                <td align="right">5044</td>
+                <td align="right">115320</td>
+                <td align="right">89365</td>
+                 <td align="right">60748</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=BEMETARA&district_code=3321&fin_year=2019-2020&source=national&Digest=43yH8TBIKaggFqOHpz2PmA'>BEMETARA</a></td>
+                <td align="right">4808</td>
+                <td align="right">175384</td>
+                <td align="right">136383</td>
+                 <td align="right">109754</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=BIJAPUR&district_code=3317&fin_year=2019-2020&source=national&Digest=wryg+YW9i8/4lEVZTHinhQ'>BIJAPUR</a></td>
+                <td align="right">3617</td>
+                <td align="right">28077</td>
+                <td align="right">28201</td>
+                 <td align="right">24420</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=BILASPUR&district_code=3301&fin_year=2019-2020&source=national&Digest=9lRHzYCH7bHs4JdGLHqC6Q'>BILASPUR</a></td>
+                <td align="right">9583</td>
+                <td align="right">321864</td>
+                <td align="right">224017</td>
+                 <td align="right">188996</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=DANTEWADA&district_code=3312&fin_year=2019-2020&source=national&Digest=yXiIn0Sejdt/xaVz3h+FAg'>DANTEWADA</a></td>
+                <td align="right">3422</td>
+                <td align="right">43379</td>
+                <td align="right">29868</td>
+                 <td align="right">24592</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">9</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=DHAMTARI&district_code=3309&fin_year=2019-2020&source=national&Digest=jrq2p77VGdFrxtzK7IwciA'>DHAMTARI</a></td>
+                <td align="right">4877</td>
+                <td align="right">184554</td>
+                <td align="right">167588</td>
+                 <td align="right">150138</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">10</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=DURG&district_code=3303&fin_year=2019-2020&source=national&Digest=IgDLqdvKOOREqjN2x+2EqQ'>DURG</a></td>
+                <td align="right">1812</td>
+                <td align="right">117121</td>
+                <td align="right">115366</td>
+                 <td align="right">103637</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">11</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=GARIYABAND&district_code=3320&fin_year=2019-2020&source=national&Digest=awB6hSI1Hn4cIcwOckSzfw'>GARIYABAND</a></td>
+                <td align="right">3223</td>
+                <td align="right">165375</td>
+                <td align="right">151143</td>
+                 <td align="right">137339</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">12</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=JANJGIR-CHAMPA&district_code=3314&fin_year=2019-2020&source=national&Digest=GM+4zGQ0EMb0jQBeYMj00Q'>JANJGIR-CHAMPA</a></td>
+                <td align="right">6412</td>
+                <td align="right">304564</td>
+                <td align="right">235530</td>
+                 <td align="right">200370</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">13</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=JASHPUR&district_code=3307&fin_year=2019-2020&source=national&Digest=gzviCOL2bhpQjDAEgf96Cw'>JASHPUR</a></td>
+                <td align="right">7936</td>
+                <td align="right">158294</td>
+                <td align="right">126244</td>
+                 <td align="right">106060</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">14</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=KANKER&district_code=3310&fin_year=2019-2020&source=national&Digest=vpxR3PcPNff4Uh3nw++ovQ'>KANKER</a></td>
+                <td align="right">7084</td>
+                <td align="right">185459</td>
+                <td align="right">129501</td>
+                 <td align="right">112335</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">15</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=KAWARDHA&district_code=3302&fin_year=2019-2020&source=national&Digest=tGywMCobBplJkQL6xopx0Q'>KAWARDHA</a></td>
+                <td align="right">2986</td>
+                <td align="right">197521</td>
+                <td align="right">196205</td>
+                 <td align="right">179577</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">16</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=KONDAGAON&district_code=3323&fin_year=2019-2020&source=national&Digest=lytJgJzEkBLm8BnVA6kFyA'>KONDAGAON</a></td>
+                <td align="right">1474</td>
+                <td align="right">122982</td>
+                <td align="right">102346</td>
+                 <td align="right">81903</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">17</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=KORBA&district_code=3308&fin_year=2019-2020&source=national&Digest=xULu+pwjijlQrpClqFokow'>KORBA</a></td>
+                <td align="right">8821</td>
+                <td align="right">208414</td>
+                <td align="right">112918</td>
+                 <td align="right">101763</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">18</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=KOREA&district_code=3306&fin_year=2019-2020&source=national&Digest=bnLyU/EN++Q/t3NlvBuHlQ'>KOREA</a></td>
+                <td align="right">1920</td>
+                <td align="right">104903</td>
+                <td align="right">97640</td>
+                 <td align="right">89781</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">19</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=MAHASAMUND&district_code=3315&fin_year=2019-2020&source=national&Digest=QAprnXHMlEVu8motSzZDEw'>MAHASAMUND</a></td>
+                <td align="right">3336</td>
+                <td align="right">239654</td>
+                <td align="right">163684</td>
+                 <td align="right">140731</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">20</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=MUNGELI&district_code=3325&fin_year=2019-2020&source=national&Digest=v0Aw39SW2B8hyeelZM6NFw'>MUNGELI</a></td>
+                <td align="right">8433</td>
+                <td align="right">209990</td>
+                <td align="right">119566</td>
+                 <td align="right">98478</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">21</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=NARAYANPUR&district_code=3318&fin_year=2019-2020&source=national&Digest=3/mmcKigHLZv4Y+DWRXp6Q'>NARAYANPUR</a></td>
+                <td align="right">3917</td>
+                <td align="right">24262</td>
+                <td align="right">22408</td>
+                 <td align="right">16390</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">22</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=RAIGARH&district_code=3313&fin_year=2019-2020&source=national&Digest=VbeN3xCPCNpiS1kW3VOXcw'>RAIGARH</a></td>
+                <td align="right">6736</td>
+                <td align="right">231824</td>
+                <td align="right">163115</td>
+                 <td align="right">140958</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">23</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=RAIPUR&district_code=3316&fin_year=2019-2020&source=national&Digest=RuWE0Mm410Urw6+8ZA5Tew'>RAIPUR</a></td>
+                <td align="right">6708</td>
+                <td align="right">245837</td>
+                <td align="right">200027</td>
+                 <td align="right">176227</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">24</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=RAJNANDAGON&district_code=3304&fin_year=2019-2020&source=national&Digest=sgGacF4R5vphNd5FyN9/Vg'>RAJNANDAGON</a></td>
+                <td align="right">6392</td>
+                <td align="right">321595</td>
+                <td align="right">298251</td>
+                 <td align="right">274668</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">25</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=SUKMA&district_code=3324&fin_year=2019-2020&source=national&Digest=R6EQzp5Op4XpY+KxyB4FFg'>SUKMA</a></td>
+                <td align="right">2167</td>
+                <td align="right">45883</td>
+                <td align="right">32463</td>
+                 <td align="right">25541</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">26</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=SURAJPUR&district_code=3326&fin_year=2019-2020&source=national&Digest=/c2vT4MVIFguoQp64yOnqg'>SURAJPUR</a></td>
+                <td align="right">1048</td>
+                <td align="right">123844</td>
+                <td align="right">99876</td>
+                 <td align="right">91100</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">27</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=CHHATTISGARH&state_code=33&district_name=SURGUJA&district_code=3305&fin_year=2019-2020&source=national&Digest=HZTah8cJLJ1WEmlpPuO/Dw'>SURGUJA</a></td>
+                <td align="right">3388</td>
+                <td align="right">137172</td>
+                <td align="right">91672</td>
+                 <td align="right">72134</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">122525</td>
+                <td align="right">4574343</td>
+                <td align="right">3605140</td>
+                 <td align="right">3120676</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            

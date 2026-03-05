@@ -1,0 +1,412 @@
+
+              <table align="center" width="70%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+                <tr bgcolor="#82b4ff">
+                <td align="center"  ><b>S No.</b></td>
+                
+                <td align="center" ><b>Districts</b></td>
+                
+               
+  
+       <td   align="center"><b>No. of Joint Account of Women	</b></td>
+      <td   align="center"><b>No. of Total Account of Women</b></td>
+      <td  align="center"><b>No. of Women Beneficiary Worker with Account	</b></td>
+       <td  align="center"><b>No. of Women Beneficiary Active Worker with Account</b></td>
+             
+                 </tr>
+
+
+
+     <tr bgcolor="#82b4ff" align="center">
+    
+    <td>1
+     
+    
+    </td>
+    
+    <td>2
+     <a id="Repeater1_LinkButton5" href="javascript:__doPostBack(&#39;Repeater1$ctl34$LinkButton5&#39;,&#39;&#39;)"><i class="up"></i></a>
+                                
+    
+    </td>
+    
+    <td>3
+     <a id="Repeater1_LinkButton2" href="javascript:__doPostBack(&#39;Repeater1$ctl34$LinkButton2&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>4
+     <a id="Repeater1_LinkButton3" href="javascript:__doPostBack(&#39;Repeater1$ctl34$LinkButton3&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>5
+     <a id="Repeater1_LinkButton4" href="javascript:__doPostBack(&#39;Repeater1$ctl34$LinkButton4&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+    <td>6
+     <a id="Repeater1_LinkButton6" href="javascript:__doPostBack(&#39;Repeater1$ctl34$LinkButton6&#39;,&#39;&#39;)"><i class="default"></i></a>
+                                
+    
+    </td>
+    
+          
+    </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">1943354</td>
+                <td align="right">7476848</td>
+                <td align="right">7121282</td>
+                 <td align="right">3670289</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">1</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=BAGALKOTE&district_code=1501&fin_year=2019-2020&source=national&Digest=jAogEQbSk22Vc00nNwNxJg'>BAGALKOTE</a></td>
+                <td align="right">34158</td>
+                <td align="right">190262</td>
+                <td align="right">222594</td>
+                 <td align="right">123207</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">2</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=BALLARI&district_code=1505&fin_year=2019-2020&source=national&Digest=Tj8fAdN1L82KR/B74qMPIw'>BALLARI</a></td>
+                <td align="right">75623</td>
+                <td align="right">370574</td>
+                <td align="right">397506</td>
+                 <td align="right">275328</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">3</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=BELAGAVI&district_code=1504&fin_year=2019-2020&source=national&Digest=/Dei+H/cWrSStWLI0dA5vA'>BELAGAVI</a></td>
+                <td align="right">171480</td>
+                <td align="right">634835</td>
+                <td align="right">620112</td>
+                 <td align="right">307068</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">4</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=BENGALURU&district_code=1502&fin_year=2019-2020&source=national&Digest=6JBLcouOF2ULmXjRTynd/w'>BENGALURU</a></td>
+                <td align="right">33316</td>
+                <td align="right">45575</td>
+                <td align="right">40836</td>
+                 <td align="right">4287</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">5</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=BENGALURU+RURAL&district_code=1503&fin_year=2019-2020&source=national&Digest=7U0foNBPVhcHstBfo5HPHA'>BENGALURU RURAL</a></td>
+                <td align="right">16963</td>
+                <td align="right">94726</td>
+                <td align="right">103995</td>
+                 <td align="right">44505</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">6</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=BENGALURU+SOUTH&district_code=1529&fin_year=2019-2020&source=national&Digest=7Zon5bSU0Ohd3tBADuoVQA'>BENGALURU SOUTH</a></td>
+                <td align="right">16443</td>
+                <td align="right">183224</td>
+                <td align="right">185895</td>
+                 <td align="right">107212</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">7</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=BIDAR&district_code=1506&fin_year=2019-2020&source=national&Digest=HztLoYBzZCDGR5qIr0NV5A'>BIDAR</a></td>
+                <td align="right">50053</td>
+                <td align="right">219068</td>
+                <td align="right">191519</td>
+                 <td align="right">112974</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">8</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=CHAMARAJA+NAGARA&district_code=1508&fin_year=2019-2020&source=national&Digest=T/KhsYuvQrK0YbB5Efj3wg'>CHAMARAJA NAGARA</a></td>
+                <td align="right">38093</td>
+                <td align="right">192302</td>
+                <td align="right">199464</td>
+                 <td align="right">91644</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">9</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=CHIKKABALLAPURA&district_code=1528&fin_year=2019-2020&source=national&Digest=JDFX3olUFkiJRUZ7HKsC5g'>CHIKKABALLAPURA</a></td>
+                <td align="right">49229</td>
+                <td align="right">219779</td>
+                <td align="right">198438</td>
+                 <td align="right">98159</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">10</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=CHIKKAMAGALURU&district_code=1509&fin_year=2019-2020&source=national&Digest=NHNznjFJnxPpShnHWOBDEA'>CHIKKAMAGALURU</a></td>
+                <td align="right">43919</td>
+                <td align="right">163688</td>
+                <td align="right">161835</td>
+                 <td align="right">83006</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">11</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=CHITRADURGA&district_code=1510&fin_year=2019-2020&source=national&Digest=hRbNWKJnDTl5LmtqDPM4/A'>CHITRADURGA</a></td>
+                <td align="right">109095</td>
+                <td align="right">388996</td>
+                <td align="right">333292</td>
+                 <td align="right">147754</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">12</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=DAKSHINA+KANNADA&district_code=1511&fin_year=2019-2020&source=national&Digest=roKvwutkKe/ryFxwK6C+9g'>DAKSHINA KANNADA</a></td>
+                <td align="right">38475</td>
+                <td align="right">138443</td>
+                <td align="right">149532</td>
+                 <td align="right">52901</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">13</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=DAVANAGERE&district_code=1512&fin_year=2019-2020&source=national&Digest=5zUjCvPw0Ihi229wk914wQ'>DAVANAGERE</a></td>
+                <td align="right">83617</td>
+                <td align="right">305443</td>
+                <td align="right">288326</td>
+                 <td align="right">136115</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">14</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=DHARWAR&district_code=1513&fin_year=2019-2020&source=national&Digest=4dK5BvSLdIwb3y+saswnEA'>DHARWAR</a></td>
+                <td align="right">52735</td>
+                <td align="right">153784</td>
+                <td align="right">157019</td>
+                 <td align="right">66771</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">15</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=GADAG&district_code=1514&fin_year=2019-2020&source=national&Digest=mSQeNlcRl8jD94L1R46CFA'>GADAG</a></td>
+                <td align="right">23120</td>
+                <td align="right">174112</td>
+                <td align="right">175474</td>
+                 <td align="right">120024</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">16</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=HASSAN&district_code=1516&fin_year=2019-2020&source=national&Digest=rFyGKvNCh5fHcucdpbMr8A'>HASSAN</a></td>
+                <td align="right">40504</td>
+                <td align="right">257544</td>
+                <td align="right">256647</td>
+                 <td align="right">143035</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">17</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=HAVERI&district_code=1517&fin_year=2019-2020&source=national&Digest=zc1gkvYZWjVejxoZsWtkAQ'>HAVERI</a></td>
+                <td align="right">55987</td>
+                <td align="right">228739</td>
+                <td align="right">242254</td>
+                 <td align="right">129375</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">18</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=KALABURAGI&district_code=1515&fin_year=2019-2020&source=national&Digest=LCo41lINVtlL3p1twQ6hnQ'>KALABURAGI</a></td>
+                <td align="right">163836</td>
+                <td align="right">461262</td>
+                <td align="right">346259</td>
+                 <td align="right">180371</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">19</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=KODAGU&district_code=1518&fin_year=2019-2020&source=national&Digest=Ti79msR+0RvHbMWRHH08mg'>KODAGU</a></td>
+                <td align="right">32646</td>
+                <td align="right">65565</td>
+                <td align="right">66834</td>
+                 <td align="right">20395</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">20</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=KOLAR&district_code=1519&fin_year=2019-2020&source=national&Digest=eZBugyRgZs9C27ykw6DLAg'>KOLAR</a></td>
+                <td align="right">56671</td>
+                <td align="right">231518</td>
+                <td align="right">214297</td>
+                 <td align="right">97979</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">21</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=KOPPAL&district_code=1520&fin_year=2019-2020&source=national&Digest=+N1PY4BkR1yJ2y1q3SuVaw'>KOPPAL</a></td>
+                <td align="right">189192</td>
+                <td align="right">420389</td>
+                <td align="right">301429</td>
+                 <td align="right">214188</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">22</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=MANDYA&district_code=1521&fin_year=2019-2020&source=national&Digest=7CsJjbbEHcYlgspqppmEWA'>MANDYA</a></td>
+                <td align="right">9561</td>
+                <td align="right">238762</td>
+                <td align="right">270141</td>
+                 <td align="right">107501</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">23</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=MYSURU&district_code=1522&fin_year=2019-2020&source=national&Digest=jnWpknx2zVU78cJfwy7PGw'>MYSURU</a></td>
+                <td align="right">54029</td>
+                <td align="right">259442</td>
+                <td align="right">284305</td>
+                 <td align="right">110773</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">24</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=RAICHUR&district_code=1523&fin_year=2019-2020&source=national&Digest=HfRh5ehooU8zggkioo3Irg'>RAICHUR</a></td>
+                <td align="right">50821</td>
+                <td align="right">382346</td>
+                <td align="right">343104</td>
+                 <td align="right">252811</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">25</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=SHIVAMOGGA&district_code=1524&fin_year=2019-2020&source=national&Digest=HupCezEdDnxOjwwJm/0/xA'>SHIVAMOGGA</a></td>
+                <td align="right">35875</td>
+                <td align="right">246166</td>
+                <td align="right">238306</td>
+                 <td align="right">127822</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">26</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=TUMAKURU&district_code=1525&fin_year=2019-2020&source=national&Digest=DwqaD5LmeJDZbGWsmVJ/3A'>TUMAKURU</a></td>
+                <td align="right">155052</td>
+                <td align="right">437053</td>
+                <td align="right">360321</td>
+                 <td align="right">184719</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">27</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=UDUPI&district_code=1526&fin_year=2019-2020&source=national&Digest=/slTFDdBEv8hPcHdYMOPEQ'>UDUPI</a></td>
+                <td align="right">5056</td>
+                <td align="right">83780</td>
+                <td align="right">127439</td>
+                 <td align="right">46631</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">28</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=UTTARA+KANNADA&district_code=1527&fin_year=2019-2020&source=national&Digest=mkJRYVtpZS83+Ff33kOwzg'>UTTARA KANNADA</a></td>
+                <td align="right">28539</td>
+                <td align="right">152014</td>
+                <td align="right">166586</td>
+                 <td align="right">72105</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">29</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=VIJAYPURA&district_code=1507&fin_year=2019-2020&source=national&Digest=eoThVmFpWm82yM6N4HasaA'>VIJAYPURA</a></td>
+                <td align="right">154564</td>
+                <td align="right">327591</td>
+                <td align="right">282033</td>
+                 <td align="right">105065</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center">30</td>
+                <td align="left"><a href='women_joint_acnt.aspx?lflag=eng&page=d&state_name=KARNATAKA&state_code=15&district_name=Yadgir&district_code=1530&fin_year=2019-2020&source=national&Digest=NhsU53aWbVrUv1+BnBg0Ow'>Yadgir</a></td>
+                <td align="right">74702</td>
+                <td align="right">209866</td>
+                <td align="right">195490</td>
+                 <td align="right">106564</td>
+                 
+                    
+                  </tr>
+                
+                <tr>
+                <td align="center"></td>
+                <td align="left"><b>Total</b></td>
+                <td align="right">1943354</td>
+                <td align="right">7476848</td>
+                <td align="right">7121282</td>
+                 <td align="right">3670289</td>
+                 
+                    
+                  </tr>
+                
+            </table>
+            
