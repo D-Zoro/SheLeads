@@ -28,6 +28,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 from src.quantum.optimizer import run_qaoa_optimization, FEATURE_COLS
+from src.api.llm_policy import generate_policy_brief
 
 # ── Path constants ───────────────────────────────────────────────────────
 _DATASET_DIR = Path(__file__).resolve().parent / "src" / "dataset"
@@ -75,6 +76,11 @@ app.add_middleware(
 
 # ── Request / Response models ────────────────────────────────────────────
 class OptimizeRequest(BaseModel):
+    total_budget_cr: float
+
+
+class PolicyBriefRequest(BaseModel):
+    district_name: str
     total_budget_cr: float
 
 
@@ -134,6 +140,51 @@ async def optimize(req: OptimizeRequest):
         raise HTTPException(status_code=500, detail=f"Optimization failed: {str(e)}")
 
     return result
+
+
+@app.post("/policy-brief")
+async def policy_brief(req: PolicyBriefRequest):
+    """
+    Generate an LLM-powered policy brief for a specific district.
+    Runs optimization, then asks Gemini to justify the allocation.
+    """
+    df = state.df
+    if df is None:
+        raise HTTPException(status_code=503, detail="Data not loaded yet")
+
+    # Find the district
+    match = df[df["district"].str.lower() == req.district_name.lower()]
+    if match.empty:
+        raise HTTPException(status_code=404, detail=f"District '{req.district_name}' not found")
+
+    district_data = match.iloc[0].to_dict()
+    # Sanitize NaN
+    for k, v in district_data.items():
+        if isinstance(v, float) and (v != v):
+            district_data[k] = 0
+
+    if req.total_budget_cr <= 0:
+        raise HTTPException(status_code=400, detail="Budget must be positive")
+
+    # Run quantum optimization
+    try:
+        opt_result = run_qaoa_optimization(req.total_budget_cr)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Optimization failed: {str(e)}")
+
+    # Generate policy brief via Gemini
+    try:
+        brief = generate_policy_brief(opt_result, district_data["district"], district_data)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"LLM generation failed: {str(e)}")
+
+    qaoa_amount = opt_result["qaoa_allocation"].get(district_data["district"], 0)
+
+    return {
+        "district": district_data["district"],
+        "brief": brief,
+        "allocation_cr": qaoa_amount,
+    }
 
 
 # ── CLI Commands ─────────────────────────────────────────────────────────
