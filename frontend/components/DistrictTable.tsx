@@ -46,13 +46,19 @@ export default function DistrictTable() {
   const [page, setPage] = useState(0);
 
   /* ── Enrich districts with quantum allocation + delta ─────── */
+  const qaoaBoostedSet = useMemo(() => {
+    return new Set(optimizationResult?.qaoa_selected ?? []);
+  }, [optimizationResult]);
+
   const enriched = useMemo(() => {
     return districts.map((d) => {
       const qAlloc = optimizationResult?.qaoa_allocation[d.district] || 0;
-      const delta = qAlloc - d.total_spent_cr;
-      return { ...d, quantum_alloc: qAlloc, delta };
+      const gAlloc = optimizationResult?.greedy_allocation[d.district] || 0;
+      const delta = qAlloc - gAlloc;
+      const isBoosted = qaoaBoostedSet.has(d.district);
+      return { ...d, quantum_alloc: qAlloc, greedy_alloc: gAlloc, delta, isBoosted };
     });
-  }, [districts, optimizationResult]);
+  }, [districts, optimizationResult, qaoaBoostedSet]);
 
   /* ── Filter ──────────────────────────────────────────────────── */
   const filtered = useMemo(() => {
@@ -101,9 +107,9 @@ export default function DistrictTable() {
     { key: "literacy_gap", label: "Lit. Gap" },
     { key: "employment_gap", label: "Emp. Gap" },
     { key: "agency_score", label: "Agency" },
-    { key: "total_spent_cr", label: "Current ₹Cr" },
     { key: "quantum_alloc", label: "Quantum ₹Cr" },
-    { key: "delta", label: "Delta" },
+    { key: "greedy_alloc" as SortConfig["key"], label: "Greedy ₹Cr" },
+    { key: "delta", label: "Q−G Delta" },
   ];
 
   return (
@@ -156,10 +162,17 @@ export default function DistrictTable() {
                 <tr
                   key={d.district + d.state}
                   onClick={() => setSelectedDistrict(d)}
-                  className="border-t border-neo-border/50 cursor-pointer hover:bg-neo-hover hover:border-l-2 hover:border-l-neo-blue transition-all duration-200"
+                  className={`border-t border-neo-border/50 cursor-pointer hover:bg-neo-hover hover:border-l-2 hover:border-l-neo-blue transition-all duration-200 ${
+                    d.isBoosted ? "bg-neo-blue/[0.04]" : ""
+                  }`}
                 >
                   <td className="px-3 py-2.5 text-neo-text font-medium whitespace-nowrap">
-                    {d.district}
+                    <span className="flex items-center gap-1.5">
+                      {d.isBoosted && (
+                        <span className="text-neo-cyan text-[10px]" title="QAOA Boosted">⚛</span>
+                      )}
+                      {d.district}
+                    </span>
                   </td>
                   <td className="px-3 py-2.5 text-neo-text-dim whitespace-nowrap">
                     {d.state}
@@ -192,11 +205,11 @@ export default function DistrictTable() {
                       </span>
                     </div>
                   </td>
-                  <td className="px-3 py-2.5 text-neo-text">
-                    ₹{d.total_spent_cr.toFixed(1)}
-                  </td>
-                  <td className="px-3 py-2.5 text-neo-blue">
+                  <td className="px-3 py-2.5 text-neo-blue font-medium">
                     ₹{d.quantum_alloc.toFixed(1)}
+                  </td>
+                  <td className="px-3 py-2.5 text-neo-amber">
+                    ₹{d.greedy_alloc.toFixed(1)}
                   </td>
                   <td className="px-3 py-2.5">
                     <span

@@ -12,7 +12,6 @@ import {
   Cell,
 } from "recharts";
 import { useOptimizationCtx } from "@/context/OptimizationContext";
-import type { District } from "@/types";
 
 /* ── Custom tooltip ───────────────────────────────────────────── */
 function CustomTooltip({
@@ -21,18 +20,26 @@ function CustomTooltip({
   label,
 }: {
   active?: boolean;
-  payload?: Array<{ name: string; value: number; color: string }>;
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  payload?: Array<{ name: string; value: number; color: string; payload?: any }>;
   label?: string;
 }) {
   if (!active || !payload?.length) return null;
+  const row = payload[0]?.payload;
   return (
     <div className="glow-card px-4 py-3 text-xs font-[var(--font-data)]">
-      <p className="font-bold text-neo-text mb-2">{label}</p>
+      <p className="font-bold text-neo-text mb-1">{row?.fullName ?? label}</p>
+      {row?.isBoosted && (
+        <p className="text-neo-blue mb-1">⚛ QAOA-Boosted (3× priority)</p>
+      )}
       {payload.map((p) => (
         <p key={p.name} style={{ color: p.color }}>
           {p.name}: ₹{p.value.toFixed(1)} Cr
         </p>
       ))}
+      {row?.gap != null && (
+        <p className="text-neo-text-dim mt-1">Literacy Gap: {row.gap.toFixed(1)}%</p>
+      )}
     </div>
   );
 }
@@ -47,31 +54,44 @@ function agencyColor(score: number): string {
 export default function ComparisonChart() {
   const { districts, optimizationResult } = useOptimizationCtx();
 
-  /* ── Top 10 districts by literacy_gap ──────────────────────── */
+  const qaoaBoostedSet = useMemo(() => {
+    return new Set(optimizationResult?.qaoa_selected ?? []);
+  }, [optimizationResult]);
+
+  /* ── Top 10 districts: QAOA-boosted first, then by literacy_gap ── */
   const chartData = useMemo(() => {
     if (!districts.length) return [];
 
+    // Sort: QAOA-boosted first (by quantum alloc desc), then by literacy_gap desc
     const sorted = [...districts]
-      .sort((a, b) => (b.literacy_gap ?? 0) - (a.literacy_gap ?? 0))
+      .map((d) => {
+        const qaoa = optimizationResult?.qaoa_allocation[d.district] || 0;
+        const greedy = optimizationResult?.greedy_allocation[d.district] || 0;
+        const isBoosted = qaoaBoostedSet.has(d.district);
+        return { ...d, qaoa, greedy, isBoosted };
+      })
+      .sort((a, b) => {
+        // QAOA-boosted districts always come first
+        if (a.isBoosted && !b.isBoosted) return -1;
+        if (!a.isBoosted && b.isBoosted) return 1;
+        // Then sort by quantum allocation descending
+        return b.qaoa - a.qaoa;
+      })
       .slice(0, 10);
 
-    return sorted.map((d) => {
-      const qaoa = optimizationResult?.qaoa_allocation[d.district] || 0;
-      const greedy = optimizationResult?.greedy_allocation[d.district] || 0;
-      return {
-        name:
-          d.district.length > 10
-            ? d.district.slice(0, 10) + "…"
-            : d.district,
-        fullName: d.district,
-        current: d.total_spent_cr,
-        greedy,
-        quantum: qaoa,
-        agency: d.agency_score,
-        gap: d.literacy_gap,
-      };
-    });
-  }, [districts, optimizationResult]);
+    return sorted.map((d) => ({
+      name:
+        d.district.length > 10
+          ? d.district.slice(0, 10) + "…"
+          : d.district,
+      fullName: d.district,
+      greedy: d.greedy,
+      quantum: d.qaoa,
+      agency: d.agency_score,
+      gap: d.literacy_gap,
+      isBoosted: d.isBoosted,
+    }));
+  }, [districts, optimizationResult, qaoaBoostedSet]);
 
   if (!chartData.length) {
     return (
@@ -88,8 +108,11 @@ export default function ComparisonChart() {
       {/* ── Main comparison bar chart ──────────────────────────── */}
       <div>
         <h3 className="text-xs uppercase tracking-wider text-neo-text-dim mb-3">
-          Budget Allocation Comparison — Top 10 Priority Districts
+          Quantum vs Greedy Allocation — Top 10 Districts
         </h3>
+        <p className="text-[10px] text-neo-text-dim mb-2">
+          ⚛ Blue bars = quantum-optimized · Amber bars = naive greedy · Stars = QAOA-boosted
+        </p>
         <ResponsiveContainer width="100%" height={300}>
           <BarChart
             data={chartData}
@@ -97,9 +120,12 @@ export default function ComparisonChart() {
           >
             <XAxis
               dataKey="name"
-              tick={{ fill: "#94a3b8", fontSize: 10 }}
+              tick={{ fill: "#94a3b8", fontSize: 9 }}
               axisLine={{ stroke: "#1e293b" }}
               tickLine={false}
+              angle={-20}
+              textAnchor="end"
+              height={50}
             />
             <YAxis
               tick={{ fill: "#94a3b8", fontSize: 10 }}
@@ -123,14 +149,6 @@ export default function ComparisonChart() {
               verticalAlign="top"
             />
             <Bar
-              dataKey="current"
-              name="Current IRL"
-              fill="#64748b"
-              radius={[3, 3, 0, 0]}
-              isAnimationActive
-              animationDuration={600}
-            />
-            <Bar
               dataKey="greedy"
               name="Greedy"
               fill="#f59e0b"
@@ -141,12 +159,20 @@ export default function ComparisonChart() {
             <Bar
               dataKey="quantum"
               name="Quantum"
-              fill="#3b82f6"
               radius={[3, 3, 0, 0]}
               isAnimationActive
               animationDuration={600}
               style={{ filter: "drop-shadow(0 0 4px rgba(59,130,246,0.5))" }}
-            />
+            >
+              {chartData.map((entry, i) => (
+                <Cell
+                  key={i}
+                  fill={entry.isBoosted ? "#06b6d4" : "#3b82f6"}
+                  stroke={entry.isBoosted ? "#22d3ee" : "transparent"}
+                  strokeWidth={entry.isBoosted ? 1.5 : 0}
+                />
+              ))}
+            </Bar>
           </BarChart>
         </ResponsiveContainer>
       </div>

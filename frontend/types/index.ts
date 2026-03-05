@@ -16,9 +16,12 @@ export interface District {
 export interface OptimizationResult {
   qaoa_allocation: Record<string, number>;
   greedy_allocation: Record<string, number>;
+  qaoa_selected: string[];
   qaoa_total_impact: number;
   greedy_total_impact: number;
   improvement_pct: number;
+  num_districts: number;
+  budget_cr: number;
 }
 
 /** POST /policy-brief response */

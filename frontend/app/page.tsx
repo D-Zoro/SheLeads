@@ -70,6 +70,7 @@ export default function Dashboard() {
         0
       )
     : 0;
+  const qaoaSelected = optimizationResult?.qaoa_selected?.length ?? 0;
 
   return (
     <>
@@ -105,9 +106,65 @@ export default function Dashboard() {
 
       <main className="max-w-[1600px] mx-auto px-6 pb-12">
         {/* ============================================================
-            BUDGET SLIDER
+            HERO / EXPLAINER — What this app does
             ============================================================ */}
         <section className="py-6">
+          <div className="glow-card px-6 py-5 border-neo-blue/30">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <div className="md:col-span-2">
+                <h2 className="text-lg font-bold font-[var(--font-heading)] text-neo-text mb-2">
+                  How should India allocate ₹{budget} Cr for women&apos;s empowerment?
+                </h2>
+                <p className="text-sm text-neo-text-dim leading-relaxed">
+                  <strong className="text-neo-text">NeoPolicy</strong> uses a{" "}
+                  <strong className="text-neo-blue">QAOA quantum optimizer</strong>{" "}
+                  (8-qubit simulation) to find the optimal budget allocation across{" "}
+                  <strong className="text-neo-text">648 Indian districts</strong>.
+                  A Random Forest model predicts the impact of funding on women&apos;s literacy,
+                  employment, and financial inclusion. The quantum approach outperforms
+                  naive greedy allocation by discovering synergies across districts.
+                </p>
+                <div className="flex flex-wrap gap-3 mt-3">
+                  <span className="px-2.5 py-1 rounded-full text-[10px] font-medium bg-neo-blue/10 text-neo-blue border border-neo-blue/20">
+                    NFHS-5 Health Data
+                  </span>
+                  <span className="px-2.5 py-1 rounded-full text-[10px] font-medium bg-neo-amber/10 text-neo-amber border border-neo-amber/20">
+                    MGNREGA Employment Data
+                  </span>
+                  <span className="px-2.5 py-1 rounded-full text-[10px] font-medium bg-neo-green/10 text-neo-green border border-neo-green/20">
+                    Random Forest + QAOA
+                  </span>
+                  <span className="px-2.5 py-1 rounded-full text-[10px] font-medium bg-neo-cyan/10 text-neo-cyan border border-neo-cyan/20">
+                    Gemini Policy Briefs
+                  </span>
+                </div>
+              </div>
+              <div className="flex flex-col justify-center gap-2 text-xs text-neo-text-dim font-[var(--font-data)] border-l border-neo-border/50 pl-6">
+                <div className="flex items-center gap-2">
+                  <span className="text-neo-blue">⟁</span>
+                  <span>Drag the budget slider to re-optimize</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <span className="text-neo-green">◉</span>
+                  <span>Hover the map to see state-level insights</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <span className="text-neo-amber">▤</span>
+                  <span>Click any district row for an AI policy brief</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <span className="text-neo-red">★</span>
+                  <span>QAOA-boosted districts get 3× priority funding</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* ============================================================
+            BUDGET SLIDER
+            ============================================================ */}
+        <section className="pb-6">
           <div className="glow-card px-6 py-5">
             <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
               <div>
@@ -138,7 +195,7 @@ export default function Dashboard() {
               <div className="mt-3 flex items-center gap-2">
                 <div className="w-4 h-4 border-2 border-neo-blue border-t-transparent rounded-full animate-spin" />
                 <span className="text-xs text-neo-text-dim">
-                  Optimizing...
+                  Running quantum optimization...
                 </span>
               </div>
             )}
@@ -148,7 +205,7 @@ export default function Dashboard() {
         {/* ============================================================
             STAT CARDS
             ============================================================ */}
-        <section className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+        <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
           {/* Districts Analyzed */}
           <div className="glow-card gradient-top-border px-5 py-4">
             <div className="flex items-center gap-3">
@@ -188,6 +245,26 @@ export default function Dashboard() {
                     <span className="text-neo-green text-sm">▲</span>
                   )}
                 </div>
+                <p className="text-[9px] text-neo-text-dim mt-0.5">vs greedy baseline</p>
+              </div>
+            </div>
+          </div>
+
+          {/* QAOA Boosted */}
+          <div className="glow-card gradient-top-border px-5 py-4">
+            <div className="flex items-center gap-3">
+              <span className="text-2xl">⚛️</span>
+              <div>
+                <p className="text-[10px] uppercase tracking-wider text-neo-text-dim">
+                  QAOA Boosted
+                </p>
+                <CountUp
+                  value={qaoaSelected}
+                  decimals={0}
+                  suffix=" districts"
+                  className="text-2xl font-[var(--font-data)] font-bold text-neo-blue"
+                />
+                <p className="text-[9px] text-neo-text-dim mt-0.5">3× priority funding</p>
               </div>
             </div>
           </div>
@@ -198,7 +275,7 @@ export default function Dashboard() {
               <span className="text-2xl">💰</span>
               <div>
                 <p className="text-[10px] uppercase tracking-wider text-neo-text-dim">
-                  Optimized Deployment
+                  Quantum Budget
                 </p>
                 <CountUp
                   value={totalQaoaSpend}
@@ -207,6 +284,7 @@ export default function Dashboard() {
                   suffix=" Cr"
                   className="text-2xl font-[var(--font-data)] font-bold text-neo-text"
                 />
+                <p className="text-[9px] text-neo-text-dim mt-0.5">total deployed</p>
               </div>
             </div>
           </div>
@@ -219,7 +297,7 @@ export default function Dashboard() {
           {/* India Map — 60% */}
           <div className="lg:col-span-3 glow-card p-4">
             <h2 className="text-xs uppercase tracking-wider text-neo-text-dim mb-3">
-              District Literacy Gap Map — India
+              India — State-Level Literacy Gap & Budget Allocation
             </h2>
             <IndiaMap />
           </div>
@@ -235,7 +313,7 @@ export default function Dashboard() {
             ============================================================ */}
         <section className="mb-8">
           <h2 className="text-xs uppercase tracking-wider text-neo-text-dim mb-3">
-            All Districts — Sortable Dataset
+            All Districts — Click a row for AI-generated policy brief
           </h2>
           <DistrictTable />
         </section>
