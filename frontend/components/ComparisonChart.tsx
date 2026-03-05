@@ -30,7 +30,7 @@ function CustomTooltip({
     <div className="glow-card px-4 py-3 text-xs font-[var(--font-data)]">
       <p className="font-bold text-neo-text mb-1">{row?.fullName ?? label}</p>
       {row?.isBoosted && (
-        <p className="text-neo-blue mb-1">⚛ QAOA-Boosted (3× priority)</p>
+        <p className="text-neo-blue mb-1">QAOA Priority (3x boosted)</p>
       )}
       {payload.map((p) => (
         <p key={p.name} style={{ color: p.color }}>
@@ -40,15 +40,11 @@ function CustomTooltip({
       {row?.gap != null && (
         <p className="text-neo-text-dim mt-1">Literacy Gap: {row.gap.toFixed(1)}%</p>
       )}
+      {row?.empGap != null && (
+        <p className="text-neo-text-dim">Employment Gap: {row.empGap.toFixed(1)}%</p>
+      )}
     </div>
   );
-}
-
-/* ── Agency score color ──────────────────────────────────────── */
-function agencyColor(score: number): string {
-  if (score > 0.5) return "#22c55e";
-  if (score > 0.2) return "#f59e0b";
-  return "#ef4444";
 }
 
 export default function ComparisonChart() {
@@ -58,26 +54,20 @@ export default function ComparisonChart() {
     return new Set(optimizationResult?.qaoa_selected ?? []);
   }, [optimizationResult]);
 
-  /* ── Top 10 districts: QAOA-boosted first, then by literacy_gap ── */
+  /* ── Top 10 districts: QAOA-boosted first, then by quantum alloc ── */
   const chartData = useMemo(() => {
     if (!districts.length) return [];
 
-    // Sort: QAOA-boosted first (by quantum alloc desc), then by literacy_gap desc
     const sorted = [...districts]
       .map((d) => {
         const qaoa = optimizationResult?.qaoa_allocation[d.district] || 0;
         const greedy = optimizationResult?.greedy_allocation[d.district] || 0;
         const isBoosted = qaoaBoostedSet.has(d.district);
-        const impactBase = optimizationResult?.predicted_impact_baseline?.[d.district] || 0;
-        const impactQ = optimizationResult?.predicted_impact_quantum?.[d.district] || 0;
-        const impactG = optimizationResult?.predicted_impact_greedy?.[d.district] || 0;
-        return { ...d, qaoa, greedy, isBoosted, impactBase, impactQ, impactG };
+        return { ...d, qaoa, greedy, isBoosted };
       })
       .sort((a, b) => {
-        // QAOA-boosted districts always come first
         if (a.isBoosted && !b.isBoosted) return -1;
         if (!a.isBoosted && b.isBoosted) return 1;
-        // Then sort by quantum allocation descending
         return b.qaoa - a.qaoa;
       })
       .slice(0, 10);
@@ -90,14 +80,23 @@ export default function ComparisonChart() {
       fullName: d.district,
       greedy: d.greedy,
       quantum: d.qaoa,
-      agency: d.agency_score,
       gap: d.literacy_gap,
+      empGap: d.employment_gap,
+      agency: d.agency_score,
       isBoosted: d.isBoosted,
-      impactBase: d.impactBase,
-      impactQ: d.impactQ,
-      impactG: d.impactG,
     }));
   }, [districts, optimizationResult, qaoaBoostedSet]);
+
+  // Summary stats
+  const qaoa_total = optimizationResult
+    ? Object.values(optimizationResult.qaoa_allocation).reduce((s, v) => s + v, 0)
+    : 0;
+  const greedy_total = optimizationResult
+    ? Object.values(optimizationResult.greedy_allocation).reduce((s, v) => s + v, 0)
+    : 0;
+  const improvement = optimizationResult?.improvement_pct ?? 0;
+  const qaoaImpact = optimizationResult?.qaoa_total_impact ?? 0;
+  const greedyImpact = optimizationResult?.greedy_total_impact ?? 0;
 
   if (!chartData.length) {
     return (
@@ -117,7 +116,7 @@ export default function ComparisonChart() {
           Quantum vs Greedy Allocation — Top 10 Districts
         </h3>
         <p className="text-[10px] text-neo-text-dim mb-2">
-          ⚛ Blue bars = quantum-optimized · Amber bars = naive greedy · Stars = QAOA-boosted
+          Blue = quantum-optimized · Amber = greedy baseline · Cyan = QAOA priority
         </p>
         <ResponsiveContainer width="100%" height={300}>
           <BarChart
@@ -183,88 +182,44 @@ export default function ComparisonChart() {
         </ResponsiveContainer>
       </div>
 
-      {/* ── Predicted Impact comparison ─────────────────────────── */}
+      {/* ── Impact Summary Cards ─────────────────────────────── */}
       <div>
         <h3 className="text-xs uppercase tracking-wider text-neo-text-dim mb-3">
-          Predicted Impact — Baseline vs Quantum vs Greedy
+          Optimization Summary
         </h3>
-        <p className="text-[10px] text-neo-text-dim mb-2">
-          RF model predicts impact score under each budget scenario
-        </p>
-        <ResponsiveContainer width="100%" height={250}>
-          <BarChart
-            data={chartData}
-            margin={{ top: 5, right: 10, left: 0, bottom: 5 }}
-          >
-            <XAxis
-              dataKey="name"
-              tick={{ fill: "#94a3b8", fontSize: 9 }}
-              axisLine={{ stroke: "#1e293b" }}
-              tickLine={false}
-              angle={-20}
-              textAnchor="end"
-              height={50}
-            />
-            <YAxis
-              tick={{ fill: "#94a3b8", fontSize: 10 }}
-              axisLine={{ stroke: "#1e293b" }}
-              tickLine={false}
-              label={{
-                value: "Impact Score",
-                angle: -90,
-                position: "insideLeft",
-                fill: "#64748b",
-                fontSize: 10,
-              }}
-            />
-            <Tooltip
-              content={({ active, payload, label: lbl }) => {
-                if (!active || !payload?.length) return null;
-                return (
-                  <div className="glow-card px-4 py-3 text-xs font-[var(--font-data)]">
-                    <p className="font-bold text-neo-text mb-1">{lbl}</p>
-                    {payload.map((p) => (
-                      <p key={p.name} style={{ color: p.color as string }}>
-                        {p.name}: {(p.value as number).toFixed(3)}
-                      </p>
-                    ))}
-                  </div>
-                );
-              }}
-              cursor={{ fill: "rgba(59,130,246,0.05)" }}
-            />
-            <Legend
-              wrapperStyle={{ fontSize: 10, color: "#94a3b8" }}
-              align="right"
-              verticalAlign="top"
-            />
-            <Bar
-              dataKey="impactBase"
-              name="Current"
-              fill="#64748b"
-              radius={[3, 3, 0, 0]}
-              isAnimationActive
-              animationDuration={600}
-            />
-            <Bar
-              dataKey="impactG"
-              name="Greedy"
-              fill="#f59e0b"
-              radius={[3, 3, 0, 0]}
-              isAnimationActive
-              animationDuration={600}
-            />
-            <Bar
-              dataKey="impactQ"
-              name="Quantum"
-              fill="#3b82f6"
-              radius={[3, 3, 0, 0]}
-              isAnimationActive
-              animationDuration={600}
-              style={{ filter: "drop-shadow(0 0 4px rgba(59,130,246,0.5))" }}
-            />
-          </BarChart>
-        </ResponsiveContainer>
+        <div className="grid grid-cols-2 gap-3">
+          <div className="bg-neo-bg/50 border border-neo-border rounded-lg px-3 py-2.5">
+            <p className="text-[9px] uppercase tracking-wider text-neo-text-dim">QAOA Impact</p>
+            <p className="text-lg font-[var(--font-data)] font-bold text-neo-blue mt-0.5">
+              {qaoaImpact.toFixed(4)}
+            </p>
+            <p className="text-[9px] text-neo-text-dim">₹{qaoa_total.toFixed(0)} Cr deployed</p>
+          </div>
+          <div className="bg-neo-bg/50 border border-neo-border rounded-lg px-3 py-2.5">
+            <p className="text-[9px] uppercase tracking-wider text-neo-text-dim">Greedy Impact</p>
+            <p className="text-lg font-[var(--font-data)] font-bold text-neo-amber mt-0.5">
+              {greedyImpact.toFixed(4)}
+            </p>
+            <p className="text-[9px] text-neo-text-dim">₹{greedy_total.toFixed(0)} Cr deployed</p>
+          </div>
+          <div className="col-span-2 bg-neo-bg/50 border border-neo-border rounded-lg px-3 py-2.5">
+            <div className="flex items-center justify-between">
+              <div>
+                <p className="text-[9px] uppercase tracking-wider text-neo-text-dim">Quantum Advantage</p>
+                <p className={`text-xl font-[var(--font-data)] font-bold mt-0.5 ${
+                  improvement >= 0 ? "text-neo-green" : "text-neo-red"
+                }`}>
+                  {improvement >= 0 ? "+" : ""}{improvement.toFixed(2)}%
+                </p>
+              </div>
+              <div className="text-right">
+                <p className="text-[9px] text-neo-text-dim">QAOA selects optimal district</p>
+                <p className="text-[9px] text-neo-text-dim">combinations via quantum</p>
+                <p className="text-[9px] text-neo-text-dim">superposition (8 qubits)</p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );

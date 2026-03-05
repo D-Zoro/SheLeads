@@ -19,7 +19,7 @@ function SkeletonRows() {
     <>
       {Array.from({ length: PAGE_SIZE }).map((_, i) => (
         <tr key={i}>
-          {Array.from({ length: 8 }).map((_, j) => (
+          {Array.from({ length: 7 }).map((_, j) => (
             <td key={j} className="px-3 py-2.5">
               <div className="skeleton h-4 w-full" />
             </td>
@@ -35,7 +35,6 @@ export default function DistrictTable() {
     districts,
     districtsLoading,
     optimizationResult,
-    setSelectedDistrict,
   } = useOptimizationCtx();
 
   const [search, setSearch] = useState("");
@@ -56,19 +55,12 @@ export default function DistrictTable() {
       const gAlloc = optimizationResult?.greedy_allocation[d.district] || 0;
       const delta = qAlloc - gAlloc;
       const isBoosted = qaoaBoostedSet.has(d.district);
-      const impactBaseline = optimizationResult?.predicted_impact_baseline?.[d.district] ?? 0;
-      const impactQuantum = optimizationResult?.predicted_impact_quantum?.[d.district] ?? 0;
-      const impactChangePct = impactBaseline > 0.0001
-        ? ((impactQuantum - impactBaseline) / impactBaseline) * 100
-        : 0;
       return {
         ...d,
         quantum_alloc: qAlloc,
         greedy_alloc: gAlloc,
         delta,
         isBoosted,
-        predicted_impact: impactQuantum,
-        impact_change_pct: impactChangePct,
       };
     });
   }, [districts, optimizationResult, qaoaBoostedSet]);
@@ -118,11 +110,10 @@ export default function DistrictTable() {
     { key: "district", label: "District" },
     { key: "state" as SortConfig["key"], label: "State" },
     { key: "literacy_gap", label: "Lit. Gap" },
+    { key: "employment_gap", label: "Emp. Gap" },
     { key: "agency_score", label: "Agency" },
     { key: "quantum_alloc", label: "Quantum ₹Cr" },
-    { key: "greedy_alloc" as SortConfig["key"], label: "Greedy ₹Cr" },
-    { key: "predicted_impact", label: "Pred. Impact" },
-    { key: "impact_change_pct", label: "Impact Δ%" },
+    { key: "greedy_alloc", label: "Greedy ₹Cr" },
   ];
 
   return (
@@ -164,7 +155,7 @@ export default function DistrictTable() {
             ) : pageData.length === 0 ? (
               <tr>
                 <td
-                  colSpan={8}
+                  colSpan={7}
                   className="px-4 py-8 text-center text-neo-text-dim"
                 >
                   No districts found
@@ -174,15 +165,14 @@ export default function DistrictTable() {
               pageData.map((d) => (
                 <tr
                   key={d.district + d.state}
-                  onClick={() => setSelectedDistrict(d)}
-                  className={`border-t border-neo-border/50 cursor-pointer hover:bg-neo-hover hover:border-l-2 hover:border-l-neo-blue transition-all duration-200 ${
+                  className={`border-t border-neo-border/50 hover:bg-neo-hover transition-all duration-200 ${
                     d.isBoosted ? "bg-neo-blue/[0.04]" : ""
                   }`}
                 >
                   <td className="px-3 py-2.5 text-neo-text font-medium whitespace-nowrap">
                     <span className="flex items-center gap-1.5">
                       {d.isBoosted && (
-                        <span className="text-neo-cyan text-[10px]" title="QAOA Boosted">⚛</span>
+                        <span className="text-neo-cyan text-[10px]" title="QAOA Boosted">P</span>
                       )}
                       {d.district}
                     </span>
@@ -193,11 +183,10 @@ export default function DistrictTable() {
                   <td className={`px-3 py-2.5 ${gapColorClass(d.literacy_gap)}`}>
                     {d.literacy_gap.toFixed(1)}%
                   </td>
-                  <td className="px-3 py-2.5 text-neo-text">
+                  <td className={`px-3 py-2.5 ${gapColorClass(d.employment_gap)}`}>
                     {d.employment_gap.toFixed(1)}%
                   </td>
                   <td className="px-3 py-2.5">
-                    {/* Mini progress bar for agency score */}
                     <div className="flex items-center gap-2">
                       <div className="w-16 h-1.5 bg-neo-border rounded-full overflow-hidden">
                         <div
@@ -224,23 +213,6 @@ export default function DistrictTable() {
                   <td className="px-3 py-2.5 text-neo-amber">
                     ₹{d.greedy_alloc.toFixed(1)}
                   </td>
-                  <td className="px-3 py-2.5 text-neo-cyan font-medium">
-                    {d.predicted_impact.toFixed(2)}
-                  </td>
-                  <td className="px-3 py-2.5">
-                    <span
-                      className={
-                        d.impact_change_pct > 0
-                          ? "text-neo-green"
-                          : d.impact_change_pct < 0
-                            ? "text-neo-red"
-                            : "text-neo-text-dim"
-                      }
-                    >
-                      {d.impact_change_pct > 0 ? "+" : ""}
-                      {d.impact_change_pct.toFixed(1)}%
-                    </span>
-                  </td>
                 </tr>
               ))
             )}
@@ -259,14 +231,14 @@ export default function DistrictTable() {
             disabled={page === 0}
             className="px-3 py-1 text-xs rounded border border-neo-border text-neo-text-dim hover:border-neo-blue hover:text-neo-text disabled:opacity-30 disabled:cursor-not-allowed transition-all"
           >
-            ← Prev
+            Prev
           </button>
           <button
             onClick={() => setPage(Math.min(totalPages - 1, page + 1))}
             disabled={page >= totalPages - 1}
             className="px-3 py-1 text-xs rounded border border-neo-border text-neo-text-dim hover:border-neo-blue hover:text-neo-text disabled:opacity-30 disabled:cursor-not-allowed transition-all"
           >
-            Next →
+            Next
           </button>
         </div>
       </div>

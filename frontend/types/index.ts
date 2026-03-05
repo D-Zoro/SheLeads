@@ -1,4 +1,4 @@
-/* ── NeoPolicy TypeScript Interfaces ──────────────────────────── */
+/* ── Leadher TypeScript Interfaces ──────────────────────────── */
 
 /** A single district row from GET /districts */
 export interface District {
@@ -27,11 +27,10 @@ export interface OptimizationResult {
   predicted_impact_greedy: Record<string, number>;
 }
 
-/** POST /policy-brief response */
-export interface PolicyBriefResponse {
-  district: string;
-  brief: string;
-  allocation_cr: number;
+/** POST /generate-report response */
+export interface ReportResponse {
+  report: string;
+  optimization: OptimizationResult;
 }
 
 /** Toast notification */
@@ -46,6 +45,6 @@ export type SortDir = "asc" | "desc";
 
 /** Sort config */
 export interface SortConfig {
-  key: keyof District | "quantum_alloc" | "greedy_alloc" | "delta" | "predicted_impact" | "impact_change_pct";
+  key: keyof District | "quantum_alloc" | "greedy_alloc" | "delta";
   dir: SortDir;
 }

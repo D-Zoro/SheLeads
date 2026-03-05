@@ -17,7 +17,7 @@ const ibmPlexMono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "NEO POLICY — Quantum Women's Uplift Optimizer",
+  title: "LEADHER — Quantum Women's Empowerment Optimizer",
   description:
     "Quantum-enhanced budget allocation optimizer for women's empowerment across Indian districts",
 };

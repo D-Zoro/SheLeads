@@ -7,6 +7,7 @@ import {
   useEffect,
   useCallback,
   useRef,
+  useMemo,
   type ReactNode,
 } from "react";
 import type { District, OptimizationResult, Toast } from "@/types";
@@ -22,11 +23,18 @@ interface OptimizationContextValue {
   optimizationResult: OptimizationResult | null;
   optimizationLoading: boolean;
   optimizationError: string | null;
-  selectedDistrict: District | null;
-  setSelectedDistrict: (d: District | null) => void;
   toasts: Toast[];
   addToast: (message: string, type?: Toast["type"]) => void;
   removeToast: (id: string) => void;
+  // Geographic filters
+  availableStates: string[];
+  selectedStates: string[];
+  setSelectedStates: (s: string[]) => void;
+  selectedDistricts: string[];
+  setSelectedDistricts: (d: string[]) => void;
+  // Report
+  reportLoading: boolean;
+  generateReport: () => Promise<string | null>;
 }
 
 const OptimizationContext = createContext<OptimizationContextValue | null>(null);
@@ -42,12 +50,20 @@ export function OptimizationProvider({ children }: { children: ReactNode }) {
   const [optimizationError, setOptimizationError] = useState<string | null>(
     null
   );
-  const [selectedDistrict, setSelectedDistrict] = useState<District | null>(
-    null
-  );
   const [toasts, setToasts] = useState<Toast[]>([]);
 
+  // Geographic filters
+  const [selectedStates, setSelectedStates] = useState<string[]>([]);
+  const [selectedDistricts, setSelectedDistricts] = useState<string[]>([]);
+  const [reportLoading, setReportLoading] = useState(false);
+
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  // Derive unique state names from loaded districts
+  const availableStates = useMemo(() => {
+    const stateSet = new Set(districts.map((d) => d.state));
+    return Array.from(stateSet).sort();
+  }, [districts]);
 
   /* ── Toast helpers ──────────────────────────────────────────── */
   const addToast = useCallback(
@@ -84,20 +100,24 @@ export function OptimizationProvider({ children }: { children: ReactNode }) {
 
   /* ── Debounced optimization ─────────────────────────────────── */
   const runOptimization = useCallback(
-    async (b: number) => {
+    async (b: number, states: string[], districtNames: string[]) => {
       setOptimizationLoading(true);
       setOptimizationError(null);
       try {
+        const body: Record<string, unknown> = { total_budget_cr: b };
+        if (districtNames.length > 0) body.districts = districtNames;
+        else if (states.length > 0) body.states = states;
+
         const res = await fetch(`${API}/optimize`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ total_budget_cr: b }),
+          body: JSON.stringify(body),
         });
         if (!res.ok) throw new Error("Optimization failed");
         const data: OptimizationResult = await res.json();
         setOptimizationResult(data);
         addToast(
-          `Optimization complete — Quantum advantage: ${data.improvement_pct >= 0 ? "+" : ""}${data.improvement_pct.toFixed(1)}%`
+          `Optimization complete — ${data.num_districts} districts analysed`
         );
       } catch (err) {
         const msg =
@@ -111,16 +131,42 @@ export function OptimizationProvider({ children }: { children: ReactNode }) {
     [addToast]
   );
 
-  /* ── Run on budget change (debounced 400ms) ─────────────────── */
+  /* ── Run on budget / filter change (debounced 400ms) ────────── */
   useEffect(() => {
     if (debounceRef.current) clearTimeout(debounceRef.current);
     debounceRef.current = setTimeout(() => {
-      runOptimization(budget);
+      runOptimization(budget, selectedStates, selectedDistricts);
     }, 400);
     return () => {
       if (debounceRef.current) clearTimeout(debounceRef.current);
     };
-  }, [budget, runOptimization]);
+  }, [budget, selectedStates, selectedDistricts, runOptimization]);
+
+  /* ── Generate full report ───────────────────────────────────── */
+  const generateReport = useCallback(async (): Promise<string | null> => {
+    setReportLoading(true);
+    try {
+      const body: Record<string, unknown> = { total_budget_cr: budget };
+      if (selectedDistricts.length > 0) body.districts = selectedDistricts;
+      else if (selectedStates.length > 0) body.states = selectedStates;
+
+      const res = await fetch(`${API}/generate-report`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(body),
+      });
+      if (!res.ok) throw new Error("Report generation failed");
+      const data = await res.json();
+      addToast("Report generated successfully");
+      return data.report as string;
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : "Report generation failed";
+      addToast(msg, "error");
+      return null;
+    } finally {
+      setReportLoading(false);
+    }
+  }, [budget, selectedStates, selectedDistricts, addToast]);
 
   return (
     <OptimizationContext.Provider
@@ -132,11 +178,16 @@ export function OptimizationProvider({ children }: { children: ReactNode }) {
         optimizationResult,
         optimizationLoading,
         optimizationError,
-        selectedDistrict,
-        setSelectedDistrict,
         toasts,
         addToast,
         removeToast,
+        availableStates,
+        selectedStates,
+        setSelectedStates,
+        selectedDistricts,
+        setSelectedDistricts,
+        reportLoading,
+        generateReport,
       }}
     >
       {children}

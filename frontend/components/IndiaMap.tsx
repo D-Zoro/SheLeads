@@ -73,7 +73,8 @@ export default function IndiaMap() {
   const {
     districts,
     optimizationResult,
-    setSelectedDistrict,
+    selectedStates,
+    setSelectedStates,
   } = useOptimizationCtx();
 
   const [tooltip, setTooltip] = useState<{
@@ -148,25 +149,21 @@ export default function IndiaMap() {
     return map;
   }, [districts, optimizationResult]);
 
-  /* ── Click → select the highest-gap district in that state ── */
+  /* ── Click → toggle state in geographic filter ───────────── */
   const handleStateClick = useCallback(
     (stateName: string) => {
       const norm = resolveGeoName(stateName);
       const agg = stateMap.get(norm);
       if (!agg) return;
 
-      const stateDists = districts.filter(
-        (d) => normalize(d.state) === norm
-      );
-      if (stateDists.length === 0) return;
-
-      // Pick the highest literacy_gap district in that state
-      const top = stateDists.reduce((best, d) =>
-        d.literacy_gap > best.literacy_gap ? d : best
-      );
-      setSelectedDistrict(top);
+      const dataStateName = agg.state;
+      if (selectedStates.includes(dataStateName)) {
+        setSelectedStates(selectedStates.filter((s) => s !== dataStateName));
+      } else {
+        setSelectedStates([...selectedStates, dataStateName]);
+      }
     },
-    [districts, stateMap, setSelectedDistrict]
+    [stateMap, selectedStates, setSelectedStates]
   );
 
   if (geoError) {
@@ -200,14 +197,15 @@ export default function IndiaMap() {
                 const fill = agg ? gapColor(agg.avgLiteracyGap) : "#1e293b";
 
                 const hasBoosted = agg && agg.qaoaBoostedCount > 0;
+                const isSelected = agg && selectedStates.includes(agg.state);
 
                 return (
                   <Geography
                     key={geo.rsmKey}
                     geography={geo}
                     fill={fill}
-                    stroke="#0a0f1e"
-                    strokeWidth={0.6}
+                    stroke={isSelected ? "#3b82f6" : "#0a0f1e"}
+                    strokeWidth={isSelected ? 2 : 0.6}
                     className={`outline-none transition-all duration-300 ${
                       hasBoosted ? "district-pulse" : ""
                     }`}
@@ -327,7 +325,7 @@ export default function IndiaMap() {
         ))}
       </div>
       <p className="text-[9px] text-neo-text-dim text-center mt-1">
-        Click a state to inspect its highest-need district
+        Click a state to add/remove it from the filter
       </p>
     </div>
   );
